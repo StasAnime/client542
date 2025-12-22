@@ -1,0 +1,16 @@
+product_begin	product_id=1	product_item_id=82610	product_count=1	need_item_list={{82499;10};{82616;1};{57;500000}}	product_end
+product_begin	product_id=3	product_item_id=82617	product_count=1	need_item_list={{82499;30};{57;1000000}}	product_end
+product_begin	product_id=4	product_item_id=82614	product_count=1	need_item_list={{82499;1500};{82612;1};{82616;2}}	product_end
+product_begin	product_id=5	product_item_id=82618	product_count=1	need_item_list={{57;150000}}	product_end
+product_begin	product_id=6	product_item_id=82619	product_count=1	need_item_list={{57;150000}}	product_end
+product_begin	product_id=7	product_item_id=81981	product_count=1	need_item_list={{80306;5000}}	product_end
+product_begin	product_id=8	product_item_id=82084	product_count=1	need_item_list={{80306;54000}}	product_end
+product_begin	product_id=9	product_item_id=82082	product_count=1	need_item_list={{80306;6000}}	product_end
+product_begin	product_id=10	product_item_id=82083	product_count=1	need_item_list={{80306;25000}}	product_end
+product_begin	product_id=11	product_item_id=83250	product_count=1	need_item_list={{80306;200}}	product_end
+product_begin	product_id=12	product_item_id=83251	product_count=1	need_item_list={{80306;600}}	product_end
+product_begin	product_id=13	product_item_id=81215	product_count=1	need_item_list={{80306;100}}	product_end
+product_begin	product_id=14	product_item_id=82903	product_count=1	need_item_list={{80306;2500}}	product_end
+product_begin	product_id=15	product_item_id=82356	product_count=1	need_item_list={{80306;2200000}}	product_end
+product_begin	product_id=16	product_item_id=81887	product_count=1	need_item_list={{80306;4500}}	product_end
+product_begin	product_id=17	product_item_id=81054	product_count=1	need_item_list={{80306;50}}	product_end

@@ -1,0 +1,2 @@
+steadybox_begin	id=1	type=[Hunting]	title=[Monster Hunting]	desc=[Defeat monsters corresponding to your level]	steadybox_end
+steadybox_begin	id=2	type=[PvP]	title=[Player Hunting]	desc=[Defeat other characters]	steadybox_end

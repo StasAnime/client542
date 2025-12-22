@@ -1,0 +1,40 @@
+cell_info_begin	cell_id=1	cell_color=1	cell_name=[Talking Island Village]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=2	cell_color=3	cell_name=[Gludin Village (buff)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=3	cell_color=2	cell_name=[Ruins of Agony (move)]	cell_reward={}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=4	cell_color=7	cell_name=[Abandoned Camp (reward)]	cell_reward={{3031;150}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=5	cell_color=3	cell_name=[Gludio (buff)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=6	cell_color=7	cell_name=[Wasteland (reward)]	cell_reward={{98471;20}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=7	cell_color=4	cell_name=[Ant Nest (Queen Ant)]	cell_reward={{102111;1};{94780;5};{94780;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=8	cell_color=2	cell_name=[Ivory Tower (move)]	cell_reward={}	event_group_Id={2}	cell_info_end
+cell_info_begin	cell_id=9	cell_color=4	cell_name=[Sea of Spores (Orfen)]	cell_reward={{102112;1};{94780;5};{94780;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=10	cell_color=3	cell_name=[Giran (buff)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=11	cell_color=7	cell_name=[Death Pass (reward)]	cell_reward={{3031;150}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=12	cell_color=2	cell_name=[Gorgon Flower Garden (move)]	cell_reward={}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=13	cell_color=3	cell_name=[Hunters' Village (buff)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=14	cell_color=7	cell_name=[Enchanted Valley (reward)]	cell_reward={{98471;20}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=15	cell_color=7	cell_name=[Giran Castle (special reward)]	cell_reward={{3031;150}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=16	cell_color=3	cell_name=[Aden (buff)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=17	cell_color=7	cell_name=[Cemetery (reward)]	cell_reward={{98471;20}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=18	cell_color=7	cell_name=[Fields of Massacre (reward)]	cell_reward={{3031;150}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=19	cell_color=7	cell_name=[Plains of Glory (reward)]	cell_reward={{98471;20}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=20	cell_color=7	cell_name=[War-Torn Plains (reward)]	cell_reward={{3031;150}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=21	cell_color=2	cell_name=[Blazing Swamp (move)]	cell_reward={}	event_group_Id={3}	cell_info_end
+cell_info_begin	cell_id=22	cell_color=5	cell_name=[Primeval Isle (uninhabited)]	cell_reward={}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=23	cell_color=7	cell_name=[Silent Valley (reward)]	cell_reward={{98471;20}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=24	cell_color=3	cell_name=[Dion (buff)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=25	cell_color=4	cell_name=[Cruma Tower (Core)]	cell_reward={{102113;1};{94780;5};{94780;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=26	cell_color=9	cell_name=[Floran Village (debuff)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=27	cell_color=2	cell_name=[Giran Harbor (move)]	cell_reward={}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=28	cell_color=7	cell_name=[Alligator Island (reward)]	cell_reward={{3031;150}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=29	cell_color=4	cell_name=[Devil's Isle (Zaken)]	cell_reward={{102114;1};{94780;5};{94780;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=30	cell_color=3	cell_name=[Oren (buff)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=31	cell_color=7	cell_name=[Plains of the Lizardmen (reward)]	cell_reward={{98471;20}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=32	cell_color=3	cell_name=[Goddard (buff)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=33	cell_color=7	cell_name=[Orc Fortress (reward)]	cell_reward={{3031;150}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=34	cell_color=7	cell_name=[Goddard Castle (reward)]	cell_reward={{98471;20}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=35	cell_color=4	cell_name=[Tower of Insolence (Baium)]	cell_reward={{102115;1};{94780;5};{94780;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=36	cell_color=2	cell_name=[Orc Barracks]	cell_reward={}	event_group_Id={4}	cell_info_end
+cell_info_begin	cell_id=37	cell_color=7	cell_name=[Dragon Valley (reward)]	cell_reward={{3031;150}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=38	cell_color=7	cell_name=[Antharas' Lair (reward)]	cell_reward={{98471;20}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=39	cell_color=8	cell_name=[Antharas' Nest]	cell_reward={{102116;1};{94780;5};{94780;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=40	cell_color=1	cell_name=[Aden Castle]	cell_reward={}	event_group_Id={}	cell_info_end

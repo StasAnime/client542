@@ -1,0 +1,7 @@
+item_use_filter_begin	id=1	enchanted_item=1	blessed_item=0	ensoul_item=0	variation_item=0	lookchange_item=0	attribute_item=0	locked_item=0	equipped_item=0	item_use_filter_end
+item_use_filter_begin	id=2	enchanted_item=1	blessed_item=0	ensoul_item=0	variation_item=0	lookchange_item=0	attribute_item=0	locked_item=0	equipped_item=0	item_use_filter_end
+item_use_filter_begin	id=3	enchanted_item=1	blessed_item=0	ensoul_item=0	variation_item=1	lookchange_item=0	attribute_item=0	locked_item=0	equipped_item=0	item_use_filter_end
+item_use_filter_begin	id=4	enchanted_item=1	blessed_item=1	ensoul_item=0	variation_item=0	lookchange_item=1	attribute_item=0	locked_item=0	equipped_item=0	item_use_filter_end
+item_use_filter_begin	id=5	enchanted_item=1	blessed_item=1	ensoul_item=0	variation_item=0	lookchange_item=1	attribute_item=0	locked_item=0	equipped_item=0	item_use_filter_end
+item_use_filter_begin	id=6	enchanted_item=1	blessed_item=1	ensoul_item=0	variation_item=0	lookchange_item=1	attribute_item=1	locked_item=0	equipped_item=0	item_use_filter_end
+item_use_filter_begin	id=7	enchanted_item=1	blessed_item=1	ensoul_item=0	variation_item=1	lookchange_item=1	attribute_item=1	locked_item=0	equipped_item=0	item_use_filter_end

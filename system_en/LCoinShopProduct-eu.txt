@@ -1,0 +1,79 @@
+product_begin	product_id=325111301	category=5	mark_type=event	buy_items={{61209;1;[Shining Magic Pack];{1;999}}}	product_type=1	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325111302	category=5	mark_type=event	buy_items={{82172;1;[Swift Attack Cookie];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325111303	category=5	mark_type=event	buy_items={{82187;1;[Swift Defense Cookie];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325111304	category=5	mark_type=event	buy_items={{81887;1;[Rune Stone];{1;999}}}	product_type=2	buy_limit={2;one_day;16}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325102701	category=5	mark_type=relay	buy_items={{61176;1;[Tarti's Kit: Samurai's Welcome];{1;999}};{61177;1;[Adventurers' Guild Kit: Samurai's Welcome];{1;999}};{61178;1;[Traders' Association Kit: Samurai's Welcome];{1;999}};{61179;1;[Fishing Guild Kit: Samurai's Welcome];{1;999}}}	product_type=1	buy_limit={2;always;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=407	category=0	mark_type=none	buy_items={{83362;1;[Orb of Elements];{1;999}}}	product_type=1	buy_limit={1;one_month;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=433	category=4	mark_type=none	buy_items={{83575;1;[Novice Wanderer's Tales];{1;999}}}	product_type=0	buy_limit={2;one_day;20}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=434	category=4	mark_type=none	buy_items={{82400;1;[Augmenting Stone Pack];{1;999}}}	product_type=0	buy_limit={2;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=458	category=2	mark_type=none	buy_items={{83611;1;[Purple Orb];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325062501	category=0	mark_type=none	buy_items={{60907;1;[Kit: Illusory Equipment Assist];{1;999}}}	product_type=0	buy_limit={2;always;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=354	category=0	mark_type=none	buy_items={{47817;1;[Sayha's Talisman Pack];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=358	category=0	mark_type=none	buy_items={{47916;1;[Nevit's Cloak of Light Pack];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=472	category=0	mark_type=none	buy_items={{81448;1;[Angel's Necklace Pack];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=473	category=0	mark_type=none	buy_items={{81449;1;[Angel's Earring Pack];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=474	category=0	mark_type=none	buy_items={{81450;1;[Angel's Ring Pack];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=360	category=1	mark_type=none	buy_items={{47951;1;[Crystal of Determination];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=361	category=1	mark_type=none	buy_items={{47952;1;[Crystal of Protection];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=362	category=1	mark_type=none	buy_items={{80839;1;[Crystal of Dawn];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=410	category=1	mark_type=none	buy_items={{83363;1;[Wisdom Crystal];{1;999}}}	product_type=1	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=363	category=1	mark_type=none	buy_items={{82903;1;[Solaris];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=364	category=1	mark_type=none	buy_items={{82074;1;[Blessed Scroll: Enchant Exalted Weapon];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=365	category=1	mark_type=none	buy_items={{81898;1;[Scroll: Enchant Blessed Exalted Armor];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=366	category=1	mark_type=none	buy_items={{80964;1;[Energy of Protection];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=370	category=1	mark_type=none	buy_items={{80636;1;[Artifact Crystal];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=371	category=1	mark_type=none	buy_items={{81134;1;[Crystal of Dyes];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=373	category=2	mark_type=none	buy_items={{82634;1;[Top-grade Homunculus' Hourglass];{1;999}}}	product_type=0	buy_limit={2;one_month;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325040701	category=2	mark_type=none	buy_items={{81358;1;[Abandoned Coal Mines' Time Stone];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=374	category=2	mark_type=none	buy_items={{82665;1;[Aether Pack (10 pcs.)];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=375	category=2	mark_type=none	buy_items={{81979;1;[Conquest Name Change Coupon];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=376	category=2	mark_type=none	buy_items={{36308;1;[Beauty Shop Ticket];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=377	category=2	mark_type=none	buy_items={{82904;1;[Homunculus' Shiny Hourglass];{1;999}}}	product_type=0	buy_limit={2;one_day;3}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=378	category=2	mark_type=none	buy_items={{83191;1;[Sealed Fire Source Pack (25 pcs.)];{1;999}}}	product_type=0	buy_limit={2;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=379	category=2	mark_type=none	buy_items={{83192;1;[Divine Fire Pack (10 pcs.)];{1;999}}}	product_type=0	buy_limit={2;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=380	category=2	mark_type=none	buy_items={{83193;1;[Fire Orb Pack (100 pcs.)];{1;999}}}	product_type=0	buy_limit={2;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=381	category=2	mark_type=none	buy_items={{10649;1;[Feather of Blessing];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=382	category=2	mark_type=none	buy_items={{13015;1;[My Teleport Book Lv. 1];{1;999}}}	product_type=0	buy_limit={1;always;6}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=383	category=2	mark_type=none	buy_items={{80999;1;[My Teleport Book Lv. 2];{1;999}}}	product_type=0	buy_limit={1;always;6}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=384	category=2	mark_type=none	buy_items={{82788;1;[My Teleport Book Lv. 3];{1;999}}}	product_type=0	buy_limit={1;always;6}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=385	category=2	mark_type=none	buy_items={{13016;1;[My Teleport Scroll];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=386	category=3	mark_type=none	buy_items={{82356;1;[Enhanced Rune Stone];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=387	category=3	mark_type=none	buy_items={{82766;1;[Golden Orb];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=388	category=3	mark_type=none	buy_items={{82302;1;[Torch of Darkness];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=389	category=3	mark_type=none	buy_items={{82303;1;[Tower of Insolence's Fragment];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=390	category=3	mark_type=none	buy_items={{82304;1;[Archangel's Secret Scroll];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=391	category=3	mark_type=none	buy_items={{48876;1;[Forgotten Spellbook - Chapter 1];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=392	category=3	mark_type=none	buy_items={{47951;1;[Crystal of Determination];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=393	category=3	mark_type=none	buy_items={{47952;1;[Crystal of Protection];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=394	category=3	mark_type=none	buy_items={{80839;1;[Crystal of Dawn];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=395	category=3	mark_type=none	buy_items={{82903;1;[Solaris];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=396	category=3	mark_type=none	buy_items={{83100;1;[Orb of Anger Pack];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=397	category=3	mark_type=none	buy_items={{82344;1;[Tales of Dimensions];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=420	category=3	mark_type=none	buy_items={{83356;1;[Mysterious Stone];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=424	category=3	mark_type=none	buy_items={{83382;1;[Mysterious Soul Sphere];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=446	category=4	mark_type=none	buy_items={{83579;1;[Unknown Wanderer's Rune];{1;999}}}	product_type=0	buy_limit={2;one_week;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070901	category=0	mark_type=none	buy_items={{28585;1;[Elmoreden Cloak];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070902	category=0	mark_type=none	buy_items={{28586;1;[Aden Cloak];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070903	category=0	mark_type=none	buy_items={{28587;1;[Elmore Cloak];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070904	category=0	mark_type=none	buy_items={{28588;1;[Ferios Cloak];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070908	category=1	mark_type=none	buy_items={{28593;1;[Scroll: Enchant Cloak];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325040702	category=4	mark_type=none	buy_items={{48491;1;[Dragon Skin Shirt];{1;999}}}	product_type=0	buy_limit={1;one_month;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=408	category=4	mark_type=none	buy_items={{83006;1;[Relic Summon Coupon - 11-time];{110;999}}}	product_type=0	buy_limit={2;one_week;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=409	category=4	mark_type=none	buy_items={{83007;1;[Relic Summon Coupon - 1-time];{1;999}}}	product_type=0	buy_limit={2;one_day;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=401	category=4	mark_type=none	buy_items={{81215;1;[Aether];{1;999}}}	product_type=0	buy_limit={2;one_day;80}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=402	category=4	mark_type=none	buy_items={{82344;1;[Tales of Dimensions];{1;999}}}	product_type=0	buy_limit={2;one_day;20}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=403	category=4	mark_type=none	buy_items={{80762;1;[Dye Powder];{1;999}}}	product_type=0	buy_limit={2;one_day;10}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=405	category=4	mark_type=none	buy_items={{81815;1;[Common Homunculus' Hourglass];{1;999}}}	product_type=0	buy_limit={2;one_day;3}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=406	category=4	mark_type=none	buy_items={{82305;1;[Beora's Ancient Energy];{1;999}}}	product_type=0	buy_limit={2;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070918	category=3	mark_type=none	buy_items={{48848;1;[Freya's Ice Rose];{1;999}}}	product_type=0	buy_limit={1;one_day;18}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070919	category=3	mark_type=none	buy_items={{81054;1;[Freya's Scroll of Storm];{1;999}}}	product_type=0	buy_limit={1;one_day;28}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070920	category=3	mark_type=none	buy_items={{81013;1;[Nevit's Shining Gold Hourglass];{1;999}}}	product_type=0	buy_limit={1;one_day;9}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070921	category=3	mark_type=none	buy_items={{81012;1;[Wondrous Cocktail];{1;999}}}	product_type=0	buy_limit={1;one_day;9}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070922	category=3	mark_type=none	buy_items={{48857;1;[Glowing Dragon's Attribute Potion (XP)];{1;999}}}	product_type=0	buy_limit={1;one_day;18}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070923	category=3	mark_type=none	buy_items={{81011;1;[Honey Dark Beer];{1;999}}}	product_type=0	buy_limit={1;one_day;18}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070924	category=3	mark_type=none	buy_items={{13300;1;[Feather of Blessing];{1;999}}}	product_type=0	buy_limit={1;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070925	category=3	mark_type=none	buy_items={{82305;1;[Beora's Ancient Energy];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070934	category=3	mark_type=none	buy_items={{6406;1;[Firecracker];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070935	category=3	mark_type=none	buy_items={{6407;1;[Large Firecracker];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070936	category=3	mark_type=none	buy_items={{81815;1;[Common Homunculus' Hourglass];{1;999}}}	product_type=0	buy_limit={1;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324112001	category=3	mark_type=none	buy_items={{83007;1;[Relic Summon Coupon - 1-time];{1;999}}}	product_type=0	buy_limit={2;one_day;1}	product_desc=[]	product_htm=[]	product_end

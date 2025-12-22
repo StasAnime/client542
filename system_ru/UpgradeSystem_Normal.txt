@@ -1,0 +1,1 @@
+upgradesystem_begin	upgrade_id=1	type=1	upgrade_item={80091;0}	material_items={}	success_result_items={{80148;1;0}}	fail_result_items={{80134;1;0}}	bonus_items={}	commission=5000000	applycountry={all}	upgradesystem_end

@@ -1,0 +1,127 @@
+classtreedesc_begin	classID=fighter	desc1=[Mighty warriors who rely mostly on their strength.]	desc2=[Can use various types of weapon in combat.]	classtreedesc_end
+classtreedesc_begin	classID=mage	desc1=[Mages making their first steps on the path of magic wisdom.]	desc2=[Can use various beginning-level spells.]	classtreedesc_end
+classtreedesc_begin	classID=elven_fighter	desc1=[Elven warriors who fight to protect their people and lands.]	desc2=[Rely on agility in combat and can recover health drawing power from nature.]	classtreedesc_end
+classtreedesc_begin	classID=elven_mage	desc1=[Elven mages who study powers of nature to learn the secrets of the energy that is woven into the world.]	desc2=[They cast aside dark magic in order to master the power of nature, which they use in combat.]	classtreedesc_end
+classtreedesc_begin	classID=dark_fighter	desc1=[Dark Elven warriors who fight to protect their people and lands.]	desc2=[Their P. Critical Damage is higher than that of other races.]	classtreedesc_end
+classtreedesc_begin	classID=dark_mage	desc1=[Dark Elven mages who study dark sorcery.]	desc2=[This race has created their own dark magic of incredible might.]	classtreedesc_end
+classtreedesc_begin	classID=orc_fighter	desc1=[Robust Orc warriors who serve the Fire God Pa'agrio.]	desc2=[Rely on their insane strength, which is common among Orcs.]	classtreedesc_end
+classtreedesc_begin	classID=orc_mage	desc1=[Orc mystics who are raised in the Temple of Pa'agrio.]	desc2=[They study quite primitive magic, which was given to them by Pa’agrio himself.]	classtreedesc_end
+classtreedesc_begin	classID=dwarven_fighter	desc1=[Warriors who can gather various resources and craft items from them.]	desc2=[They study craft and gathering.]	classtreedesc_end
+classtreedesc_begin	classID=jin_kamael_soldier	desc1=[Warriors that make their first steps on the path of Kamael people.]	desc2=[In spite of the fact that Kamael do not have a lot of attacking skills at first, they are more capable in combat than other races.]	classtreedesc_end
+classtreedesc_begin	classID=warrior	desc1=[Mighty warriors who rely mostly on their insane strength.]	desc2=[They can handle even the mightiest enemies.]	classtreedesc_end
+classtreedesc_begin	classID=knight	desc1=[Skilled soldiers who are ready to give their lives for their country and king.]	desc2=[Use shields in combat.]	classtreedesc_end
+classtreedesc_begin	classID=rogue	desc1=[Don't underestimate these warriors.]	desc2=[Agile warriors with fast attacks.]	classtreedesc_end
+classtreedesc_begin	classID=wizard	desc1=[Mages who are able to master the magic, which penetrates the world.]	desc2=[Use fire magic and debuffs in combat.]	classtreedesc_end
+classtreedesc_begin	classID=cleric	desc1=[Mages who are able to do miracles with the power of their faith. Gods favor them.]	desc2=[Mages who study support and healing magic given by the Goddess of Light.]	classtreedesc_end
+classtreedesc_begin	classID=elven_knight	desc1=[Elven warriors skilled with swords.]	desc2=[Indispensable in combat thanks to their swordsmanship mastery.]	classtreedesc_end
+classtreedesc_begin	classID=elven_scout	desc1=[They fight using Elven fencing art.]	desc2=[Move with incredible speed thanks to sharply honed skills.]	classtreedesc_end
+classtreedesc_begin	classID=elven_wizard	desc1=[Mages that study magic of light, they are fast in casting the spells.]	desc2=[They use water magic in combat and also are able to slow down their enemies.]	classtreedesc_end
+classtreedesc_begin	classID=oracle	desc1=[Worships Pa'agrio, the God of Fire, and can foresee the future.]	desc2=[Can heal their allies.]	classtreedesc_end
+classtreedesc_begin	classID=palus_knight	desc1=[Noble Elven warriors that follow the path of light and fight to protect their lord and justice.]	desc2=[Use swords and protective moves in combat.]	classtreedesc_end
+classtreedesc_begin	classID=assasin	desc1=[Dark Elven warriors who wear special armor that helps them move stealthily, avoiding their enemies' sight.]	desc2=[Their attacks are slow, but they deal a lot of damage, especially if it is a critical hit.]	classtreedesc_end
+classtreedesc_begin	classID=dark_wizard	desc1=[Dark Elven mage who studies wind magic and dark arts. Can deal a lot of damage.]	desc2=[Use powers of wind and abyss in combat.]	classtreedesc_end
+classtreedesc_begin	classID=shillien_oracle	desc1=[Shillien Saints can use both magic of darkness and light.]	desc2=[They command powers of Holiness and Abyss.]	classtreedesc_end
+classtreedesc_begin	classID=orc_raider	desc1=[Elite Orc fighters who mastered martial arts to perfection.]	desc2=[Use their rage to increase attack power and wield various weapons.]	classtreedesc_end
+classtreedesc_begin	classID=orc_monk	desc1=[Orc Warriors devoted to achieving the perfection of the body.]	desc2=[Uses fist weapons to deal fast ferocious blows.]	classtreedesc_end
+classtreedesc_begin	classID=orc_shaman	desc1=[Warriors who were blessed by the God of Fire and became shamans.]	desc2=[Uses magic to consume their enemies’ health.]	classtreedesc_end
+classtreedesc_begin	classID=scavenger	desc1=[Travel the world in search of rare resources.]	desc2=[Can use the Spoil skill to obtain additional trophies.]	classtreedesc_end
+classtreedesc_begin	classID=trooper	desc1=[Mighty Kamael warriors who rely mostly on their strength.]	desc2=[Fights with an Ancient Sword.]	classtreedesc_end
+classtreedesc_begin	classID=soul_finder	desc1=[Use power of souls in combat.]	desc2=[Deal fast blows with their rapiers.]	classtreedesc_end
+classtreedesc_begin	classID=warder	desc1=[Skilled Kamael archers.]	desc2=[Their arrows deal serious damage.]	classtreedesc_end
+classtreedesc_begin	classID=bounty_hunter	desc1=[They are always on the hunt for rare items.]	desc2=[No one can compare to them in the art of gathering staff.]	classtreedesc_end
+classtreedesc_begin	classID=gladiator	desc1=[Swordsmen that use a range of fencing tactics.]	desc2=[Their attacks are filled with special energy.]	classtreedesc_end
+classtreedesc_begin	classID=warlord	desc1=[Experiences warriors who prefer spears in fight.]	desc2=[Have a great range of attacks.]	classtreedesc_end
+classtreedesc_begin	classID=paladin	desc1=[Mystics that use the powers endowed by the Goddess o Light to protect their allies.]	desc2=[These knights can restore their health.]	classtreedesc_end
+classtreedesc_begin	classID=dark_avenger	desc1=[Knights who gave up everything to the Goddess of Darkness in the name of revenge.]	desc2=[Use dark powers that rise out of their hatred and can summon a Dark Panther to help them in battle.]	classtreedesc_end
+classtreedesc_begin	classID=treasure_hunter	desc1=[Wanderers who travel the world in search of wealth and glory.]	desc2=[They are very fast at the battlefield.]	classtreedesc_end
+classtreedesc_begin	classID=hawkeye	desc1=[Eagle-eyed shooters.]	desc2=[Use bows to strike their enemies down with precise shots.]	classtreedesc_end
+classtreedesc_begin	classID=sorcerer	desc1=[Mages who prefer elemental spells and power of nature.]	desc2=[Use higher fire magic.]	classtreedesc_end
+classtreedesc_begin	classID=necromancer	desc1=[Can summon the dead using dark spells.]	desc2=[Also they attack enemies with Cursed Bones.]	classtreedesc_end
+classtreedesc_begin	classID=warlock	desc1=[Mages who specialize in summoning and elemental magic.]	desc2=[These servitors help them in combat.]	classtreedesc_end
+classtreedesc_begin	classID=bishop	desc1=[Healers from the Temple of Einhasad, the Goddess of Light, who can cure almost every wound.]	desc2=[Uses healing spells to recover health.]	classtreedesc_end
+classtreedesc_begin	classID=prophet	desc1=[Priests of Einhasad who declare that the victory of Light must be achieved by all possible means.]	desc2=[Applies various buffs in combat.]	classtreedesc_end
+classtreedesc_begin	classID=temple_knight	desc1=[Knights who protect their allies.]	desc2=[Protect their allies in combat using the power bestowed by Eva.]	classtreedesc_end
+classtreedesc_begin	classID=swordsinger	desc1=[Summon spirits with songs.]	desc2=[Sings magic songs to strengthen their allies with buffs.]	classtreedesc_end
+classtreedesc_begin	classID=plain_walker	desc1=[Warriors who like to wander around the world and live in the wild.]	desc2=[Thanks to their way of life they have become very fast.]	classtreedesc_end
+classtreedesc_begin	classID=silver_ranger	desc1=[Prefer to attack their enemies from a distance.]	desc2=[Agile warriors.]	classtreedesc_end
+classtreedesc_begin	classID=spellsinger	desc1=[They are able to master all the four elements, but prefer water.]	desc2=[Uses powerful water attacks in combat.]	classtreedesc_end
+classtreedesc_begin	classID=elemental_summoner	desc1=[Elven summoners developed their own summoning technique and rely on their willpower.]	desc2=[Can summon mighty unicorns to assist in combat.]	classtreedesc_end
+classtreedesc_begin	classID=elder	desc1=[Cast various healing spells to help their allies.]	desc2=[Use magic to heal and protect.]	classtreedesc_end
+classtreedesc_begin	classID=shillien_knight	desc1=[Knights that server Shillien.]	desc2=[Strike their enemies down with the magic of lightning presented to them by Shillien.]	classtreedesc_end
+classtreedesc_begin	classID=bladedancer	desc1=[Dark Elven warriors who command the power of death and help their allies with magic dances.]	desc2=[Can increase attack power of their party members.]	classtreedesc_end
+classtreedesc_begin	classID=abyss_walker	desc1=[Rogues who are excellent in secret operations.]	desc2=[Sneak up on their enemies and assault them unexpectedly.]	classtreedesc_end
+classtreedesc_begin	classID=phantom_ranger	desc1=[Sharp shooters.]	desc2=[They spend quite a lot of time reloading and taking aim, but their shots deal devastating damage to their enemies.]	classtreedesc_end
+classtreedesc_begin	classID=spellhowler	desc1=[Powerful mages who’d been expelled from the Ivory Tower for using dark magic.]	desc2=[Use powerful magic in combat.]	classtreedesc_end
+classtreedesc_begin	classID=phantom_summoner	desc1=[Can summon ghosts.]	desc2=[These servitors help them in combat.]	classtreedesc_end
+classtreedesc_begin	classID=shillien_elder	desc1=[They devote their lives to dark arts and master the abyssal energy.]	desc2=[They can weaken their enemies with magic spells and restore their health at the same time.]	classtreedesc_end
+classtreedesc_begin	classID=destroyer	desc1=[Experienced warriors with mastery of various weapons.]	desc2=[Have a great range of attacks.]	classtreedesc_end
+classtreedesc_begin	classID=tyrant	desc1=[Use various totems to gain strength.]	desc2=[Thanks to the natural magic of the totems they deal great damage to the enemies.]	classtreedesc_end
+classtreedesc_begin	classID=overlord	desc1=[Command powerful magic, which was received from the God of Fire.]	desc2=[Use magic of Pa’agrio in combat.]	classtreedesc_end
+classtreedesc_begin	classID=warcryer	desc1=[Command unique Orc magic allowing to increase strength.]	desc2=[Use secret magic of their people to increase attack power.]	classtreedesc_end
+classtreedesc_begin	classID=artisan	desc1=[They spend most of their lives crafting items in their workshops.]	desc2=[Has a chance to get various trophies from monsters.]	classtreedesc_end
+classtreedesc_begin	classID=warsmith	desc1=[They are able to make golems that are very useful in battles and sieges.]	desc2=[Attack enemies with various weapons.]	classtreedesc_end
+classtreedesc_begin	classID=berserker	desc1=[Berserkers who move at incredible speeds.]	desc2=[Charge their enemies and crush them.]	classtreedesc_end
+classtreedesc_begin	classID=soul_breaker	desc1=[Destroy their enemies with the power of souls.]	desc2=[Bring a swirl of blows and magic spells down on their enemies.]	classtreedesc_end
+classtreedesc_begin	classID=arbalester	desc1=[Attacks enemies with arrows dealing more and more damage.]	desc2=[Power of the shot is increased with every attack.]	classtreedesc_end
+classtreedesc_begin	classID=duelist	desc1=[Mighty warriors who are among the most dangerous opponents in duels.]	desc2=[They are excellent in dual swords fencing.]	classtreedesc_end
+classtreedesc_begin	classID=dreadnought	desc1=[Spearmen gifted with the ancient power to be reborn again and again.]	desc2=[Prefer spears in fight.]	classtreedesc_end
+classtreedesc_begin	classID=phoenix_knight	desc1=[Noble warriors that follow the path of light and fight to protect their lord and justice.]	desc2=[Use healing and protecting spells to support their allies.]	classtreedesc_end
+classtreedesc_begin	classID=hell_knight	desc1=[Knights who concentrate all their hatred to deal powerful blows to their enemies.]	desc2=[Cast debuffs on their enemies.]	classtreedesc_end
+classtreedesc_begin	classID=sagittarius	desc1=[Best archers of the world.]	desc2=[Specialize in archery.]	classtreedesc_end
+classtreedesc_begin	classID=adventurer	desc1=[Noble warriors who do not seek glory and acknowledgement from other people.]	desc2=[Adventurers who have mastered a wide range of combat tactics.]	classtreedesc_end
+classtreedesc_begin	classID=archmage	desc1=[They are able to master all the four elements, but prefer fire.]	desc2=[Attack with fire spells.]	classtreedesc_end
+classtreedesc_begin	classID=soultaker	desc1=[Mages that command souls of the dead and casts curses.]	desc2=[Cast multiple debuffs on their enemies.]	classtreedesc_end
+classtreedesc_begin	classID=arcana_lord	desc1=[Excellent magicians who use their power to summon servitors.]	desc2=[Can summon cats to assist in combat.]	classtreedesc_end
+classtreedesc_begin	classID=cardinal	desc1=[Clerics who understand the difference between miracles and holy magic.]	desc2=[They are masters of healing magic and can save lives of their allies.]	classtreedesc_end
+classtreedesc_begin	classID=hierophant	desc1=[Clerics chosen by the Fate. They have traveled this path to the very end and mastered the highest holy magic.]	desc2=[Can use their spiritual energy to step beyond any boundaries and strengthen their bodies.]	classtreedesc_end
+classtreedesc_begin	classID=evas_templar	desc1=[Knights who swore their allegiance to Eva after the downfall of Shillien.]	desc2=[Eva herself bestowed them with special skills to protect them in combat.]	classtreedesc_end
+classtreedesc_begin	classID=sword_muse	desc1=[Can summon a spirit of divine protection in combat.]	desc2=[Casts sleep and overthrows enemies with magic songs.]	classtreedesc_end
+classtreedesc_begin	classID=wind_rider	desc1=[These warriors come and go as suddenly as a gust of wind.]	desc2=[Uses power of wind to move faster and increase attack speed.]	classtreedesc_end
+classtreedesc_begin	classID=moonlight_sentinel	desc1=[The best archer among Elves.]	desc2=[Attacks multiple enemies with a storm of arrows.]	classtreedesc_end
+classtreedesc_begin	classID=mystic_muse	desc1=[Masters of higher elemental magic.]	desc2=[Attacks with water spells.]	classtreedesc_end
+classtreedesc_begin	classID=elemental_master	desc1=[Increase their strength to the limit using higher summoning magic.]	desc2=[Summon mighty unicorns to assist in combat.]	classtreedesc_end
+classtreedesc_begin	classID=evas_saint	desc1=[The most powerful among Priests.]	desc2=[Thanks to the favor of Eva they can use higher healing magic and has great reserves of MP.]	classtreedesc_end
+classtreedesc_begin	classID=shillien_templar	desc1=[Shillien's favor places these knights among the strongest.]	desc2=[Use dark magic to consume life of their enemy and finish them off with various debuffs.]	classtreedesc_end
+classtreedesc_begin	classID=spectral_dancer	desc1=[Warriors who find their strength in the power of Abyss.]	desc2=[Excellent magic dancers.]	classtreedesc_end
+classtreedesc_begin	classID=ghost_hunter	desc1=[Masters of silent killings. Their victims die long before they know what happened.]	desc2=[Reached the highest mastery of assassins’ art.]	classtreedesc_end
+classtreedesc_begin	classID=ghost_sentinel	desc1=[Archers who attack their enemies with fast deadly shots.]	desc2=[Can kill with a single powerful attack.]	classtreedesc_end
+classtreedesc_begin	classID=storm_screamer	desc1=[Use higher wind magic combined with dark arts making their spells very strong.]	desc2=[Attack with wind and dark magic.]	classtreedesc_end
+classtreedesc_begin	classID=spectral_master	desc1=[Summoners who specialize in summoning servitors to help in combat.]	desc2=[Can summon a servitor who casts curses on the enemy.]	classtreedesc_end
+classtreedesc_begin	classID=shillien_saint	desc1=[Dark Elven healers who are part of the dark Shillien cult.]	desc2=[Wreak death using the power given by Shillien.]	classtreedesc_end
+classtreedesc_begin	classID=titan	desc1=[Charge first in combat destroying everything on their way.]	desc2=[The longer is the fight, the brighter burns their rage giving them strength to defeat their enemies.]	classtreedesc_end
+classtreedesc_begin	classID=grand_khavatari	desc1=[Mighty warriors who are considered among the best of the best in battle. Fighters who mastered martial arts of Khavatari.]	desc2=[Attacks enemies with fist weapon, their attack speed is incredible.]	classtreedesc_end
+classtreedesc_begin	classID=dominator	desc1=[Inspire their allies and instill faith.]	desc2=[Use the power of Pa’agrio, God of Fire, to fill their combat spells with power. Uses buffs to decide a battle in favor of their allies.]	classtreedesc_end
+classtreedesc_begin	classID=doomcryer	desc1=[Can use higher magic.]	desc2=[Learned all secrets of Orc magic and uses it to cast buffs.]	classtreedesc_end
+classtreedesc_begin	classID=fortune_seeker	desc1=[There is no match to them in the ability to find materials.]	desc2=[Stun the enemy ignoring defense. Has a chance to cancel enemies' buffs.]	classtreedesc_end
+classtreedesc_begin	classID=maestro	desc1=[The best artisan.]	desc2=[They are legendary craftsmen.]	classtreedesc_end
+classtreedesc_begin	classID=doombringer	desc1=[Disarm and crush their enemies.]	desc2=[Real machine of destruction.]	classtreedesc_end
+classtreedesc_begin	classID=soul_hound	desc1=[Their soul energy is so high that they can suppress any enemy.]	desc2=[Deals multiple rapier attacks.]	classtreedesc_end
+classtreedesc_begin	classID=trickster	desc1=[Archers that are capable of wreaking havoc among their enemies using arrows with various effects.]	desc2=[They can mark their enemies decreasing critical damage from them.]	classtreedesc_end
+classtreedesc_begin	classID=human_deathknight_0	desc1=[Human warriors cursed in a battle with Valakas.]	desc2=[Destroy their enemies with a unique sword of the Death Knights.]	classtreedesc_end
+classtreedesc_begin	classID=human_deathknight_1	desc1=[They master the power of fire and combine it with excellent swordsmanship.]	desc2=[Use Soulshots to attack with fire.]	classtreedesc_end
+classtreedesc_begin	classID=human_deathknight_2	desc1=[Destroy their enemies bestowing power of fire upon their weapon.]	desc2=[Sharpen their blades with fire.]	classtreedesc_end
+classtreedesc_begin	classID=human_deathknight_3	desc1=[Death Knights use fire in combat.]	desc2=[Set fire to an area around them to deal damage to their enemies.]	classtreedesc_end
+classtreedesc_begin	classID=elf_deathknight_0	desc1=[Elven warriors cursed in a battle with Valakas.]	desc2=[Destroy their enemies with a unique sword of the Death Knights.]	classtreedesc_end
+classtreedesc_begin	classID=elf_deathknight_1	desc1=[They master the power of ice and combine it with excellent swordsmanship.]	desc2=[Use Soulshots to attack with ice.]	classtreedesc_end
+classtreedesc_begin	classID=elf_deathknight_2	desc1=[Destroy their enemies bestowing power of freezing cold upon their weapon.]	desc2=[Sharpen their blades with cold.]	classtreedesc_end
+classtreedesc_begin	classID=elf_deathknight_3	desc1=[Death Knights use ice in combat.]	desc2=[Freeze their enemies creating a great ice storm around them.]	classtreedesc_end
+classtreedesc_begin	classID=delf_deathknight_0	desc1=[Dark Elven warriors cursed in a battle with Valakas.]	desc2=[Destroy their enemies with a unique sword of the Death Knights.]	classtreedesc_end
+classtreedesc_begin	classID=delf_deathknight_1	desc1=[They master the power of lightning and combine it with excellent swordsmanship.]	desc2=[Use Soulshots to attack with electricity.]	classtreedesc_end
+classtreedesc_begin	classID=delf_deathknight_2	desc1=[Destroy their enemies bestowing power of lightning upon their weapon.]	desc2=[Sharpen their blades with lightning.]	classtreedesc_end
+classtreedesc_begin	classID=delf_deathknight_3	desc1=[Death Knights use lightning in combat.]	desc2=[Powerful thunderbolts deal damage to the enemies.]	classtreedesc_end
+classtreedesc_begin	classID=Sylph Gunner	desc1=[Free spirited warriors of the wind]	desc2=[Uses the power of spirit.]	classtreedesc_end
+classtreedesc_begin	classID=Sharpshooter	desc1=[They use firearms.]	desc2=[Fight relying on the power of spirit.]	classtreedesc_end
+classtreedesc_begin	classID=Wind Sniper	desc1=[They are toughened by mighty winds.]	desc2=[Move with incredible speed thanks to taming wind spirits.]	classtreedesc_end
+classtreedesc_begin	classID=Storm Blaster	desc1=[These warriors are capable of bringing down a full power of storm on their enemies.]	desc2=[Use powerful range attacks.]	classtreedesc_end
+classtreedesc_begin	classID=Orc Lancer	desc1=[Orc warriors riding beasts and wielding spears.]	desc2=[They fight together with beasts blessed by Pa’agrio.]	classtreedesc_end
+classtreedesc_begin	classID=Rider	desc1=[The warriors easily overtake their enemies, thanks to the mighty beasts they ride.]	desc2=[Use powerful spear attacks.]	classtreedesc_end
+classtreedesc_begin	classID=Dragoon	desc1=[Their fighting technique is a unique one, because they do not dismount for the fight.]	desc2=[Their powerful blows damage several enemies at once.]	classtreedesc_end
+classtreedesc_begin	classID=Vanguard Rider	desc1=[Warriors that always spearhead any attack riding their majestic beasts.]	desc2=[Wild attacks of the loyal beasts strike terror into their enemies.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinM1	desc1=[A warrior that follows the path of shadows.]	desc2=[Uses the power of darkness.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinM2	desc1=[Attacks enemies with the help of shadows.]	desc2=[Summons shadows that fight by their side.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinM3	desc1=[Uses various toxins in combat.]	desc2=[Swiftly kills enemies changing tactics as situations require.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinM4	desc1=[Kills enemies stealthily.]	desc2=[Easily kills enemies using secret tactics.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinF1	desc1=[A warrior that follows the path of shadows.]	desc2=[Uses the power of darkness.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinF2	desc1=[Attacks enemies with the help of shadows.]	desc2=[Summons shadows that fight by their side.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinF3	desc1=[Uses various toxins in combat.]	desc2=[Swiftly kills enemies changing tactics as situations require.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinF4	desc1=[Kills enemies stealthily.]	desc2=[Easily kills enemies using secret tactics.]	classtreedesc_end

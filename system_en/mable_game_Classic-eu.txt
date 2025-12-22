@@ -1,0 +1,40 @@
+cell_info_begin	cell_id=1	cell_color=1	cell_name=[Деревня Говорящего Острова]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=2	cell_color=3	cell_name=[Деревня Глудин (положительный эффект)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=3	cell_color=2	cell_name=[Руины Страданий (движение)]	cell_reward={}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=4	cell_color=7	cell_name=[Заброшенный Лагерь (награда)]	cell_reward={{90831;1};{99016;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=5	cell_color=3	cell_name=[Глудио (положительный эффект)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=6	cell_color=7	cell_name=[Пустошь (награда)]	cell_reward={{90831;1};{99018;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=7	cell_color=4	cell_name=[Муравейник (Королева Муравьев)]	cell_reward={{90532;1};{91304;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=8	cell_color=2	cell_name=[Башня Слоновой Кости (движение)]	cell_reward={}	event_group_Id={2}	cell_info_end
+cell_info_begin	cell_id=9	cell_color=4	cell_name=[Море Спор (Орфен)]	cell_reward={{90532;1};{91304;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=10	cell_color=3	cell_name=[Гиран (положительный эффект)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=11	cell_color=7	cell_name=[Долина Смерти (награда)]	cell_reward={{90831;1};{99018;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=12	cell_color=2	cell_name=[Сад Горгон (движение)]	cell_reward={}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=13	cell_color=3	cell_name=[Деревня Охотников (положительный эффект)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=14	cell_color=7	cell_name=[Волшебная Долина (награда)]	cell_reward={{90831;1};{99016;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=15	cell_color=7	cell_name=[Замок Гиран (особая награда)]	cell_reward={{99006;1}}	event_group_Id={3}	cell_info_end
+cell_info_begin	cell_id=16	cell_color=3	cell_name=[Аден (положительный эффект)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=17	cell_color=7	cell_name=[Кладбище (награда)]	cell_reward={{90831;1};{99016;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=18	cell_color=7	cell_name=[Поле Брани (награда)]	cell_reward={{90831;1};{99018;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=19	cell_color=7	cell_name=[Равнины Славы (награда)]	cell_reward={{90831;1};{99018;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=20	cell_color=7	cell_name=[Равнины Неистовства (награда)]	cell_reward={{90831;1};{99016;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=21	cell_color=2	cell_name=[Раскаленные Топи (движение)]	cell_reward={}	event_group_Id={3}	cell_info_end
+cell_info_begin	cell_id=22	cell_color=5	cell_name=[Первобытный Остров (необитаемый остров)]	cell_reward={}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=23	cell_color=7	cell_name=[Долина Безмолвия (награда)]	cell_reward={{90831;1};{99016;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=24	cell_color=3	cell_name=[Дион (положительный эффект)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=25	cell_color=4	cell_name=[Башня Крумы (Ядро)]	cell_reward={{90532;1};{91304;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=26	cell_color=9	cell_name=[Деревня Флоран (отрицательный эффект)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=27	cell_color=2	cell_name=[Гавань Гирана (движение)]	cell_reward={}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=28	cell_color=7	cell_name=[Остров Аллигаторов (награда)]	cell_reward={{90831;1};{99016;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=29	cell_color=4	cell_name=[Остров Дьявола (Закен)]	cell_reward={{90532;1};{91304;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=30	cell_color=3	cell_name=[Орен (положительный эффект)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=31	cell_color=7	cell_name=[Долина Ящеров (награда)]	cell_reward={{90831;1};{99018;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=32	cell_color=3	cell_name=[Годдард (положительный эффект)]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=33	cell_color=7	cell_name=[Крепость Орков (награда)]	cell_reward={{90831;1};{99018;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=34	cell_color=7	cell_name=[Замок Годдард (особая награда)]	cell_reward={{99006;1}}	event_group_Id={3}	cell_info_end
+cell_info_begin	cell_id=35	cell_color=4	cell_name=[Башня Дерзости (Баюм)]	cell_reward={{90532;1};{91304;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=36	cell_color=2	cell_name=[Лагерь Орков (движение)]	cell_reward={}	event_group_Id={4}	cell_info_end
+cell_info_begin	cell_id=37	cell_color=7	cell_name=[Долина Драконов (награда)]	cell_reward={{90831;1};{99016;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=38	cell_color=7	cell_name=[Логово Антараса (награда)]	cell_reward={{90831;1};{99018;1}}	event_group_Id={1;2}	cell_info_end
+cell_info_begin	cell_id=39	cell_color=8	cell_name=[Гнездо Антараса]	cell_reward={{91139;1};{93737;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=40	cell_color=1	cell_name=[Замок Аден]	cell_reward={}	event_group_Id={}	cell_info_end

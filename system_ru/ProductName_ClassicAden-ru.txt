@@ -1,0 +1,51 @@
+product_name_begin	id=2080001	outer_name=[Сундук с 800 Монетами L]	description=[]	icon=[icon.bm_sayhas_talisman_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080002	outer_name=[Сундук с 8000 Монетами L]	description=[]	icon=[icon.bm_sayha_blessed_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080003	outer_name=[Благословение Изобилия - 100% (1 день)]	description=[Действие предмета начинается сразу после покупки. Время действия расходуется, даже если персонаж не в игре. Эффект от нескольких предметов Благословение Изобилия - 100% не складывается.]	icon=[icon.aden_bless_rune_i02]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080004	outer_name=[Благословение Изобилия - 100% (30 дней)]	description=[Действие предмета начинается сразу после покупки. Время действия расходуется, даже если персонаж не в игре. Эффект от нескольких предметов Благословение Изобилия - 100% не складывается.]	icon=[icon.aden_bless_rune_i02]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080005	outer_name=[Стартовый Набор]	description=[Действие предмета Благословение Изобилия - 100% (Ивент) (3 дня) начинается сразу после покупки. Эффект этого предмета не складывается с эффектом Благословение Изобилия - 100% (1/30 дней).]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Хорошее начало нового пути!]	product_name_end
+product_name_begin	id=2080006	outer_name=[Набор со Снаряжением - Ранг C (Тяжелые Доспехи)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080007	outer_name=[Набор со Снаряжением - Ранг C (Легкие Доспехи)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080008	outer_name=[Набор со Снаряжением - Ранг C (Магические Доспехи)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080009	outer_name=[Поддержка Сайхи]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080010	outer_name=[Специальный Набор Роста]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080011	outer_name=[Коробка Покровительства Сайхи]	description=[]	icon=[icon.bm_2018_special_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080012	outer_name=[Поддержка Сайхи]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080013	outer_name=[Сундук с 8000 Монетами L]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080014	outer_name=[Брошь Ур. 5 (30 дней)]	description=[]	icon=[icon.etc_bm_brooch_lavianrose_i06]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080015	outer_name=[Рубин Ур. 5 (3 дня)]	description=[]	icon=[icon.etc_bm_jewel_ruby_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080016	outer_name=[Сапфир Ур. 5 (3 дня)]	description=[]	icon=[icon.etc_bm_jewel_sapphire_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080017	outer_name=[Зелье Ускорения Волшебной Лампы]	description=[]	icon=[icon.etc_recall_potion2]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080018	outer_name=[Поддержка Сайхи I]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080019	outer_name=[Поддержка Сайхи II]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080020	outer_name=[Поддержка Сайхи]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080021	outer_name=[Набор с Золотой Модной Шляпой]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080022	outer_name=[Стартовый Набор]	description=[Действие предмета Благословение Изобилия - 100% (Ивент) (3 дня) начинается сразу после покупки. Эффект этого предмета не складывается с эффектом Благословение Изобилия - 100% (1/30 дней).]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Хорошее начало нового пути!]	product_name_end
+product_name_begin	id=2080023	outer_name=[Набор с Оружием - Ранг C]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080024	outer_name=[Поддержка Сайхи]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Ежедневная забота,\nот самого бога ветра!]	product_name_end
+product_name_begin	id=2080025	outer_name=[Набор Ускоренного Развития]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080026	outer_name=[Коробка Покровительства Сайхи]	description=[]	icon=[icon.bm_2018_special_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080027	outer_name=[Сундук с Благословлением Сайхи]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080028	outer_name=[Сундук с Благословлением Сайхи (20 шт.)]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080029	outer_name=[Сундук с Эффектами Сайхи]	description=[]	icon=[icon.present_of_destination_event]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080030	outer_name=[Сундук с Эффектами Сайхи (20 шт.)]	description=[]	icon=[icon.present_of_destination_event]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080031	outer_name=[Стартовый Набор (Тяжелые Доспехи)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080032	outer_name=[Стартовый Набор (Легкие Доспехи)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080033	outer_name=[Стартовый Набор (Магические Доспехи)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080034	outer_name=[Поддержка Сайхи]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Ежедневная забота,\nот самого бога ветра!]	product_name_end
+product_name_begin	id=2080035	outer_name=[Набор Покровительства: Монеты L]	description=[]	icon=[icon.npoint_earring_of_lind_30day_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080036	outer_name=[Набор Развития: Монеты L]	description=[]	icon=[icon.npoint_antaras_30day_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080037	outer_name=[Монеты L (1000 шт.)]	description=[]	icon=[icon.bm_lcoin_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080038	outer_name=[Монеты L (8000 шт.)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080039	outer_name=[Подарок Новичка]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Получи силу Дракона Огня\nдля лучшего начала новой истории]	product_name_end
+product_name_begin	id=2080040	outer_name=[Специальный Набор Роста]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080041	outer_name=[Подарок Новичка]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Получи силу Дракона Огня\nдля лучшего начала новой истории!]	product_name_end
+product_name_begin	id=2080042	outer_name=[Стартовый Набор (Тяжелые Доспехи)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080043	outer_name=[Стартовый Набор (Легкие Доспехи)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080044	outer_name=[Стартовый Набор (Магические Доспехи)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080045	outer_name=[Набор Развития: Монеты L]	description=[]	icon=[icon.npoint_antaras_30day_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080046	outer_name=[Набор Великой Охоты]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080047	outer_name=[Набор Мечты]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080048	outer_name=[Приветственный Подарок]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Получи силу Дракона Огня\nдля лучшего начала новой истории!]	product_name_end
+product_name_begin	id=2080049	outer_name=[Стартовый Набор]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080050	outer_name=[Набор Благословения Духов]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2080051	outer_name=[Набор Битвы]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end

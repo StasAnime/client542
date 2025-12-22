@@ -1,0 +1,102 @@
+faceEx_Name_begin	id=0	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=0	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=0	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=0	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=0	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=0	class_name=20006	face_name=[Mischievous Kid Style]	Description=[A style that resembles a mischievous kid that cannot be hated]	faceEx_Name_end
+faceEx_Name_begin	id=1	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=1	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=1	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=1	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=1	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=1	class_name=20006	face_name=[Windmill Hill]	Description=[A style that shows the simplicity of a country girl]	faceEx_Name_end
+faceEx_Name_begin	id=2	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=2	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=2	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=2	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=2	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=2	class_name=20006	face_name=[Mischievous Kid Style]	Description=[A style that resembles a mischievous kid that cannot be hated]	faceEx_Name_end
+faceEx_Name_begin	id=3	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=3	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=3	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=3	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=3	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=3	class_name=20006	face_name=[Windmill Hill]	Description=[A style that shows the simplicity of a country girl]	faceEx_Name_end
+faceEx_Name_begin	id=4	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=4	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=4	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=4	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=4	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=4	class_name=20006	face_name=[Mischievous Kid Style]	Description=[A style that resembles a mischievous kid that cannot be hated]	faceEx_Name_end
+faceEx_Name_begin	id=5	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=5	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=5	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=5	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=5	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=5	class_name=20006	face_name=[Windmill Hill]	Description=[A style that shows the simplicity of a country girl]	faceEx_Name_end
+faceEx_Name_begin	id=6	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=6	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=6	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=6	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=6	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=6	class_name=20006	face_name=[Mischievous Kid Style]	Description=[A style that resembles a mischievous kid that cannot be hated]	faceEx_Name_end
+faceEx_Name_begin	id=7	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=7	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=7	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=7	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=7	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=7	class_name=20006	face_name=[Windmill Hill]	Description=[A style that shows the simplicity of a country girl]	faceEx_Name_end
+faceEx_Name_begin	id=8	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=8	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=8	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=8	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=8	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=8	class_name=20006	face_name=[Mischievous Kid Style]	Description=[A style that resembles a mischievous kid that cannot be hated]	faceEx_Name_end
+faceEx_Name_begin	id=9	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=9	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=9	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=9	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=9	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=9	class_name=20006	face_name=[Windmill Hill]	Description=[A style that shows the simplicity of a country girl]	faceEx_Name_end
+faceEx_Name_begin	id=10	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=10	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=10	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=10	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=10	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=10	class_name=20006	face_name=[Mischievous Kid Style]	Description=[A style that resembles a mischievous kid that cannot be hated]	faceEx_Name_end
+faceEx_Name_begin	id=11	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=11	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=11	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=11	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=11	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=11	class_name=20006	face_name=[Windmill Hill]	Description=[A style that shows the simplicity of a country girl]	faceEx_Name_end
+faceEx_Name_begin	id=12	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=12	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=12	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=12	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=12	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=12	class_name=20006	face_name=[Mischievous Kid Style]	Description=[A style that resembles a mischievous kid that cannot be hated]	faceEx_Name_end
+faceEx_Name_begin	id=13	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=13	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=13	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=13	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=13	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=13	class_name=20006	face_name=[Windmill Hill]	Description=[A style that shows the simplicity of a country girl]	faceEx_Name_end
+faceEx_Name_begin	id=14	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=14	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=14	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=14	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=14	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=14	class_name=20006	face_name=[Mischievous Kid Style]	Description=[A style that resembles a mischievous kid that cannot be hated]	faceEx_Name_end
+faceEx_Name_begin	id=15	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=15	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=15	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=15	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=15	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=15	class_name=20006	face_name=[Windmill Hill]	Description=[A style that shows the simplicity of a country girl]	faceEx_Name_end
+faceEx_Name_begin	id=17	class_name=20001	face_name=[Lobby Style A]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=17	class_name=20002	face_name=[Lobby Style B]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=17	class_name=20003	face_name=[Lobby Style C]	Description=[<br><RED01>== Note: ==</RED01><br>If selecting the same face used during character creation,<RED01> there will be no change in appearance.</RED01>]	faceEx_Name_end
+faceEx_Name_begin	id=17	class_name=20004	face_name=[Oren Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=17	class_name=20005	face_name=[Goddard Style]	Description=[]	faceEx_Name_end
+faceEx_Name_begin	id=17	class_name=20006	face_name=[Windmill Hill]	Description=[A style that shows the simplicity of a country girl]	faceEx_Name_end

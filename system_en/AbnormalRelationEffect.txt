@@ -1,0 +1,3 @@
+abnormal_relation_effect_begin	id=951	default_id=958	enemy_abnormal_id=959	doppelgangger_abnormal_id=0	abnormal_relation_effect_end
+abnormal_relation_effect_begin	id=952	default_id=955	enemy_abnormal_id=0	doppelgangger_abnormal_id=956	abnormal_relation_effect_end
+abnormal_relation_effect_begin	id=1179	default_id=1181	enemy_abnormal_id=1180	doppelgangger_abnormal_id=0	abnormal_relation_effect_end

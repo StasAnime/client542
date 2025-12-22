@@ -1,0 +1,50 @@
+pet_look_begin	look_id=16104	ave=0	name=[Wolf Cub]	desc=[]	pet_look_end
+pet_look_begin	look_id=16105	ave=0	name=[Black Wolf]	desc=[]	pet_look_end
+pet_look_begin	look_id=16106	ave=0	name=[White Wolf]	desc=[]	pet_look_end
+pet_look_begin	look_id=16107	ave=0	name=[Black Steel Wolf]	desc=[]	pet_look_end
+pet_look_begin	look_id=16108	ave=0	name=[White Steel Wolf]	desc=[]	pet_look_end
+pet_look_begin	look_id=16079	ave=0	name=[Buffalo Calf]	desc=[]	pet_look_end
+pet_look_begin	look_id=16080	ave=0	name=[Black Buffalo]	desc=[]	pet_look_end
+pet_look_begin	look_id=16081	ave=0	name=[White Buffalo]	desc=[]	pet_look_end
+pet_look_begin	look_id=16082	ave=0	name=[Black Combat Buffalo]	desc=[]	pet_look_end
+pet_look_begin	look_id=16083	ave=0	name=[White Combat Buffalo]	desc=[]	pet_look_end
+pet_look_begin	look_id=16084	ave=0	name=[Tiger Cub]	desc=[]	pet_look_end
+pet_look_begin	look_id=16085	ave=0	name=[White Tiger]	desc=[]	pet_look_end
+pet_look_begin	look_id=16086	ave=0	name=[Tiger]	desc=[]	pet_look_end
+pet_look_begin	look_id=16087	ave=0	name=[White Sharp-clawed Tiger]	desc=[]	pet_look_end
+pet_look_begin	look_id=16088	ave=0	name=[Steel Sharp-clawed Tiger]	desc=[]	pet_look_end
+pet_look_begin	look_id=16089	ave=0	name=[Kookaburra Chick]	desc=[]	pet_look_end
+pet_look_begin	look_id=16090	ave=0	name=[Red Kookaburra]	desc=[]	pet_look_end
+pet_look_begin	look_id=16091	ave=0	name=[Blue Kookaburra]	desc=[]	pet_look_end
+pet_look_begin	look_id=16092	ave=0	name=[Red Combat Kookaburra]	desc=[]	pet_look_end
+pet_look_begin	look_id=16093	ave=0	name=[Blue Combat Kookaburra]	desc=[]	pet_look_end
+pet_look_begin	look_id=16094	ave=0	name=[Dragon Hatchling]	desc=[]	pet_look_end
+pet_look_begin	look_id=16095	ave=0	name=[Green Dragon]	desc=[]	pet_look_end
+pet_look_begin	look_id=16096	ave=0	name=[Red Dragon]	desc=[]	pet_look_end
+pet_look_begin	look_id=16097	ave=0	name=[Earth Dragon]	desc=[]	pet_look_end
+pet_look_begin	look_id=16098	ave=0	name=[Fire Dragon]	desc=[]	pet_look_end
+pet_look_begin	look_id=16099	ave=0	name=[Hawk Hatchling]	desc=[]	pet_look_end
+pet_look_begin	look_id=16100	ave=0	name=[Red Hawk]	desc=[]	pet_look_end
+pet_look_begin	look_id=16101	ave=0	name=[Blue Hawk]	desc=[]	pet_look_end
+pet_look_begin	look_id=16102	ave=0	name=[Red Combat Hawk]	desc=[]	pet_look_end
+pet_look_begin	look_id=16103	ave=0	name=[Blue Combat Hawk]	desc=[]	pet_look_end
+pet_look_begin	look_id=16109	ave=0	name=[Fox Cub]	desc=[]	pet_look_end
+pet_look_begin	look_id=16110	ave=0	name=[Fox]	desc=[]	pet_look_end
+pet_look_begin	look_id=16111	ave=0	name=[Fox]	desc=[]	pet_look_end
+pet_look_begin	look_id=16112	ave=0	name=[Mystic Fox]	desc=[]	pet_look_end
+pet_look_begin	look_id=16113	ave=0	name=[Mystic Fox]	desc=[]	pet_look_end
+pet_look_begin	look_id=16115	ave=0	name=[Raven]	desc=[]	pet_look_end
+pet_look_begin	look_id=16116	ave=0	name=[Raven]	desc=[]	pet_look_end
+pet_look_begin	look_id=16117	ave=0	name=[Raven]	desc=[]	pet_look_end
+pet_look_begin	look_id=16118	ave=0	name=[Raven]	desc=[]	pet_look_end
+pet_look_begin	look_id=16119	ave=0	name=[Raven]	desc=[]	pet_look_end
+pet_look_begin	look_id=16120	ave=0	name=[Vulcan]	desc=[]	pet_look_end
+pet_look_begin	look_id=16121	ave=0	name=[Vulcan]	desc=[]	pet_look_end
+pet_look_begin	look_id=16122	ave=0	name=[Vulcan]	desc=[]	pet_look_end
+pet_look_begin	look_id=16123	ave=0	name=[Vulcan]	desc=[]	pet_look_end
+pet_look_begin	look_id=16124	ave=0	name=[Vulcan]	desc=[]	pet_look_end
+pet_look_begin	look_id=16125	ave=0	name=[Glassia]	desc=[]	pet_look_end
+pet_look_begin	look_id=16126	ave=0	name=[Glassia]	desc=[]	pet_look_end
+pet_look_begin	look_id=16127	ave=0	name=[Glassia]	desc=[]	pet_look_end
+pet_look_begin	look_id=16128	ave=0	name=[Glassia]	desc=[]	pet_look_end
+pet_look_begin	look_id=16129	ave=0	name=[Glassia]	desc=[]	pet_look_end

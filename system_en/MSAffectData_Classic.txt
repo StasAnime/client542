@@ -1,0 +1,1 @@
+msaffectdata_begin	skill_id=0	skill_level=0	skill_sublevel=0	affect_range=1000	decal=[LineageEffect.range_region_decal]	is_directional=0	msaffectdata_end

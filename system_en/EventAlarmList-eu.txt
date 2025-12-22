@@ -1,0 +1,1 @@
+event_begin	event_id=1007	event_type=201	event_icon=[L2UI_CT1.Icon.EventinfoWndDiscountIcon]	event_title=[11th Anniversary Event UI]	start_date=221130	start_time=1000	end_date=221228	end_time=1000	activate_time=0	deactivate_time=0	event_day={1;1;1;1;1;1;1}	event_desc=[Set values for launching UI for the 11th Anniversary event.]	event_end

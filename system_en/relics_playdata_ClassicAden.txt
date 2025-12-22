@@ -1,0 +1,6 @@
+relics_play_begin	relics_id=1	grade=3	type=1	unk_1={}	fail_item=102993	unk_4=0	cost_item={{91663;70}}	unk_5=0	relics_play_end
+relics_play_begin	relics_id=0	grade=2	type=3	unk_1={{0;81}}	fail_item=402	unk_4=256	cost_item={{-1140850330;2};{50529024;26366208};{16777216;72544};{1;50593792};{-1840185341;1};{18571521;256};{16777216;0};{0;3735808};{-2036334592;16777217};{57;10000};{29185;512};{0;16777216};{57;500000};{3735808;-1018167296};{1912668160;50331648}}	unk_5=0	relics_play_end
+relics_play_begin	relics_id=0	grade=0	type=0	unk_1={}	fail_item=0	unk_4=14593	cost_item={}	unk_5=0	relics_play_end
+relics_play_begin	relics_id=0	grade=64	type=66	unk_1={{0;0};{1;57};{0;0};{0;160};{134;1};{0;1};{114;0};{0;0};{4;0};{0;0};{0;0};{0;0};{0;0};{1;57};{0;0}}	fail_item=768000000	unk_4=0	cost_item={{57;600000}}	unk_5=1	relics_play_end
+relics_play_begin	relics_id=114	grade=0	type=0	unk_1={}	fail_item=5	unk_4=0	cost_item={}	unk_5=0	relics_play_end
+relics_play_begin	relics_id=165	grade=0	type=1	unk_1={{0;0};{0;128};{150;152};{0;0};{1;57};{0;0};{0;128};{132;30};{0;1};{114;0};{0;0};{6;0};{0;0};{0;0};{0;0};{165;0};{1;57};{0;0};{0;0};{225;245};{5;0};{1;57};{0;0};{0;0};{45;49};{1;1};{114;0};{0;0};{7;1};{0;0};{0;0};{0;0};{0;0};{1;57};{0;0};{0;0};{194;235};{11;4};{10;20};{30;50};{0;12};{83;97};{102;101};{80;97};{99;107};{97;103};{101;0};{};	relics_play_end

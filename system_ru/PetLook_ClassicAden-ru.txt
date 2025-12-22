@@ -1,0 +1,50 @@
+pet_look_begin	look_id=16104	ave=0	name=[Детеныш Волк]	desc=[]	pet_look_end
+pet_look_begin	look_id=16105	ave=0	name=[Черный Волк]	desc=[]	pet_look_end
+pet_look_begin	look_id=16106	ave=0	name=[Белый Волк]	desc=[]	pet_look_end
+pet_look_begin	look_id=16107	ave=0	name=[Черный Стальной Волк]	desc=[]	pet_look_end
+pet_look_begin	look_id=16108	ave=0	name=[Белый Стальной Волк]	desc=[]	pet_look_end
+pet_look_begin	look_id=16079	ave=0	name=[Детеныш Буйвол]	desc=[]	pet_look_end
+pet_look_begin	look_id=16080	ave=0	name=[Черный Буйвол]	desc=[]	pet_look_end
+pet_look_begin	look_id=16081	ave=0	name=[Белый Буйвол]	desc=[]	pet_look_end
+pet_look_begin	look_id=16082	ave=0	name=[Черный Боевой Буйвол]	desc=[]	pet_look_end
+pet_look_begin	look_id=16083	ave=0	name=[Белый Боевой Буйвол]	desc=[]	pet_look_end
+pet_look_begin	look_id=16084	ave=0	name=[Детеныш Тигр]	desc=[]	pet_look_end
+pet_look_begin	look_id=16085	ave=0	name=[Белый Тигр]	desc=[]	pet_look_end
+pet_look_begin	look_id=16086	ave=0	name=[Тигр]	desc=[]	pet_look_end
+pet_look_begin	look_id=16087	ave=0	name=[Белый Когтистый Тигр]	desc=[]	pet_look_end
+pet_look_begin	look_id=16088	ave=0	name=[Стальной Когтистый Тигр]	desc=[]	pet_look_end
+pet_look_begin	look_id=16089	ave=0	name=[Детеныш Кукабарра]	desc=[]	pet_look_end
+pet_look_begin	look_id=16090	ave=0	name=[Красная Кукабарра]	desc=[]	pet_look_end
+pet_look_begin	look_id=16091	ave=0	name=[Синяя Кукабарра]	desc=[]	pet_look_end
+pet_look_begin	look_id=16092	ave=0	name=[Красная Боевая Кукабарра]	desc=[]	pet_look_end
+pet_look_begin	look_id=16093	ave=0	name=[Синяя Боевая Кукабарра]	desc=[]	pet_look_end
+pet_look_begin	look_id=16094	ave=0	name=[Детеныш Дракон]	desc=[]	pet_look_end
+pet_look_begin	look_id=16095	ave=0	name=[Зеленый Дракон]	desc=[]	pet_look_end
+pet_look_begin	look_id=16096	ave=0	name=[Красный Дракон]	desc=[]	pet_look_end
+pet_look_begin	look_id=16097	ave=0	name=[Земляной Дракон]	desc=[]	pet_look_end
+pet_look_begin	look_id=16098	ave=0	name=[Огненный Дракон]	desc=[]	pet_look_end
+pet_look_begin	look_id=16099	ave=0	name=[Детеныш Ястреб]	desc=[]	pet_look_end
+pet_look_begin	look_id=16100	ave=0	name=[Красный Ястреб]	desc=[]	pet_look_end
+pet_look_begin	look_id=16101	ave=0	name=[Синий Ястреб]	desc=[]	pet_look_end
+pet_look_begin	look_id=16102	ave=0	name=[Красный Боевой Ястреб]	desc=[]	pet_look_end
+pet_look_begin	look_id=16103	ave=0	name=[Синий Боевой Ястреб]	desc=[]	pet_look_end
+pet_look_begin	look_id=16109	ave=0	name=[Лисенок]	desc=[]	pet_look_end
+pet_look_begin	look_id=16110	ave=0	name=[Лис]	desc=[]	pet_look_end
+pet_look_begin	look_id=16111	ave=0	name=[Лис]	desc=[]	pet_look_end
+pet_look_begin	look_id=16112	ave=0	name=[Мистический Лис]	desc=[]	pet_look_end
+pet_look_begin	look_id=16113	ave=0	name=[Мистический Лис]	desc=[]	pet_look_end
+pet_look_begin	look_id=16115	ave=0	name=[Ворон]	desc=[]	pet_look_end
+pet_look_begin	look_id=16116	ave=0	name=[Ворон]	desc=[]	pet_look_end
+pet_look_begin	look_id=16117	ave=0	name=[Ворон]	desc=[]	pet_look_end
+pet_look_begin	look_id=16118	ave=0	name=[Ворон]	desc=[]	pet_look_end
+pet_look_begin	look_id=16119	ave=0	name=[Ворон]	desc=[]	pet_look_end
+pet_look_begin	look_id=16120	ave=0	name=[Вулкан]	desc=[]	pet_look_end
+pet_look_begin	look_id=16121	ave=0	name=[Вулкан]	desc=[]	pet_look_end
+pet_look_begin	look_id=16122	ave=0	name=[Вулкан]	desc=[]	pet_look_end
+pet_look_begin	look_id=16123	ave=0	name=[Вулкан]	desc=[]	pet_look_end
+pet_look_begin	look_id=16124	ave=0	name=[Вулкан]	desc=[]	pet_look_end
+pet_look_begin	look_id=16125	ave=0	name=[Глассия]	desc=[]	pet_look_end
+pet_look_begin	look_id=16126	ave=0	name=[Глассия]	desc=[]	pet_look_end
+pet_look_begin	look_id=16127	ave=0	name=[Глассия]	desc=[]	pet_look_end
+pet_look_begin	look_id=16128	ave=0	name=[Глассия]	desc=[]	pet_look_end
+pet_look_begin	look_id=16129	ave=0	name=[Глассия]	desc=[]	pet_look_end

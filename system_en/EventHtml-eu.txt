@@ -1,0 +1,2 @@
+eventhtml_begin	id=100	title=[Heir's Radiance Shards]	desc=[Heir's Radiance Shards can be obtained in exchange for various items.]	eventhtml_end
+eventhtml_begin	id=102	title=[Ancient Kingdom Cloak Upgrade]	desc=[An Ancient Kingdom Cloak can be upgraded to a Legendary Cloak by using a Legendary Scroll.]	eventhtml_end

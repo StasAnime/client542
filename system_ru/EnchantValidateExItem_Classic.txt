@@ -1,0 +1,45 @@
+EnchantValue_begin	enchant_add={30.0;50.0;100.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;11.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0}	EnchantValue_end
+ItemProperty_begin	item_id=93864	enchant_add={{patk;0}}	ItemProperty_end
+ItemProperty_begin	item_id=94840	enchant_add={{pdef;1}}	ItemProperty_end
+ItemProperty_begin	item_id=94842	enchant_add={{pdef;1}}	ItemProperty_end
+ItemProperty_begin	item_id=94841	enchant_add={{pdef;2}}	ItemProperty_end
+ItemProperty_begin	item_id=94843	enchant_add={{pdef;2}}	ItemProperty_end
+ItemProperty_begin	item_id=94844	enchant_add={{pdef;3}}	ItemProperty_end
+ItemProperty_begin	item_id=94846	enchant_add={{pdef;3}}	ItemProperty_end
+ItemProperty_begin	item_id=94845	enchant_add={{pdef;4}}	ItemProperty_end
+ItemProperty_begin	item_id=94847	enchant_add={{pdef;4}}	ItemProperty_end
+ItemProperty_begin	item_id=94848	enchant_add={{pdef;5}}	ItemProperty_end
+ItemProperty_begin	item_id=94850	enchant_add={{pdef;5}}	ItemProperty_end
+ItemProperty_begin	item_id=94849	enchant_add={{pdef;6}}	ItemProperty_end
+ItemProperty_begin	item_id=94851	enchant_add={{pdef;6}}	ItemProperty_end
+ItemProperty_begin	item_id=100214	enchant_add={{pdef;7}}	ItemProperty_end
+ItemProperty_begin	item_id=100215	enchant_add={{pdef;7}}	ItemProperty_end
+ItemProperty_begin	item_id=95932	enchant_add={{pdef;7}}	ItemProperty_end
+ItemProperty_begin	item_id=95935	enchant_add={{pdef;7}}	ItemProperty_end
+ItemProperty_begin	item_id=100780	enchant_add={{pdef;8}}	ItemProperty_end
+ItemProperty_begin	item_id=100781	enchant_add={{pdef;8}}	ItemProperty_end
+ItemProperty_begin	item_id=95933	enchant_add={{pdef;8}}	ItemProperty_end
+ItemProperty_begin	item_id=95936	enchant_add={{pdef;8}}	ItemProperty_end
+ItemProperty_begin	item_id=103255	enchant_add={{pdef;9}}	ItemProperty_end
+ItemProperty_begin	item_id=103336	enchant_add={{pdef;9}}	ItemProperty_end
+ItemProperty_begin	item_id=95934	enchant_add={{pdef;9}}	ItemProperty_end
+ItemProperty_begin	item_id=95937	enchant_add={{pdef;9}}	ItemProperty_end
+ItemProperty_begin	item_id=95663	enchant_add={{pdef;10}}	ItemProperty_end
+ItemProperty_begin	item_id=95664	enchant_add={{pdef;10}}	ItemProperty_end
+ItemProperty_begin	item_id=96937	enchant_add={{pdef;10}}	ItemProperty_end
+ItemProperty_begin	item_id=99540	enchant_add={{pdef;10}}	ItemProperty_end
+ItemProperty_begin	item_id=95665	enchant_add={{shdef;11}}	ItemProperty_end
+ItemProperty_begin	item_id=95666	enchant_add={{shdef;11}}	ItemProperty_end
+ItemProperty_begin	item_id=96936	enchant_add={{shdef;11}}	ItemProperty_end
+ItemProperty_begin	item_id=99539	enchant_add={{shdef;11}}	ItemProperty_end

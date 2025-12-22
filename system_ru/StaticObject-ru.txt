@@ -1,0 +1,1665 @@
+staticobject_begin	id=17220001	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220002	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220003	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220004	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220005	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220006	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220007	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220008	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220009	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220010	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220011	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220012	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220013	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220014	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=17220015	name=[Знак Арены]	staticobject_end
+staticobject_begin	id=17220016	name=[Знак Арены]	staticobject_end
+staticobject_begin	id=17250001	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=17250002	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=17250003	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=18140001	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=18140002	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=18140003	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=19210001	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=19210002	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=19210003	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=19210004	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=19210005	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=19210006	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=19210007	name=[Врата]	staticobject_end
+staticobject_begin	id=19210008	name=[Врата]	staticobject_end
+staticobject_begin	id=19210009	name=[Врата]	staticobject_end
+staticobject_begin	id=19210010	name=[Трон]	staticobject_end
+staticobject_begin	id=19210011	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210012	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210013	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210014	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210015	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210016	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210017	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210018	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20180001	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=20180002	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=20210001	name=[Комната Контроля Механизма]	staticobject_end
+staticobject_begin	id=20210002	name=[Комната Контроля Механизма]	staticobject_end
+staticobject_begin	id=20210003	name=[Комната Контроля Механизма]	staticobject_end
+staticobject_begin	id=20220001	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=20220002	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=20220003	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=20220004	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=20220005	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=20220006	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=20220007	name=[Врата]	staticobject_end
+staticobject_begin	id=20220008	name=[Врата]	staticobject_end
+staticobject_begin	id=20220009	name=[Врата]	staticobject_end
+staticobject_begin	id=20220010	name=[Трон]	staticobject_end
+staticobject_begin	id=20220011	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220012	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220013	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220014	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220015	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220016	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20230001	name=[Знак Арены]	staticobject_end
+staticobject_begin	id=20230002	name=[Знак Арены]	staticobject_end
+staticobject_begin	id=21190001	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=21190002	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=21190003	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=21210001	name=[Врата]	staticobject_end
+staticobject_begin	id=21210002	name=[Врата]	staticobject_end
+staticobject_begin	id=21240001	name=[Врата]	staticobject_end
+staticobject_begin	id=21240002	name=[Врата]	staticobject_end
+staticobject_begin	id=21240003	name=[Врата]	staticobject_end
+staticobject_begin	id=21240004	name=[Врата]	staticobject_end
+staticobject_begin	id=21240005	name=[Врата]	staticobject_end
+staticobject_begin	id=21240006	name=[Тайная Комната Великого Пирата]	staticobject_end
+staticobject_begin	id=22170001	name=[Железные Врата]	staticobject_end
+staticobject_begin	id=22170002	name=[Железные Врата]	staticobject_end
+staticobject_begin	id=22170003	name=[Врата]	staticobject_end
+staticobject_begin	id=22170004	name=[Врата]	staticobject_end
+staticobject_begin	id=22190001	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=22190002	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=22190003	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=22190004	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=22190005	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=22190006	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=22190007	name=[Врата]	staticobject_end
+staticobject_begin	id=22190008	name=[Врата]	staticobject_end
+staticobject_begin	id=22190009	name=[Врата]	staticobject_end
+staticobject_begin	id=22190010	name=[Трон]	staticobject_end
+staticobject_begin	id=22220001	name=[Знак Арены]	staticobject_end
+staticobject_begin	id=22220002	name=[Знак Арены]	staticobject_end
+staticobject_begin	id=22250001	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250002	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250003	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250004	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250005	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250006	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250007	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250008	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250009	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250010	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250011	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250012	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250013	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250014	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250015	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250016	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250017	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250018	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250019	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250020	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250021	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250022	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250023	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250024	name=[Стена Воды]	staticobject_end
+staticobject_begin	id=22250025	name=[Тайная Стена]	staticobject_end
+staticobject_begin	id=22250026	name=[Тайная Стена]	staticobject_end
+staticobject_begin	id=22250027	name=[Тайная Стена]	staticobject_end
+staticobject_begin	id=22250028	name=[Тайная Стена]	staticobject_end
+staticobject_begin	id=23120001	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=23120002	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=23120003	name=[Лист Карты Деревни]	staticobject_end
+staticobject_begin	id=23220001	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=23220002	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=23220003	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=23220004	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=23220005	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=23220006	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=23220007	name=[Врата]	staticobject_end
+staticobject_begin	id=23220008	name=[Врата]	staticobject_end
+staticobject_begin	id=23220009	name=[Врата]	staticobject_end
+staticobject_begin	id=23220010	name=[Трон]	staticobject_end
+staticobject_begin	id=23250001	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=23250002	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=23250003	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=23250004	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=23250005	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=23250006	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=23250007	name=[Врата]	staticobject_end
+staticobject_begin	id=23250008	name=[Врата]	staticobject_end
+staticobject_begin	id=23250009	name=[Врата]	staticobject_end
+staticobject_begin	id=23250010	name=[Трон]	staticobject_end
+staticobject_begin	id=24180001	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=24180002	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=24180003	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=24180004	name=[Врата Зала]	staticobject_end
+staticobject_begin	id=24180005	name=[Врата Зала]	staticobject_end
+staticobject_begin	id=24180006	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=24180007	name=[Врата]	staticobject_end
+staticobject_begin	id=24180008	name=[Врата]	staticobject_end
+staticobject_begin	id=24180009	name=[Врата]	staticobject_end
+staticobject_begin	id=24180010	name=[Врата]	staticobject_end
+staticobject_begin	id=24180011	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=24180012	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=24180013	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=24180014	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=24180015	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=24180016	name=[Врата]	staticobject_end
+staticobject_begin	id=24180017	name=[Трон]	staticobject_end
+staticobject_begin	id=24180018	name=[Врата]	staticobject_end
+staticobject_begin	id=24180019	name=[Врата]	staticobject_end
+staticobject_begin	id=24180020	name=[Врата]	staticobject_end
+staticobject_begin	id=24180021	name=[Врата]	staticobject_end
+staticobject_begin	id=24190001	name=[Западные Врата]	staticobject_end
+staticobject_begin	id=24190002	name=[Западные Врата]	staticobject_end
+staticobject_begin	id=24190003	name=[Восточные Врата]	staticobject_end
+staticobject_begin	id=24190004	name=[Восточные Врата]	staticobject_end
+staticobject_begin	id=24180022	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180023	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180024	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180025	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180026	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180027	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180028	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180029	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180030	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180031	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180032	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24180033	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=25170001	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=25170002	name=[Врата Внешнего Двора]	staticobject_end
+staticobject_begin	id=25170003	name=[Врата]	staticobject_end
+staticobject_begin	id=25170004	name=[Врата]	staticobject_end
+staticobject_begin	id=25170005	name=[Врата]	staticobject_end
+staticobject_begin	id=25170006	name=[Врата]	staticobject_end
+staticobject_begin	id=24160010	name=[Внешние Врата]	staticobject_end
+staticobject_begin	id=24160009	name=[Внешние Врата]	staticobject_end
+staticobject_begin	id=24160017	name=[Врата]	staticobject_end
+staticobject_begin	id=24160018	name=[Врата]	staticobject_end
+staticobject_begin	id=24160015	name=[Врата]	staticobject_end
+staticobject_begin	id=24160016	name=[Врата]	staticobject_end
+staticobject_begin	id=24160011	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=24160012	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=24160013	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=24160014	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=24160019	name=[Врата]	staticobject_end
+staticobject_begin	id=24160020	name=[Врата]	staticobject_end
+staticobject_begin	id=24160023	name=[Врата]	staticobject_end
+staticobject_begin	id=24160021	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=24160022	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=24160001	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24160002	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24160003	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24160004	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24160005	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24160006	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24160007	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24160008	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22220007	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22220008	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22220009	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22220010	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22220012	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22220011	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22220006	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22220005	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22220003	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22220004	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=25150011	name=[Вход в Захоронение Судей]	staticobject_end
+staticobject_begin	id=25150012	name=[Врата Зала Виконта]	staticobject_end
+staticobject_begin	id=25150013	name=[Врата Зала Графа]	staticobject_end
+staticobject_begin	id=25150014	name=[Врата Зала Маркиза]	staticobject_end
+staticobject_begin	id=25150015	name=[Врата Зала Герцога]	staticobject_end
+staticobject_begin	id=25150016	name=[Врата Гробницы Императора]	staticobject_end
+staticobject_begin	id=25150001	name=[Вход в Захоронение Судей]	staticobject_end
+staticobject_begin	id=25150002	name=[Врата Зала Виконта]	staticobject_end
+staticobject_begin	id=25150003	name=[Врата Зала Графа]	staticobject_end
+staticobject_begin	id=25150004	name=[Врата Зала Маркиза]	staticobject_end
+staticobject_begin	id=25150005	name=[Врата Зала Герцога]	staticobject_end
+staticobject_begin	id=25150006	name=[Врата Гробницы Императора]	staticobject_end
+staticobject_begin	id=25150031	name=[Вход в Захоронение Судей]	staticobject_end
+staticobject_begin	id=25150032	name=[Врата Зала Виконта]	staticobject_end
+staticobject_begin	id=25150033	name=[Врата Зала Графа]	staticobject_end
+staticobject_begin	id=25150034	name=[Врата Зала Маркиза]	staticobject_end
+staticobject_begin	id=25150035	name=[Врата Зала Герцога]	staticobject_end
+staticobject_begin	id=25150036	name=[Врата Гробницы Императора]	staticobject_end
+staticobject_begin	id=25150021	name=[Вход в Захоронение Судей]	staticobject_end
+staticobject_begin	id=25150022	name=[Врата Зала Виконта]	staticobject_end
+staticobject_begin	id=25150023	name=[Врата Зала Графа]	staticobject_end
+staticobject_begin	id=25150024	name=[Врата Зала Маркиза]	staticobject_end
+staticobject_begin	id=25150025	name=[Врата Зала Герцога]	staticobject_end
+staticobject_begin	id=25150026	name=[Врата Гробницы Императора]	staticobject_end
+staticobject_begin	id=24210004	name=[Врата]	staticobject_end
+staticobject_begin	id=24210005	name=[Врата]	staticobject_end
+staticobject_begin	id=24210006	name=[Врата]	staticobject_end
+staticobject_begin	id=24140007	name=[Врата]	staticobject_end
+staticobject_begin	id=24140008	name=[Врата]	staticobject_end
+staticobject_begin	id=24140003	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24140004	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24140001	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24140002	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24140005	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24140006	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=24160024	name=[Трон]	staticobject_end
+staticobject_begin	id=19160010	name=[Дверь Часовни]	staticobject_end
+staticobject_begin	id=19160011	name=[Дверь Часовни]	staticobject_end
+staticobject_begin	id=19160001	name=[Врата Храма]	staticobject_end
+staticobject_begin	id=19160006	name=[Дверь Прихожей]	staticobject_end
+staticobject_begin	id=19160005	name=[Дверь Прихожей]	staticobject_end
+staticobject_begin	id=19160002	name=[Дверь Прихожей]	staticobject_end
+staticobject_begin	id=19160009	name=[Дверь Прихожей]	staticobject_end
+staticobject_begin	id=19160008	name=[Дверь Прихожей]	staticobject_end
+staticobject_begin	id=19160007	name=[Дверь Прихожей]	staticobject_end
+staticobject_begin	id=19160003	name=[Дверь Прихожей]	staticobject_end
+staticobject_begin	id=19160004	name=[Дверь Прихожей]	staticobject_end
+staticobject_begin	id=19160014	name=[Вход в помещение Алтаря]	staticobject_end
+staticobject_begin	id=19160015	name=[Вход в помещение Алтаря]	staticobject_end
+staticobject_begin	id=19160012	name=[Дверь Тьмы]	staticobject_end
+staticobject_begin	id=19160013	name=[Дверь Тьмы]	staticobject_end
+staticobject_begin	id=19160017	name=[Вход в помещение Алтаря]	staticobject_end
+staticobject_begin	id=19160016	name=[Вход в помещение Алтаря]	staticobject_end
+staticobject_begin	id=20160007	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=20160008	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=20160009	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=20160001	name=[Внешние Врата]	staticobject_end
+staticobject_begin	id=20160002	name=[Внешние Врата]	staticobject_end
+staticobject_begin	id=20160006	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=20160003	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=20160004	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=20160005	name=[Врата]	staticobject_end
+staticobject_begin	id=20160010	name=[Трон]	staticobject_end
+staticobject_begin	id=21150002	name=[Врата]	staticobject_end
+staticobject_begin	id=21150001	name=[Врата]	staticobject_end
+staticobject_begin	id=21150003	name=[Врата]	staticobject_end
+staticobject_begin	id=21150004	name=[Врата]	staticobject_end
+staticobject_begin	id=21150005	name=[Изгородь]	staticobject_end
+staticobject_begin	id=21150006	name=[Изгородь]	staticobject_end
+staticobject_begin	id=21150007	name=[Изгородь]	staticobject_end
+staticobject_begin	id=21150008	name=[Изгородь]	staticobject_end
+staticobject_begin	id=21150009	name=[Изгородь]	staticobject_end
+staticobject_begin	id=21160002	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160001	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160004	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160003	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160006	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160005	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160008	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160007	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160010	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160009	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160012	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160011	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160014	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21160013	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=21170002	name=[Внешние Врата]	staticobject_end
+staticobject_begin	id=21170001	name=[Внешние Врата]	staticobject_end
+staticobject_begin	id=21170003	name=[Врата]	staticobject_end
+staticobject_begin	id=21170004	name=[Врата]	staticobject_end
+staticobject_begin	id=21170006	name=[Врата]	staticobject_end
+staticobject_begin	id=21170005	name=[Врата]	staticobject_end
+staticobject_begin	id=22130002	name=[Внешние Врата]	staticobject_end
+staticobject_begin	id=22130001	name=[Внешние Врата]	staticobject_end
+staticobject_begin	id=22130011	name=[Врата]	staticobject_end
+staticobject_begin	id=22130010	name=[Врата]	staticobject_end
+staticobject_begin	id=22130015	name=[Врата]	staticobject_end
+staticobject_begin	id=22130014	name=[Врата]	staticobject_end
+staticobject_begin	id=22130007	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=22130006	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=22130009	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=22130008	name=[Внутренние Врата]	staticobject_end
+staticobject_begin	id=22130003	name=[Врата]	staticobject_end
+staticobject_begin	id=22130013	name=[Врата]	staticobject_end
+staticobject_begin	id=22130012	name=[Врата]	staticobject_end
+staticobject_begin	id=22130005	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=22130004	name=[Стена Замка]	staticobject_end
+staticobject_begin	id=22130016	name=[Трон]	staticobject_end
+staticobject_begin	id=22130017	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22130018	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22130020	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22130019	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22130022	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22130021	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22130024	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=22130023	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=23140001	name=[Стена Льда]	staticobject_end
+staticobject_begin	id=23140002	name=[Стена Льда]	staticobject_end
+staticobject_begin	id=23150001	name=[Потайная Дверь]	staticobject_end
+staticobject_begin	id=23150002	name=[Потайная Дверь]	staticobject_end
+staticobject_begin	id=23150003	name=[Врата Величия]	staticobject_end
+staticobject_begin	id=23150004	name=[Врата Величия]	staticobject_end
+staticobject_begin	id=25150042	name=[Врата Мавзолея]	staticobject_end
+staticobject_begin	id=25150043	name=[Врата Мавзолея]	staticobject_end
+staticobject_begin	id=25150045	name=[Врата Мавзолея]	staticobject_end
+staticobject_begin	id=25150046	name=[Врата Мавзолея]	staticobject_end
+staticobject_begin	id=25150051	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150052	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150053	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150054	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150055	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150056	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150057	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150058	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150061	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150062	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150063	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150064	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150065	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150066	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150067	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150068	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150069	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=25150070	name=[Врата Ошибок]	staticobject_end
+staticobject_begin	id=18220001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=18220002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=18220003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=18220004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=18220005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=18220006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=18220007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=18220008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240009	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240010	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240011	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=19240012	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20200001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20200002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20200003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20200004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20200005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20200006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20200007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20200008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220017	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220018	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220019	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220020	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220021	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220022	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220023	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220024	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220025	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220026	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220027	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20220028	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20230003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20230004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20230005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20230006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20230007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20230008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20230009	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=20230010	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=21220001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=21220002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=21220003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=21220004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=21220005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=21220006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=21220007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=21220008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22150001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22150002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22150003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22150004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22150005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22150006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22150007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22150008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160009	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160010	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160011	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22160012	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22180001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22180002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22180003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22180004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22180005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22180006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22180007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22180008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200009	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200010	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200011	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22200012	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22230001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22230002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22230003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22230004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22230005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22230006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22230007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=22230008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23130001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23130002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23130003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23130004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23130005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23130006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23130007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23130008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23160001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23160002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23160003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23160004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23160005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23160006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23160007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23160008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170009	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170010	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170011	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23170012	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200009	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200010	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200011	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23200012	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210009	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210010	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210011	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23210012	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23240001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23240002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23240003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23240004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23240005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23240006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23240007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=23240008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150009	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150010	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150011	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24150012	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24190005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24190006	name=[Главные Врата]	staticobject_end
+staticobject_begin	id=24190007	name=[Главные Врата]	staticobject_end
+staticobject_begin	id=24190008	name=[Главные Врата]	staticobject_end
+staticobject_begin	id=24190009	name=[Главные Врата]	staticobject_end
+staticobject_begin	id=24190010	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24190011	name=[Двери Казарм]	staticobject_end
+staticobject_begin	id=24190012	name=[Двери Казарм]	staticobject_end
+staticobject_begin	id=25190001	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190002	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190003	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190004	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190005	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190006	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190007	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190008	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190009	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190010	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190011	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=25190012	name=[Врата Форта]	staticobject_end
+staticobject_begin	id=24170001	name=[Подворотня]	staticobject_end
+staticobject_begin	id=16200001	name=[Врата Воителя]	staticobject_end
+staticobject_begin	id=16200002	name=[Камаэлические Врата]	staticobject_end
+staticobject_begin	id=16200003	name=[Шипастые Врата]	staticobject_end
+staticobject_begin	id=16200004	name=[Средние Врата]	staticobject_end
+staticobject_begin	id=16200005	name=[Врата Архивов]	staticobject_end
+staticobject_begin	id=16200006	name=[Врата Катенар]	staticobject_end
+staticobject_begin	id=16200007	name=[Врата Харкилгамеда]	staticobject_end
+staticobject_begin	id=16200008	name=[Врата Роденпикуляра]	staticobject_end
+staticobject_begin	id=16200009	name=[Врата Наблюдения]	staticobject_end
+staticobject_begin	id=16200010	name=[Врата Арвитерра]	staticobject_end
+staticobject_begin	id=16200011	name=[Врата Предсказаний]	staticobject_end
+staticobject_begin	id=16200012	name=[Врата]	staticobject_end
+staticobject_begin	id=16200013	name=[Врата]	staticobject_end
+staticobject_begin	id=16200014	name=[Врата]	staticobject_end
+staticobject_begin	id=16200015	name=[Врата]	staticobject_end
+staticobject_begin	id=16200016	name=[Врата]	staticobject_end
+staticobject_begin	id=16200023	name=[Врата]	staticobject_end
+staticobject_begin	id=16200024	name=[Врата]	staticobject_end
+staticobject_begin	id=16200025	name=[Врата]	staticobject_end
+staticobject_begin	id=24220009	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=24220011	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=24220012	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=24220014	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=24220015	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=24220016	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=24220017	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=24220019	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=24220010	name=[Потайная Дверь]	staticobject_end
+staticobject_begin	id=24220013	name=[Потайная Дверь]	staticobject_end
+staticobject_begin	id=24220018	name=[Потайная Дверь]	staticobject_end
+staticobject_begin	id=24220008	name=[Цветные Тюремные Врата]	staticobject_end
+staticobject_begin	id=18110001	name=[Врата Особняка Темного Облака]	staticobject_end
+staticobject_begin	id=18110002	name=[Врата Веры]	staticobject_end
+staticobject_begin	id=18110005	name=[Врата Анализа]	staticobject_end
+staticobject_begin	id=18110003	name=[Средние Врата]	staticobject_end
+staticobject_begin	id=18110004	name=[Врата Авантюриста]	staticobject_end
+staticobject_begin	id=18110006	name=[Врата]	staticobject_end
+staticobject_begin	id=24220024	name=[Коралловый Садовый Проход]	staticobject_end
+staticobject_begin	id=24220021	name=[Восточные Цветные Врата]	staticobject_end
+staticobject_begin	id=24220020	name=[Сапфировые Врата]	staticobject_end
+staticobject_begin	id=24220002	name=[Потайные Садовые Врата]	staticobject_end
+staticobject_begin	id=24220003	name=[Потайные Садовые Врата]	staticobject_end
+staticobject_begin	id=24220004	name=[Потайные Садовые Врата]	staticobject_end
+staticobject_begin	id=24220001	name=[Тайные Врата]	staticobject_end
+staticobject_begin	id=24220005	name=[Врата]	staticobject_end
+staticobject_begin	id=24220006	name=[Врата]	staticobject_end
+staticobject_begin	id=24220007	name=[Тайные Врата]	staticobject_end
+staticobject_begin	id=24220022	name=[Врата Коридора]	staticobject_end
+staticobject_begin	id=24220023	name=[Вулканические Врата]	staticobject_end
+staticobject_begin	id=24220025	name=[Коралловый Садовый Проход]	staticobject_end
+staticobject_begin	id=24220026	name=[Тайные Врата]	staticobject_end
+staticobject_begin	id=24220030	name=[Врата]	staticobject_end
+staticobject_begin	id=24220031	name=[Врата]	staticobject_end
+staticobject_begin	id=24220032	name=[Врата]	staticobject_end
+staticobject_begin	id=24220033	name=[Врата]	staticobject_end
+staticobject_begin	id=24220034	name=[Врата]	staticobject_end
+staticobject_begin	id=24220035	name=[Центральные Врата Зала Кораллового Сада]	staticobject_end
+staticobject_begin	id=24220036	name=[Врата]	staticobject_end
+staticobject_begin	id=24220037	name=[Врата]	staticobject_end
+staticobject_begin	id=24220038	name=[Врата]	staticobject_end
+staticobject_begin	id=24220039	name=[Центральные Врата Зала Кораллового Сада]	staticobject_end
+staticobject_begin	id=24220040	name=[Подземный Склад]	staticobject_end
+staticobject_begin	id=24220041	name=[Центральные Врата Зала Кораллового Сада]	staticobject_end
+staticobject_begin	id=24220042	name=[Сокровищница]	staticobject_end
+staticobject_begin	id=24220043	name=[Врата]	staticobject_end
+staticobject_begin	id=24220044	name=[Врата]	staticobject_end
+staticobject_begin	id=24220045	name=[Центральные Врата Зала Кораллового Сада]	staticobject_end
+staticobject_begin	id=24220046	name=[Врата]	staticobject_end
+staticobject_begin	id=24220047	name=[Врата]	staticobject_end
+staticobject_begin	id=24220048	name=[Врата]	staticobject_end
+staticobject_begin	id=24220049	name=[Врата]	staticobject_end
+staticobject_begin	id=24220050	name=[Врата]	staticobject_end
+staticobject_begin	id=18220500	name=[Древко]	staticobject_end
+staticobject_begin	id=19240500	name=[Древко]	staticobject_end
+staticobject_begin	id=20230500	name=[Древко]	staticobject_end
+staticobject_begin	id=23210500	name=[Древко]	staticobject_end
+staticobject_begin	id=22180500	name=[Древко]	staticobject_end
+staticobject_begin	id=24190500	name=[Древко]	staticobject_end
+staticobject_begin	id=25190500	name=[Древко]	staticobject_end
+staticobject_begin	id=23240500	name=[Древко]	staticobject_end
+staticobject_begin	id=24150500	name=[Древко]	staticobject_end
+staticobject_begin	id=22160500	name=[Древко]	staticobject_end
+staticobject_begin	id=23130500	name=[Древко]	staticobject_end
+staticobject_begin	id=20220500	name=[Древко]	staticobject_end
+staticobject_begin	id=18200500	name=[Древко]	staticobject_end
+staticobject_begin	id=21220500	name=[Древко]	staticobject_end
+staticobject_begin	id=20200500	name=[Древко]	staticobject_end
+staticobject_begin	id=22200500	name=[Древко]	staticobject_end
+staticobject_begin	id=23170500	name=[Древко]	staticobject_end
+staticobject_begin	id=23200500	name=[Древко]	staticobject_end
+staticobject_begin	id=22230500	name=[Древко]	staticobject_end
+staticobject_begin	id=23160500	name=[Древко]	staticobject_end
+staticobject_begin	id=22150500	name=[Древко]	staticobject_end
+staticobject_begin	id=24230001	name=[Врата Особняка Темного Облака]	staticobject_end
+staticobject_begin	id=24230002	name=[Врата Веры]	staticobject_end
+staticobject_begin	id=24230005	name=[Врата Испытаний]	staticobject_end
+staticobject_begin	id=24230003	name=[Средние Врата]	staticobject_end
+staticobject_begin	id=24230004	name=[Вход Авантюриста]	staticobject_end
+staticobject_begin	id=24230006	name=[Врата Доверия]	staticobject_end
+staticobject_begin	id=19250001	name=[Врата]	staticobject_end
+staticobject_begin	id=20260001	name=[Темные Врата]	staticobject_end
+staticobject_begin	id=20260002	name=[Кровавые Врата]	staticobject_end
+staticobject_begin	id=20260003	name=[Закрытые Врата]	staticobject_end
+staticobject_begin	id=20260004	name=[Закрытые Врата]	staticobject_end
+staticobject_begin	id=20260005	name=[Кровавые Врата]	staticobject_end
+staticobject_begin	id=20260006	name=[Вход к Разрушению]	staticobject_end
+staticobject_begin	id=20250001	name=[Железные Врата Замка]	staticobject_end
+staticobject_begin	id=20250002	name=[Проход Ран]	staticobject_end
+staticobject_begin	id=19250002	name=[Врата]	staticobject_end
+staticobject_begin	id=19250003	name=[Старые Врата]	staticobject_end
+staticobject_begin	id=19250004	name=[Старые Врата]	staticobject_end
+staticobject_begin	id=19260001	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260002	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260003	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260004	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260005	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260006	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260007	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260008	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260009	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260010	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260011	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260012	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260013	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260014	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260015	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260016	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260017	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260018	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260019	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260020	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260021	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260022	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260023	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260051	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260052	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260100	name=[Врата Литейной: Первый Этаж]	staticobject_end
+staticobject_begin	id=19260101	name=[Врата Литейной: Первый Этаж]	staticobject_end
+staticobject_begin	id=17100001	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=17100002	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=17190001	name=[Красные Врата]	staticobject_end
+staticobject_begin	id=16200017	name=[Мост]	staticobject_end
+staticobject_begin	id=16200018	name=[Мост]	staticobject_end
+staticobject_begin	id=16200019	name=[Мост]	staticobject_end
+staticobject_begin	id=24220061	name=[Вулканические Врата]	staticobject_end
+staticobject_begin	id=24220060	name=[Врата]	staticobject_end
+staticobject_begin	id=16200022	name=[Татуировка Камаэль]	staticobject_end
+staticobject_begin	id=24230101	name=[Эпитафия Кристального Голема]	staticobject_end
+staticobject_begin	id=24230007	name=[Стена]	staticobject_end
+staticobject_begin	id=24230008	name=[Стена]	staticobject_end
+staticobject_begin	id=24230009	name=[Стена]	staticobject_end
+staticobject_begin	id=24230010	name=[Стена]	staticobject_end
+staticobject_begin	id=24230011	name=[Стена]	staticobject_end
+staticobject_begin	id=24230012	name=[Стена]	staticobject_end
+staticobject_begin	id=24230013	name=[Стена]	staticobject_end
+staticobject_begin	id=18250101	name=[Врата]	staticobject_end
+staticobject_begin	id=18250001	name=[Врата]	staticobject_end
+staticobject_begin	id=18250002	name=[Врата]	staticobject_end
+staticobject_begin	id=18250003	name=[Врата]	staticobject_end
+staticobject_begin	id=18250004	name=[Врата]	staticobject_end
+staticobject_begin	id=18250005	name=[Врата]	staticobject_end
+staticobject_begin	id=18250006	name=[Врата]	staticobject_end
+staticobject_begin	id=18250007	name=[Врата]	staticobject_end
+staticobject_begin	id=18250008	name=[Врата]	staticobject_end
+staticobject_begin	id=18250009	name=[Врата]	staticobject_end
+staticobject_begin	id=18250010	name=[Врата]	staticobject_end
+staticobject_begin	id=18250011	name=[Врата]	staticobject_end
+staticobject_begin	id=18250013	name=[Врата]	staticobject_end
+staticobject_begin	id=18250014	name=[Врата]	staticobject_end
+staticobject_begin	id=18250015	name=[Врата]	staticobject_end
+staticobject_begin	id=18250017	name=[Врата]	staticobject_end
+staticobject_begin	id=18250018	name=[Врата]	staticobject_end
+staticobject_begin	id=18250019	name=[Врата]	staticobject_end
+staticobject_begin	id=18250103	name=[Врата]	staticobject_end
+staticobject_begin	id=18250021	name=[Врата]	staticobject_end
+staticobject_begin	id=18250022	name=[Врата]	staticobject_end
+staticobject_begin	id=18250023	name=[Врата]	staticobject_end
+staticobject_begin	id=18250024	name=[Врата]	staticobject_end
+staticobject_begin	id=18250025	name=[Врата]	staticobject_end
+staticobject_begin	id=18250102	name=[Врата]	staticobject_end
+staticobject_begin	id=20240002	name=[Врата]	staticobject_end
+staticobject_begin	id=20240003	name=[Врата]	staticobject_end
+staticobject_begin	id=20240001	name=[Врата]	staticobject_end
+staticobject_begin	id=20250006	name=[Тайные Врата]	staticobject_end
+staticobject_begin	id=20250007	name=[Тайные Врата]	staticobject_end
+staticobject_begin	id=20250005	name=[Тайные Врата]	staticobject_end
+staticobject_begin	id=20250004	name=[Тайные Врата]	staticobject_end
+staticobject_begin	id=20250009	name=[Прозрачные Врата]	staticobject_end
+staticobject_begin	id=20250008	name=[Прозрачные Врата]	staticobject_end
+staticobject_begin	id=20250777	name=[Подъемный Мост]	staticobject_end
+staticobject_begin	id=20250778	name=[Подъемный Мост]	staticobject_end
+staticobject_begin	id=19260053	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=19260054	name=[Врата Тулли]	staticobject_end
+staticobject_begin	id=17160001	name=[Врата]	staticobject_end
+staticobject_begin	id=17160002	name=[Врата]	staticobject_end
+staticobject_begin	id=17160003	name=[Врата]	staticobject_end
+staticobject_begin	id=17160004	name=[Врата]	staticobject_end
+staticobject_begin	id=17160005	name=[Врата]	staticobject_end
+staticobject_begin	id=17160006	name=[Врата]	staticobject_end
+staticobject_begin	id=17160007	name=[Врата]	staticobject_end
+staticobject_begin	id=17160008	name=[Врата]	staticobject_end
+staticobject_begin	id=17160009	name=[Врата]	staticobject_end
+staticobject_begin	id=17160010	name=[Врата]	staticobject_end
+staticobject_begin	id=17160011	name=[Врата]	staticobject_end
+staticobject_begin	id=17160012	name=[Врата]	staticobject_end
+staticobject_begin	id=17160013	name=[Врата]	staticobject_end
+staticobject_begin	id=17160014	name=[Врата]	staticobject_end
+staticobject_begin	id=17160015	name=[Врата]	staticobject_end
+staticobject_begin	id=17160016	name=[Врата]	staticobject_end
+staticobject_begin	id=17160017	name=[Врата]	staticobject_end
+staticobject_begin	id=17160018	name=[Врата]	staticobject_end
+staticobject_begin	id=17160019	name=[Врата]	staticobject_end
+staticobject_begin	id=17160020	name=[Врата]	staticobject_end
+staticobject_begin	id=17160021	name=[Врата]	staticobject_end
+staticobject_begin	id=17160022	name=[Врата]	staticobject_end
+staticobject_begin	id=17160023	name=[Врата]	staticobject_end
+staticobject_begin	id=17160024	name=[Врата]	staticobject_end
+staticobject_begin	id=17160025	name=[Врата]	staticobject_end
+staticobject_begin	id=17160026	name=[Врата]	staticobject_end
+staticobject_begin	id=17160027	name=[Врата]	staticobject_end
+staticobject_begin	id=17160028	name=[Врата]	staticobject_end
+staticobject_begin	id=17160029	name=[Врата]	staticobject_end
+staticobject_begin	id=17160030	name=[Врата]	staticobject_end
+staticobject_begin	id=17160031	name=[Врата]	staticobject_end
+staticobject_begin	id=17160032	name=[Врата]	staticobject_end
+staticobject_begin	id=17160033	name=[Врата]	staticobject_end
+staticobject_begin	id=17160034	name=[Врата]	staticobject_end
+staticobject_begin	id=17160035	name=[Врата]	staticobject_end
+staticobject_begin	id=17160036	name=[Врата]	staticobject_end
+staticobject_begin	id=17160037	name=[Врата]	staticobject_end
+staticobject_begin	id=17160038	name=[Врата]	staticobject_end
+staticobject_begin	id=17160039	name=[Врата]	staticobject_end
+staticobject_begin	id=17160040	name=[Врата]	staticobject_end
+staticobject_begin	id=18230101	name=[Врата]	staticobject_end
+staticobject_begin	id=17150001	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150002	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150003	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150004	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150005	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150006	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150007	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150008	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150009	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150010	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150011	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150012	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150013	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150014	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150015	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150016	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150017	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150018	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150019	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150020	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150021	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150022	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150023	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150024	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150025	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150026	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150027	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150028	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150029	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150030	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150031	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150032	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150033	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150034	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150035	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150036	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150037	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150038	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150039	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150040	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150041	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150042	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150043	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150044	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150045	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150046	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150047	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150048	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150049	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150050	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150051	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150052	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150053	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150054	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150055	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150056	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150057	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150058	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150059	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150060	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150061	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150062	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150063	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150064	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150065	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150066	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150067	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150068	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150069	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150070	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150071	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150072	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150073	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150074	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150075	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150076	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150077	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150078	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150079	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150080	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150081	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150082	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150083	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150084	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150085	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150086	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150087	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150088	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150089	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150090	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150091	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150092	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150093	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150094	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150095	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150096	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150097	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150098	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150099	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150100	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150101	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150102	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17150103	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170001	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170002	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170003	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170004	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170005	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170006	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170007	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170008	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170009	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170010	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170011	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170012	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170013	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170014	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170015	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170016	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170017	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170018	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170019	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170020	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170021	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170022	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170023	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170024	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170025	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170026	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170027	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170028	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170029	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170030	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170031	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170032	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170033	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170034	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170035	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170036	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170037	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170038	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170039	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170040	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170041	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170042	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170043	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170044	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170045	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170046	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170047	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170048	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170049	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170050	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170051	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170052	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170053	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170054	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170055	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170056	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170057	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170058	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170059	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170060	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170061	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170062	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170063	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170064	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170065	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170066	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170067	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170068	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170069	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170070	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170071	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170072	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170073	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170074	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170075	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170076	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170077	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170078	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170079	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170080	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170081	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170082	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170083	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170084	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170085	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170086	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170087	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170088	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170089	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170090	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170091	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170092	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170093	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170094	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170095	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170096	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170097	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170098	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170099	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170100	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170101	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170102	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=17170103	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150201	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150202	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150203	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150204	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150205	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150206	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150207	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150208	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150209	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150210	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150211	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150212	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150213	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150214	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150215	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150216	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150217	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150218	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150219	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150220	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150221	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150222	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150223	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150224	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150225	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150226	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150227	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150228	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150229	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150230	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150231	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150232	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150233	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150234	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150235	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150236	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150237	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150238	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150239	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150240	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150241	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150242	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150243	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150244	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150245	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150246	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150247	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150248	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150249	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150250	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150251	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150252	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150253	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150254	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150255	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150256	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150257	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150258	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150259	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150260	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150261	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150262	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150263	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150264	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150265	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150266	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150267	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150268	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150269	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150270	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150271	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150272	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150273	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150274	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150275	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150276	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150277	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150278	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150279	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150280	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150281	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150282	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150283	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150284	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150285	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150286	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150287	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150288	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150289	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150290	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150291	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150292	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150293	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150294	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150295	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150296	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150297	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150298	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150299	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150300	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150301	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150302	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=18150303	name=[Автоматическая Дверь]	staticobject_end
+staticobject_begin	id=22110100	name=[Врата]	staticobject_end
+staticobject_begin	id=22110101	name=[Врата]	staticobject_end
+staticobject_begin	id=22110102	name=[Врата]	staticobject_end
+staticobject_begin	id=22110103	name=[Врата]	staticobject_end
+staticobject_begin	id=22110104	name=[Врата]	staticobject_end
+staticobject_begin	id=22110105	name=[Врата]	staticobject_end
+staticobject_begin	id=12240001	name=[Врата Разрушения]	staticobject_end
+staticobject_begin	id=12240002	name=[Врата Разрушения]	staticobject_end
+staticobject_begin	id=12240003	name=[Врата]	staticobject_end
+staticobject_begin	id=12240004	name=[Врата]	staticobject_end
+staticobject_begin	id=12240005	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240006	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240007	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240008	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240009	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240010	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240011	name=[Врата]	staticobject_end
+staticobject_begin	id=12240012	name=[Врата]	staticobject_end
+staticobject_begin	id=12240013	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240014	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240015	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240016	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240017	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240018	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240019	name=[Врата]	staticobject_end
+staticobject_begin	id=12240020	name=[Врата]	staticobject_end
+staticobject_begin	id=12240021	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=14240102	name=[Врата]	staticobject_end
+staticobject_begin	id=12240022	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240023	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240024	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240025	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240026	name=[Стальные Врата]	staticobject_end
+staticobject_begin	id=12240027	name=[Врата]	staticobject_end
+staticobject_begin	id=12240028	name=[Осадные Врата]	staticobject_end
+staticobject_begin	id=12240029	name=[Осадные Врата]	staticobject_end
+staticobject_begin	id=12240030	name=[Врата Главной Крепости]	staticobject_end
+staticobject_begin	id=12240031	name=[Врата]	staticobject_end
+staticobject_begin	id=17240001	name=[Врата Тайного Оракула Рассвета]	staticobject_end
+staticobject_begin	id=17240002	name=[Врата Тайного Оракула Рассвета]	staticobject_end
+staticobject_begin	id=17240003	name=[Врата Тайного Оракула Рассвета]	staticobject_end
+staticobject_begin	id=17240004	name=[Врата Тайного Оракула Рассвета]	staticobject_end
+staticobject_begin	id=17240005	name=[Врата Тайного Оракула Рассвета]	staticobject_end
+staticobject_begin	id=17240006	name=[Врата Тайного Оракула Рассвета]	staticobject_end
+staticobject_begin	id=17240101	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=17240102	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=17240103	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=17240104	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=17240105	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=17240106	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=17240107	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=17240108	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=17240109	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=17240110	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=17240111	name=[Врата Некрополя Апостолов]	staticobject_end
+staticobject_begin	id=23140101	name=[Замок Снежной Королевы]	staticobject_end
+staticobject_begin	id=17130045	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130051	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130046	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130043	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130042	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130052	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130053	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130054	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130055	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130056	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130057	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130058	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130068	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130069	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130070	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130066	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130067	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130063	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130064	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130065	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130061	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=17130062	name=[Храм Принтесс]	staticobject_end
+staticobject_begin	id=15100002	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100001	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100004	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100003	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100006	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100005	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100008	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100007	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100010	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100009	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100012	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100011	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100014	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100013	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100016	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100015	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100018	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100017	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100020	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100019	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100022	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100021	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100024	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100023	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100026	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100025	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100028	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100027	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100030	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100029	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100032	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100031	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100034	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100033	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100036	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100035	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100038	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100037	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100040	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100039	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100042	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100041	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100044	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15100043	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110002	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110001	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110004	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110003	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110006	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110005	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110008	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110007	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110010	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110009	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110012	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110011	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110014	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110013	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110016	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110015	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110018	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110017	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110020	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110019	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110022	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110021	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110024	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110023	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110026	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110025	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110028	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110027	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110030	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110029	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110032	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110031	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110034	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110033	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110036	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110035	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110038	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110037	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110040	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110039	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110042	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110041	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110044	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15110043	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120002	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120001	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120004	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120003	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120006	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120005	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120008	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120007	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120010	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120009	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120012	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120011	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120014	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120013	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120016	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120015	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120018	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120017	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120020	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120019	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120022	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120021	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120024	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120023	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120026	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120025	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120028	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120027	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120030	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120029	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120032	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120031	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120034	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120033	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120036	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120035	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120038	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120037	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120040	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120039	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120042	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120041	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120044	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=15120043	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=17100201	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=17100202	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=17100302	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=17100301	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=17100102	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=17100101	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=21100014	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100001	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100006	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100010	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100002	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100015	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100013	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100011	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100009	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100007	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100005	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100004	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100003	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100008	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100012	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100016	name=[Дверь Печати Святой]	staticobject_end
+staticobject_begin	id=21100018	name=[Дверь в Покои Солины]	staticobject_end
+staticobject_begin	id=21100104	name=[Дверь в Покои Солины]	staticobject_end
+staticobject_begin	id=21100103	name=[Дверь в Покои Солины]	staticobject_end
+staticobject_begin	id=21100102	name=[Дверь в Покои Солины]	staticobject_end
+staticobject_begin	id=21100101	name=[Дверь в Покои Солины]	staticobject_end
+staticobject_begin	id=21160502	name=[Дверь в Библиотеку Мудрецов]	staticobject_end
+staticobject_begin	id=26210044	name=[Врата Сада Афроса]	staticobject_end
+staticobject_begin	id=26210042	name=[Врата Сада Афроса]	staticobject_end
+staticobject_begin	id=26210041	name=[Врата Сада Афроса]	staticobject_end
+staticobject_begin	id=26210043	name=[Врата Сада Афроса]	staticobject_end
+staticobject_begin	id=26190001	name=[Врата]	staticobject_end
+staticobject_begin	id=26190002	name=[Врата]	staticobject_end
+staticobject_begin	id=26190003	name=[Врата]	staticobject_end
+staticobject_begin	id=26190004	name=[Врата]	staticobject_end
+staticobject_begin	id=26190005	name=[Врата]	staticobject_end
+staticobject_begin	id=26190006	name=[Врата]	staticobject_end
+staticobject_begin	id=26190007	name=[Врата]	staticobject_end
+staticobject_begin	id=26190008	name=[Врата]	staticobject_end
+staticobject_begin	id=26190009	name=[Врата]	staticobject_end
+staticobject_begin	id=26190010	name=[Врата]	staticobject_end
+staticobject_begin	id=26190011	name=[Врата]	staticobject_end
+staticobject_begin	id=26190012	name=[Врата]	staticobject_end
+staticobject_begin	id=26190013	name=[Врата]	staticobject_end
+staticobject_begin	id=26190014	name=[Врата]	staticobject_end
+staticobject_begin	id=26190015	name=[Врата]	staticobject_end
+staticobject_begin	id=26190016	name=[Врата]	staticobject_end
+staticobject_begin	id=26190017	name=[Врата]	staticobject_end
+staticobject_begin	id=26190018	name=[Врата]	staticobject_end
+staticobject_begin	id=26190019	name=[Врата]	staticobject_end
+staticobject_begin	id=26210020	name=[Врата]	staticobject_end
+staticobject_begin	id=26210021	name=[Врата]	staticobject_end
+staticobject_begin	id=26210022	name=[Врата]	staticobject_end
+staticobject_begin	id=26210023	name=[Врата]	staticobject_end
+staticobject_begin	id=26210024	name=[Врата]	staticobject_end
+staticobject_begin	id=26210025	name=[Врата]	staticobject_end
+staticobject_begin	id=26210026	name=[Врата]	staticobject_end
+staticobject_begin	id=26210027	name=[Врата]	staticobject_end
+staticobject_begin	id=26210028	name=[Врата]	staticobject_end
+staticobject_begin	id=26210029	name=[Врата]	staticobject_end
+staticobject_begin	id=26210030	name=[Врата]	staticobject_end
+staticobject_begin	id=26210031	name=[Врата]	staticobject_end
+staticobject_begin	id=26210032	name=[Врата]	staticobject_end
+staticobject_begin	id=26210005	name=[Врата]	staticobject_end
+staticobject_begin	id=26210004	name=[Врата]	staticobject_end
+staticobject_begin	id=26210006	name=[Врата]	staticobject_end
+staticobject_begin	id=26210003	name=[Врата]	staticobject_end
+staticobject_begin	id=24240024	name=[Врата]	staticobject_end
+staticobject_begin	id=14220100	name=[Врата]	staticobject_end
+staticobject_begin	id=14220101	name=[Врата]	staticobject_end
+staticobject_begin	id=23220104	name=[Врата]	staticobject_end
+staticobject_begin	id=23220103	name=[Врата]	staticobject_end
+staticobject_begin	id=23220102	name=[Врата]	staticobject_end
+staticobject_begin	id=23220101	name=[Гнездо Крофинов]	staticobject_end
+staticobject_begin	id=24240025	name=[Врата]	staticobject_end
+staticobject_begin	id=24240026	name=[Врата]	staticobject_end
+staticobject_begin	id=26200005	name=[Над подъемником Аркана]	staticobject_end
+staticobject_begin	id=26200002	name=[Под подъемником Аркана]	staticobject_end
+staticobject_begin	id=26200003	name=[Под подъемником Аркана]	staticobject_end
+staticobject_begin	id=26200004	name=[Над подъемником Аркана]	staticobject_end
+staticobject_begin	id=26210001	name=[Врата]	staticobject_end
+staticobject_begin	id=26210002	name=[Врата]	staticobject_end
+staticobject_begin	id=26210101	name=[Врата]	staticobject_end
+staticobject_begin	id=26210102	name=[Врата]	staticobject_end
+staticobject_begin	id=26210103	name=[Врата]	staticobject_end
+staticobject_begin	id=26210104	name=[Врата]	staticobject_end
+staticobject_begin	id=26210105	name=[Врата]	staticobject_end
+staticobject_begin	id=26210106	name=[Врата]	staticobject_end
+staticobject_begin	id=16240001	name=[Врата]	staticobject_end
+staticobject_begin	id=16240002	name=[Врата]	staticobject_end
+staticobject_begin	id=16240003	name=[Врата]	staticobject_end
+staticobject_begin	id=16240004	name=[Врата]	staticobject_end
+staticobject_begin	id=16240005	name=[Врата]	staticobject_end
+staticobject_begin	id=16240006	name=[Врата]	staticobject_end
+staticobject_begin	id=16240007	name=[Врата]	staticobject_end
+staticobject_begin	id=16240008	name=[Врата]	staticobject_end
+staticobject_begin	id=22120001	name=[Врата]	staticobject_end
+staticobject_begin	id=20210004	name=[Над подъемником Крумы]	staticobject_end
+staticobject_begin	id=20210005	name=[Под подъемником Крумы]	staticobject_end
+staticobject_begin	id=21120001	name=[Врата]	staticobject_end
+staticobject_begin	id=21120002	name=[Врата]	staticobject_end
+staticobject_begin	id=16240100	name=[Врата]	staticobject_end
+staticobject_begin	id=16240102	name=[Врата]	staticobject_end
+staticobject_begin	id=25180001	name=[Врата]	staticobject_end
+staticobject_begin	id=25180002	name=[Врата]	staticobject_end
+staticobject_begin	id=25180003	name=[Врата]	staticobject_end
+staticobject_begin	id=25180004	name=[Врата]	staticobject_end
+staticobject_begin	id=25180005	name=[Врата]	staticobject_end
+staticobject_begin	id=25180006	name=[Врата]	staticobject_end
+staticobject_begin	id=25180007	name=[Врата]	staticobject_end
+staticobject_begin	id=26200100	name=[Врата]	staticobject_end
+staticobject_begin	id=23180001	name=[Комната Халлета]	staticobject_end
+staticobject_begin	id=23180002	name=[Комната Халлета]	staticobject_end
+staticobject_begin	id=23180003	name=[Врата]	staticobject_end
+staticobject_begin	id=23180004	name=[Врата]	staticobject_end
+staticobject_begin	id=23180006	name=[Врата]	staticobject_end
+staticobject_begin	id=23180005	name=[Врата]	staticobject_end
+staticobject_begin	id=16170001	name=[Врата]	staticobject_end
+staticobject_begin	id=16170002	name=[Врата]	staticobject_end
+staticobject_begin	id=16170003	name=[Врата]	staticobject_end
+staticobject_begin	id=16170011	name=[Врата]	staticobject_end
+staticobject_begin	id=16170012	name=[Врата]	staticobject_end
+staticobject_begin	id=16170013	name=[Врата]	staticobject_end
+staticobject_begin	id=16180031	name=[Врата]	staticobject_end
+staticobject_begin	id=16180032	name=[Врата]	staticobject_end
+staticobject_begin	id=16180033	name=[Врата]	staticobject_end
+staticobject_begin	id=22110201	name=[Врата]	staticobject_end
+staticobject_begin	id=15240001	name=[Врата]	staticobject_end
+staticobject_begin	id=15240002	name=[Врата]	staticobject_end
+staticobject_begin	id=17100601	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=17100602	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=16200201	name=[Врата]	staticobject_end
+staticobject_begin	id=20130002	name=[Врата]	staticobject_end
+staticobject_begin	id=20130004	name=[Врата]	staticobject_end
+staticobject_begin	id=20130006	name=[Врата]	staticobject_end
+staticobject_begin	id=20130008	name=[Врата]	staticobject_end
+staticobject_begin	id=20130010	name=[Врата]	staticobject_end
+staticobject_begin	id=20130012	name=[Врата]	staticobject_end
+staticobject_begin	id=20130014	name=[Врата]	staticobject_end
+staticobject_begin	id=20130016	name=[Врата]	staticobject_end
+staticobject_begin	id=20130018	name=[Врата]	staticobject_end
+staticobject_begin	id=20130020	name=[Врата]	staticobject_end
+staticobject_begin	id=20130022	name=[Врата]	staticobject_end
+staticobject_begin	id=20130024	name=[Врата]	staticobject_end
+staticobject_begin	id=20130026	name=[Врата]	staticobject_end
+staticobject_begin	id=20130028	name=[Врата]	staticobject_end
+staticobject_begin	id=20130030	name=[Врата]	staticobject_end
+staticobject_begin	id=20130032	name=[Врата]	staticobject_end
+staticobject_begin	id=19210111	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210112	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210113	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210114	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210115	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210116	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210117	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=19210118	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220119	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220120	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220121	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220122	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220123	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220124	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220125	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20220126	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20230101	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20230102	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20230103	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=20230104	name=[Дверь Обители Клана]	staticobject_end
+staticobject_begin	id=13250001	name=[Врата]	staticobject_end
+staticobject_begin	id=13250002	name=[Врата]	staticobject_end
+staticobject_begin	id=13250003	name=[Врата]	staticobject_end
+staticobject_begin	id=13250004	name=[Врата]	staticobject_end
+staticobject_begin	id=13250005	name=[Врата]	staticobject_end
+staticobject_begin	id=13250006	name=[Врата]	staticobject_end
+staticobject_begin	id=13250007	name=[Врата]	staticobject_end
+staticobject_begin	id=13250008	name=[Врата]	staticobject_end
+staticobject_begin	id=13250009	name=[Врата]	staticobject_end
+staticobject_begin	id=13250010	name=[Врата]	staticobject_end
+staticobject_begin	id=13250011	name=[Врата]	staticobject_end
+staticobject_begin	id=13250012	name=[Врата]	staticobject_end
+staticobject_begin	id=13250013	name=[Врата]	staticobject_end
+staticobject_begin	id=13250014	name=[Врата]	staticobject_end
+staticobject_begin	id=13250015	name=[Врата]	staticobject_end
+staticobject_begin	id=13250016	name=[Врата]	staticobject_end
+staticobject_begin	id=13250017	name=[Врата]	staticobject_end
+staticobject_begin	id=13250018	name=[Врата]	staticobject_end
+staticobject_begin	id=13250019	name=[Врата]	staticobject_end
+staticobject_begin	id=13250020	name=[Врата]	staticobject_end
+staticobject_begin	id=17110001	name=[Врата]	staticobject_end
+staticobject_begin	id=17110002	name=[Врата]	staticobject_end
+staticobject_begin	id=17110003	name=[Врата]	staticobject_end
+staticobject_begin	id=17110004	name=[Врата]	staticobject_end
+staticobject_begin	id=17110005	name=[Врата]	staticobject_end
+staticobject_begin	id=17110006	name=[Врата]	staticobject_end
+staticobject_begin	id=17110007	name=[Врата]	staticobject_end
+staticobject_begin	id=17110008	name=[Врата]	staticobject_end
+staticobject_begin	id=17110009	name=[Врата]	staticobject_end
+staticobject_begin	id=17110010	name=[Врата]	staticobject_end
+staticobject_begin	id=17110011	name=[Врата]	staticobject_end
+staticobject_begin	id=17110012	name=[Врата]	staticobject_end
+staticobject_begin	id=17110013	name=[Врата]	staticobject_end
+staticobject_begin	id=17110014	name=[Врата]	staticobject_end
+staticobject_begin	id=17110015	name=[Врата]	staticobject_end
+staticobject_begin	id=17230101	name=[Зал Предсказаний]	staticobject_end
+staticobject_begin	id=17230102	name=[Зал Предсказаний]	staticobject_end
+staticobject_begin	id=17230103	name=[Зал Предсказаний]	staticobject_end
+staticobject_begin	id=17230104	name=[Зал Предсказаний]	staticobject_end
+staticobject_begin	id=18170002	name=[Врата]	staticobject_end
+staticobject_begin	id=18170004	name=[Врата]	staticobject_end
+staticobject_begin	id=18170006	name=[Врата]	staticobject_end
+staticobject_begin	id=18170008	name=[Врата]	staticobject_end
+staticobject_begin	id=25140004	name=[Врата]	staticobject_end
+staticobject_begin	id=25140005	name=[Врата]	staticobject_end
+staticobject_begin	id=25140006	name=[Врата]	staticobject_end
+staticobject_begin	id=18200001	name=[Воля Кроамиса]	staticobject_end
+staticobject_begin	id=18200002	name=[Воля Кроамиса]	staticobject_end
+staticobject_begin	id=18190002	name=[Астатиновые Врата]	staticobject_end
+staticobject_begin	id=18190004	name=[Астатиновые Врата]	staticobject_end
+staticobject_begin	id=18190100	name=[Магическая Тюрьма]	staticobject_end
+staticobject_begin	id=18190102	name=[Магическая Тюрьма]	staticobject_end
+staticobject_begin	id=18190104	name=[Магическая Тюрьма]	staticobject_end
+staticobject_begin	id=18190106	name=[Магическая Тюрьма]	staticobject_end
+staticobject_begin	id=26150104	name=[Врата]	staticobject_end
+staticobject_begin	id=26150106	name=[Врата]	staticobject_end
+staticobject_begin	id=26150108	name=[Врата]	staticobject_end
+staticobject_begin	id=24130002	name=[Врата]	staticobject_end
+staticobject_begin	id=26160602	name=[Врата]	staticobject_end
+staticobject_begin	id=18130010	name=[Стул]	staticobject_end
+staticobject_begin	id=18130011	name=[Стул]	staticobject_end
+staticobject_begin	id=18130012	name=[Стул]	staticobject_end
+staticobject_begin	id=18130013	name=[Стул]	staticobject_end
+staticobject_begin	id=18130014	name=[Стул]	staticobject_end
+staticobject_begin	id=18130015	name=[Стул]	staticobject_end
+staticobject_begin	id=18130016	name=[Стул]	staticobject_end
+staticobject_begin	id=18130020	name=[Стул]	staticobject_end
+staticobject_begin	id=18130021	name=[Стул]	staticobject_end
+staticobject_begin	id=18130022	name=[Стул]	staticobject_end
+staticobject_begin	id=18130023	name=[Стул]	staticobject_end
+staticobject_begin	id=18130024	name=[Стул]	staticobject_end
+staticobject_begin	id=18130025	name=[Стул]	staticobject_end
+staticobject_begin	id=18130026	name=[Стул]	staticobject_end
+staticobject_begin	id=18130030	name=[Стул]	staticobject_end
+staticobject_begin	id=18130031	name=[Стул]	staticobject_end
+staticobject_begin	id=18130032	name=[Стул]	staticobject_end
+staticobject_begin	id=18130033	name=[Стул]	staticobject_end
+staticobject_begin	id=18130034	name=[Стул]	staticobject_end
+staticobject_begin	id=18130035	name=[Стул]	staticobject_end
+staticobject_begin	id=18130036	name=[Стул]	staticobject_end
+staticobject_begin	id=18130040	name=[Стул]	staticobject_end
+staticobject_begin	id=18130041	name=[Стул]	staticobject_end
+staticobject_begin	id=18130042	name=[Стул]	staticobject_end
+staticobject_begin	id=18130043	name=[Стул]	staticobject_end
+staticobject_begin	id=18130044	name=[Стул]	staticobject_end
+staticobject_begin	id=18130045	name=[Стул]	staticobject_end
+staticobject_begin	id=18130046	name=[Стул]	staticobject_end
+staticobject_begin	id=18130050	name=[Стул]	staticobject_end
+staticobject_begin	id=18130051	name=[Стул]	staticobject_end
+staticobject_begin	id=18130052	name=[Стул]	staticobject_end
+staticobject_begin	id=18130053	name=[Стул]	staticobject_end
+staticobject_begin	id=18130054	name=[Стул]	staticobject_end
+staticobject_begin	id=18130055	name=[Стул]	staticobject_end
+staticobject_begin	id=18130056	name=[Стул]	staticobject_end
+staticobject_begin	id=25190021	name=[Дверь Реликвии]	staticobject_end
+staticobject_begin	id=25190022	name=[Дверь Реликвии]	staticobject_end
+staticobject_begin	id=25190023	name=[Дверь Реликвии]	staticobject_end
+staticobject_begin	id=25190024	name=[Дверь Реликвии]	staticobject_end
+staticobject_begin	id=25190025	name=[Дверь Реликвии]	staticobject_end
+staticobject_begin	id=25190026	name=[Дверь Реликвии]	staticobject_end
+staticobject_begin	id=25190027	name=[Дверь Реликвии]	staticobject_end
+staticobject_begin	id=22230711	name=[Дверь в комнату с устройством управления]	staticobject_end
+staticobject_begin	id=12220001	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=12220002	name=[Врата Внутреннего Двора]	staticobject_end
+staticobject_begin	id=17100402	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=17100401	name=[Врата Олимпиады]	staticobject_end
+staticobject_begin	id=26130001	name=[Врата]	staticobject_end
+staticobject_begin	id=26130002	name=[Врата]	staticobject_end
+staticobject_begin	id=26130003	name=[Врата]	staticobject_end
+staticobject_begin	id=26130004	name=[Врата]	staticobject_end
+staticobject_begin	id=26130005	name=[Врата]	staticobject_end
+staticobject_begin	id=26130006	name=[Врата]	staticobject_end
+staticobject_begin	id=12230702	name=[Врата Внешнего Двора Великого Храма]	staticobject_end
+staticobject_begin	id=12230704	name=[Врата Внешнего Двора Великого Храма]	staticobject_end
+staticobject_begin	id=12230802	name=[Врата Внутреннего Двора Великого Храма]	staticobject_end
+staticobject_begin	id=12230804	name=[Врата Внутреннего Двора Великого Храма]	staticobject_end
+staticobject_begin	id=18110007	name=[Врата]	staticobject_end
+staticobject_begin	id=18110008	name=[Врата]	staticobject_end
+staticobject_begin	id=18110009	name=[Врата]	staticobject_end
+staticobject_begin	id=18110010	name=[Врата]	staticobject_end
+staticobject_begin	id=18110011	name=[Врата]	staticobject_end
+staticobject_begin	id=18110012	name=[Врата]	staticobject_end
+staticobject_begin	id=18110013	name=[Врата]	staticobject_end
+staticobject_begin	id=18110014	name=[Врата]	staticobject_end
+staticobject_begin	id=18110015	name=[Врата]	staticobject_end
+staticobject_begin	id=19180101	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180102	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180103	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180104	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180105	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180106	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180107	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180108	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180109	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180110	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180111	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180112	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180113	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180114	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180115	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=19180116	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170101	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170102	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170103	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170104	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170105	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170106	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170107	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170108	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170109	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170110	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170111	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170112	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170113	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170114	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170115	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=25170116	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=24250002	name=[Гнездо Крофинов]	staticobject_end
+staticobject_begin	id=24250004	name=[Гнездо Крофинов]	staticobject_end
+staticobject_begin	id=24250006	name=[Гнездо Крофинов]	staticobject_end
+staticobject_begin	id=25240002	name=[Скрытые Врата]	staticobject_end
+staticobject_begin	id=15180100	name=[Врата]	staticobject_end
+staticobject_begin	id=20141000	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20141002	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20141004	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20141006	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20141008	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20141010	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20141012	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20141014	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20140000	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20140002	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20140004	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20140006	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20140008	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20140010	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20140012	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20140014	name=[Тюремные Врата]	staticobject_end
+staticobject_begin	id=20140200	name=[None]	staticobject_end
+staticobject_begin	id=20140202	name=[None]	staticobject_end
+staticobject_begin	id=20140204	name=[None]	staticobject_end
+staticobject_begin	id=20140206	name=[None]	staticobject_end
+staticobject_begin	id=20140208	name=[None]	staticobject_end
+staticobject_begin	id=20140210	name=[None]	staticobject_end
+staticobject_begin	id=20140212	name=[None]	staticobject_end

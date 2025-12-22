@@ -1,0 +1,43 @@
+product_name_begin	id=2090001	outer_name=[test]	description=[]	icon=[icon.weapon_small_sword_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090002	outer_name=[Chest: 800 L-Coins]	description=[]	icon=[icon.bm_sayhas_talisman_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090003	outer_name=[Chest: 8000 L-Coins]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090004	outer_name=[Blessing of Plenty - 100% (1 day)]	description=[Item's effect is applied immediately after the purchase. The remaining time decreases even when not playing. Effects from multiple Blessing of Plenty - 100% items does not stack.]	icon=[icon.aden_bless_rune_i02]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090005	outer_name=[Blessing of Plenty - 100% (30 days)]	description=[Item's effect is applied immediately after the purchase. The remaining time decreases even when not playing. Effects from multiple Blessing of Plenty - 100% items does not stack.]	icon=[icon.aden_bless_rune_i02]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090006	outer_name=[Start Package]	description=[Blessing of Plenty - 100% (Event) 3 days effect is applied immediately after the purchase. Does not stack with the Blessing of Plenty - 100% 1/30 days.]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Start the great path!]	product_name_end
+product_name_begin	id=2090007	outer_name=[Pack with C grade Weapon]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090008	outer_name=[Sayha's Support Pack]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090009	outer_name=[Special Grow Pack]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090010	outer_name=[Sayha's Grace Box]	description=[]	icon=[icon.bm_2018_special_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090011	outer_name=[Brooch Lv. 5 (30 days)]	description=[]	icon=[icon.etc_bm_brooch_lavianrose_i06]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090012	outer_name=[Ruby Lv. 5 (3 days)]	description=[]	icon=[icon.etc_bm_jewel_ruby_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090013	outer_name=[Sapphire Lv. 5 (3 days)]	description=[]	icon=[icon.etc_bm_jewel_sapphire_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090014	outer_name=[Magic Lantern Replenishing Potion]	description=[]	icon=[icon.etc_recall_potion2]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090015	outer_name=[Onyx Lv. 4 (3 days)]	description=[]	icon=[icon.etc_bm_jewel_onyx_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090016	outer_name=[Moonstone Lv. 4 (3 days)]	description=[]	icon=[icon.etc_bm_jewel_moonstone_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090017	outer_name=[Exping Acceleration Pack]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090018	outer_name=[Sayha's Blessing Chest]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090019	outer_name=[Sayha's Blessing Chest (x20)]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090020	outer_name=[Sayha's Effect Chest]	description=[]	icon=[icon.present_of_destination_event]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090021	outer_name=[Sayha's Effect Chest (x20)]	description=[]	icon=[icon.present_of_destination_event]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090022	outer_name=[Pack with Gold Romantic Hat]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090023	outer_name=[Start Kit (Heavy Armor)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090024	outer_name=[Start Kit (Light Armor)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090025	outer_name=[Start Kit (Robe)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090026	outer_name=[Sayha's Support Pack]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Everyday care from no lesser\nthan a God of the Wind!]	product_name_end
+product_name_begin	id=2090027	outer_name=[Grace Kit: L-Coins]	description=[]	icon=[icon.npoint_earring_of_lind_30day_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090028	outer_name=[Growth Kit: L-Coins]	description=[]	icon=[icon.npoint_antaras_30day_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090029	outer_name=[L-Coins (1000 pcs.)]	description=[]	icon=[icon.bm_lcoin_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090030	outer_name=[L-Coins (8000 pcs.)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090031	outer_name=[Newbie Gift]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Gain the power of Fire Dragon\nto begin your story anew]	product_name_end
+product_name_begin	id=2090032	outer_name=[Special Grow Pack]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090033	outer_name=[Newbie Gift]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Gain the power of Fire Dragon\nto begin your story anew]	product_name_end
+product_name_begin	id=2090034	outer_name=[Start Kit (Heavy Armor)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090035	outer_name=[Start Kit (Light Armor)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090036	outer_name=[Start Kit (Robe)]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090037	outer_name=[Growth Kit: L-Coins]	description=[]	icon=[icon.npoint_antaras_30day_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090038	outer_name=[Great Hunt Pack]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090039	outer_name=[Dream Pack]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090040	outer_name=[Welcome Gift]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[Gain the power of Fire Dragon\nto begin your story anew]	product_name_end
+product_name_begin	id=2090041	outer_name=[Start Kit]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090042	outer_name=[Spirits Favor Kit]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=2090043	outer_name=[Battle Pack]	description=[]	icon=[BranchSys.icon.br_four_leaf_clover_box_i00]	icon_panel=[None]	mainsubject=[]	product_name_end

@@ -1,0 +1,1665 @@
+staticobject_begin	id=17220001	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220002	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220003	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220004	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220005	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220006	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220007	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220008	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220009	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220010	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220011	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220012	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220013	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220014	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=17220015	name=[Arena Sign]	staticobject_end
+staticobject_begin	id=17220016	name=[Arena Sign]	staticobject_end
+staticobject_begin	id=17250001	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=17250002	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=17250003	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=18140001	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=18140002	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=18140003	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=19210001	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=19210002	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=19210003	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=19210004	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=19210005	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=19210006	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=19210007	name=[Gate]	staticobject_end
+staticobject_begin	id=19210008	name=[Gate]	staticobject_end
+staticobject_begin	id=19210009	name=[Gate]	staticobject_end
+staticobject_begin	id=19210010	name=[Throne]	staticobject_end
+staticobject_begin	id=19210011	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210012	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210013	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210014	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210015	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210016	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210017	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210018	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20180001	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=20180002	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=20210001	name=[System Control Room]	staticobject_end
+staticobject_begin	id=20210002	name=[System Control Room]	staticobject_end
+staticobject_begin	id=20210003	name=[System Control Room]	staticobject_end
+staticobject_begin	id=20220001	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=20220002	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=20220003	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=20220004	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=20220005	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=20220006	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=20220007	name=[Gate]	staticobject_end
+staticobject_begin	id=20220008	name=[Gate]	staticobject_end
+staticobject_begin	id=20220009	name=[Gate]	staticobject_end
+staticobject_begin	id=20220010	name=[Throne]	staticobject_end
+staticobject_begin	id=20220011	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220012	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220013	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220014	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220015	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220016	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20230001	name=[Arena Sign]	staticobject_end
+staticobject_begin	id=20230002	name=[Arena Sign]	staticobject_end
+staticobject_begin	id=21190001	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=21190002	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=21190003	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=21210001	name=[Gate]	staticobject_end
+staticobject_begin	id=21210002	name=[Gate]	staticobject_end
+staticobject_begin	id=21240001	name=[Gate]	staticobject_end
+staticobject_begin	id=21240002	name=[Gate]	staticobject_end
+staticobject_begin	id=21240003	name=[Gate]	staticobject_end
+staticobject_begin	id=21240004	name=[Gate]	staticobject_end
+staticobject_begin	id=21240005	name=[Gate]	staticobject_end
+staticobject_begin	id=21240006	name=[Great Pirate's Secret Room]	staticobject_end
+staticobject_begin	id=22170001	name=[Iron Gate]	staticobject_end
+staticobject_begin	id=22170002	name=[Iron Gate]	staticobject_end
+staticobject_begin	id=22170003	name=[Gate]	staticobject_end
+staticobject_begin	id=22170004	name=[Gate]	staticobject_end
+staticobject_begin	id=22190001	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=22190002	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=22190003	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=22190004	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=22190005	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=22190006	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=22190007	name=[Gate]	staticobject_end
+staticobject_begin	id=22190008	name=[Gate]	staticobject_end
+staticobject_begin	id=22190009	name=[Gate]	staticobject_end
+staticobject_begin	id=22190010	name=[Throne]	staticobject_end
+staticobject_begin	id=22220001	name=[Arena Sign]	staticobject_end
+staticobject_begin	id=22220002	name=[Arena Sign]	staticobject_end
+staticobject_begin	id=22250001	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250002	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250003	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250004	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250005	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250006	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250007	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250008	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250009	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250010	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250011	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250012	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250013	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250014	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250015	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250016	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250017	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250018	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250019	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250020	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250021	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250022	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250023	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250024	name=[Water Wall]	staticobject_end
+staticobject_begin	id=22250025	name=[Secret Wall]	staticobject_end
+staticobject_begin	id=22250026	name=[Secret Wall]	staticobject_end
+staticobject_begin	id=22250027	name=[Secret Wall]	staticobject_end
+staticobject_begin	id=22250028	name=[Secret Wall]	staticobject_end
+staticobject_begin	id=23120001	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=23120002	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=23120003	name=[Village Map Bulletin]	staticobject_end
+staticobject_begin	id=23220001	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=23220002	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=23220003	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=23220004	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=23220005	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=23220006	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=23220007	name=[Gate]	staticobject_end
+staticobject_begin	id=23220008	name=[Gate]	staticobject_end
+staticobject_begin	id=23220009	name=[Gate]	staticobject_end
+staticobject_begin	id=23220010	name=[Throne]	staticobject_end
+staticobject_begin	id=23250001	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=23250002	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=23250003	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=23250004	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=23250005	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=23250006	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=23250007	name=[Gate]	staticobject_end
+staticobject_begin	id=23250008	name=[Gate]	staticobject_end
+staticobject_begin	id=23250009	name=[Gate]	staticobject_end
+staticobject_begin	id=23250010	name=[Throne]	staticobject_end
+staticobject_begin	id=24180001	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=24180002	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=24180003	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=24180004	name=[Hall Gate]	staticobject_end
+staticobject_begin	id=24180005	name=[Hall Gate]	staticobject_end
+staticobject_begin	id=24180006	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=24180007	name=[Gate]	staticobject_end
+staticobject_begin	id=24180008	name=[Gate]	staticobject_end
+staticobject_begin	id=24180009	name=[Gate]	staticobject_end
+staticobject_begin	id=24180010	name=[Gate]	staticobject_end
+staticobject_begin	id=24180011	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=24180012	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=24180013	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=24180014	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=24180015	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=24180016	name=[Gate]	staticobject_end
+staticobject_begin	id=24180017	name=[Throne]	staticobject_end
+staticobject_begin	id=24180018	name=[Gate]	staticobject_end
+staticobject_begin	id=24180019	name=[Gate]	staticobject_end
+staticobject_begin	id=24180020	name=[Gate]	staticobject_end
+staticobject_begin	id=24180021	name=[Gate]	staticobject_end
+staticobject_begin	id=24190001	name=[Western Gate]	staticobject_end
+staticobject_begin	id=24190002	name=[Western Gate]	staticobject_end
+staticobject_begin	id=24190003	name=[Eastern Gate]	staticobject_end
+staticobject_begin	id=24190004	name=[Eastern Gate]	staticobject_end
+staticobject_begin	id=24180022	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180023	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180024	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180025	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180026	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180027	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180028	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180029	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180030	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180031	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180032	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24180033	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=25170001	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=25170002	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=25170003	name=[Gate]	staticobject_end
+staticobject_begin	id=25170004	name=[Gate]	staticobject_end
+staticobject_begin	id=25170005	name=[Gate]	staticobject_end
+staticobject_begin	id=25170006	name=[Gate]	staticobject_end
+staticobject_begin	id=24160010	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=24160009	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=24160017	name=[Gate]	staticobject_end
+staticobject_begin	id=24160018	name=[Gate]	staticobject_end
+staticobject_begin	id=24160015	name=[Gate]	staticobject_end
+staticobject_begin	id=24160016	name=[Gate]	staticobject_end
+staticobject_begin	id=24160011	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=24160012	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=24160013	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=24160014	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=24160019	name=[Gate]	staticobject_end
+staticobject_begin	id=24160020	name=[Gate]	staticobject_end
+staticobject_begin	id=24160023	name=[Gate]	staticobject_end
+staticobject_begin	id=24160021	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=24160022	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=24160001	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24160002	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24160003	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24160004	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24160005	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24160006	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24160007	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24160008	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22220007	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22220008	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22220009	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22220010	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22220012	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22220011	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22220006	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22220005	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22220003	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22220004	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=25150011	name=[Entrance to the Judges' Sepulcher]	staticobject_end
+staticobject_begin	id=25150012	name=[Hall of Viscounts Gate]	staticobject_end
+staticobject_begin	id=25150013	name=[Count's Hall Gate]	staticobject_end
+staticobject_begin	id=25150014	name=[Marquis' Hall Gate]	staticobject_end
+staticobject_begin	id=25150015	name=[Hall of Dukes Gate]	staticobject_end
+staticobject_begin	id=25150016	name=[Imperial Tomb Gate]	staticobject_end
+staticobject_begin	id=25150001	name=[Entrance to the Judges' Sepulcher]	staticobject_end
+staticobject_begin	id=25150002	name=[Hall of Viscounts Gate]	staticobject_end
+staticobject_begin	id=25150003	name=[Count's Hall Gate]	staticobject_end
+staticobject_begin	id=25150004	name=[Marquis' Hall Gate]	staticobject_end
+staticobject_begin	id=25150005	name=[Hall of Dukes Gate]	staticobject_end
+staticobject_begin	id=25150006	name=[Imperial Tomb Gate]	staticobject_end
+staticobject_begin	id=25150031	name=[Entrance to the Judges' Sepulcher]	staticobject_end
+staticobject_begin	id=25150032	name=[Hall of Viscounts Gate]	staticobject_end
+staticobject_begin	id=25150033	name=[Count's Hall Gate]	staticobject_end
+staticobject_begin	id=25150034	name=[Marquis' Hall Gate]	staticobject_end
+staticobject_begin	id=25150035	name=[Hall of Dukes Gate]	staticobject_end
+staticobject_begin	id=25150036	name=[Imperial Tomb Gate]	staticobject_end
+staticobject_begin	id=25150021	name=[Entrance to the Judges' Sepulcher]	staticobject_end
+staticobject_begin	id=25150022	name=[Hall of Viscounts Gate]	staticobject_end
+staticobject_begin	id=25150023	name=[Count's Hall Gate]	staticobject_end
+staticobject_begin	id=25150024	name=[Marquis' Hall Gate]	staticobject_end
+staticobject_begin	id=25150025	name=[Hall of Dukes Gate]	staticobject_end
+staticobject_begin	id=25150026	name=[Imperial Tomb Gate]	staticobject_end
+staticobject_begin	id=24210004	name=[Gate]	staticobject_end
+staticobject_begin	id=24210005	name=[Gate]	staticobject_end
+staticobject_begin	id=24210006	name=[Gate]	staticobject_end
+staticobject_begin	id=24140007	name=[Gate]	staticobject_end
+staticobject_begin	id=24140008	name=[Gate]	staticobject_end
+staticobject_begin	id=24140003	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24140004	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24140001	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24140002	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24140005	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24140006	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=24160024	name=[Throne]	staticobject_end
+staticobject_begin	id=19160010	name=[Chapel Door]	staticobject_end
+staticobject_begin	id=19160011	name=[Chapel Door]	staticobject_end
+staticobject_begin	id=19160001	name=[Temple Gate]	staticobject_end
+staticobject_begin	id=19160006	name=[Anteroom Door]	staticobject_end
+staticobject_begin	id=19160005	name=[Anteroom Door]	staticobject_end
+staticobject_begin	id=19160002	name=[Anteroom Door]	staticobject_end
+staticobject_begin	id=19160009	name=[Anteroom Door]	staticobject_end
+staticobject_begin	id=19160008	name=[Anteroom Door]	staticobject_end
+staticobject_begin	id=19160007	name=[Anteroom Door]	staticobject_end
+staticobject_begin	id=19160003	name=[Anteroom Door]	staticobject_end
+staticobject_begin	id=19160004	name=[Anteroom Door]	staticobject_end
+staticobject_begin	id=19160014	name=[Altar Entrance]	staticobject_end
+staticobject_begin	id=19160015	name=[Altar Entrance]	staticobject_end
+staticobject_begin	id=19160012	name=[Door of Darkness]	staticobject_end
+staticobject_begin	id=19160013	name=[Door of Darkness]	staticobject_end
+staticobject_begin	id=19160017	name=[Altar Entrance]	staticobject_end
+staticobject_begin	id=19160016	name=[Altar Entrance]	staticobject_end
+staticobject_begin	id=20160007	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=20160008	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=20160009	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=20160001	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=20160002	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=20160006	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=20160003	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=20160004	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=20160005	name=[Gate]	staticobject_end
+staticobject_begin	id=20160010	name=[Throne]	staticobject_end
+staticobject_begin	id=21150002	name=[Gate]	staticobject_end
+staticobject_begin	id=21150001	name=[Gate]	staticobject_end
+staticobject_begin	id=21150003	name=[Gate]	staticobject_end
+staticobject_begin	id=21150004	name=[Gate]	staticobject_end
+staticobject_begin	id=21150005	name=[Fence]	staticobject_end
+staticobject_begin	id=21150006	name=[Fence]	staticobject_end
+staticobject_begin	id=21150007	name=[Fence]	staticobject_end
+staticobject_begin	id=21150008	name=[Fence]	staticobject_end
+staticobject_begin	id=21150009	name=[Fence]	staticobject_end
+staticobject_begin	id=21160002	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160001	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160004	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160003	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160006	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160005	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160008	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160007	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160010	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160009	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160012	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160011	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160014	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21160013	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=21170002	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=21170001	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=21170003	name=[Gate]	staticobject_end
+staticobject_begin	id=21170004	name=[Gate]	staticobject_end
+staticobject_begin	id=21170006	name=[Gate]	staticobject_end
+staticobject_begin	id=21170005	name=[Gate]	staticobject_end
+staticobject_begin	id=22130002	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=22130001	name=[Outer Castle Gate]	staticobject_end
+staticobject_begin	id=22130011	name=[Gate]	staticobject_end
+staticobject_begin	id=22130010	name=[Gate]	staticobject_end
+staticobject_begin	id=22130015	name=[Gate]	staticobject_end
+staticobject_begin	id=22130014	name=[Gate]	staticobject_end
+staticobject_begin	id=22130007	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=22130006	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=22130009	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=22130008	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=22130003	name=[Gate]	staticobject_end
+staticobject_begin	id=22130013	name=[Gate]	staticobject_end
+staticobject_begin	id=22130012	name=[Gate]	staticobject_end
+staticobject_begin	id=22130005	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=22130004	name=[Castle Wall]	staticobject_end
+staticobject_begin	id=22130016	name=[Throne]	staticobject_end
+staticobject_begin	id=22130017	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22130018	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22130020	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22130019	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22130022	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22130021	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22130024	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=22130023	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=23140001	name=[Ice Wall]	staticobject_end
+staticobject_begin	id=23140002	name=[Ice Wall]	staticobject_end
+staticobject_begin	id=23150001	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=23150002	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=23150003	name=[Gate of Splendor]	staticobject_end
+staticobject_begin	id=23150004	name=[Gate of Splendor]	staticobject_end
+staticobject_begin	id=25150042	name=[Mausoleum Gates]	staticobject_end
+staticobject_begin	id=25150043	name=[Mausoleum Gates]	staticobject_end
+staticobject_begin	id=25150045	name=[Mausoleum Gates]	staticobject_end
+staticobject_begin	id=25150046	name=[Mausoleum Gates]	staticobject_end
+staticobject_begin	id=25150051	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150052	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150053	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150054	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150055	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150056	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150057	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150058	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150061	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150062	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150063	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150064	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150065	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150066	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150067	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150068	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150069	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=25150070	name=[Gate of Errors]	staticobject_end
+staticobject_begin	id=18220001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=18220002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=18220003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=18220004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=18220005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=18220006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=18220007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=18220008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240009	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240010	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240011	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=19240012	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20200001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20200002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20200003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20200004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20200005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20200006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20200007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20200008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220017	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220018	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220019	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220020	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220021	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220022	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220023	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220024	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220025	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220026	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220027	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20220028	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20230003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20230004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20230005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20230006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20230007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20230008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20230009	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=20230010	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=21220001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=21220002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=21220003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=21220004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=21220005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=21220006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=21220007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=21220008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22150001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22150002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22150003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22150004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22150005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22150006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22150007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22150008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160009	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160010	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160011	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22160012	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22180001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22180002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22180003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22180004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22180005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22180006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22180007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22180008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200009	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200010	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200011	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22200012	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22230001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22230002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22230003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22230004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22230005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22230006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22230007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=22230008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23130001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23130002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23130003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23130004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23130005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23130006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23130007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23130008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23160001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23160002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23160003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23160004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23160005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23160006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23160007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23160008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170009	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170010	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170011	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23170012	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200009	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200010	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200011	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23200012	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210009	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210010	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210011	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23210012	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23240001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23240002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23240003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23240004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23240005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23240006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23240007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=23240008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150009	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150010	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150011	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24150012	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24190005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24190006	name=[Command Gate]	staticobject_end
+staticobject_begin	id=24190007	name=[Command Gate]	staticobject_end
+staticobject_begin	id=24190008	name=[Command Gate]	staticobject_end
+staticobject_begin	id=24190009	name=[Command Gate]	staticobject_end
+staticobject_begin	id=24190010	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24190011	name=[Barracks Doors]	staticobject_end
+staticobject_begin	id=24190012	name=[Barracks Doors]	staticobject_end
+staticobject_begin	id=25190001	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190002	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190003	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190004	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190005	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190006	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190007	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190008	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190009	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190010	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190011	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=25190012	name=[Fort Gate]	staticobject_end
+staticobject_begin	id=24170001	name=[Gateway]	staticobject_end
+staticobject_begin	id=16200001	name=[Warrior's Gate]	staticobject_end
+staticobject_begin	id=16200002	name=[Kamael's Gate]	staticobject_end
+staticobject_begin	id=16200003	name=[Spicula's Gate]	staticobject_end
+staticobject_begin	id=16200004	name=[Midway Gate]	staticobject_end
+staticobject_begin	id=16200005	name=[Gate of Archives]	staticobject_end
+staticobject_begin	id=16200006	name=[Katenar Gate]	staticobject_end
+staticobject_begin	id=16200007	name=[Harkilgamed Gate]	staticobject_end
+staticobject_begin	id=16200008	name=[Rodenpicula Gate]	staticobject_end
+staticobject_begin	id=16200009	name=[Gate of Observation]	staticobject_end
+staticobject_begin	id=16200010	name=[Arviterre's Gate]	staticobject_end
+staticobject_begin	id=16200011	name=[Gate of Prediction]	staticobject_end
+staticobject_begin	id=16200012	name=[Gate]	staticobject_end
+staticobject_begin	id=16200013	name=[Gate]	staticobject_end
+staticobject_begin	id=16200014	name=[Gate]	staticobject_end
+staticobject_begin	id=16200015	name=[Gate]	staticobject_end
+staticobject_begin	id=16200016	name=[Gate]	staticobject_end
+staticobject_begin	id=16200023	name=[Gate]	staticobject_end
+staticobject_begin	id=16200024	name=[Gate]	staticobject_end
+staticobject_begin	id=16200025	name=[Gate]	staticobject_end
+staticobject_begin	id=24220009	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=24220011	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=24220012	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=24220014	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=24220015	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=24220016	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=24220017	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=24220019	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=24220010	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=24220013	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=24220018	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=24220008	name=[Crystal Caverns Gate]	staticobject_end
+staticobject_begin	id=18110001	name=[Dark Cloud Mansion Gate]	staticobject_end
+staticobject_begin	id=18110002	name=[Gate of Faith]	staticobject_end
+staticobject_begin	id=18110005	name=[Gate of Test]	staticobject_end
+staticobject_begin	id=18110003	name=[Midway Gate]	staticobject_end
+staticobject_begin	id=18110004	name=[Adventurer's Gateway]	staticobject_end
+staticobject_begin	id=18110006	name=[Gate]	staticobject_end
+staticobject_begin	id=24220024	name=[Coral Garden Gateway]	staticobject_end
+staticobject_begin	id=24220021	name=[East Chromatic Gate]	staticobject_end
+staticobject_begin	id=24220020	name=[Sapphire Gate]	staticobject_end
+staticobject_begin	id=24220002	name=[Secret Garden Gate]	staticobject_end
+staticobject_begin	id=24220003	name=[Secret Garden Gate]	staticobject_end
+staticobject_begin	id=24220004	name=[Secret Garden Gate]	staticobject_end
+staticobject_begin	id=24220001	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=24220005	name=[Gate]	staticobject_end
+staticobject_begin	id=24220006	name=[Gate]	staticobject_end
+staticobject_begin	id=24220007	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=24220022	name=[Corridor Gate]	staticobject_end
+staticobject_begin	id=24220023	name=[Volcanic Gate]	staticobject_end
+staticobject_begin	id=24220025	name=[Coral Garden Gateway]	staticobject_end
+staticobject_begin	id=24220026	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=24220030	name=[Gate]	staticobject_end
+staticobject_begin	id=24220031	name=[Gate]	staticobject_end
+staticobject_begin	id=24220032	name=[Gate]	staticobject_end
+staticobject_begin	id=24220033	name=[Gate]	staticobject_end
+staticobject_begin	id=24220034	name=[Gate]	staticobject_end
+staticobject_begin	id=24220035	name=[Coral Garden Hall Gate]	staticobject_end
+staticobject_begin	id=24220036	name=[Gate]	staticobject_end
+staticobject_begin	id=24220037	name=[Gate]	staticobject_end
+staticobject_begin	id=24220038	name=[Gate]	staticobject_end
+staticobject_begin	id=24220039	name=[Coral Garden Hall Gate]	staticobject_end
+staticobject_begin	id=24220040	name=[Underground Warehouse]	staticobject_end
+staticobject_begin	id=24220041	name=[Coral Garden Hall Gate]	staticobject_end
+staticobject_begin	id=24220042	name=[Treasure Room]	staticobject_end
+staticobject_begin	id=24220043	name=[Gate]	staticobject_end
+staticobject_begin	id=24220044	name=[Gate]	staticobject_end
+staticobject_begin	id=24220045	name=[Coral Garden Hall Gate]	staticobject_end
+staticobject_begin	id=24220046	name=[Gate]	staticobject_end
+staticobject_begin	id=24220047	name=[Gate]	staticobject_end
+staticobject_begin	id=24220048	name=[Gate]	staticobject_end
+staticobject_begin	id=24220049	name=[Gate]	staticobject_end
+staticobject_begin	id=24220050	name=[Gate]	staticobject_end
+staticobject_begin	id=18220500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=19240500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=20230500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=23210500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=22180500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=24190500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=25190500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=23240500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=24150500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=22160500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=23130500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=20220500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=18200500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=21220500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=20200500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=22200500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=23170500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=23200500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=22230500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=23160500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=22150500	name=[Flagpole]	staticobject_end
+staticobject_begin	id=24230001	name=[Dark Cloud Mansion Gate]	staticobject_end
+staticobject_begin	id=24230002	name=[Gate of Faith]	staticobject_end
+staticobject_begin	id=24230005	name=[Gate of Test]	staticobject_end
+staticobject_begin	id=24230003	name=[Midway Gate]	staticobject_end
+staticobject_begin	id=24230004	name=[Adventurer's Gateway]	staticobject_end
+staticobject_begin	id=24230006	name=[Gate of Truth]	staticobject_end
+staticobject_begin	id=19250001	name=[Gate]	staticobject_end
+staticobject_begin	id=20260001	name=[Gate or Darkness]	staticobject_end
+staticobject_begin	id=20260002	name=[Bloody Gate]	staticobject_end
+staticobject_begin	id=20260003	name=[Closed Gate]	staticobject_end
+staticobject_begin	id=20260004	name=[Closed Gate]	staticobject_end
+staticobject_begin	id=20260005	name=[Bloody Gate]	staticobject_end
+staticobject_begin	id=20260006	name=[Gate of Destruction]	staticobject_end
+staticobject_begin	id=20250001	name=[Iron Castle Gate]	staticobject_end
+staticobject_begin	id=20250002	name=[Wounded Passage]	staticobject_end
+staticobject_begin	id=19250002	name=[Gate]	staticobject_end
+staticobject_begin	id=19250003	name=[Old Gate]	staticobject_end
+staticobject_begin	id=19250004	name=[Old Gate]	staticobject_end
+staticobject_begin	id=19260001	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260002	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260003	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260004	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260005	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260006	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260007	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260008	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260009	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260010	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260011	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260012	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260013	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260014	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260015	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260016	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260017	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260018	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260019	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260020	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260021	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260022	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260023	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260051	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260052	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260100	name=[Foundry Gate: 1st Floor]	staticobject_end
+staticobject_begin	id=19260101	name=[Foundry Gate: 1st Floor]	staticobject_end
+staticobject_begin	id=17100001	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=17100002	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=17190001	name=[Red Gate]	staticobject_end
+staticobject_begin	id=16200017	name=[Bridge]	staticobject_end
+staticobject_begin	id=16200018	name=[Bridge]	staticobject_end
+staticobject_begin	id=16200019	name=[Bridge]	staticobject_end
+staticobject_begin	id=24220061	name=[Volcanic Gate]	staticobject_end
+staticobject_begin	id=24220060	name=[Gate]	staticobject_end
+staticobject_begin	id=16200022	name=[Kamael Tattoo]	staticobject_end
+staticobject_begin	id=24230101	name=[Crystalline Golem Epitaph]	staticobject_end
+staticobject_begin	id=24230007	name=[Wall]	staticobject_end
+staticobject_begin	id=24230008	name=[Wall]	staticobject_end
+staticobject_begin	id=24230009	name=[Wall]	staticobject_end
+staticobject_begin	id=24230010	name=[Wall]	staticobject_end
+staticobject_begin	id=24230011	name=[Wall]	staticobject_end
+staticobject_begin	id=24230012	name=[Wall]	staticobject_end
+staticobject_begin	id=24230013	name=[Wall]	staticobject_end
+staticobject_begin	id=18250101	name=[Gate]	staticobject_end
+staticobject_begin	id=18250001	name=[Gate]	staticobject_end
+staticobject_begin	id=18250002	name=[Gate]	staticobject_end
+staticobject_begin	id=18250003	name=[Gate]	staticobject_end
+staticobject_begin	id=18250004	name=[Gate]	staticobject_end
+staticobject_begin	id=18250005	name=[Gate]	staticobject_end
+staticobject_begin	id=18250006	name=[Gate]	staticobject_end
+staticobject_begin	id=18250007	name=[Gate]	staticobject_end
+staticobject_begin	id=18250008	name=[Gate]	staticobject_end
+staticobject_begin	id=18250009	name=[Gate]	staticobject_end
+staticobject_begin	id=18250010	name=[Gate]	staticobject_end
+staticobject_begin	id=18250011	name=[Gate]	staticobject_end
+staticobject_begin	id=18250013	name=[Gate]	staticobject_end
+staticobject_begin	id=18250014	name=[Gate]	staticobject_end
+staticobject_begin	id=18250015	name=[Gate]	staticobject_end
+staticobject_begin	id=18250017	name=[Gate]	staticobject_end
+staticobject_begin	id=18250018	name=[Gate]	staticobject_end
+staticobject_begin	id=18250019	name=[Gate]	staticobject_end
+staticobject_begin	id=18250103	name=[Gate]	staticobject_end
+staticobject_begin	id=18250021	name=[Gate]	staticobject_end
+staticobject_begin	id=18250022	name=[Gate]	staticobject_end
+staticobject_begin	id=18250023	name=[Gate]	staticobject_end
+staticobject_begin	id=18250024	name=[Gate]	staticobject_end
+staticobject_begin	id=18250025	name=[Gate]	staticobject_end
+staticobject_begin	id=18250102	name=[Gate]	staticobject_end
+staticobject_begin	id=20240002	name=[Gate]	staticobject_end
+staticobject_begin	id=20240003	name=[Gate]	staticobject_end
+staticobject_begin	id=20240001	name=[Gate]	staticobject_end
+staticobject_begin	id=20250006	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=20250007	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=20250005	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=20250004	name=[Secret Gate]	staticobject_end
+staticobject_begin	id=20250009	name=[Transparent Gate]	staticobject_end
+staticobject_begin	id=20250008	name=[Transparent Gate]	staticobject_end
+staticobject_begin	id=20250777	name=[Bascule Bridge]	staticobject_end
+staticobject_begin	id=20250778	name=[Bascule Bridge]	staticobject_end
+staticobject_begin	id=19260053	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=19260054	name=[Tully's Gate]	staticobject_end
+staticobject_begin	id=17160001	name=[Gate]	staticobject_end
+staticobject_begin	id=17160002	name=[Gate]	staticobject_end
+staticobject_begin	id=17160003	name=[Gate]	staticobject_end
+staticobject_begin	id=17160004	name=[Gate]	staticobject_end
+staticobject_begin	id=17160005	name=[Gate]	staticobject_end
+staticobject_begin	id=17160006	name=[Gate]	staticobject_end
+staticobject_begin	id=17160007	name=[Gate]	staticobject_end
+staticobject_begin	id=17160008	name=[Gate]	staticobject_end
+staticobject_begin	id=17160009	name=[Gate]	staticobject_end
+staticobject_begin	id=17160010	name=[Gate]	staticobject_end
+staticobject_begin	id=17160011	name=[Gate]	staticobject_end
+staticobject_begin	id=17160012	name=[Gate]	staticobject_end
+staticobject_begin	id=17160013	name=[Gate]	staticobject_end
+staticobject_begin	id=17160014	name=[Gate]	staticobject_end
+staticobject_begin	id=17160015	name=[Gate]	staticobject_end
+staticobject_begin	id=17160016	name=[Gate]	staticobject_end
+staticobject_begin	id=17160017	name=[Gate]	staticobject_end
+staticobject_begin	id=17160018	name=[Gate]	staticobject_end
+staticobject_begin	id=17160019	name=[Gate]	staticobject_end
+staticobject_begin	id=17160020	name=[Gate]	staticobject_end
+staticobject_begin	id=17160021	name=[Gate]	staticobject_end
+staticobject_begin	id=17160022	name=[Gate]	staticobject_end
+staticobject_begin	id=17160023	name=[Gate]	staticobject_end
+staticobject_begin	id=17160024	name=[Gate]	staticobject_end
+staticobject_begin	id=17160025	name=[Gate]	staticobject_end
+staticobject_begin	id=17160026	name=[Gate]	staticobject_end
+staticobject_begin	id=17160027	name=[Gate]	staticobject_end
+staticobject_begin	id=17160028	name=[Gate]	staticobject_end
+staticobject_begin	id=17160029	name=[Gate]	staticobject_end
+staticobject_begin	id=17160030	name=[Gate]	staticobject_end
+staticobject_begin	id=17160031	name=[Gate]	staticobject_end
+staticobject_begin	id=17160032	name=[Gate]	staticobject_end
+staticobject_begin	id=17160033	name=[Gate]	staticobject_end
+staticobject_begin	id=17160034	name=[Gate]	staticobject_end
+staticobject_begin	id=17160035	name=[Gate]	staticobject_end
+staticobject_begin	id=17160036	name=[Gate]	staticobject_end
+staticobject_begin	id=17160037	name=[Gate]	staticobject_end
+staticobject_begin	id=17160038	name=[Gate]	staticobject_end
+staticobject_begin	id=17160039	name=[Gate]	staticobject_end
+staticobject_begin	id=17160040	name=[Gate]	staticobject_end
+staticobject_begin	id=18230101	name=[Gate]	staticobject_end
+staticobject_begin	id=17150001	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150002	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150003	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150004	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150005	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150006	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150007	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150008	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150009	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150010	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150011	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150012	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150013	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150014	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150015	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150016	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150017	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150018	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150019	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150020	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150021	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150022	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150023	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150024	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150025	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150026	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150027	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150028	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150029	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150030	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150031	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150032	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150033	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150034	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150035	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150036	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150037	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150038	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150039	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150040	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150041	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150042	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150043	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150044	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150045	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150046	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150047	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150048	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150049	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150050	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150051	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150052	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150053	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150054	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150055	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150056	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150057	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150058	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150059	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150060	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150061	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150062	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150063	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150064	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150065	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150066	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150067	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150068	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150069	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150070	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150071	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150072	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150073	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150074	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150075	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150076	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150077	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150078	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150079	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150080	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150081	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150082	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150083	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150084	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150085	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150086	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150087	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150088	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150089	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150090	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150091	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150092	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150093	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150094	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150095	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150096	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150097	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150098	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150099	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150100	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150101	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150102	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17150103	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170001	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170002	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170003	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170004	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170005	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170006	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170007	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170008	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170009	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170010	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170011	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170012	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170013	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170014	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170015	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170016	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170017	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170018	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170019	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170020	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170021	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170022	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170023	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170024	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170025	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170026	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170027	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170028	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170029	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170030	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170031	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170032	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170033	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170034	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170035	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170036	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170037	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170038	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170039	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170040	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170041	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170042	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170043	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170044	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170045	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170046	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170047	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170048	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170049	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170050	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170051	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170052	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170053	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170054	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170055	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170056	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170057	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170058	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170059	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170060	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170061	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170062	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170063	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170064	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170065	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170066	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170067	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170068	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170069	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170070	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170071	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170072	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170073	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170074	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170075	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170076	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170077	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170078	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170079	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170080	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170081	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170082	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170083	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170084	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170085	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170086	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170087	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170088	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170089	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170090	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170091	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170092	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170093	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170094	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170095	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170096	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170097	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170098	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170099	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170100	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170101	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170102	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=17170103	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150201	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150202	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150203	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150204	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150205	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150206	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150207	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150208	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150209	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150210	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150211	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150212	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150213	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150214	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150215	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150216	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150217	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150218	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150219	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150220	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150221	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150222	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150223	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150224	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150225	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150226	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150227	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150228	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150229	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150230	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150231	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150232	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150233	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150234	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150235	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150236	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150237	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150238	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150239	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150240	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150241	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150242	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150243	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150244	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150245	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150246	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150247	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150248	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150249	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150250	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150251	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150252	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150253	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150254	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150255	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150256	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150257	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150258	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150259	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150260	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150261	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150262	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150263	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150264	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150265	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150266	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150267	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150268	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150269	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150270	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150271	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150272	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150273	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150274	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150275	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150276	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150277	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150278	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150279	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150280	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150281	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150282	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150283	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150284	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150285	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150286	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150287	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150288	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150289	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150290	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150291	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150292	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150293	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150294	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150295	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150296	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150297	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150298	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150299	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150300	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150301	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150302	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=18150303	name=[Automatic Door]	staticobject_end
+staticobject_begin	id=22110100	name=[Gate]	staticobject_end
+staticobject_begin	id=22110101	name=[Gate]	staticobject_end
+staticobject_begin	id=22110102	name=[Gate]	staticobject_end
+staticobject_begin	id=22110103	name=[Gate]	staticobject_end
+staticobject_begin	id=22110104	name=[Gate]	staticobject_end
+staticobject_begin	id=22110105	name=[Gate]	staticobject_end
+staticobject_begin	id=12240001	name=[Entrance of Destruction]	staticobject_end
+staticobject_begin	id=12240002	name=[Entrance of Destruction]	staticobject_end
+staticobject_begin	id=12240003	name=[Gate]	staticobject_end
+staticobject_begin	id=12240004	name=[Gate]	staticobject_end
+staticobject_begin	id=12240005	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240006	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240007	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240008	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240009	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240010	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240011	name=[Gate]	staticobject_end
+staticobject_begin	id=12240012	name=[Gate]	staticobject_end
+staticobject_begin	id=12240013	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240014	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240015	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240016	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240017	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240018	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240019	name=[Gate]	staticobject_end
+staticobject_begin	id=12240020	name=[Gate]	staticobject_end
+staticobject_begin	id=12240021	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=14240102	name=[Gate]	staticobject_end
+staticobject_begin	id=12240022	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240023	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240024	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240025	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240026	name=[Iron Wall Gate]	staticobject_end
+staticobject_begin	id=12240027	name=[Gate]	staticobject_end
+staticobject_begin	id=12240028	name=[Passage Gate]	staticobject_end
+staticobject_begin	id=12240029	name=[Passage Gate]	staticobject_end
+staticobject_begin	id=12240030	name=[Grand Fortress Gate]	staticobject_end
+staticobject_begin	id=12240031	name=[Gate]	staticobject_end
+staticobject_begin	id=17240001	name=[Secret Oracle of Dawn Gate]	staticobject_end
+staticobject_begin	id=17240002	name=[Secret Oracle of Dawn Gate]	staticobject_end
+staticobject_begin	id=17240003	name=[Secret Oracle of Dawn Gate]	staticobject_end
+staticobject_begin	id=17240004	name=[Secret Oracle of Dawn Gate]	staticobject_end
+staticobject_begin	id=17240005	name=[Secret Oracle of Dawn Gate]	staticobject_end
+staticobject_begin	id=17240006	name=[Secret Oracle of Dawn Gate]	staticobject_end
+staticobject_begin	id=17240101	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=17240102	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=17240103	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=17240104	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=17240105	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=17240106	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=17240107	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=17240108	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=17240109	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=17240110	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=17240111	name=[Disciple's Necropolis Gate]	staticobject_end
+staticobject_begin	id=23140101	name=[Ice Queen's Castle]	staticobject_end
+staticobject_begin	id=17130045	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130051	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130046	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130043	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130042	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130052	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130053	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130054	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130055	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130056	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130057	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130058	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130068	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130069	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130070	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130066	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130067	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130063	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130064	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130065	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130061	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=17130062	name=[Frintezza Battle]	staticobject_end
+staticobject_begin	id=15100002	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100001	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100004	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100003	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100006	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100005	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100008	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100007	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100010	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100009	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100012	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100011	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100014	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100013	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100016	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100015	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100018	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100017	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100020	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100019	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100022	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100021	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100024	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100023	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100026	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100025	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100028	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100027	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100030	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100029	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100032	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100031	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100034	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100033	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100036	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100035	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100038	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100037	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100040	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100039	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100042	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100041	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100044	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15100043	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110002	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110001	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110004	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110003	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110006	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110005	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110008	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110007	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110010	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110009	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110012	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110011	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110014	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110013	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110016	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110015	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110018	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110017	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110020	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110019	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110022	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110021	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110024	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110023	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110026	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110025	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110028	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110027	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110030	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110029	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110032	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110031	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110034	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110033	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110036	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110035	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110038	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110037	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110040	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110039	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110042	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110041	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110044	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15110043	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120002	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120001	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120004	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120003	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120006	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120005	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120008	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120007	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120010	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120009	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120012	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120011	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120014	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120013	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120016	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120015	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120018	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120017	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120020	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120019	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120022	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120021	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120024	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120023	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120026	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120025	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120028	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120027	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120030	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120029	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120032	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120031	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120034	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120033	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120036	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120035	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120038	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120037	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120040	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120039	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120042	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120041	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120044	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=15120043	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=17100201	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=17100202	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=17100302	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=17100301	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=17100102	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=17100101	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=21100014	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100001	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100006	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100010	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100002	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100015	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100013	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100011	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100009	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100007	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100005	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100004	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100003	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100008	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100012	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100016	name=[Seal of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100018	name=[Hall of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100104	name=[Hall of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100103	name=[Hall of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100102	name=[Hall of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21100101	name=[Hall of the Saintess Gate]	staticobject_end
+staticobject_begin	id=21160502	name=[Library of Sages' Gate]	staticobject_end
+staticobject_begin	id=26210044	name=[Apherus Garden Gate]	staticobject_end
+staticobject_begin	id=26210042	name=[Apherus Garden Gate]	staticobject_end
+staticobject_begin	id=26210041	name=[Apherus Garden Gate]	staticobject_end
+staticobject_begin	id=26210043	name=[Apherus Garden Gate]	staticobject_end
+staticobject_begin	id=26190001	name=[Gate]	staticobject_end
+staticobject_begin	id=26190002	name=[Gate]	staticobject_end
+staticobject_begin	id=26190003	name=[Gate]	staticobject_end
+staticobject_begin	id=26190004	name=[Gate]	staticobject_end
+staticobject_begin	id=26190005	name=[Gate]	staticobject_end
+staticobject_begin	id=26190006	name=[Gate]	staticobject_end
+staticobject_begin	id=26190007	name=[Gate]	staticobject_end
+staticobject_begin	id=26190008	name=[Gate]	staticobject_end
+staticobject_begin	id=26190009	name=[Gate]	staticobject_end
+staticobject_begin	id=26190010	name=[Gate]	staticobject_end
+staticobject_begin	id=26190011	name=[Gate]	staticobject_end
+staticobject_begin	id=26190012	name=[Gate]	staticobject_end
+staticobject_begin	id=26190013	name=[Gate]	staticobject_end
+staticobject_begin	id=26190014	name=[Gate]	staticobject_end
+staticobject_begin	id=26190015	name=[Gate]	staticobject_end
+staticobject_begin	id=26190016	name=[Gate]	staticobject_end
+staticobject_begin	id=26190017	name=[Gate]	staticobject_end
+staticobject_begin	id=26190018	name=[Gate]	staticobject_end
+staticobject_begin	id=26190019	name=[Gate]	staticobject_end
+staticobject_begin	id=26210020	name=[Gate]	staticobject_end
+staticobject_begin	id=26210021	name=[Gate]	staticobject_end
+staticobject_begin	id=26210022	name=[Gate]	staticobject_end
+staticobject_begin	id=26210023	name=[Gate]	staticobject_end
+staticobject_begin	id=26210024	name=[Gate]	staticobject_end
+staticobject_begin	id=26210025	name=[Gate]	staticobject_end
+staticobject_begin	id=26210026	name=[Gate]	staticobject_end
+staticobject_begin	id=26210027	name=[Gate]	staticobject_end
+staticobject_begin	id=26210028	name=[Gate]	staticobject_end
+staticobject_begin	id=26210029	name=[Gate]	staticobject_end
+staticobject_begin	id=26210030	name=[Gate]	staticobject_end
+staticobject_begin	id=26210031	name=[Gate]	staticobject_end
+staticobject_begin	id=26210032	name=[Gate]	staticobject_end
+staticobject_begin	id=26210005	name=[Gate]	staticobject_end
+staticobject_begin	id=26210004	name=[Gate]	staticobject_end
+staticobject_begin	id=26210006	name=[Gate]	staticobject_end
+staticobject_begin	id=26210003	name=[Gate]	staticobject_end
+staticobject_begin	id=24240024	name=[Gate]	staticobject_end
+staticobject_begin	id=14220100	name=[Gate]	staticobject_end
+staticobject_begin	id=14220101	name=[Gate]	staticobject_end
+staticobject_begin	id=23220104	name=[Gate]	staticobject_end
+staticobject_begin	id=23220103	name=[Gate]	staticobject_end
+staticobject_begin	id=23220102	name=[Gate]	staticobject_end
+staticobject_begin	id=23220101	name=[Krofin's Nest]	staticobject_end
+staticobject_begin	id=24240025	name=[Gate]	staticobject_end
+staticobject_begin	id=24240026	name=[Gate]	staticobject_end
+staticobject_begin	id=26200005	name=[Above the Arcan Elevator]	staticobject_end
+staticobject_begin	id=26200002	name=[Below the Arcan Elevator]	staticobject_end
+staticobject_begin	id=26200003	name=[Below the Arcan Elevator]	staticobject_end
+staticobject_begin	id=26200004	name=[Above the Arcan Elevator]	staticobject_end
+staticobject_begin	id=26210001	name=[Gate]	staticobject_end
+staticobject_begin	id=26210002	name=[Gate]	staticobject_end
+staticobject_begin	id=26210101	name=[Gate]	staticobject_end
+staticobject_begin	id=26210102	name=[Gate]	staticobject_end
+staticobject_begin	id=26210103	name=[Gate]	staticobject_end
+staticobject_begin	id=26210104	name=[Gate]	staticobject_end
+staticobject_begin	id=26210105	name=[Gate]	staticobject_end
+staticobject_begin	id=26210106	name=[Gate]	staticobject_end
+staticobject_begin	id=16240001	name=[Gate]	staticobject_end
+staticobject_begin	id=16240002	name=[Gate]	staticobject_end
+staticobject_begin	id=16240003	name=[Gate]	staticobject_end
+staticobject_begin	id=16240004	name=[Gate]	staticobject_end
+staticobject_begin	id=16240005	name=[Gate]	staticobject_end
+staticobject_begin	id=16240006	name=[Gate]	staticobject_end
+staticobject_begin	id=16240007	name=[Gate]	staticobject_end
+staticobject_begin	id=16240008	name=[Gate]	staticobject_end
+staticobject_begin	id=22120001	name=[Gate]	staticobject_end
+staticobject_begin	id=20210004	name=[Above the Cruma Elevator]	staticobject_end
+staticobject_begin	id=20210005	name=[Below the Cruma Elevator]	staticobject_end
+staticobject_begin	id=21120001	name=[Gate]	staticobject_end
+staticobject_begin	id=21120002	name=[Gate]	staticobject_end
+staticobject_begin	id=16240100	name=[Gate]	staticobject_end
+staticobject_begin	id=16240102	name=[Gate]	staticobject_end
+staticobject_begin	id=25180001	name=[Gate]	staticobject_end
+staticobject_begin	id=25180002	name=[Gate]	staticobject_end
+staticobject_begin	id=25180003	name=[Gate]	staticobject_end
+staticobject_begin	id=25180004	name=[Gate]	staticobject_end
+staticobject_begin	id=25180005	name=[Gate]	staticobject_end
+staticobject_begin	id=25180006	name=[Gate]	staticobject_end
+staticobject_begin	id=25180007	name=[Gate]	staticobject_end
+staticobject_begin	id=26200100	name=[Gate]	staticobject_end
+staticobject_begin	id=23180001	name=[Hallate's Room]	staticobject_end
+staticobject_begin	id=23180002	name=[Hallate's Room]	staticobject_end
+staticobject_begin	id=23180003	name=[Gate]	staticobject_end
+staticobject_begin	id=23180004	name=[Gate]	staticobject_end
+staticobject_begin	id=23180006	name=[Gate]	staticobject_end
+staticobject_begin	id=23180005	name=[Gate]	staticobject_end
+staticobject_begin	id=16170001	name=[Gate]	staticobject_end
+staticobject_begin	id=16170002	name=[Gate]	staticobject_end
+staticobject_begin	id=16170003	name=[Gate]	staticobject_end
+staticobject_begin	id=16170011	name=[Gate]	staticobject_end
+staticobject_begin	id=16170012	name=[Gate]	staticobject_end
+staticobject_begin	id=16170013	name=[Gate]	staticobject_end
+staticobject_begin	id=16180031	name=[Gate]	staticobject_end
+staticobject_begin	id=16180032	name=[Gate]	staticobject_end
+staticobject_begin	id=16180033	name=[Gate]	staticobject_end
+staticobject_begin	id=22110201	name=[Gate]	staticobject_end
+staticobject_begin	id=15240001	name=[Gate]	staticobject_end
+staticobject_begin	id=15240002	name=[Gate]	staticobject_end
+staticobject_begin	id=17100601	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=17100602	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=16200201	name=[Gate]	staticobject_end
+staticobject_begin	id=20130002	name=[Gate]	staticobject_end
+staticobject_begin	id=20130004	name=[Gate]	staticobject_end
+staticobject_begin	id=20130006	name=[Gate]	staticobject_end
+staticobject_begin	id=20130008	name=[Gate]	staticobject_end
+staticobject_begin	id=20130010	name=[Gate]	staticobject_end
+staticobject_begin	id=20130012	name=[Gate]	staticobject_end
+staticobject_begin	id=20130014	name=[Gate]	staticobject_end
+staticobject_begin	id=20130016	name=[Gate]	staticobject_end
+staticobject_begin	id=20130018	name=[Gate]	staticobject_end
+staticobject_begin	id=20130020	name=[Gate]	staticobject_end
+staticobject_begin	id=20130022	name=[Gate]	staticobject_end
+staticobject_begin	id=20130024	name=[Gate]	staticobject_end
+staticobject_begin	id=20130026	name=[Gate]	staticobject_end
+staticobject_begin	id=20130028	name=[Gate]	staticobject_end
+staticobject_begin	id=20130030	name=[Gate]	staticobject_end
+staticobject_begin	id=20130032	name=[Gate]	staticobject_end
+staticobject_begin	id=19210111	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210112	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210113	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210114	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210115	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210116	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210117	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=19210118	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220119	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220120	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220121	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220122	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220123	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220124	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220125	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20220126	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20230101	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20230102	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20230103	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=20230104	name=[Clan Hall Door]	staticobject_end
+staticobject_begin	id=13250001	name=[Gate]	staticobject_end
+staticobject_begin	id=13250002	name=[Gate]	staticobject_end
+staticobject_begin	id=13250003	name=[Gate]	staticobject_end
+staticobject_begin	id=13250004	name=[Gate]	staticobject_end
+staticobject_begin	id=13250005	name=[Gate]	staticobject_end
+staticobject_begin	id=13250006	name=[Gate]	staticobject_end
+staticobject_begin	id=13250007	name=[Gate]	staticobject_end
+staticobject_begin	id=13250008	name=[Gate]	staticobject_end
+staticobject_begin	id=13250009	name=[Gate]	staticobject_end
+staticobject_begin	id=13250010	name=[Gate]	staticobject_end
+staticobject_begin	id=13250011	name=[Gate]	staticobject_end
+staticobject_begin	id=13250012	name=[Gate]	staticobject_end
+staticobject_begin	id=13250013	name=[Gate]	staticobject_end
+staticobject_begin	id=13250014	name=[Gate]	staticobject_end
+staticobject_begin	id=13250015	name=[Gate]	staticobject_end
+staticobject_begin	id=13250016	name=[Gate]	staticobject_end
+staticobject_begin	id=13250017	name=[Gate]	staticobject_end
+staticobject_begin	id=13250018	name=[Gate]	staticobject_end
+staticobject_begin	id=13250019	name=[Gate]	staticobject_end
+staticobject_begin	id=13250020	name=[Gate]	staticobject_end
+staticobject_begin	id=17110001	name=[Gate]	staticobject_end
+staticobject_begin	id=17110002	name=[Gate]	staticobject_end
+staticobject_begin	id=17110003	name=[Gate]	staticobject_end
+staticobject_begin	id=17110004	name=[Gate]	staticobject_end
+staticobject_begin	id=17110005	name=[Gate]	staticobject_end
+staticobject_begin	id=17110006	name=[Gate]	staticobject_end
+staticobject_begin	id=17110007	name=[Gate]	staticobject_end
+staticobject_begin	id=17110008	name=[Gate]	staticobject_end
+staticobject_begin	id=17110009	name=[Gate]	staticobject_end
+staticobject_begin	id=17110010	name=[Gate]	staticobject_end
+staticobject_begin	id=17110011	name=[Gate]	staticobject_end
+staticobject_begin	id=17110012	name=[Gate]	staticobject_end
+staticobject_begin	id=17110013	name=[Gate]	staticobject_end
+staticobject_begin	id=17110014	name=[Gate]	staticobject_end
+staticobject_begin	id=17110015	name=[Gate]	staticobject_end
+staticobject_begin	id=17230101	name=[Chamber of Prophecies]	staticobject_end
+staticobject_begin	id=17230102	name=[Chamber of Prophecies]	staticobject_end
+staticobject_begin	id=17230103	name=[Chamber of Prophecies]	staticobject_end
+staticobject_begin	id=17230104	name=[Chamber of Prophecies]	staticobject_end
+staticobject_begin	id=18170002	name=[Gate]	staticobject_end
+staticobject_begin	id=18170004	name=[Gate]	staticobject_end
+staticobject_begin	id=18170006	name=[Gate]	staticobject_end
+staticobject_begin	id=18170008	name=[Gate]	staticobject_end
+staticobject_begin	id=25140004	name=[Gate]	staticobject_end
+staticobject_begin	id=25140005	name=[Gate]	staticobject_end
+staticobject_begin	id=25140006	name=[Gate]	staticobject_end
+staticobject_begin	id=18200001	name=[Will of Croamis]	staticobject_end
+staticobject_begin	id=18200002	name=[Will of Croamis]	staticobject_end
+staticobject_begin	id=18190002	name=[Atelia Gateway]	staticobject_end
+staticobject_begin	id=18190004	name=[Atelia Gateway]	staticobject_end
+staticobject_begin	id=18190100	name=[Magic Prison]	staticobject_end
+staticobject_begin	id=18190102	name=[Magic Prison]	staticobject_end
+staticobject_begin	id=18190104	name=[Magic Prison]	staticobject_end
+staticobject_begin	id=18190106	name=[Magic Prison]	staticobject_end
+staticobject_begin	id=26150104	name=[Gate]	staticobject_end
+staticobject_begin	id=26150106	name=[Gate]	staticobject_end
+staticobject_begin	id=26150108	name=[Gate]	staticobject_end
+staticobject_begin	id=24130002	name=[Gate]	staticobject_end
+staticobject_begin	id=26160602	name=[Gate]	staticobject_end
+staticobject_begin	id=18130010	name=[Chair]	staticobject_end
+staticobject_begin	id=18130011	name=[Chair]	staticobject_end
+staticobject_begin	id=18130012	name=[Chair]	staticobject_end
+staticobject_begin	id=18130013	name=[Chair]	staticobject_end
+staticobject_begin	id=18130014	name=[Chair]	staticobject_end
+staticobject_begin	id=18130015	name=[Chair]	staticobject_end
+staticobject_begin	id=18130016	name=[Chair]	staticobject_end
+staticobject_begin	id=18130020	name=[Chair]	staticobject_end
+staticobject_begin	id=18130021	name=[Chair]	staticobject_end
+staticobject_begin	id=18130022	name=[Chair]	staticobject_end
+staticobject_begin	id=18130023	name=[Chair]	staticobject_end
+staticobject_begin	id=18130024	name=[Chair]	staticobject_end
+staticobject_begin	id=18130025	name=[Chair]	staticobject_end
+staticobject_begin	id=18130026	name=[Chair]	staticobject_end
+staticobject_begin	id=18130030	name=[Chair]	staticobject_end
+staticobject_begin	id=18130031	name=[Chair]	staticobject_end
+staticobject_begin	id=18130032	name=[Chair]	staticobject_end
+staticobject_begin	id=18130033	name=[Chair]	staticobject_end
+staticobject_begin	id=18130034	name=[Chair]	staticobject_end
+staticobject_begin	id=18130035	name=[Chair]	staticobject_end
+staticobject_begin	id=18130036	name=[Chair]	staticobject_end
+staticobject_begin	id=18130040	name=[Chair]	staticobject_end
+staticobject_begin	id=18130041	name=[Chair]	staticobject_end
+staticobject_begin	id=18130042	name=[Chair]	staticobject_end
+staticobject_begin	id=18130043	name=[Chair]	staticobject_end
+staticobject_begin	id=18130044	name=[Chair]	staticobject_end
+staticobject_begin	id=18130045	name=[Chair]	staticobject_end
+staticobject_begin	id=18130046	name=[Chair]	staticobject_end
+staticobject_begin	id=18130050	name=[Chair]	staticobject_end
+staticobject_begin	id=18130051	name=[Chair]	staticobject_end
+staticobject_begin	id=18130052	name=[Chair]	staticobject_end
+staticobject_begin	id=18130053	name=[Chair]	staticobject_end
+staticobject_begin	id=18130054	name=[Chair]	staticobject_end
+staticobject_begin	id=18130055	name=[Chair]	staticobject_end
+staticobject_begin	id=18130056	name=[Chair]	staticobject_end
+staticobject_begin	id=25190021	name=[Relic Door]	staticobject_end
+staticobject_begin	id=25190022	name=[Relic Door]	staticobject_end
+staticobject_begin	id=25190023	name=[Relic Door]	staticobject_end
+staticobject_begin	id=25190024	name=[Relic Door]	staticobject_end
+staticobject_begin	id=25190025	name=[Relic Door]	staticobject_end
+staticobject_begin	id=25190026	name=[Relic Door]	staticobject_end
+staticobject_begin	id=25190027	name=[Relic Door]	staticobject_end
+staticobject_begin	id=22230711	name=[Controller Room Gate]	staticobject_end
+staticobject_begin	id=12220001	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=12220002	name=[Inner Castle Gate]	staticobject_end
+staticobject_begin	id=17100402	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=17100401	name=[Olympiad Gate]	staticobject_end
+staticobject_begin	id=26130001	name=[Gate]	staticobject_end
+staticobject_begin	id=26130002	name=[Gate]	staticobject_end
+staticobject_begin	id=26130003	name=[Gate]	staticobject_end
+staticobject_begin	id=26130004	name=[Gate]	staticobject_end
+staticobject_begin	id=26130005	name=[Gate]	staticobject_end
+staticobject_begin	id=26130006	name=[Gate]	staticobject_end
+staticobject_begin	id=12230702	name=[Great Temple Outer Castle Gate]	staticobject_end
+staticobject_begin	id=12230704	name=[Great Temple Outer Castle Gate]	staticobject_end
+staticobject_begin	id=12230802	name=[Great Temple Inner Castle Gate]	staticobject_end
+staticobject_begin	id=12230804	name=[Great Temple Inner Castle Gate]	staticobject_end
+staticobject_begin	id=18110007	name=[Gate]	staticobject_end
+staticobject_begin	id=18110008	name=[Gate]	staticobject_end
+staticobject_begin	id=18110009	name=[Gate]	staticobject_end
+staticobject_begin	id=18110010	name=[Gate]	staticobject_end
+staticobject_begin	id=18110011	name=[Gate]	staticobject_end
+staticobject_begin	id=18110012	name=[Gate]	staticobject_end
+staticobject_begin	id=18110013	name=[Gate]	staticobject_end
+staticobject_begin	id=18110014	name=[Gate]	staticobject_end
+staticobject_begin	id=18110015	name=[Gate]	staticobject_end
+staticobject_begin	id=19180101	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180102	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180103	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180104	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180105	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180106	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180107	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180108	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180109	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180110	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180111	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180112	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180113	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180114	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180115	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=19180116	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170101	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170102	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170103	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170104	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170105	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170106	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170107	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170108	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170109	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170110	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170111	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170112	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170113	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170114	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170115	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=25170116	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=24250002	name=[Krofin's Nest]	staticobject_end
+staticobject_begin	id=24250004	name=[Krofin's Nest]	staticobject_end
+staticobject_begin	id=24250006	name=[Krofin's Nest]	staticobject_end
+staticobject_begin	id=25240002	name=[Hidden Door]	staticobject_end
+staticobject_begin	id=15180100	name=[Gate]	staticobject_end
+staticobject_begin	id=20141000	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20141002	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20141004	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20141006	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20141008	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20141010	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20141012	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20141014	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20140000	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20140002	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20140004	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20140006	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20140008	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20140010	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20140012	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20140014	name=[Prison Gate]	staticobject_end
+staticobject_begin	id=20140200	name=[None]	staticobject_end
+staticobject_begin	id=20140202	name=[None]	staticobject_end
+staticobject_begin	id=20140204	name=[None]	staticobject_end
+staticobject_begin	id=20140206	name=[None]	staticobject_end
+staticobject_begin	id=20140208	name=[None]	staticobject_end
+staticobject_begin	id=20140210	name=[None]	staticobject_end
+staticobject_begin	id=20140212	name=[None]	staticobject_end

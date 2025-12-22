@@ -1,0 +1,287 @@
+HairEx_Name_begin	id=0	class_name=10001	hair_name=[Devoted Macho A]	Description=[<br><BLUE01>A traditional macho who would hang the moon for his woman.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10002	hair_name=[Teen Heartthrob A]	Description=[<br><BLUE01>Rich and charming, this one lacks for nothing.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10004	hair_name=[Guts and Galls]	Description=[<br><BLUE01>The hair speaks of courage in a number of ways.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10005	hair_name=[Young Lover A]	Description=[<br><BLUE01>Young one might be, but armed with charm.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10006	hair_name=[Aristocrat A]	Description=[<br><BLUE01>A true aristocrat, balanced between gallantry and authority.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10007	hair_name=[Devoted Macho B]	Description=[<br><BLUE01>A traditional macho who would hang the moon for his woman.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10008	hair_name=[Teen Heartthrob B]	Description=[<br><BLUE01>Rich and charming, this one lacks for nothing.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10009	hair_name=[Young Lover B]	Description=[<br><BLUE01>Young one might be, but armed with charm.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10010	hair_name=[Aristocrat B]	Description=[<br><BLUE01>A true aristocrat, balanced between gallantry and authority.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10013	hair_name=[Mohawk Warrior]	Description=[<br><BLUE01>Fearlessness in hair form.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10014	hair_name=[Aristocrat Style]	Description=[<br><BLUE01>A style enjoyed by the gentlemen of dukes’ households</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10015	hair_name=[Soft Mohican]	Description=[<br><BLUE01>A bold mohican with a soft side.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=15001	hair_name=[Samurai]	Description=[<br><BLUE01>Samurai power!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10001	hair_name=[Modern Woman A]	Description=[<br><BLUE01>A woman must settle for no less than perfect.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10002	hair_name=[Mushroom Head A]	Description=[<br><BLUE01>A cute little mushroom head.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10004	hair_name=[Ponytail]	Description=[<br><BLUE01>A female warrior who never gives up.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10005	hair_name=[Feral Tigress A]	Description=[<br><BLUE01>In the style of a fearsome female warrior.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10006	hair_name=[Gone with the Wind A]	Description=[<br><BLUE01>Perfect for almost getting blown away by the wind.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10007	hair_name=[Modern Woman B]	Description=[<br><BLUE01>A woman must settle for no less than perfect.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10008	hair_name=[Mushroom Head B]	Description=[<br><BLUE01>A cute little mushroom head.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10009	hair_name=[Feral Tigress B]	Description=[<br><BLUE01>In the style of a fearsome female warrior.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10010	hair_name=[Gone with the Wind B]	Description=[<br><BLUE01>Perfect for almost getting blown away by the wind.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10013	hair_name=[Tropical Shade]	Description=[<br><BLUE01>Hot and cool at the same time!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10014	hair_name=[Noblewoman Style]	Description=[<br><BLUE01>A style with the class of the Renaissance noblewoman</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10015	hair_name=[Milkmaid Style]	Description=[<BLUE01>A braided hairstyle with heaps of femininity.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=15001	hair_name=[Traditional Japanese Hairdo]	Description=[<br><BLUE01>Bundled on top of tradition!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10001	hair_name=[Dark Horse A]	Description=[<br><BLUE01>It's always the quiet ones.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10002	hair_name=[Dark Assassin A]	Description=[<br><BLUE01>A style that emphasizes Dark Elven agility.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10004	hair_name=[Guts and Galls]	Description=[<br><BLUE01>The hair speaks of courage in a number of ways.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10005	hair_name=[Mad Rage A]	Description=[<br><BLUE01>There is madness within.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10006	hair_name=[Unshakable A]	Description=[<br><BLUE01>Unshakable killer drive.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10007	hair_name=[Dark Horse B]	Description=[<br><BLUE01>It's always the quiet ones.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10008	hair_name=[Dark Assassin B]	Description=[<br><BLUE01>A style that emphasizes Dark Elven agility.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10009	hair_name=[Mad Rage B]	Description=[<br><BLUE01>There is madness within.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10010	hair_name=[Unshakable B]	Description=[<br><BLUE01>Unshakable killer drive.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10013	hair_name=[Mohawk Warrior]	Description=[<br><BLUE01>Fearlessness in hair form.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10014	hair_name=[Aristocrat Style]	Description=[<br><BLUE01>A style enjoyed by the gentlemen of dukes’ households</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10015	hair_name=[Soft Mohican]	Description=[<br><BLUE01>A bold mohican with a soft side.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=15001	hair_name=[Samurai]	Description=[<br><BLUE01>Samurai power!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10001	hair_name=[Siren's Call A]	Description=[<br><BLUE01>Irresistable to all beholders.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10002	hair_name=[Dances with Wolves A]	Description=[<br><BLUE01>An untamed beauty.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10004	hair_name=[Ponytail]	Description=[<br><BLUE01>A female warrior who never gives up.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10005	hair_name=[Goddess Cometh A]	Description=[<br><BLUE01>An unapologetic woman, reminiscent of Goddess Shillien.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10006	hair_name=[Bangs A]	Description=[<br><BLUE01>Why go for normal?</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10007	hair_name=[Siren's Call B]	Description=[<br><BLUE01>Irresistable to all beholders.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10008	hair_name=[Dances with Wolves B]	Description=[<br><BLUE01>An untamed beauty.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10009	hair_name=[Goddess Cometh B]	Description=[<br><BLUE01>An unapologetic woman, reminiscent of Goddess Shillien.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10010	hair_name=[Bangs B]	Description=[<br><BLUE01>Why go for normal?</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10013	hair_name=[Tropical Shade]	Description=[<br><BLUE01>Hot and cool at the same time!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10014	hair_name=[Noblewoman Style]	Description=[<br><BLUE01>A style with the class of the Renaissance noblewoman</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10015	hair_name=[Milkmaid Style]	Description=[<BLUE01>A braided hairstyle with heaps of femininity.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=15001	hair_name=[Traditional Japanese Hairdo]	Description=[<br><BLUE01>Bundled on top of tradition!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10001	hair_name=[Rice Balls A]	Description=[<br><BLUE01>Addicted to rice balls.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10002	hair_name=[Smarts A]	Description=[<br><BLUE01>Smart is the new sexy.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10004	hair_name=[Guts and Galls]	Description=[<br><BLUE01>The hair speaks of courage in a number of ways.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10005	hair_name=[Nose Hairs A]	Description=[<br><BLUE01>Fashion can come from nose hairs.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10006	hair_name=[Fermented Geek A]	Description=[<br><BLUE01>Years of geekiness radiate from within.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10007	hair_name=[Rice Balls B]	Description=[<br><BLUE01>Addicted to rice balls.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10008	hair_name=[Smarts B]	Description=[<br><BLUE01>Smart is the new sexy.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10009	hair_name=[Nose Hairs B]	Description=[<br><BLUE01>Fashion can come from nose hairs.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10010	hair_name=[Fermented Geek B]	Description=[<br><BLUE01>Years of geekiness radiate from within.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10013	hair_name=[Mohawk Warrior]	Description=[<br><BLUE01>Fearlessness in hair form.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10014	hair_name=[Aristocrat Style]	Description=[<br><BLUE01>A style enjoyed by the gentlemen of dukes’ households</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10015	hair_name=[Soft Mohican]	Description=[<br><BLUE01>A bold mohican with a soft side.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=15001	hair_name=[Samurai]	Description=[<br><BLUE01>Samurai power!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10001	hair_name=[Forever Young A]	Description=[<br><BLUE01>Squeal-worthy.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10002	hair_name=[Bling Bling A]	Description=[<br><BLUE01>A girl who can't wait to grow up to be a woman.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10004	hair_name=[Ponytail]	Description=[<br><BLUE01>A female warrior who never gives up.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10005	hair_name=[Blooming Youth A]	Description=[<br><BLUE01>Cuteness and mischief in action.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10006	hair_name=[Little Tiger A]	Description=[<br><BLUE01>Killer instinct swaddled in cuteness</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10007	hair_name=[Forever Young B]	Description=[<br><BLUE01>Squeal-worthy.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10008	hair_name=[Bling Bling B]	Description=[<br><BLUE01>A girl who can't wait to grow up to be a woman.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10009	hair_name=[Blooming Youth B]	Description=[<br><BLUE01>Cuteness and mischief in action.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10010	hair_name=[Little Tiger B]	Description=[<br><BLUE01>Killer instinct swaddled in cuteness</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10013	hair_name=[Tropical Shade]	Description=[<br><BLUE01>Hot and cool at the same time!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10014	hair_name=[Noblewoman Style]	Description=[<br><BLUE01>A style with the class of the Renaissance noblewoman</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10015	hair_name=[Milkmaid Style]	Description=[<BLUE01>A braided hairstyle with heaps of femininity.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=15001	hair_name=[Traditional Japanese Hairdo]	Description=[<br><BLUE01>Bundled on top of tradition!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10001	hair_name=[Piercing Accuracy A]	Description=[<br><BLUE01>Sharp enough to pierce the enemy's heart.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10002	hair_name=[Tragic Beauty A]	Description=[<br><BLUE01>The ultimate harbinger of romance.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10004	hair_name=[Guts and Galls]	Description=[<br><BLUE01>The hair speaks of courage in a number of ways.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10005	hair_name=[Hawk Eye A]	Description=[<br><BLUE01>Chic, sharp, and charismatic.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10006	hair_name=[Fashion Designer A]	Description=[<br><BLUE01>Simple yet sophisticated.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10007	hair_name=[Piercing Accuracy B]	Description=[<br><BLUE01>Sharp enough to pierce the enemy's heart.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10008	hair_name=[Tragic Beauty B]	Description=[<br><BLUE01>The ultimate harbinger of romance.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10009	hair_name=[Hawk Eye B]	Description=[<br><BLUE01>Chic, sharp, and charismatic.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10010	hair_name=[Fashion Designer B]	Description=[<br><BLUE01>Simple yet sophisticated.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10013	hair_name=[Mohawk Warrior]	Description=[<br><BLUE01>Fearlessness in hair form.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10014	hair_name=[Aristocrat Style]	Description=[<br><BLUE01>A style enjoyed by the gentlemen of dukes’ households</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10015	hair_name=[Soft Mohican]	Description=[<br><BLUE01>A bold mohican with a soft side.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=15001	hair_name=[Samurai]	Description=[<br><BLUE01>Samurai power!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10001	hair_name=[Wet Leaf A]	Description=[<br><BLUE01>Innocent as a dew-drop fairy.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10002	hair_name=[Smart Beauty A]	Description=[<br><BLUE01>A no-nonsense woman who will not take your attitude.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10004	hair_name=[Ponytail]	Description=[<br><BLUE01>A female warrior who never gives up.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10005	hair_name=[Sweet Darling A]	Description=[<br><BLUE01>The ultimate feminine.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10006	hair_name=[Nature Whisperer A]	Description=[<br><BLUE01>A child of nature.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10007	hair_name=[Wet Leaf B]	Description=[<br><BLUE01>Innocent as a dew-drop fairy.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10008	hair_name=[Smart Beauty B]	Description=[<br><BLUE01>A no-nonsense woman who will not take your attitude.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10009	hair_name=[Sweet Darling B]	Description=[<br><BLUE01>The ultimate feminine.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10010	hair_name=[Nature Whisperer B]	Description=[<br><BLUE01>A child of nature.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10013	hair_name=[Tropical Shade]	Description=[<br><BLUE01>Hot and cool at the same time!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10014	hair_name=[Noblewoman Style]	Description=[<br><BLUE01>A style with the class of the Renaissance noblewoman</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10015	hair_name=[Milkmaid Style]	Description=[<BLUE01>A braided hairstyle with heaps of femininity.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=15001	hair_name=[Traditional Japanese Hairdo]	Description=[<br><BLUE01>Bundled on top of tradition!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10001	hair_name=[Impulsive Prince A]	Description=[<br><BLUE01>A princely fearlessness, with the passion of youth.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10002	hair_name=[Knowing Wizard A]	Description=[<br><BLUE01>A sagely look that holds worldly secrets.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10004	hair_name=[Guts and Galls]	Description=[<br><BLUE01>The hair speaks of courage in a number of ways.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10005	hair_name=[Don't Look Under the Hair A]	Description=[<br><BLUE01>A drop-dead gorgeous look, especially if the face is covered.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10006	hair_name=[Pious Paragon A]	Description=[<br><BLUE01>This look feels sacred somehow.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10007	hair_name=[Impulsive Prince B]	Description=[<br><BLUE01>A princely fearlessness, with the passion of youth.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10008	hair_name=[Knowing Wizard B]	Description=[<br><BLUE01>A sagely look that holds worldly secrets.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10009	hair_name=[Don't Look Under the Hair B]	Description=[<br><BLUE01>A drop-dead gorgeous look, especially if the face is covered.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10010	hair_name=[Pious Paragon B]	Description=[<br><BLUE01>This look feels sacred somehow.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10013	hair_name=[Mohawk Warrior]	Description=[<br><BLUE01>Fearlessness in hair form.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10014	hair_name=[Aristocrat Style]	Description=[<br><BLUE01>A style enjoyed by the gentlemen of dukes’ households</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10015	hair_name=[Soft Mohican]	Description=[<br><BLUE01>A bold mohican with a soft side.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=15001	hair_name=[Samurai]	Description=[<br><BLUE01>Samurai power!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10001	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>This look holds all answers.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10002	hair_name=[Tropical Shade]	Description=[<br><BLUE01>A special strand of lovelocks.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10004	hair_name=[Ponytail]	Description=[<br><BLUE01>A female warrior who never gives up.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10005	hair_name=[Tomboy A]	Description=[<br><BLUE01>Boyish good looks.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10006	hair_name=[Lady of the Mansion A]	Description=[<br><BLUE01>Ready for the butler.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10007	hair_name=[Tutor B]	Description=[<br><BLUE01>This look holds all answers.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10008	hair_name=[Special Strand B]	Description=[<br><BLUE01>A special strand of lovelocks.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10009	hair_name=[Tomboy B]	Description=[<br><BLUE01>Boyish good looks.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10010	hair_name=[Lady of the Mansion B]	Description=[<br><BLUE01>Ready for the butler.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10013	hair_name=[Tropical Shade]	Description=[<br><BLUE01>Hot and cool at the same time!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10014	hair_name=[Noblewoman Style]	Description=[<br><BLUE01>A style with the class of the Renaissance noblewoman</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10015	hair_name=[Milkmaid Style]	Description=[<BLUE01>A braided hairstyle with heaps of femininity.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=15001	hair_name=[Traditional Japanese Hairdo]	Description=[<br><BLUE01>Bundled on top of tradition!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10001	hair_name=[Looks Are Everything A]	Description=[<br><BLUE01>If only everyone else was as well-groomed.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10002	hair_name=[True Bro A]	Description=[<br><BLUE01>A real tough guy.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10004	hair_name=[Guts and Galls]	Description=[<br><BLUE01>The hair speaks of courage in a number of ways.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10005	hair_name=[Reggae Warrior A]	Description=[<br><BLUE01>A real warrior has the hair to go with the heroics.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10006	hair_name=[Broomhead A]	Description=[<br><BLUE01>Proving the usefulness of handstands everywhere.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10007	hair_name=[Looks Are Everything B]	Description=[<br><BLUE01>If only everyone else was as well-groomed.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10008	hair_name=[True Bro B]	Description=[<br><BLUE01>A real tough guy.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10009	hair_name=[Reggae Warrior B]	Description=[<br><BLUE01>A real warrior has the hair to go with the heroics.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10010	hair_name=[Broomhead B]	Description=[<br><BLUE01>Proving the usefulness of handstands everywhere.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10013	hair_name=[Mohawk Warrior]	Description=[<br><BLUE01>Fearlessness in hair form.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10014	hair_name=[Aristocrat Style]	Description=[<br><BLUE01>A style enjoyed by the gentlemen of dukes’ households</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10015	hair_name=[Soft Mohican]	Description=[<br><BLUE01>A bold mohican with a soft side.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=15001	hair_name=[Samurai]	Description=[<br><BLUE01>Samurai power!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10001	hair_name=[Born Fighter A]	Description=[<br><BLUE01>A style of a charismatic warrioress.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10002	hair_name=[Dark Assassin A]	Description=[<br><BLUE01>Beauty and deadliness combined.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10004	hair_name=[Ponytail]	Description=[<br><BLUE01>A female warrior who never gives up.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10005	hair_name=[Poison Sting A]	Description=[<br><BLUE01>Beauty of venomous sting.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10006	hair_name=[Habitual Victor A]	Description=[<br><BLUE01>Victory is just a habit.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10007	hair_name=[Born Fighter B]	Description=[<br><BLUE01>A style of a charismatic warrioress.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10008	hair_name=[Dark Assassin B]	Description=[<br><BLUE01>Beauty and deadliness combined.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10009	hair_name=[Poison Sting B]	Description=[<br><BLUE01>Beauty of venomous sting.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10010	hair_name=[Habitual Victor B]	Description=[<br><BLUE01>Victory is just a habit.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10013	hair_name=[Tropical Shade]	Description=[<br><BLUE01>Hot and cool at the same time!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10014	hair_name=[Noblewoman Style]	Description=[<br><BLUE01>A style with the class of the Renaissance noblewoman</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10015	hair_name=[Milkmaid Style]	Description=[<BLUE01>A braided hairstyle with heaps of femininity.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=15001	hair_name=[Traditional Japanese Hairdo]	Description=[<br><BLUE01>Bundled on top of tradition!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10001	hair_name=[Hell Guide A]	Description=[<br><BLUE01>All-seeing and calm, this look has been tested through death.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10002	hair_name=[Final Apostle A]	Description=[<br><BLUE01>Grounded and gentle, but with eyes that see all.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10004	hair_name=[Guts and Galls]	Description=[<br><BLUE01>The hair speaks of courage in a number of ways.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10005	hair_name=[Foreshadowed Death A]	Description=[<br><BLUE01>Cold, chic, and sophisticated.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10006	hair_name=[Tragic Fate A]	Description=[<br><BLUE01>Surprisingly cute and cheerful, a bearer of contradictions.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10007	hair_name=[Hell Guide B]	Description=[<br><BLUE01>All-seeing and calm, this look has been tested through death.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10008	hair_name=[Final Apostle B]	Description=[<br><BLUE01>Grounded and gentle, but with eyes that see all.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10009	hair_name=[Foreshadowed Death B]	Description=[<br><BLUE01>Cold, chic, and sophisticated.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10010	hair_name=[Tragic Fate B]	Description=[<br><BLUE01>Surprisingly cute and cheerful, a bearer of contradictions.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10013	hair_name=[Mohawk Warrior]	Description=[<br><BLUE01>Fearlessness in hair form.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10014	hair_name=[Aristocrat Style]	Description=[<br><BLUE01>A style enjoyed by the gentlemen of dukes’ households</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10015	hair_name=[Soft Mohican]	Description=[<br><BLUE01>A bold mohican with a soft side.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=15001	hair_name=[Samurai]	Description=[<br><BLUE01>Samurai power!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10001	hair_name=[Older and Wiser A ]	Description=[<br><BLUE01>All-seeing and calm, this look has been tested through death.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10002	hair_name=[Charisma A]	Description=[<br><BLUE01>Urban and chic, but with a touch of tenderness.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10004	hair_name=[Ponytail]	Description=[<br><BLUE01>A female warrior who never gives up.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10005	hair_name=[Immortal Aura A]	Description=[<br><BLUE01>Cold, chic, and sophisticated.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10006	hair_name=[Written in Stars A]	Description=[<br><BLUE01>Surprisingly cute and cheerful, a bearer of contradictions.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10007	hair_name=[Older and Wiser B]	Description=[<br><BLUE01>All-seeing and calm, this look has been tested through death.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10008	hair_name=[Charisma B]	Description=[<br><BLUE01>Urban and chic, but with a touch of tenderness.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10009	hair_name=[Immortal Aura B]	Description=[<br><BLUE01>Cold, chic, and sophisticated.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10010	hair_name=[Written in Stars B]	Description=[<br><BLUE01>Surprisingly cute and cheerful, a bearer of contradictions.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10013	hair_name=[Tropical Shade]	Description=[<br><BLUE01>Hot and cool at the same time!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10014	hair_name=[Noblewoman Style]	Description=[<br><BLUE01>A style with the class of the Renaissance noblewoman</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10015	hair_name=[Milkmaid Style]	Description=[<BLUE01>A braided hairstyle with heaps of femininity.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=15001	hair_name=[Traditional Japanese Hairdo]	Description=[<br><BLUE01>Bundled on top of tradition!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10001	hair_name=[Tortured Artist A]	Description=[<br><BLUE01>The tormented look of an ancient musician.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10002	hair_name=[Casanova A]	Description=[<br><BLUE01>Women don't stand a chance.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10004	hair_name=[Guts and Galls]	Description=[<br><BLUE01>The hair speaks of courage in a number of ways.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10005	hair_name=[Ultimate Grace A]	Description=[<br><BLUE01>The peak of elegance.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10006	hair_name=[Give Me Looks or Give Me Death A]	Description=[<br><BLUE01>Beauty may be skin-deep, but skin is essential to life.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10007	hair_name=[Tortured Artist B]	Description=[<br><BLUE01>The tormented look of an ancient musician.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10008	hair_name=[Casanova B]	Description=[<br><BLUE01>Women don't stand a chance.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10009	hair_name=[Ultimate Grace B]	Description=[<br><BLUE01>The peak of elegance.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10010	hair_name=[Give Me Looks or Give Me Death B]	Description=[<br><BLUE01>Beauty may be skin-deep, but skin is essential to life.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10013	hair_name=[Mohawk Warrior]	Description=[<br><BLUE01>Fearlessness in hair form.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10014	hair_name=[Aristocrat Style]	Description=[<br><BLUE01>A style enjoyed by the gentlemen of dukes’ households</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10015	hair_name=[Soft Mohican]	Description=[<br><BLUE01>A bold mohican with a soft side.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=15001	hair_name=[Samurai]	Description=[<br><BLUE01>Samurai power!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10001	hair_name=[Stiff Necks A]	Description=[<br><BLUE01>With beauty comes pride, and rightly so.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10002	hair_name=[Push-up Size A]	Description=[<br><BLUE01>Feminine beauty at full force.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10004	hair_name=[Ponytail]	Description=[<br><BLUE01>A female warrior who never gives up.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10005	hair_name=[Dance in the Rain A]	Description=[<br><BLUE01>A look that begs to be rained on.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10006	hair_name=[Seductress A]	Description=[<br><BLUE01>An age-old look that works every time.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10007	hair_name=[Stiff Necks B]	Description=[<br><BLUE01>With beauty comes pride, and rightly so.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10008	hair_name=[Push-up Size B]	Description=[<br><BLUE01>Feminine beauty at full force.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10009	hair_name=[Dance in the Rain B]	Description=[<br><BLUE01>A look that begs to be rained on.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10010	hair_name=[Seductress B]	Description=[<br><BLUE01>An age-old look that works every time.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10013	hair_name=[Tropical Shade]	Description=[<br><BLUE01>Hot and cool at the same time!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10014	hair_name=[Noblewoman Style]	Description=[<br><BLUE01>A style with the class of the Renaissance noblewoman</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10015	hair_name=[Milkmaid Style]	Description=[<BLUE01>A braided hairstyle with heaps of femininity.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=15001	hair_name=[Traditional Japanese Hairdo]	Description=[<br><BLUE01>Bundled on top of tradition!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=15002	hair_name=[Papakha Hat]	Description=[<br><BLUE01>Your body may freeze to death, but your head deserves better!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10001	hair_name=[Give Me Looks or Give Me Death A]	Description=[<br><BLUE01>Beauty may be skin-deep, but skin is essential to life.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10002	hair_name=[Blooming Youth A]	Description=[<br><BLUE01>Cuteness and mischief in action.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10003	hair_name=[Pirate]	Description=[<br><BLUE01>Salty winds and sun-bleached hair at sea.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10004	hair_name=[Ponytail]	Description=[<br><BLUE01>A female warrior who never gives up.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10005	hair_name=[Ultimate Grace A]	Description=[<br><BLUE01>The peak of elegance.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10006	hair_name=[Tomboy A]	Description=[<br><BLUE01>Boyish good looks.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10007	hair_name=[Give Me Looks or Give Me Death B]	Description=[<br><BLUE01>Beauty may be skin-deep, but skin is essential to life.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10008	hair_name=[Blooming Youth B]	Description=[<br><BLUE01>Cuteness and mischief in action.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10009	hair_name=[Ultimate Grace B]	Description=[<br><BLUE01>The peak of elegance.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10010	hair_name=[Tomboy B]	Description=[<br><BLUE01>Boyish good looks.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10011	hair_name=[Heroic Dignity]	Description=[<br><BLUE01>The hairdo of a true hero.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10013	hair_name=[Tropical Shade]	Description=[<br><BLUE01>Hot and cool at the same time!</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10014	hair_name=[Noblewoman Style]	Description=[<br><BLUE01>A style with the class of the Renaissance noblewoman</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10015	hair_name=[Milkmaid Style]	Description=[<BLUE01>A braided hairstyle with heaps of femininity.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=15003	hair_name=[Relentless Backbone]	Description=[<br><BLUE01>A style with relentless backbone</BLUE01>]	HairEx_Name_end

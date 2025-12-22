@@ -1,0 +1,329 @@
+department_begin
+	team_begin	members={{[Taek-Jin Kim];[]}}	t_position=[Senior Executive Producer]	t_сomment=[]	team_end
+	d_name=[]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Won Ki Lim];[]}}	t_position=[Executive Producer]	t_сomment=[]	team_end
+	team_begin	members={{[Min Hwan Kim ];[]}}	t_position=[Supervising Producer]	t_сomment=[]	team_end
+	team_begin	members={{[Young-hoon Han];[]}}	t_position=[Supervising Producer]	t_сomment=[]	team_end
+	team_begin	members={{[Sungkyun Jin];[]}}	t_position=[Producer]	t_сomment=[]	team_end
+	d_name=[Produce]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Ji-seop Ahn];[]}}	t_position=[Director]	t_сomment=[]	team_end
+	d_name=[Director]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Hyung-tae Kim];[]}}	t_position=[Lead Project Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Jiun Kim ];[]};{[Gyeonghwan Choi];[]}}	t_position=[Project Manager]	t_сomment=[]	team_end
+	d_name=[Dev. PM]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Sunguk Kang];[]}}	t_position=[Lead Technical Artist]	t_сomment=[]	team_end
+	team_begin	members={{[Jongho Kim];[]}}	t_position=[Technical Artist]	t_сomment=[]	team_end
+	team_begin	members={{[Jinhwan Yu];[]};{[Yongwoon Kim];[]};{[Jihyun Bae];[]}}	t_position=[FX Artist]	t_сomment=[]	team_end
+	d_name=[TA]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Sunjoon Moon];[]}}	t_position=[Lead UI Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Heeyoung Cho];[]}}	t_position=[UI Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Soo-youn Lee];[]};{[Ye-eun Kang];[]};{[Jeon Minjeong];[]};{[Eunji Ko];[]}}	t_position=[UI Art Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Dong-Won Lee];[]};{[Dong-Geun Kim];[]};{[Choi Jin Hyuk];[]}}	t_position=[UI Programer]	t_сomment=[]	team_end
+	d_name=[UI]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Hyun-woo Lee];[]}}	t_position=[Lead Game Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Kwon-kook Lee];[]};{[Joong-gon Cho];[]};{[Mi-kyung Cho];[]};{[Jeong-hyeon Lee];[]};{[Sang-yun Lee ];[]};{[Hwa-seob Shin];[]};{[Jong-hwan Lee];[]};{[Do-hyun Lee];[]};{[Ki-yeong Kim];[]}}	t_position=[Game Designer]	t_сomment=[]	team_end
+	d_name=[Design 1 Team]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[So-jung Lee];[]}}	t_position=[Lead Game Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Seung-Wook Kang];[]};{[Jin-Yeong Kim];[]};{[Yong-taek Kim];[]};{[Joon-young Son];[]};{[Seung-min Lee];[]};{[Min-sik Cho];[]};{[Ji-su Choi];[]};{[Yuna Han];[]}}	t_position=[Game Designer]	t_сomment=[]	team_end
+	d_name=[Design 2 Team]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Bum-Jun Kim];[]}}	t_position=[Lead Game Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Young-eun Kim];[]};{[Tae-Oh Kim ];[]};{[Yoon-Kyoung Na];[]};{[Kang-San Lee];[]};{[Min-Ho Cha];[]};{[Dong-Geol Choi];[]}}	t_position=[Game Designer]	t_сomment=[]	team_end
+	d_name=[Design 3 Team]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[In-Joong Kim];[]}}	t_position=[Technical Director]	t_сomment=[]	team_end
+	d_name=[Technical Director]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Jun-Han Kim];[]}}	t_position=[Lead Server Programmer]	t_сomment=[]	team_end
+	team_begin	members={{[In-Chul Shin];[]};{[Hyun-Il Song];[]};{[Jung-Min Kim];[]};{[Jong-Myeong Lee];[]};{[Song-Yi Han];[]};{[Da-Hye Lee];[]};{[Taejun Kim];[]};{[Hyejin Park];[]};{[KyeongSuk Park];[]}}	t_position=[Server Programmer]	t_сomment=[]	team_end
+	d_name=[Server Programming]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Seizong Myoung];[]}}	t_position=[Lead Client Programmer]	t_сomment=[]	team_end
+	team_begin	members={{[Gwanyong Kim];[]};{[Hakjun Kim];[]};{[Jae-Hong Ryu];[]};{[Hyung-jin Moon];[]};{[Hee-Jeong Jo];[]};{[Seok-hyun Choi];[]}}	t_position=[Client Programmer]	t_сomment=[]	team_end
+	d_name=[Client Programming]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Sang-cheul Ko];[]}}	t_position=[Art Director]	t_сomment=[]	team_end
+	d_name=[Lead Artist]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Sunguk Kang];[]}}	t_position=[Art Producer]	t_сomment=[]	team_end
+	d_name=[Art Producer]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Young-jun Yang];[]}}	t_position=[Lead Environment Artist]	t_сomment=[]	team_end
+	team_begin	members={{[Ji-yong Hwang];[]};{[Sung-hyun Lee];[]};{[Ah Ra Kang];[]}}	t_position=[Environment Concept Artist]	t_сomment=[]	team_end
+	team_begin	members={{[Shin-hyuk Bae];[]};{[Myong Hee  Lee];[]};{[Jeongyeon Heo];[]};{[Seung-man Ryoo];[]}}	t_position=[Environment 3D Artist]	t_сomment=[]	team_end
+	d_name=[Environment Team]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Hung-kyo Seo];[]}}	t_position=[Lead Character Artist]	t_сomment=[]	team_end
+	team_begin	members={{[Sungkwan Jung ];[]};{[Kwang min Kim];[]}}	t_position=[Character 3D Artist]	t_сomment=[]	team_end
+	team_begin	members={{[SungYoung Park];[]};{[Taew-ook Ryu];[]};{[Hee Jin Kim];[]}}	t_position=[Animation Artist]	t_сomment=[]	team_end
+	d_name=[Character Art Team]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Dong-hwan Kim];[]}}	t_position=[Lead Character Concept Artist]	t_сomment=[]	team_end
+	team_begin	members={{[Kang-san Kim];[]};{[Ji-hee Han];[]};{[Kyoung-young Ock];[]};{[Jae-seong Park];[]}}	t_position=[Character Concept Artist]	t_сomment=[]	team_end
+	d_name=[Character Concept Team]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Keunyeong Kim];[]}}	t_position=[Global Dev. Lead Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Shingon Kim];[]};{[Soyeon Kim ];[]}}	t_position=[Local Manager]	t_сomment=[]	team_end
+	d_name=[Global Lead Manager]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Sungjun Moon];[]}}	t_position=[Global Dev. Lead Game Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Mihyun Hong];[]};{[Nahyun Baek];[]};{[Solyi Lee];[]};{[Soonkwang Park];[]};{[Jiyoun Kim];[]};{[Jonghwa Hong];[]}}	t_position=[Global Dev. Game Designer]	t_сomment=[]	team_end
+	d_name=[Global Game Design]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Hoonkyu Cho];[]}}	t_position=[Global Dev. Lead Programmer]	t_сomment=[]	team_end
+	team_begin	members={{[DaeJung Park];[]};{[Sora Choe];[]};{[Yun-hyung Cho];[]};{[Woodong Ok];[]};{[ByungChul Lee];[]}}	t_position=[Global Dev. Programmer]	t_сomment=[]	team_end
+	d_name=[Global Programming]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Min-gyu Song];[]};{[Youn-un Shin];[]};{[SangHyun Lee];[]};{[Seo-yeon Lee];[]}}	t_position=[Legacy IP Independent Team]	t_сomment=[]	team_end
+	d_name=[Legacy IP]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[In-soo Lee];[]}}	t_position=[Head of Business Group Division]	t_сomment=[]	team_end
+	team_begin	members={{[Woo-seok Choi];[]}}	t_position=[Business Group Product Director]	t_сomment=[]	team_end
+	team_begin	members={{[Jae-Yeon Song];[]}}	t_position=[Marketing Business Project Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Choong-geun Lee];[]};{[Hui-jin Seo];[]};{[Jung-jin Ahn];[]};{[Chae-Eun Lee];[]};{[Chae-Hyun Kim];[]};{[Guk-ae Cho];[]}}	t_position=[Marketing Business Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Woo-seok Choi];[]}}	t_position=[Contents Business Project Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Tae-hyeon Kim];[]};{[Min-jun Shin];[]};{[Min-Ji Kim];[]};{[Yong-Gyun Choi];[]};{[Wook-Hwan Choi];[]}}	t_position=[Contents Business Manager]	t_сomment=[]	team_end
+	d_name=[Business]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Sang-min Lee];[]}}	t_position=[Legacy IP Operations General Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Young-min Choi];[]}}	t_position=[Legacy IP Operations PD]	t_сomment=[]	team_end
+	team_begin	members={{[Hyo-jin Ban];[]}}	t_position=[Legacy IP Operations PM]	t_сomment=[]	team_end
+	team_begin	members={{[Hyuk-Jun Moon ];[]};{[Hyun-jun Hong];[]};{[Wan-sun Choi];[]};{[Jae-yeon Kim];[]}}	t_position=[Legacy IP Operations Manager]	t_сomment=[]	team_end
+	d_name=[Legacy IP Operations]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Ho-Keun Song];[]}}	t_position=[Supervising Sound Director]	t_сomment=[]	team_end
+	team_begin	members={{[Min-Kyu Kim];[]}}	t_position=[Sound Director]	t_сomment=[]	team_end
+	team_begin	members={{[A-Lin Shin];[]}}	t_position=[Lead Sound Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Jin-Su Park];[]};{[So-Yeon Moon];[]}}	t_position=[Sound Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Ki-Man An];[]}}	t_position=[Lead Music Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Hye-Rim Park];[]}}	t_position=[Music Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Yul-Je Jeon];[]}}	t_position=[Media Sound Producer]	t_сomment=[]	team_end
+	team_begin	members={{[Dong-Hee Jung];[]}}	t_position=[Lead Media Sound Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Eun-Hye Chae];[]};{[Jun-Seok Lee];[]};{[Yong-Dae Kim];[]}}	t_position=[Media Sound Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Young-Dae Kim];[]};{[Dong-Ho Cho];[]};{[Bo-Geun Kim];[]}}	t_position=[Audio Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Seung-gi Lee];[]}}	t_position=[Foley Artist]	t_сomment=[]	team_end
+	team_begin	members={{[In-Jin Hwang];[]}}	t_position=[Voice Designer]	t_сomment=[]	team_end
+	team_begin	members={{[Min-Joo Cha];[]}}	t_position=[Project Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Ray Paik];[]};{[Won-il Choi];[]}}	t_position=[Outsourcing Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Doong Sound];[]};{[Signal Space Lab];[]};{[Studio EIM];[]};{[Dynamedion];[]}}	t_position=[Sound Post Production]	t_сomment=[]	team_end
+	team_begin	members={{[Bill Brown];[]};{[Jamie Christopherson];[]};{[Inon Zur];[]};{[Tom Salta];[]};{[Cris Velasco];[]}}	t_position=[Additional Music Composer]	t_сomment=[]	team_end
+	team_begin	members={{[Signal Space Lab];[]};{[Monster Factory];[]}}	t_position=[Recording Studios]	t_сomment=[]	team_end
+	d_name=[Sound]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Euiung Han];[]}}	t_position=[QA General Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Mankyo Han];[]}}	t_position=[Game QA Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Heajung Yoo];[]}}	t_position=[Senior Game QA Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Deuksu Kim];[]};{[Moonhwan Kim];[]};{[Minseo Kim];[]};{[Joheon Kim];[]};{[Jisoo Kim];[]};{[Gayeon Bang];[]};{[Hyowon Bong ];[]};{[Joohyung LEE ];[]};{[Junho Lee];[]};{[YongJu Cho];[]};{[Yunhee Choi ];[]}}	t_position=[Game QA Engineer]	t_сomment=[]	team_end
+	d_name=[Game QA]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Sanghyung Park];[]}}	t_position=[Platform QA General Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Kyoungrok Kim];[]};{[Uido Han];[]}}	t_position=[Platform QA Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Hyeongjin Kim];[]};{[Sicheol Lee];[]};{[Jihye Hong];[]}}	t_position=[Senior Platform QA Lead]	t_сomment=[]	team_end
+	team_begin	members={{[Youngmin Kim];[]};{[Taekyu Kim];[]};{[Yunju Moon];[]};{[Jeyoung Park];[]};{[Junyoung Park];[]};{[Jinguy Son];[]};{[Jonghyeok Ahn];[]};{[Boryung Lee];[]};{[Junho Lee];[]};{[Hyungjun Lee];[]};{[Hyoju Lim];[]};{[Hyojin Joo];[]};{[Eunkyoung Jin];[]};{[Minyoung Choi];[]};{[Jiwon Choi];[]}}	t_position=[Platform QA Engineer]	t_сomment=[]	team_end
+	d_name=[Platform QA]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Heonjun Kim];[]}}	t_position=[General Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Sinku Jung];[]}}	t_position=[Service Operation Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Yungjun Joo];[]};{[Taehee Kang];[]};{[Kyungnam Kim];[]};{[Jung Kim];[]};{[Sunung Park];[]};{[MinHyuk Yang];[]};{[Hotea Jung];[]}}	t_position=[Database Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Jeongseok Lee];[]};{[Eunpyo Kim];[]};{[Youngjoo Kim];[]};{[Jongseon Kim];[]};{[Jongyoung Kim];[]};{[Jinwoo Kim];[]};{[Choongbae Park];[]};{[Minsang Yun];[]};{[Junghoon Lee];[]};{[Taekjin Jun];[]};{[Sungjoon Hong];[]}}	t_position=[Service Reliability Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Younhyung Nam];[]}}	t_position=[Infra Operation Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Sunghwan Kim];[]};{[Jaehyun Kim];[]};{[Hongjoo Kim ];[]};{[Seonghyeon Yun];[]};{[Jaekyeong Yun];[]};{[Songyi Yi ];[]};{[Jungho Chae];[]}}	t_position=[Network Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Soonyong Hwang];[]};{[Dongho Kang];[]};{[Sangcheol Park];[]};{[Juyeon Seo];[]};{[Youngdeok Jeon];[]};{[Jeongyong Jo];[]};{[Joonhee Choi];[]}}	t_position=[System Engineer]	t_сomment=[]	team_end
+	d_name=[Service Infra Center]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Jaewon Ryu ];[]};{[Hoon Kim ];[]};{[Hanjoo Song ];[]};{[Jinsik Woo];[]};{[Hanjun Lee];[]};{[Jinoo Lee];[]};{[Heesung Jung];[]};{[Seunghoon Park];[]}}	t_position=[General Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Kyungtae Han];[]};{[Soojin Na];[]};{[Jungyong Suk];[]};{[Hyunjong Kim];[]};{[Wonyoung Shin];[]};{[Eunjie Lee];[]};{[Saemi Jeon];[]};{[Eunjung Jo];[]}}	t_position=[Platform Project Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Junghoon Seo];[]};{[Hongchul Lee];[]}}	t_position=[Platform Technical Team Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Hyewon Cho];[]}}	t_position=[Platform Architecture ]	t_сomment=[]	team_end
+	team_begin	members={{[Shinkyu Lee];[]}}	t_position=[Scrum Master ]	t_сomment=[]	team_end
+	team_begin	members={{[Dae-Young Kim];[]};{[Hyunwoo Cho];[]};{[Jinyong Jung];[]}}	t_position=[Platform SRE]	t_сomment=[]	team_end
+	team_begin	members={{[Byeonggug Kang];[]};{[Eunwon Seo];[]};{[Pyung Ki Son];[]};{[Sunha Choo];[]};{[Jonghee Baek];[]}}	t_position=[PO]	t_сomment=[]	team_end
+	team_begin	members={{[Kwangdeok Park];[]};{[Yoonhee Lee];[]};{[Jinsu Lee];[]};{[Changhoe Lee];[]};{[Hyerim Joo];[]}}	t_position=[Platform Infra Service]	t_сomment=[]	team_end
+	team_begin	members={{[Donghyun Ko];[]};{[Seunghyeon Kim];[]};{[Jinseong Kim];[]};{[HyoJeong Kim];[]};{[Sejung Yoo];[]};{[Cholhee Yun];[]};{[Leehyun Jung];[]};{[Jee Sue Hwang];[]}}	t_position=[Platform Interaction Service]	t_сomment=[]	team_end
+	team_begin	members={{[Heewon Kong];[]};{[Dogueom Kim];[]};{[Hyojung Kim];[]};{[Jinhyuk Park];[]};{[Kyunghee Lee];[]};{[Myungyong Lee];[]};{[Beomkyu Choi];[]}}	t_position=[Platform Billing Service]	t_сomment=[]	team_end
+	team_begin	members={{[Jonghee Baek];[]};{[Doyoub Lee];[]};{[Hyomi Im];[]};{[Soojung Chae];[]}}	t_position=[Platform Backend Design]	t_сomment=[]	team_end
+	team_begin	members={{[Heewon Kong];[]}}	t_position=[Platform Tech Committee]	t_сomment=[]	team_end
+	team_begin	members={{[Byungyul Ahn];[]};{[Minsoo Kim];[]};{[Euiheon Jeong];[]}}	t_position=[PURPLE Strategy Development]	t_сomment=[]	team_end
+	team_begin	members={{[Sanghee Kim];[]};{[Byeonggug Kang];[]};{[Jiyoung Kim];[]};{[Jinhyung Park];[]};{[Sooin Lee];[]};{[Sooyeon Cho];[]};{[Hana Choi];[]};{[Sunha Choo];[]};{[Yoonho Lee];[]};{[Hanbyeol Kang];[]};{[Bomi Choi];[]};{[Eunji Han];[]}}	t_position=[PURPLE Design]	t_сomment=[]	team_end
+	team_begin	members={{[Soyeon Yoo];[]};{[Jaehak Kim];[]};{[Wonyoung Lee];[]};{[Jungwon Lee];[]}}	t_position=[PURPLE Operation]	t_сomment=[]	team_end
+	team_begin	members={{[Seulgi Lee];[]};{[Sungmin Kim];[]};{[Bora Shin];[]};{[Sumin Shin];[]};{[Buyearn Yang];[]};{[Youjin Lee];[]};{[Juhyun Jeon];[]};{[Eunsung Choi];[]}}	t_position=[PURPLE UI/UX Design]	t_сomment=[]	team_end
+	team_begin	members={{[Jaehee Yun];[]};{[Haegon Koh];[]};{[Hoekyung Kwon];[]};{[Kungbin Kim];[]};{[Eokman Kim];[]};{[HongJung Kim];[]};{[Bongwook Bin];[]};{[Heetae Eom];[]};{[Jangmi Woo];[]};{[Gilneung Lee];[]};{[Eunjae Lee];[]};{[Hyunju Lee];[]};{[Taekyung Jung];[]}}	t_position=[PURPLE Mobile Platform Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Heedong Im];[]};{[Donggeon Do];[]};{[Bugeun Park];[]};{[Seongha Baek];[]};{[KwangHyun Son];[]};{[Haemin Song];[]};{[Seongsim Cheon];[]};{[Joonho Choi];[]}}	t_position=[PURPLE Media Developer]	t_сomment=[]	team_end
+	team_begin	members={{[YeonJin Kim];[]};{[Yuseok Kim];[]};{[Hyeongeun Kim];[]};{[Hyebeen So];[]};{[Kyeongsoo Song];[]};{[Sunghee Lee];[]};{[Taehyoen Lim];[]};{[Dasom Cho];[]};{[Intae Jo];[]};{[Gongyong Ha];[]}}	t_position=[PURPLE Service Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Kijeong Lee];[]};{[Gusam Park];[]};{[Seungbin Paek];[]};{[Myunghee Lee];[]};{[Eunah Lee];[]};{[Jumi Lee];[]};{[Hanul Lee];[]}}	t_position=[PURPLE Launcher Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Chanyoung Yoon];[]};{[Donghyeon Kwon];[]};{[Namki Kim];[]};{[Jin Kim];[]};{[Seonghwan Lim];[]};{[Jongyun Im];[]};{[Hyuncheol Jeong];[]};{[HuiJoon Jo];[]}}	t_position=[Launcher Core Service Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Taeeok Eom];[]};{[Hyunsoo Park];[]};{[Yongheon Lee];[]};{[Jusung Lee];[]};{[Chaesun Leem];[]}}	t_position=[Media Tech Client Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Sehyeon Cheon];[]};{[Gwangseong Kim];[]};{[Junsung Park];[]};{[Taehyun Oh];[]};{[Yonghae Yoon];[]};{[Ung Lee];[]}}	t_position=[Payment Tech Development]	t_сomment=[]	team_end
+	team_begin	members={{[Changho Cha];[]};{[Yeongsic Kim];[]};{[Hyungjoon Kim];[]};{[Jinho Park];[]};{[Hyemin Baek];[]};{[Bongsoo Song];[]};{[Donggyu Lee];[]};{[Haena Lee];[]};{[Yongho Jung];[]};{[Hayoung Jung];[]};{[Hwayoung Jeong];[]}}	t_position=[Customer Auth Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Wonseok Na];[]};{[Eunyoung Kim];[]};{[HyeRan Jeong];[]};{[Minhye Jo];[]};{[Juri Hwang];[]};{[Jimin Hwang];[]}}	t_position=[FE Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Sangho Lee];[]};{[Donghun Kang];[]};{[Ogyu Kwon];[]};{[Minseo Kim];[]};{[Samyeon Kim];[]};{[Seungri Kim];[]};{[Kyungjun Park];[]};{[Nuli Seong];[]};{[Gyuyong Oh];[]};{[Changgwi Lee];[]};{[Hyunro Lee];[]};{[Hwajung Lee];[]};{[Changwook Jeong];[]};{[Hyeonseok Jeong];[]}}	t_position=[PurpleWorks SDK Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Jaewon Choi];[]};{[JiYoung Kim];[]};{[Gyuho Lee];[]};{[Seungwon Lee];[]}}	t_position=[PurpleWorks API Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Hyeonmin Yoon];[]};{[Junghyun Park];[]};{[Hyeran Shin];[]};{[Byongmahn Seo];[]};{[Seungkyun Hong];[]}}	t_position=[PurpleWorks BE Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Youngsu Han];[]};{[Dain Kang];[]};{[Jongwon Yun];[]};{[Yonghae Lee];[]};{[Kyunghwan Jung];[]}}	t_position=[Console Frontend Development]	t_сomment=[]	team_end
+	d_name=[Global Platform TF ]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[yun suk lee];[]};{[Heejung Kim];[]};{[HyeRim Kim];[]};{[Yonguk Kim];[]}}	t_position=[General Manager]	t_сomment=[]	team_end
+	team_begin	members={{[JungMin Lee];[]};{[JeongYoon Lee];[]};{[Sujin Yu];[]};{[JiHyun Kwon];[]}}	t_position=[Platform Project Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Soohyun Yim];[]};{[Sairomi Kim ];[]};{[Soonyoung Kim];[]};{[Yuree Jung];[]};{[Hanna Jung];[]};{[Juhyeong Choi];[]};{[Jaechan Hong];[]};{[Minsung Ku];[]};{[Changgeun Lee];[]};{[SooYoung Jung];[]};{[Jaemin Choi];[]};{[Somin Jin];[]}}	t_position=[User Growth Platform Service Planning]	t_сomment=[]	team_end
+	team_begin	members={{[yongseok Choi];[]};{[Hongseok Koh];[]};{[Kyeryoung Kim];[]};{[Dalsung Kim];[]};{[Miae Kim];[]};{[Minjeong Kim];[]};{[Inja Kim];[]};{[Hyojin Kim];[]};{[Heeseon Kim];[]};{[Hani Roh];[]};{[Jeeyea shim ];[]};{[Seoin In];[]}}	t_position=[User Growth Platform Service Design]	t_сomment=[]	team_end
+	team_begin	members={{[Yunyoung Kim];[]};{[kyungtae Moon];[]};{[Meeyoung Park];[]};{[Youngjin Park];[]};{[Minsu An];[]};{[Soon Yu ];[]};{[Juncheol Lee];[]};{[Joonho Lee];[]};{[Kyungjin Jung];[]};{[Myungjin Jeong];[]};{[Wonmoon Cha];[]};{[Sujung Choi];[]}}	t_position=[User Growth Platform Service FE Development]	t_сomment=[]	team_end
+	team_begin	members={{[Yonguk Kim];[]};{[Gunmo Koo];[]};{[Byeori Kim];[]};{[Sunho Kim];[]};{[Hyerim Na ];[]};{[Kyungok Park];[]};{[Yoonyoung Park];[]};{[Jinsik Park];[]};{[Jiyeon Song];[]};{[Jonghyun Lee ];[]};{[Bongseop Jeong];[]};{[Mingyu Cho];[]};{[Boram Jin];[]};{[Yongrak Choi];[]};{[Jungeun Choi];[]}}	t_position=[User Growth Platform Service Development]	t_сomment=[]	team_end
+	team_begin	members={{[Dongwook Park];[]};{[Yeongju Jo];[]};{[Sera Oh];[]};{[Dongmin Kim];[]};{[Hyungsuk Kim];[]};{[Sujung Shin ];[]};{[Hasun Jung];[]};{[Sangho Han];[]};{[Sungjoon Lee];[]}}	t_position=[Developer Experience Tech Team]	t_сomment=[]	team_end
+	d_name=[User Growth Platform Center]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Moon Sungjin];[]}}	t_position=[Deployment Product Manager]	t_сomment=[]	team_end
+	team_begin	members={{[So-Yeon Kim];[]}}	t_position=[Deployment Frontend Developer]	t_сomment=[]	team_end
+	team_begin	members={{[Lee Yura];[]}}	t_position=[Deployment Backend Developer]	t_сomment=[]	team_end
+	d_name=[Publishing system devevelopment team]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[JUNG DUK SUH];[]}}	t_position=[COO]	t_сomment=[]	team_end
+	team_begin	members={{[HSIAO YEN SUN];[]}}	t_position=[Senior Director ]	t_сomment=[]	team_end
+	team_begin	members={{[HUNG CHIEH HSU];[]}}	t_position=[Legacy Business Department  Director / Legacy Business Team 1 Lead]	t_сomment=[]	team_end
+	team_begin	members={{[CHUN YEN CHANG];[]};{[YI LUN WANG];[]}}	t_position=[Legacy Business Department Member]	t_сomment=[]	team_end
+	team_begin	members={{[TING HAN HUANG];[]};{[YING LIN TSENG];[]};{[LI FENG LIN];[]};{[CHIA TUNG LU];[]}}	t_position=[Legacy Business Department / Legacy Business Team 1 Member]	t_сomment=[]	team_end
+	team_begin	members={{[BONG KYUN KIM];[]}}	t_position=[Infra Service Department Director]	t_сomment=[]	team_end
+	team_begin	members={{[CHI CHEN LI];[]}}	t_position=[Infra Service Department / Data Service Team Lead]	t_сomment=[]	team_end
+	team_begin	members={{[JYUN MING PENG];[]};{[CHUAN WEI CHI];[]}}	t_position=[Infra Service Department / Data Service Team Member]	t_сomment=[]	team_end
+	team_begin	members={{[CHIA PIN HSIN];[]}}	t_position=[Platform Service Department / QA Team Lead]	t_сomment=[]	team_end
+	team_begin	members={{[CHING-HUNG WU];[]};{[HUEI LIEN WANG];[]}}	t_position=[Platform Service Department / QA Team Member]	t_сomment=[]	team_end
+	team_begin	members={{[KUNG HSIANG KUO];[]}}	t_position=[Platform Service Department / L10N Team Lead]	t_сomment=[]	team_end
+	team_begin	members={{[HUI HSIN YI];[]}}	t_position=[Platform Service Department / L10N Team Member]	t_сomment=[]	team_end
+	team_begin	members={{[CHIA WEN PAN];[]}}	t_position=[Platform Service Department / Platform Service Team Lead]	t_сomment=[]	team_end
+	team_begin	members={{[YO LIN HSIEH];[]};{[YEN JU CHOU];[]}}	t_position=[Platform Service Department / Platform Service Team Member]	t_сomment=[]	team_end
+	team_begin	members={{[CHIU HSIANG HUNG];[]}}	t_position=[Platform Service Department /  Platform Technical Team Lead]	t_сomment=[]	team_end
+	team_begin	members={{[CHIN YI LIN];[]}}	t_position=[Platform Service Department /  Platform Technical Team Member]	t_сomment=[]	team_end
+	team_begin	members={{[YU TING HSU];[]};{[YUAN CHUN CHANG];[]};{[YI WEN WANG];[]}}	t_position=[Marketing Communication Team Member]	t_сomment=[]	team_end
+	d_name=[NCT]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Won Ki Lim];[]}}	t_position=[CEO]	t_сomment=[]	team_end
+	team_begin	members={{[Byung-Ho Cho];[]}}	t_position=[System Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Jung-Hwan Lee];[]}}	t_position=[DB Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Chang-Jae Park];[]}}	t_position=[System Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Shigekazu Yoshioka];[]}}	t_position=[QA Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Satoshi Takamura];[]}}	t_position=[QA Staff]	t_сomment=[]	team_end
+	team_begin	members={{[Masami Ueta];[]}}	t_position=[Localization Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Akane Katori];[]};{[Ayana Miura];[]}}	t_position=[Localization Staff]	t_сomment=[]	team_end
+	team_begin	members={{[Tomokazu Arai];[]}}	t_position=[Chief Producer]	t_сomment=[]	team_end
+	team_begin	members={{[Satoshi Tomine];[]};{[Jihye Kim];[]};{[Otoha Saito];[]}}	t_position=[Service Team]	t_сomment=[]	team_end
+	team_begin	members={{[Takashi Miyamoto];[]}}	t_position=[Customer Care]	t_сomment=[]	team_end
+	team_begin	members={{[Kana Yuuki];[]};{[Tetsu Inada];[]};{[Saki Fujita];[]};{[Yosuke Akimoto];[]};{[Miyuki Sawashiro];[]};{[Haruka Tomatsu];[]};{[MoeMi];[]};{[…and more];[]}}	t_position=[Voice Actor]	t_сomment=[]	team_end
+	d_name=[NCJ]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Jeonghee (JJ) Jin];[]}}	t_position=[Chief Executive Officer]	t_сomment=[]	team_end
+	team_begin	members={{[Kelly Kim];[]}}	t_position=[Vice President]	t_сomment=[]	team_end
+	team_begin	members={{[Ben Kim];[]}}	t_position=[Director of Game Service]	t_сomment=[]	team_end
+	team_begin	members={{[Nicolas Coutant];[]}}	t_position=[Director of Production]	t_сomment=[]	team_end
+	team_begin	members={{[Pedro Carvalho];[]}}	t_position=[Producer]	t_сomment=[]	team_end
+	team_begin	members={{[Jared Shina];[]}}	t_position=[Associate Producer]	t_сomment=[]	team_end
+	team_begin	members={{[Evan Hill];[]}}	t_position=[Associate Producer]	t_сomment=[]	team_end
+	team_begin	members={{[Scott Choi];[]}}	t_position=[Publishing Project Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Lily Na];[]}}	t_position=[Director of Marketing]	t_сomment=[]	team_end
+	team_begin	members={{[Erick Valderrama];[]}}	t_position=[Senior Marketing Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Suin Cho];[]}}	t_position=[Manager of UA & Growth Marketing]	t_сomment=[]	team_end
+	team_begin	members={{[Dakota Grabowski];[]}}	t_position=[Director of Biz Dev & Parnerships]	t_сomment=[]	team_end
+	team_begin	members={{[Douglass Perry];[]}}	t_position=[Senior Director of PR]	t_сomment=[]	team_end
+	team_begin	members={{[Brynn Andrews];[]}}	t_position=[Manager, Localization]	t_сomment=[]	team_end
+	team_begin	members={{[Monica Lee];[]}}	t_position=[Senior Localization Project Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Andrew Gant];[]}}	t_position=[Lead Community Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Alex Ageyev];[]}}	t_position=[Community Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Daniel Barton];[]}}	t_position=[Community Coordinator]	t_сomment=[]	team_end
+	team_begin	members={{[Lauren Chung];[]}}	t_position=[Associate Community Coordinator]	t_сomment=[]	team_end
+	team_begin	members={{[Allan Israels];[]}}	t_position=[Manager of Quality Assurance]	t_сomment=[]	team_end
+	team_begin	members={{[Nicholas Rado];[]}}	t_position=[Senior QA Tester]	t_сomment=[]	team_end
+	team_begin	members={{[Ren Ito];[]}}	t_position=[QA Tester]	t_сomment=[]	team_end
+	team_begin	members={{[David Seo];[]}}	t_position=[Director of Technology]	t_сomment=[]	team_end
+	team_begin	members={{[Brian Gielbelhaus];[]}}	t_position=[DevOps Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Jun Ho Lee];[]}}	t_position=[DevOps Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Brian Kim];[]}}	t_position=[Senior Database Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Rick Contier];[]}}	t_position=[Principal Systems Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Michael Bland];[]}}	t_position=[Infrastructure Engineer]	t_сomment=[]	team_end
+	team_begin	members={{[Latis Global];[]}}	t_position=[Translation]	t_сomment=[]	team_end
+	team_begin	members={{[The G'AG Productions];[]}}	t_position=[Audio Recording]	t_сomment=[]	team_end
+	d_name=[NCA]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[David Akopian];[]}}	t_position=[Product Director]	t_сomment=[]	team_end
+	team_begin	members={{[Elizaveta Shigvaleeva];[]}}	t_position=[Product Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Vitaliy Kakorin];[]};{[Kuzma Minin];[]};{[Aleksey Moiseev];[]};{[Aleksandr Makeenkov];[]};{[Leonid Kukuev];[]};{[Igor 'DIL' Yakovlev];[]};{[Elvira 'Eleniel' Izhberdeeva];[]};{[Skufoburra];[]};{[Natalya 'Fantatica' Ermishkina];[]}}	t_position=[Lineage 2 Russia Team]	t_сomment=[]	team_end
+	team_begin	members={{[Ella Gubareva];[]}}	t_position=[Marketing director]	t_сomment=[]	team_end
+	team_begin	members={{[Viladimir Vivchar];[]}}	t_position=[Brand-manager]	t_сomment=[]	team_end
+	team_begin	members={{[Milana Davtyan];[]}}	t_position=[Lead Localization Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Nikita Shibaev];[]};{[Evgeniya Egorova];[]}}	t_position=[Localization Team]	t_сomment=[]	team_end
+	team_begin	members={{[Valentina Beliakova];[]}}	t_position=[Translator]	t_сomment=[]	team_end
+	team_begin	members={{[Aleksandr Andenko];[]};{[Telman Fesenko];[]};{[Aida Shamayko];[]};{[Nataliya Tarabarinova];[]}}	t_position=[Support Team]	t_сomment=[]	team_end
+	team_begin	members={{[Vladimir Petkevich];[]};{[Dmitry Popelev];[]}}	t_position=[Engeneering Team]	t_сomment=[]	team_end
+	team_begin	members={{[Tatyana 'Trullya' Razuvaeva];[]}}	t_position=[QA Lead]	t_сomment=[]	team_end
+	team_begin	members={{[Stanislav Ivanov];[]};{[Ivan Shanaev];[]};{[Evgeny Silin];[]};{[Anna Gribanova];[]}}	t_position=[QA Team]	t_сomment=[]	team_end
+	team_begin	members={{[Nikolay Linkin];[]};{[Igor Yakushev];[]};{[Aleksey Bannikov];[]};{[Andreys Maklakovs];[]};{[Pavel Chekriy];[]}}	t_position=[Frontend developer]	t_сomment=[]	team_end
+	team_begin	members={{[Pavel Shuvaev];[]};{[Oleg Gavrilov];[]};{[Aleksey Martson];[]}}	t_position=[Senior backend developer]	t_сomment=[]	team_end
+	team_begin	members={{[Aleksandr Zubkov];[]};{[Elena Zaytseva];[]};{[Maksim Savin];[]}}	t_position=[Web QA ]	t_сomment=[]	team_end
+	d_name=[Russia]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[David Akopian];[]}}	t_position=[Product Director]	t_сomment=[]	team_end
+	team_begin	members={{[Elizaveta Shigvaleeva];[]}}	t_position=[Product Manager]	t_сomment=[]	team_end
+	team_begin	members={{[Vitaliy Kakorin];[]};{[Aleksey Moiseev];[]};{[Aleksandr Makeenkov];[]};{[Leonid Kukuev];[]};{[Igor 'DIL' Yakovlev];[]};{[Kookaburra];[]}}	t_position=[Lineage 2 Europe Team]	t_сomment=[]	team_end
+	team_begin	members={{[Ella Gubareva];[]}}	t_position=[Marketing director]	t_сomment=[]	team_end
+	team_begin	members={{[Nataliya Monakhova];[]}}	t_position=[Brand-manager]	t_сomment=[]	team_end
+	team_begin	members={{[Milana Davtyan];[]}}	t_position=[Lead Localization Manager]	t_сomment=[]	team_end
+	team_begin	members={{[ Darya Ulyanova];[]};{[Natalia Vasilieva];[]}}	t_position=[Localization Team]	t_сomment=[]	team_end
+	team_begin	members={{[Aleksey Cheranovskiy];[]}}	t_position=[Translator]	t_сomment=[]	team_end
+	team_begin	members={{[Roman Shelkovoy];[]};{[Mikhail Artamonov];[]}}	t_position=[Support Team]	t_сomment=[]	team_end
+	team_begin	members={{[Vladimir Petkevich];[]};{[Dmitry Popelev];[]}}	t_position=[Engeneering Team]	t_сomment=[]	team_end
+	team_begin	members={{[Tatyana 'Trullya' Razuvaeva];[]}}	t_position=[QA Lead]	t_сomment=[]	team_end
+	team_begin	members={{[Stanislav Ivanov];[]};{[Ivan Shanaev];[]};{[Evgeny Silin];[]};{[Anna Gribanova];[]}}	t_position=[QA Team]	t_сomment=[]	team_end
+	team_begin	members={{[Nikolay Linkin];[]};{[Igor Yakushev];[]};{[Aleksey Bannikov];[]};{[Andreys Maklakovs];[]};{[Pavel Chekriy];[]}}	t_position=[Frontend developer]	t_сomment=[]	team_end
+	team_begin	members={{[Pavel Shuvaev];[]};{[Oleg Gavrilov];[]};{[Aleksey Martson];[]}}	t_position=[Senior backend developer]	t_сomment=[]	team_end
+	team_begin	members={{[Aleksandr Zubkov];[]};{[Elena Zaytseva];[]};{[Maksim Savin];[]}}	t_position=[Web QA ]	t_сomment=[]	team_end
+	d_name=[EU Staff]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[qijin];[]}}	t_position=[Senior Product Manager]	t_сomment=[]	team_end
+	team_begin	members={{[sunshineliu];[]}}	t_position=[Product Manager]	t_сomment=[]	team_end
+	team_begin	members={{[sunshineliu];[]}}	t_position=[Localization Planning]	t_сomment=[]	team_end
+	team_begin	members={{[jwhuang];[]}}	t_position=[QA Manager]	t_сomment=[]	team_end
+	d_name=[China]	d_comment=[]
+department_end
+department_begin
+	team_begin	members={{[Aleksandr 'Verlin'];[]};{[For actively supporting the project and providing];[]};{[valuable information about game vulnerabilities.];[]}}	t_position=[]	t_сomment=[]	team_end
+	d_name=[Special Thanks]	d_comment=[]
+department_end

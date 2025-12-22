@@ -1,0 +1,65 @@
+slot_fee_data_begin
+	dyeSlotId=1	dyePotentialMinLevel=0	dyePotentialMaxLevel=10
+	unkValues_begin
+		optionId=1	maxDailyStep=5
+		availableOptions_begin	rollNumber=2	chance=85.0	availableOptions_end
+		availableOptions_begin	rollNumber=3	chance=12.0	availableOptions_end
+		availableOptions_begin	rollNumber=4	chance=2.0	availableOptions_end
+		availableOptions_begin	rollNumber=5	chance=1.0	availableOptions_end
+		availableOptions_begin	itemId=57	itemCount=10000000	availableOptions_end
+unkValues_end
+	unkValues_begin
+		optionId=0	maxDailyStep=0
+unkValues_end
+slot_fee_data_end
+slot_fee_data_begin
+	dyeSlotId=0	dyePotentialMinLevel=2	dyePotentialMaxLevel=5
+	unkValues_begin
+		optionId=2	maxDailyStep=0
+unkValues_end
+	unkValues_begin
+		optionId=66	maxDailyStep=3
+unkValues_end
+	unkValues_begin
+		optionId=64	maxDailyStep=65
+		availableOptions_begin	rollNumber=0	chance=9.0277966E-36	availableOptions_end
+		availableOptions_begin	rollNumber=0	chance=3.5172995E-38	availableOptions_end
+		availableOptions_begin	rollNumber=57	chance=0.0	availableOptions_end
+		availableOptions_begin	rollNumber=45	chance=4.27E-43	availableOptions_end
+unkValues_end
+	unkValues_begin
+		optionId=0	maxDailyStep=0
+		availableOptions_begin	rollNumber=0	chance=6.0659254E-36	availableOptions_end
+		availableOptions_begin	rollNumber=4	chance=-1.1368686E-13	availableOptions_end
+		availableOptions_begin	itemId=1094713344	itemCount=4	availableOptions_end
+		availableOptions_begin	itemId=1344	itemCount=956383104	availableOptions_end
+		availableOptions_begin	itemId=-2147483648	itemCount=39062	availableOptions_end
+		availableOptions_begin	itemId=0	itemCount=33817858	availableOptions_end
+		availableOptions_begin	itemId=1118437376	itemCount=1073741827	availableOptions_end
+		availableOptions_begin	itemId=1089	itemCount=344064	availableOptions_end
+		availableOptions_begin	itemId=20938752	itemCount=57	availableOptions_end
+		availableOptions_begin	itemId=20000000	itemCount=0	availableOptions_end
+		availableOptions_begin	itemId=167772928	itemCount=67436802	availableOptions_end
+		availableOptions_begin	itemId=-1442840574	itemCount=834	availableOptions_end
+		availableOptions_begin	itemId=278848	itemCount=88080384	availableOptions_end
+		availableOptions_begin	itemId=1065353216	itemCount=14593	availableOptions_end
+		availableOptions_begin	itemId=-1734967296	itemCount=0	availableOptions_end
+		availableOptions_begin	itemId=84017152	itemCount=516	availableOptions_end
+		availableOptions_begin	itemId=213674	itemCount=71385088	availableOptions_end
+		availableOptions_begin	itemId=1073741824	itemCount=-2147483643	availableOptions_end
+		availableOptions_begin	itemId=3735871	itemCount=754974720	availableOptions_end
+		availableOptions_begin	itemId=305	itemCount=67108864	availableOptions_end
+		availableOptions_begin	itemId=16910848	itemCount=132101	availableOptions_end
+		availableOptions_begin	itemId=54700544	itemCount=1094713344	availableOptions_end
+		availableOptions_begin	itemId=4	itemCount=1344	availableOptions_end
+		availableOptions_begin	itemId=956383104	itemCount=-2147483648	availableOptions_end
+		availableOptions_begin	itemId=39062	itemCount=0	availableOptions_end
+		availableOptions_begin	itemId=33817858	itemCount=1118437376	availableOptions_end
+		availableOptions_begin	itemId=1073741827	itemCount=1089	availableOptions_end
+		availableOptions_begin	itemId=344064	itemCount=20938752	availableOptions_end
+		availableOptions_begin	itemId=57	itemCount=20000000	availableOptions_end
+		availableOptions_begin	itemId=0	itemCount=1632832512	availableOptions_end
+		availableOptions_begin	itemId=1632658790	itemCount=1734437731	availableOptions_end
+		availableOptions_begin	itemId=	availableOptions_end
+unkValues_end
+slot_fee_data_end

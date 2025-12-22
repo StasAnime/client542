@@ -1,0 +1,2 @@
+Enchanted_Hair_Effect_begin	ID=100545	Enchanted={{0;[LineageEffect2.s_phantom_mask_deco];[EYE]};{9;[LineageEffect2.s_phantom_mask_b];[EYE]}}	Enchanted_Hair_Effect_end
+Enchanted_Hair_Effect_begin	ID=102673	Enchanted={{0;[LineageEffect2.s_phantom_mask_deco];[EYE]};{9;[LineageEffect2.s_phantom_mask_b];[EYE]}}	Enchanted_Hair_Effect_end

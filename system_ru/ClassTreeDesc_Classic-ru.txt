@@ -1,0 +1,127 @@
+classtreedesc_begin	classID=fighter	desc1=[Воин, обладающий большой физической силой.]	desc2=[В бою может использовать различные виды оружия.]	classtreedesc_end
+classtreedesc_begin	classID=mage	desc1=[Мистик, только начавший изучение магии.]	desc2=[Способен применять различные заклинания начального уровня.]	classtreedesc_end
+classtreedesc_begin	classID=elven_fighter	desc1=[Воин из народа Эльфов, сражающийся ради защиты своих соплеменников и родных земель.]	desc2=[В бою полагается на скорость, использует силы природы для лечения.]	classtreedesc_end
+classtreedesc_begin	classID=elven_mage	desc1=[Маг из народа Эльфов. Изучает силы природы, чтобы постичь тайны энергии, пронизывающий мир.]	desc2=[Отринул темную магию ради обретения силы природы, которую использует в бою.]	classtreedesc_end
+classtreedesc_begin	classID=dark_fighter	desc1=[Воин Темных Эльфов, который сражается ради защиты сородичей и собственного дома.]	desc2=[Его сила Физ. Крит. Атк. выше, чем у прочих рас.]	classtreedesc_end
+classtreedesc_begin	classID=dark_mage	desc1=[Маг Темных Эльфов, изучающий темные колдовские искусства.]	desc2=[Этот народ создал собственную черную магию, которая невероятно сильна.]	classtreedesc_end
+classtreedesc_begin	classID=orc_fighter	desc1=[Крепкий телом воин народа Орков, служитель Бога Огня Паагрио.]	desc2=[В бою полагается на высокую силу, которой отличаются все Орки.]	classtreedesc_end
+classtreedesc_begin	classID=orc_mage	desc1=[Жрец расы Орков, которого растили в храме Бога Огня.]	desc2=[Изучает не слишком сложную магию, подаренную самим Паагрио.]	classtreedesc_end
+classtreedesc_begin	classID=dwarven_fighter	desc1=[Способен изготавливать разнообразные предметы и собирать различные материалы.]	desc2=[Изучает способы создания и сбора предметов.]	classtreedesc_end
+classtreedesc_begin	classID=jin_kamael_soldier	desc1=[Только начинает постигать силу народа Камаэль.]	desc2=[Несмотря на то, что поначалу у Камаэль мало атакующих умений, их боевые способности выше, чем у других рас.]	classtreedesc_end
+classtreedesc_begin	classID=warrior	desc1=[Могучий боец, более всего полагающийся на свою неистовую силу.]	desc2=[Способен справиться даже с самыми могучими противниками.]	classtreedesc_end
+classtreedesc_begin	classID=knight	desc1=[Опытный солдат, готовый отдать свою жизнь ради страны и монарха.]	desc2=[В бою использует щит.]	classtreedesc_end
+classtreedesc_begin	classID=rogue	desc1=[Не стоит недооценивать этого воина.]	desc2=[Он способен быстро перемещаться и атаковать.]	classtreedesc_end
+classtreedesc_begin	classID=wizard	desc1=[Этот маг способен подчинить магию, которая пронизывает весь мир.]	desc2=[В бою предпочитает использовать магию огня и отрицательные эффекты.]	classtreedesc_end
+classtreedesc_begin	classID=cleric	desc1=[Этот маг способен творить чудеса благодаря силе своей веры. Ему благоволят боги.]	desc2=[Изучает магию исцеления и усиления, подаренную Богиней Света.]	classtreedesc_end
+classtreedesc_begin	classID=elven_knight	desc1=[Воин Эльфов, который в совершенстве изучил искусство владения мечом.]	desc2=[Благодаря своим умениям незаменим на поле битвы.]	classtreedesc_end
+classtreedesc_begin	classID=elven_scout	desc1=[Сражается, используя военное искусство Эльфов.]	desc2=[Двигается очень быстро благодаря отточенным навыкам.]	classtreedesc_end
+classtreedesc_begin	classID=elven_wizard	desc1=[Изучает белую магию, которую способен использовать довольно быстро.]	desc2=[В бою использует магию воды, а также замедляет противников.]	classtreedesc_end
+classtreedesc_begin	classID=oracle	desc1=[Поклоняется Богу Огня Паагрио и предсказывает будущее.]	desc2=[Может лечить союзников.]	classtreedesc_end
+classtreedesc_begin	classID=palus_knight	desc1=[Благородный воин Эльфов, который следует путем света и сражается ради защиты своего господина и справедливости.]	desc2=[В бою использует меч, а также защитные приемы.]	classtreedesc_end
+classtreedesc_begin	classID=assasin	desc1=[Этот воин Темных Эльфов передвигается незримо и бесшумно благодаря особым доспехам, которые не сковывают движений.]	desc2=[Его атаки медленные, но наносят много урона, особенно в случае критического удара.]	classtreedesc_end
+classtreedesc_begin	classID=dark_wizard	desc1=[Маг народа Темных Эльфов, изучающий магию ветра и черную магию. Способен нанести большой урон.]	desc2=[В бою предпочитает использовать силу бездны и стихии ветра.]	classtreedesc_end
+classtreedesc_begin	classID=shillien_oracle	desc1=[Жрец Шилен способен использовать как магию тьмы, так и света.]	desc2=[Обладают силами святости и бездны.]	classtreedesc_end
+classtreedesc_begin	classID=orc_raider	desc1=[Элитный воин расы Орков, который в совершенстве владеет боевыми искусствами.]	desc2=[Использует ярость для увеличения боевых способностей, а различное оружие делает его еще более опасным.]	classtreedesc_end
+classtreedesc_begin	classID=orc_monk	desc1=[Воин Орков, который стремится обрести невероятно сильное тело.]	desc2=[В сражении использует кастеты, которыми наносит быстрые удары.]	classtreedesc_end
+classtreedesc_begin	classID=orc_shaman	desc1=[Этот воин получил благословение Бога Огня и стал шаманом.]	desc2=[В бою с помощью магии поглощает здоровье противников.]	classtreedesc_end
+classtreedesc_begin	classID=scavenger	desc1=[Путешествует по всему миру в поисках различных материалов.]	desc2=[С помощью умения Оценка умеет добывать различные предметы с тел поверженных врагов.]	classtreedesc_end
+classtreedesc_begin	classID=trooper	desc1=[Воин Камаэль, обладающий большой физической силой.]	desc2=[Сражается древним мечом.]	classtreedesc_end
+classtreedesc_begin	classID=soul_finder	desc1=[В сражении использует силу душ.]	desc2=[Способен быстро атаковать рапирой.]	classtreedesc_end
+classtreedesc_begin	classID=warder	desc1=[Воин Камаэль, посвятивший себя искусству стрельбы из лука.]	desc2=[Его стрелы наносят большой урон.]	classtreedesc_end
+classtreedesc_begin	classID=bounty_hunter	desc1=[Охотится за редкими предметами.]	desc2=[В искусстве сбора предметов им нет равных.]	classtreedesc_end
+classtreedesc_begin	classID=gladiator	desc1=[Мечник, использующий разнообразные боевые приемы.]	desc2=[Его атаки заряжены особой энергией.]	classtreedesc_end
+classtreedesc_begin	classID=warlord	desc1=[Опытный воин, который сражается древковым оружием.]	desc2=[Обладает большим набором атак.]	classtreedesc_end
+classtreedesc_begin	classID=paladin	desc1=[Использует силы, полученные благодаря покровительству Богини Света, для защиты своих соратников.]	desc2=[Этот рыцарь умеет восстанавливать здоровье.]	classtreedesc_end
+classtreedesc_begin	classID=dark_avenger	desc1=[Рыцарь, отдавший все Богине Тьмы ради осуществления мести.]	desc2=[Использует темную силу, которую черпает из своей ненависти, и призывает на помощь Темную Пантеру.]	classtreedesc_end
+classtreedesc_begin	classID=treasure_hunter	desc1=[Странствует в надежде обрести богатство и славу.]	desc2=[Быстро перемещается по полю боя.]	classtreedesc_end
+classtreedesc_begin	classID=hawkeye	desc1=[Меткий стрелок.]	desc2=[Отлично поражает врагов из лука.]	classtreedesc_end
+classtreedesc_begin	classID=sorcerer	desc1=[Маг, изучающий стихийные заклинания и силы природы.]	desc2=[Использует высшую магию огня.]	classtreedesc_end
+classtreedesc_begin	classID=necromancer	desc1=[С помощью черной магии способен призывать мертвецов.]	desc2=[Также атакует противников Проклятой Костью.]	classtreedesc_end
+classtreedesc_begin	classID=warlock	desc1=[Владеет магией четырех стихий и призывает слуг.]	desc2=[Эти слуги помогают в бою.]	classtreedesc_end
+classtreedesc_begin	classID=bishop	desc1=[Этот целитель из храма Богини Света Эйнхасад способен излечить любые травмы.]	desc2=[Использует магию исцеления для восстановления здоровья.]	classtreedesc_end
+classtreedesc_begin	classID=prophet	desc1=[Эти жрецы считают, что для победы можно использовать любые средства.]	desc2=[В бою накладывает различные положительные эффекты.]	classtreedesc_end
+classtreedesc_begin	classID=temple_knight	desc1=[Рыцарь, который защищает союзников.]	desc2=[В бою прикрывает соратников с помощью сил, полученных от богини Евы.]	classtreedesc_end
+classtreedesc_begin	classID=swordsinger	desc1=[Песнями призывает духов.]	desc2=[С помощью песен накладывает усиливающие положительные эффекты.]	classtreedesc_end
+classtreedesc_begin	classID=plain_walker	desc1=[Этот воин любит скитаться и жить под открытым небом.]	desc2=[Благодаря своим странствиям по миру он научился быстро перемещаться.]	classtreedesc_end
+classtreedesc_begin	classID=silver_ranger	desc1=[Предпочитает атаковать на большом расстоянии.]	desc2=[Способен быстро перемещаться.]	classtreedesc_end
+classtreedesc_begin	classID=spellsinger	desc1=[Способен подчинить силу четырех стихий, однако предпочитает использовать воду.]	desc2=[Сражается с помощью мощных атак стихией воды.]	classtreedesc_end
+classtreedesc_begin	classID=elemental_summoner	desc1=[Призыватели народа Эльфов разработали собственные методы вызова слуг и полагаются на силу своей воли.]	desc2=[Призывает могучего Единорога для помощи в бою.]	classtreedesc_end
+classtreedesc_begin	classID=elder	desc1=[Использует различные заклинания, чтобы лечить союзников.]	desc2=[С помощью магии исцеляет и усиливает защиту.]	classtreedesc_end
+classtreedesc_begin	classID=shillien_knight	desc1=[Рыцарь-служитель богини Шилен.]	desc2=[В сражении использует магию молний, дарованную Шилен.]	classtreedesc_end
+classtreedesc_begin	classID=bladedancer	desc1=[Этот воин повелевает энергией смерти, а для помощи соратникам исполняет особые танцы во славу разрушения.]	desc2=[Его танцы усиливают боевые способности.]	classtreedesc_end
+classtreedesc_begin	classID=abyss_walker	desc1=[Разбойник, который прекрасно умеет скрываться.]	desc2=[Тихо подкрадывается к противнику и неожиданно атакует.]	classtreedesc_end
+classtreedesc_begin	classID=phantom_ranger	desc1=[Стреляет без промаха.]	desc2=[Выпускает стрелы медленно, но компенсирует это невероятной мощностью каждого выстрела.]	classtreedesc_end
+classtreedesc_begin	classID=spellhowler	desc1=[Эти маги невероятно сильны, однако их исключили из Башни Слоновой Кости за использование темного колдовства.]	desc2=[В бою используют мощную магию.]	classtreedesc_end
+classtreedesc_begin	classID=phantom_summoner	desc1=[Может вызвать себе на помощь призраков.]	desc2=[Призванные слуги помогают в бою.]	classtreedesc_end
+classtreedesc_begin	classID=shillien_elder	desc1=[Посвятил жизнь изучению темной магии и научился управлять энергией бездны.]	desc2=[Может ослабить противника магическими умениями и одновременно излечиться.]	classtreedesc_end
+classtreedesc_begin	classID=destroyer	desc1=[Опытный воин, который пользуется различным оружием.]	desc2=[Обладает большим набором атак.]	classtreedesc_end
+classtreedesc_begin	classID=tyrant	desc1=[Использует различные тотемы, чтобы стать сильнее.]	desc2=[Благодаря силе природы, заключенной в тотемах, наносит противникам большой урон.]	classtreedesc_end
+classtreedesc_begin	classID=overlord	desc1=[Обладает мощной магией, полученной от Бога Огня.]	desc2=[В бою использует магию, дарованную Паагрио.]	classtreedesc_end
+classtreedesc_begin	classID=warcryer	desc1=[Обладает особой магией племени Орков, увеличивающую силу.]	desc2=[С помощью тайного колдовства своего народа усиливает боевые способности.]	classtreedesc_end
+classtreedesc_begin	classID=artisan	desc1=[Его главное занятие - изготовление предметов в мастерской.]	desc2=[С определенным шансом способен добыть из монстров различные вещи.]	classtreedesc_end
+classtreedesc_begin	classID=warsmith	desc1=[Может призвать големов для различных целей - от помощи в битве до осады.]	desc2=[Атакует противников различным оружием.]	classtreedesc_end
+classtreedesc_begin	classID=berserker	desc1=[Берсерк, который двигается очень быстро.]	desc2=[Бросается на противников и сокрушает их.]	classtreedesc_end
+classtreedesc_begin	classID=soul_breaker	desc1=[Уничтожает противников, используя силу душ.]	desc2=[Обрушивает на цель шквал ударов и магии.]	classtreedesc_end
+classtreedesc_begin	classID=arbalester	desc1=[Атакует врага стрелами, которые постепенно наносят все больше урона.]	desc2=[С каждой атакой возрастает мощность выстрела.]	classtreedesc_end
+classtreedesc_begin	classID=duelist	desc1=[Один из самых опасных противников в сражении один на один.]	desc2=[Прекрасно сражается парными мечами.]	classtreedesc_end
+classtreedesc_begin	classID=dreadnought	desc1=[Скрытая древняя сила помогла этому воину переродиться.]	desc2=[Отлично сражается древковым оружием.]	classtreedesc_end
+classtreedesc_begin	classID=phoenix_knight	desc1=[Благородный воин, который следует путем света и сражается ради защиты своего господина и справедливости.]	desc2=[С помощью исцеляющей и защитной магии помогает соратникам в битве.]	classtreedesc_end
+classtreedesc_begin	classID=hell_knight	desc1=[Рыцарь, который использует силу ненависти во время сражений.]	desc2=[Накладывает на противников отрицательные эффекты.]	classtreedesc_end
+classtreedesc_begin	classID=sagittarius	desc1=[Один из лучших стрелков в мире.]	desc2=[Специализируется на стрельбе из лука.]	classtreedesc_end
+classtreedesc_begin	classID=adventurer	desc1=[Воин, который не ищет признания и одобрения общества.]	desc2=[Искатель приключений, который использует множество боевых приемов.]	classtreedesc_end
+classtreedesc_begin	classID=archmage	desc1=[Этот маг способен подчинить силу четырех стихий, однако предпочитает использовать огонь.]	desc2=[Атакует заклинаниями со стихией огня.]	classtreedesc_end
+classtreedesc_begin	classID=soultaker	desc1=[Этот маг управляет душами мертвых, а также накладывает проклятия.]	desc2=[Накладывает на противников множество отрицательных эффектов.]	classtreedesc_end
+classtreedesc_begin	classID=arcana_lord	desc1=[Превосходно владеет магией и использует свою силу для призыва слуг.]	desc2=[Призывает кошек для помощи в бою.]	classtreedesc_end
+classtreedesc_begin	classID=cardinal	desc1=[Этот воин осознал разницу между чудом и светлой магией, после чего достиг истинного просветления.]	desc2=[В совершенстве владеет исцеляющей магией, которой спасает жизни членов группы.]	classtreedesc_end
+classtreedesc_begin	classID=hierophant	desc1=[Этот воин услышал шепот судьбы, прошел эту дорогу и освоил особую светлую магию.]	desc2=[Использует сильную магию, чтобы раздвинуть границы возможного и укрепить свое тело.]	classtreedesc_end
+classtreedesc_begin	classID=evas_templar	desc1=[Рыцарь, присягнувший богине Еве после падения Шилен.]	desc2=[Сама Ева подарила ему особые умения для защиты в бою.]	classtreedesc_end
+classtreedesc_begin	classID=sword_muse	desc1=[В разгар боя способен призвать духа, обладающего божественной защитой.]	desc2=[Усыпляет и валит противников на землю звуками особых песен.]	classtreedesc_end
+classtreedesc_begin	classID=wind_rider	desc1=[Этот воин появляется и исчезает так же неожиданно, как порыв ветра.]	desc2=[Использует силу стихии ветра, чтобы двигаться быстрее и увеличить скорость атак.]	classtreedesc_end
+classtreedesc_begin	classID=moonlight_sentinel	desc1=[Лучший лучник народа Эльфов.]	desc2=[Дождем стрел с неба атакует множество противников.]	classtreedesc_end
+classtreedesc_begin	classID=mystic_muse	desc1=[Сумел освоить высшую магию четырех стихий.]	desc2=[Атакует заклинаниями со стихией воды.]	classtreedesc_end
+classtreedesc_begin	classID=elemental_master	desc1=[До предела увеличивает собственную силу, используя высшую магию призыва.]	desc2=[Призывает Единорога для помощи в бою.]	classtreedesc_end
+classtreedesc_begin	classID=evas_saint	desc1=[Сильнейший среди Жрецов.]	desc2=[Благодаря покровительству богини Евы обладает высшей магией исцеления и большим запасом МР.]	classtreedesc_end
+classtreedesc_begin	classID=shillien_templar	desc1=[Покровительство Шилен делает этого рыцаря одним из самых сильных.]	desc2=[При помощи темной магии забирает жизненную силу противника, добивая его различными отрицательными эффектами.]	classtreedesc_end
+classtreedesc_begin	classID=spectral_dancer	desc1=[Этот воин способен черпать силу из бездны.]	desc2=[В совершенстве освоил искусство танца.]	classtreedesc_end
+classtreedesc_begin	classID=ghost_hunter	desc1=[Мастер бесшумных убийств. Его жертва умирает раньше, чем понимает, что с ней произошло.]	desc2=[Достиг наивысшего мастерства в искусстве убийства.]	classtreedesc_end
+classtreedesc_begin	classID=ghost_sentinel	desc1=[Лучник, атакующий врага быстрыми и разрушительными стрелами.]	desc2=[Способен убить одной мощной атакой.]	classtreedesc_end
+classtreedesc_begin	classID=storm_screamer	desc1=[Использует высшую магию ветра и темное колдовство, что делает его заклинания одними из самых мощных.]	desc2=[Атакует силой стихии ветра и темной магией.]	classtreedesc_end
+classtreedesc_begin	classID=spectral_master	desc1=[Призыватель, специализирующийся на призыве слуг для помощи в бою.]	desc2=[Способен призвать слугу, который накладывает на противника проклятье.]	classtreedesc_end
+classtreedesc_begin	classID=shillien_saint	desc1=[Целитель Темных Эльфов, член культа запертой в бездне Шилен.]	desc2=[Сеет смерть, используя дарованную Шилен силу.]	classtreedesc_end
+classtreedesc_begin	classID=titan	desc1=[Вступает в бой одним из первых, безжалостно уничтожая всех на своем пути.]	desc2=[Чем дольше находится в бою, тем сильнее его гнев, в котором он черпает силу для расправы с противниками.]	classtreedesc_end
+classtreedesc_begin	classID=grand_khavatari	desc1=[Один из лучших воинов, полагающихся на физическую силу. В совершенстве владеет боевым искусством Аватаров.]	desc2=[Прекрасно сражается кастетами, скорость его атак невероятна.]	classtreedesc_end
+classtreedesc_begin	classID=dominator	desc1=[Вдохновляет соратников и вселяет в них веру в победу.]	desc2=[Использует силу Бога Огня Паагрио, чтобы сделать атакующие заклинания еще мощнее. При помощи положительных эффектов может склонить исход битвы в сторону своей группы.]	classtreedesc_end
+classtreedesc_begin	classID=doomcryer	desc1=[Способен использовать высшую магию.]	desc2=[В совершенстве изучил магию Орков и использует ее для наложения положительных эффектов.]	classtreedesc_end
+classtreedesc_begin	classID=fortune_seeker	desc1=[В деле поиска материалов ему нет равных.]	desc2=[Игнорируя защиту, оглушает противника. С определенным шансом отменяет действие положительных эффектов.]	classtreedesc_end
+classtreedesc_begin	classID=maestro	desc1=[Лучший среди ремесленников.]	desc2=[Достиг невероятных высот в искусстве создания предметов.]	classtreedesc_end
+classtreedesc_begin	classID=doombringer	desc1=[Обезоруживает и сокрушает противников.]	desc2=[Настоящая машина разрушения.]	classtreedesc_end
+classtreedesc_begin	classID=soul_hound	desc1=[Обладает настолько мощной энергией душ, что уничтожает любого противника.]	desc2=[Без устали атакует мощными ударами рапиры.]	classtreedesc_end
+classtreedesc_begin	classID=trickster	desc1=[Лучник, способный посеять панику и хаос рядах противника, выпуская разнообразные стрелы.]	desc2=[Ставит на врага клеймо и уменьшает получаемый от него критический урон.]	classtreedesc_end
+classtreedesc_begin	classID=human_deathknight_0	desc1=[Человек, на которого пало проклятие в битве с Валакасом.]	desc2=[Уничтожает врагов уникальным мечом Рыцаря Смерти.]	classtreedesc_end
+classtreedesc_begin	classID=human_deathknight_1	desc1=[Пробуждает силу огня и использует непревзойденное мастерство фехтования.]	desc2=[Использует Заряды Души для атаки огнем.]	classtreedesc_end
+classtreedesc_begin	classID=human_deathknight_2	desc1=[Уничтожает врагов, воспламеняя свое оружие.]	desc2=[Закаляет свое оружие огнем.]	classtreedesc_end
+classtreedesc_begin	classID=human_deathknight_3	desc1=[Рыцарь Смерти сражается, используя огонь.]	desc2=[Воспламеняет зону вокруг себя, нанося урон врагам.]	classtreedesc_end
+classtreedesc_begin	classID=elf_deathknight_0	desc1=[Эльф, на которого пало проклятие при попытке сразить Валакаса.]	desc2=[Уничтожает врагов уникальным мечом Рыцаря Смерти.]	classtreedesc_end
+classtreedesc_begin	classID=elf_deathknight_1	desc1=[Подчиняет силы льда и использует непревзойденное мастерство фехтования.]	desc2=[Использует Заряды Души для атаки льдом.]	classtreedesc_end
+classtreedesc_begin	classID=elf_deathknight_2	desc1=[Уничтожает врагов, наполняя свое оружие леденящим холодом.]	desc2=[Закаляет свое оружие холодом.]	classtreedesc_end
+classtreedesc_begin	classID=elf_deathknight_3	desc1=[Рыцарь Смерти сражается, используя холод.]	desc2=[Замораживает врагов, создавая вокруг себя могучий ледяной буран.]	classtreedesc_end
+classtreedesc_begin	classID=delf_deathknight_0	desc1=[Темный Эльф, на которого пало проклятие при попытке сразить Валакаса.]	desc2=[Уничтожает врагов уникальным мечом Рыцаря Смерти.]	classtreedesc_end
+classtreedesc_begin	classID=delf_deathknight_1	desc1=[Подчиняет силу молнии и использует непревзойденное мастерство фехтования.]	desc2=[Использует Заряды Души для атаки электричеством.]	classtreedesc_end
+classtreedesc_begin	classID=delf_deathknight_2	desc1=[Уничтожает врагов, наполняя свое оружие мощью молний.]	desc2=[Закаляет свое оружие молнией.]	classtreedesc_end
+classtreedesc_begin	classID=delf_deathknight_3	desc1=[Рыцарь Смерти сражается, используя молнии.]	desc2=[Мощные разряды молний наносят урон врагу.]	classtreedesc_end
+classtreedesc_begin	classID=Sylph Gunner	desc1=[Воин ветра, вольная душа.]	desc2=[Использует силу духа.]	classtreedesc_end
+classtreedesc_begin	classID=Sharpshooter	desc1=[Этот воин пользуется огнестрельным оружием.]	desc2=[Он сражается, полагаясь на силу духа.]	classtreedesc_end
+classtreedesc_begin	classID=Wind Sniper	desc1=[Закален могучим ветром.]	desc2=[Невероятно быстро двигается, благодаря тому, что он укротил дух ветра.]	classtreedesc_end
+classtreedesc_begin	classID=Storm Blaster	desc1=[Этот воин способен обрушить мощь шторма на своих врагов.]	desc2=[Использует мощные дистанционные атаки.]	classtreedesc_end
+classtreedesc_begin	classID=Orc Lancer	desc1=[Орк-всадник, использующий копье.]	desc2=[Сражается вместе со зверем, благословленным Паагрио.]	classtreedesc_end
+classtreedesc_begin	classID=Rider	desc1=[Этот воин легко настигает своих врагов, так как передвигается верхом на могучем звере.]	desc2=[Использует мощные атаки копьем.]	classtreedesc_end
+classtreedesc_begin	classID=Dragoon	desc1=[Его техника владения копьем уникальна, ведь он применяет оружие, не спешиваясь.]	desc2=[Могучим взмахом копья способен нанести урон сразу нескольким противникам.]	classtreedesc_end
+classtreedesc_begin	classID=Vanguard Rider	desc1=[Воин, всегда выступающий в авангарде верхом на величественном звере.]	desc2=[Неудержимые атаки верного зверя вселяют страх в души врагов.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinM1	desc1=[Воин, идущий путем теней.]	desc2=[Использует силу темноты.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinM2	desc1=[Атакует врагов с помощью теней.]	desc2=[В бою призывает теней, сражающихся на его стороне.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinM3	desc1=[В бою использует различные яды.]	desc2=[Ловко убивает врагов, меняя тактику в зависимости от ситуации.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinM4	desc1=[Скрытно убивает врагов.]	desc2=[Легко расправляется с врагами, используя тайные методы.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinF1	desc1=[Воин, идущий путем теней.]	desc2=[Использует силу темноты.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinF2	desc1=[Атакует врагов с помощью теней.]	desc2=[В бою призывает теней, сражающихся на его стороне.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinF3	desc1=[В бою использует различные яды.]	desc2=[Ловко убивает врагов, меняя тактику в зависимости от ситуации.]	classtreedesc_end
+classtreedesc_begin	classID=AssassinF4	desc1=[Скрытно убивает врагов.]	desc2=[Легко расправляется с врагами, используя тайные методы.]	classtreedesc_end

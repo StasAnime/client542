@@ -1,0 +1,5 @@
+relics_play_begin	relics_id=1	grade=3	type=1	unk_1={}	fail_item=102993	unk_4=0	cost_item={{91663;70}}	unk_5=0	relics_play_end
+relics_play_begin	relics_id=0	grade=2	type=3	unk_1={{0;81}}	fail_item=402	unk_4=256	cost_item={{-1140850330;2};{256;0};{16777216;57};{100000;131072};{0;0};{14593;128000000};{50331648;0};{0;3735808};{1111490560;15};{4;0};{956366848;-1073741824};{11718;1280};{0;16819456};{57;10000000};{393216;0}}	unk_5=0	relics_play_end
+relics_play_begin	relics_id=0	grade=165	type=0	unk_1={{57;0}}	fail_item=-520093696	unk_4=1525	cost_item={}	unk_5=0	relics_play_end
+relics_play_begin	relics_id=7	grade=1	type=0	unk_1={}	fail_item=0	unk_4=0	cost_item={{57;200000000}}	unk_5=4	relics_play_end
+relics_play_begin	relics_id=10	grade=20	type=30	unk_1={{0;12};{83;97};{102;101};{80;97};{99;107};{97;103};{101;0};{};	relics_play_end

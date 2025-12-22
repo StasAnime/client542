@@ -1,0 +1,19 @@
+node_begin	name=[MacroPreset]	type=15
+	sub_node_begin	paramType=100	unk=1	nodeName=[id]	int_params={51;52;53;54;57;58}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[name]	string_params={[Помощь];[Призыв к атаке];[Использование ярлыков];[Следование];[Помощь слуги];[Призыв исцеления]}	sub_node_end
+	sub_node_begin	paramType=100	unk=0	nodeName=[icon]	int_params={104;104;104;104;104;104}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[desc]	string_params={[Помогает соратнику, расположенному 1-м в списке группы.];[Ввод имени цели в окно чата с последующей ее атакой.];[Запускает сценарий ярлыка на панели быстрого доступа.];[Следует за соратником, который первым вступил в бой.];[Слуга персонажа помогает соратнику, который первым вступил в бой.];[Использует умения исцеления.]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[preset_html]	string_params={[macro_preset001_classic.htm];[macro_preset002_classic.htm];[macro_preset003_classic.htm];[macro_preset004_classic.htm];[macro_preset007_classic.htm];[macro_preset008_classic.htm]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command1]	string_params={[/target %party1];[%target ← в атаку!];[/useshortcut 1 1];[/target %party1];[/target %party1];[/stand]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command2]	string_params={[/assist];[/attack];[/delay 5];[/attack];[/assist];[%цель]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command3]	string_params={[/attack];[];[/useshortcutforce 2 1];[];[/summonattack];[/vendor]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command4]	string_params={[];[];[];[];[];[/skill Исцеление]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command5]	string_params={[];[];[];[];[];[]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command6]	string_params={[];[];[];[];[];[]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command7]	string_params={[];[];[];[];[];[]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command8]	string_params={[];[];[];[];[];[]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command9]	string_params={[];[];[];[];[];[]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command10]	string_params={[];[];[];[];[];[]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command11]	string_params={[];[];[];[];[];[]}	sub_node_end
+	sub_node_begin	paramType=115	unk=0	nodeName=[command12]	string_params={[];[];[];[];[];[]}	sub_node_end
+node_end

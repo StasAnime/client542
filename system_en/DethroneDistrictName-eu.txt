@@ -1,0 +1,5 @@
+DistrictName_begin	name=[Zone 1 - Asa]	id=1	category=0	DistrictName_end
+DistrictName_begin	name=[Zone 2 - Anima]	id=2	category=0	DistrictName_end
+DistrictName_begin	name=[Zone 3 - Nox]	id=3	category=0	DistrictName_end
+DistrictName_begin	name=[Zone 1 - Vita]	id=4	category=0	DistrictName_end
+DistrictName_begin	name=[Zone 2 - Ignis]	id=5	category=0	DistrictName_end

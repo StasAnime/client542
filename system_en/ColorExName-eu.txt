@@ -1,0 +1,53 @@
+colorEx_Name_begin	hair_id=10001	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10002	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10003	id=101	color_name=[Designer's Choice]	Description=[<GREEN03><br>Designer's pick!</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10003	id=102	color_name=[Electric Blue]	Description=[<GREEN03><br>Prepare to be electrified.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10003	id=103	color_name=[Harvest Grape]	Description=[<GREEN03><br>Rich autumn fields.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10003	id=104	color_name=[Bubblegum]	Description=[<GREEN03><br>Juiced from bright summer fruits!</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10003	id=105	color_name=[Abyssal Black]	Description=[<GREEN03><br>The color of nothingness.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10003	id=106	color_name=[Clear Emerald]	Description=[<GREEN03><br>Bright, translucent jewel.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10003	id=107	color_name=[Haystack]	Description=[<GREEN03><br>Warm to the touch!</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10003	id=108	color_name=[Evergreen]	Description=[<GREEN03><br>The color of ancient tranquility.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10003	id=109	color_name=[Misty Ice]	Description=[<GREEN03><br>Touched by a chilling breath.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10003	id=110	color_name=[Charcoal Gray]	Description=[<GREEN03><br>Soothing and calm, the color of wisdom.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10004	id=101	color_name=[Designer's Choice]	Description=[<GREEN03><br>Designer's pick!</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10004	id=102	color_name=[Electric Blue]	Description=[<GREEN03><br>Prepare to be electrified.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10004	id=103	color_name=[Harvest Grape]	Description=[<GREEN03><br>Rich autumn fields.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10004	id=104	color_name=[Bubblegum]	Description=[<GREEN03><br>Juiced from bright summer fruits!</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10004	id=105	color_name=[Abyssal Black]	Description=[<GREEN03><br>The color of nothingness.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10004	id=106	color_name=[Clear Emerald]	Description=[<GREEN03><br>Bright, translucent jewel.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10004	id=107	color_name=[Haystack]	Description=[<GREEN03><br>Warm to the touch!</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10004	id=108	color_name=[Evergreen]	Description=[<GREEN03><br>The color of ancient tranquility.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10004	id=109	color_name=[Misty Ice]	Description=[<GREEN03><br>Touched by a chilling breath.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10004	id=110	color_name=[Charcoal Gray]	Description=[<GREEN03><br>Soothing and calm, the color of wisdom.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10005	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10006	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10007	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10008	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10009	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10010	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10011	id=101	color_name=[Designer's Choice]	Description=[<GREEN03><br>Designer's pick!</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10011	id=102	color_name=[Lavender ]	Description=[<GREEN03><br>Gentle warmth.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10011	id=103	color_name=[Gray Shadow]	Description=[<GREEN03><br>Fleeting nothingness.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10011	id=104	color_name=[Vampire Blood]	Description=[<GREEN03><br>Dark seduction.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10011	id=105	color_name=[Royal Purple]	Description=[<GREEN03><br>True heroes show their true colors.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10011	id=106	color_name=[Gallant Gold]	Description=[<GREEN03><br>Shades of glory.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10011	id=107	color_name=[Pale Blue]	Description=[<GREEN03><br>Clear skies.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10011	id=108	color_name=[Cornflower]	Description=[<GREEN03><br>Ferocity tempered by gentle wisdom.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10011	id=109	color_name=[Pickled Olive]	Description=[<GREEN03><br>There's a savory punch somewhere in there.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10011	id=110	color_name=[Sweet Coral]	Description=[<GREEN03><br>The subtle hue of undiscovered jewels.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10013	id=101	color_name=[Designer's Choice]	Description=[<GREEN03><br>Designer's pick!</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10013	id=102	color_name=[Dark Fire]	Description=[<GREEN03><br>Gateway to passion.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10013	id=103	color_name=[Burgundy Wine]	Description=[<GREEN03><br>Rich, classy, and sensual.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10013	id=104	color_name=[Magenta]	Description=[<GREEN03><br>Irresistable.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10013	id=105	color_name=[Metallic Teal]	Description=[<GREEN03><br>True heroes show their true colors.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10013	id=106	color_name=[Gallant Gold]	Description=[<GREEN03><br>Shades of glory.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10013	id=107	color_name=[Dusk Green]	Description=[<GREEN03><br>Darkening forest.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10013	id=108	color_name=[Mediator's Purple]	Description=[<GREEN03><br>Ferocity tempered by gentle wisdom.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10013	id=109	color_name=[Sunlit Jungle]	Description=[<GREEN03><br>There's a savory punch somewhere in there.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10013	id=110	color_name=[Sandy Brown]	Description=[<GREEN03><br>Unstirred, as the lands beneath the sea.</GREEN03>]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10014	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=10015	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=15001	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=15002	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end
+colorEx_Name_begin	hair_id=15003	id=101	color_name=[Monochrome]	Description=[]	colorEx_Name_end

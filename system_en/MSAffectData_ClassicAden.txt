@@ -1,0 +1,6 @@
+msaffectdata_begin	skill_id=47001	skill_level=1	skill_sublevel=0	affect_range=1000	decal=[LineageEffect2.v_SY_thrust_projected_decal]	is_directional=1	msaffectdata_end
+msaffectdata_begin	skill_id=47001	skill_level=1	skill_sublevel=1001	affect_range=1000	decal=[LineageEffect2.v_SY_thrust_projected_red_decal]	is_directional=1	msaffectdata_end
+msaffectdata_begin	skill_id=47001	skill_level=1	skill_sublevel=1002	affect_range=1000	decal=[LineageEffect2.v_SY_thrust_projected_red_decal]	is_directional=1	msaffectdata_end
+msaffectdata_begin	skill_id=47001	skill_level=1	skill_sublevel=1003	affect_range=1000	decal=[LineageEffect2.v_SY_thrust_projected_purple_decal]	is_directional=1	msaffectdata_end
+msaffectdata_begin	skill_id=47821	skill_level=1	skill_sublevel=0	affect_range=1000	decal=[LineageEffect2.v_OR_assualt_projected_decal]	is_directional=1	msaffectdata_end
+msaffectdata_begin	skill_id=47823	skill_level=1	skill_sublevel=0	affect_range=1000	decal=[LineageEffect2.v_OR_assualt_projected_decal]	is_directional=1	msaffectdata_end

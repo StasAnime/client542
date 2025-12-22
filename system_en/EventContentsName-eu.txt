@@ -1,0 +1,4 @@
+EventContent_begin	ID=1	Title=[Event Campaign - Zombie Attack: Town of Gludio]	step=1	GroupIDs={1;2}	EventContent_end
+EventContent_begin	ID=2	Title=[Event Campaign - Zombie Attack: Town of Aden]	step=1	GroupIDs={3;4}	EventContent_end
+EventContent_begin	ID=3	Title=[Event Campaign - Zombie Attack: Town of Talking Island Village]	step=1	GroupIDs={5;6}	EventContent_end
+EventContent_begin	ID=4	Title=[Event Campaign - Zombie Attack: Town of Schuttgart]	step=1	GroupIDs={7;8}	EventContent_end

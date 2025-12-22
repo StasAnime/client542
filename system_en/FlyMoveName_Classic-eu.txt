@@ -1,0 +1,52 @@
+flymove_begin	path=14	node=1	name=[Deep in the Northern Forest]	flymove_end
+flymove_begin	path=14	node=5	name=[Timiniel's Embrace]	flymove_end
+flymove_begin	path=15	node=1	name=[Deep in the Southern Forest]	flymove_end
+flymove_begin	path=15	node=9	name=[Timiniel's Embrace]	flymove_end
+flymove_begin	path=18	node=23	name=[Garden's Eastern Part]	flymove_end
+flymove_begin	path=18	node=25	name=[Garden's Southern Part]	flymove_end
+flymove_begin	path=18	node=11	name=[Fountain Garden]	flymove_end
+flymove_begin	path=18	node=13	name=[Apherus' Garden]	flymove_end
+flymove_begin	path=18	node=4	name=[Apherus' Garden]	flymove_end
+flymove_begin	path=18	node=19	name=[Apherus' Garden]	flymove_end
+flymove_begin	path=18	node=15	name=[Apherus' Garden]	flymove_end
+flymove_begin	path=18	node=5	name=[Angel Statue Garden]	flymove_end
+flymove_begin	path=19	node=1	name=[Apherus' Garden]	flymove_end
+flymove_begin	path=19	node=2	name=[Apherus' Garden]	flymove_end
+flymove_begin	path=19	node=4	name=[Progress]	flymove_end
+flymove_begin	path=19	node=7	name=[Fountain Garden]	flymove_end
+flymove_begin	path=19	node=11	name=[Entrance to the Garden of Genesis]	flymove_end
+flymove_begin	path=21	node=1	name=[Bloody Swampland]	flymove_end
+flymove_begin	path=21	node=7	name=[Altar of Evil]	flymove_end
+flymove_begin	path=24	node=1	name=[Fortress' Top Floor]	flymove_end
+flymove_begin	path=27	node=1	name=[Fortress' Western Gate]	flymove_end
+flymove_begin	path=27	node=8	name=[Fortress' Northern Gate]	flymove_end
+flymove_begin	path=28	node=4	name=[West of Aden]	flymove_end
+flymove_begin	path=28	node=7	name=[East of Aden]	flymove_end
+flymove_begin	path=29	node=3	name=[West of Aden]	flymove_end
+flymove_begin	path=29	node=8	name=[North of Aden]	flymove_end
+flymove_begin	path=30	node=3	name=[East of Aden]	flymove_end
+flymove_begin	path=30	node=6	name=[North of Aden]	flymove_end
+flymove_begin	path=31	node=5	name=[1st Street of Rune Castle]	flymove_end
+flymove_begin	path=31	node=6	name=[2nd Street of Rune Castle]	flymove_end
+flymove_begin	path=32	node=5	name=[1st Street of Rune Castle Outskirts]	flymove_end
+flymove_begin	path=32	node=6	name=[2nd Street of Rune Castle Outskirts]	flymove_end
+flymove_begin	path=33	node=7	name=[2nd Street of Rune Castle Outskirts]	flymove_end
+flymove_begin	path=33	node=8	name=[1st Street of Rune Castle Outskirts]	flymove_end
+flymove_begin	path=34	node=1	name=[Fortress' Eastern Gate]	flymove_end
+flymove_begin	path=34	node=10	name=[Fortress' Northern Gate]	flymove_end
+flymove_begin	path=37	node=1	name=[Central Checkpoint]	flymove_end
+flymove_begin	path=38	node=1	name=[Isle of Souls' Harbor]	flymove_end
+flymove_begin	path=38	node=8	name=[Mimir's Forest Center]	flymove_end
+flymove_begin	path=39	node=1	name=[Isle of Souls' Harbor]	flymove_end
+flymove_begin	path=39	node=6	name=[Mimir's Altar - Checkpoint]	flymove_end
+flymove_begin	path=40	node=1	name=[Kamael Village]	flymove_end
+flymove_begin	path=41	node=1	name=[Rightward Outpost]	flymove_end
+flymove_begin	path=41	node=6	name=[Leftward Outpost]	flymove_end
+flymove_begin	path=42	node=1	name=[Raider's Crossroads]	flymove_end
+flymove_begin	path=42	node=6	name=[Land of Chaos]	flymove_end
+flymove_begin	path=43	node=1	name=[Leftward Outpost]	flymove_end
+flymove_begin	path=43	node=2	name=[Rightward Outpost]	flymove_end
+flymove_begin	path=44	node=1	name=[Beleth's Magic Circle/Desert Quarry]	flymove_end
+flymove_begin	path=44	node=6	name=[Beleth's Magic Circle]	flymove_end
+flymove_begin	path=44	node=8	name=[Desert Quarry]	flymove_end
+flymove_begin	path=44	node=13	name=[Phantasmal Ridge]	flymove_end

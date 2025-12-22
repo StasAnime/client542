@@ -1,0 +1,2 @@
+DailyMission_begin	name=[Monster Hunting]	id=1	npc_kill_max_count=300	desc=[Requirements: Kill monsters in the Conquest world.]	DailyMission_end
+DailyMission_begin	name=[Fire Source]	id=2	npc_kill_max_count=160	desc=[Requirements: Collect Fire Flowers, Life Flowers and Power Flowers in the Fire Conquest area.]	DailyMission_end

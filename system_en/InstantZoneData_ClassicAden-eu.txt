@@ -1,0 +1,125 @@
+InstantZoneData_begin	id=147	name=[Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=148	name=[Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=149	name=[Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=150	name=[Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=151	name=[3 vs 3 Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=152	name=[3 vs 3 Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=153	name=[3 vs 3 Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=182	name=[Balthus Knight - Baium Expedition]	InstantZoneData_end
+InstantZoneData_begin	id=183	name=[Balthus Knight - Antharas Expedition]	InstantZoneData_end
+InstantZoneData_begin	id=184	name=[Balthus Knight - Zaken Expedition]	InstantZoneData_end
+InstantZoneData_begin	id=186	name=[Orchid Hall]	InstantZoneData_end
+InstantZoneData_begin	id=187	name=[Ellia Hall]	InstantZoneData_end
+InstantZoneData_begin	id=188	name=[Laurell Hall]	InstantZoneData_end
+InstantZoneData_begin	id=189	name=[Orchid Hall]	InstantZoneData_end
+InstantZoneData_begin	id=190	name=[Ellia Hall]	InstantZoneData_end
+InstantZoneData_begin	id=191	name=[Laurell Hall]	InstantZoneData_end
+InstantZoneData_begin	id=192	name=[Monster Arena]	InstantZoneData_end
+InstantZoneData_begin	id=193	name=[Elite Monster Arena]	InstantZoneData_end
+InstantZoneData_begin	id=194	name=[Clan Arena]	InstantZoneData_end
+InstantZoneData_begin	id=195	name=[Residence of King Ignis]	InstantZoneData_end
+InstantZoneData_begin	id=196	name=[Residence of Queen Nebula]	InstantZoneData_end
+InstantZoneData_begin	id=197	name=[Residence of King Procella]	InstantZoneData_end
+InstantZoneData_begin	id=198	name=[Residence of King Petram]	InstantZoneData_end
+InstantZoneData_begin	id=199	name=[Lilith]	InstantZoneData_end
+InstantZoneData_begin	id=200	name=[Anakim]	InstantZoneData_end
+InstantZoneData_begin	id=201	name=[Residence of King Ignis (extreme)]	InstantZoneData_end
+InstantZoneData_begin	id=202	name=[Residence of Queen Nebula (extreme)]	InstantZoneData_end
+InstantZoneData_begin	id=203	name=[Residence of King Procella (extreme)]	InstantZoneData_end
+InstantZoneData_begin	id=204	name=[Residence of King Petram (extreme)]	InstantZoneData_end
+InstantZoneData_begin	id=205	name=[Last Imperial Tomb - Frintezza]	InstantZoneData_end
+InstantZoneData_begin	id=206	name=[Red Libra Guild Event - Talking Island]	InstantZoneData_end
+InstantZoneData_begin	id=207	name=[Goldberg's Room]	InstantZoneData_end
+InstantZoneData_begin	id=208	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=209	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=210	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=211	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=212	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=213	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=214	name=[Dwelling of Spirits]	InstantZoneData_end
+InstantZoneData_begin	id=215	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=216	name=[Zaken's Headquarters]	InstantZoneData_end
+InstantZoneData_begin	id=217	name=[Queen Ant's Lair]	InstantZoneData_end
+InstantZoneData_begin	id=218	name=[Orfen's Lair]	InstantZoneData_end
+InstantZoneData_begin	id=219	name=[Cruma's Central Control Room]	InstantZoneData_end
+InstantZoneData_begin	id=220	name=[Baium's Lair]	InstantZoneData_end
+InstantZoneData_begin	id=221	name=[Gustav's Manor]	InstantZoneData_end
+InstantZoneData_begin	id=222	name=[Benedict's Monastery]	InstantZoneData_end
+InstantZoneData_begin	id=223	name=[Gladiator's Temple]	InstantZoneData_end
+InstantZoneData_begin	id=224	name=[Red Draconid Fortress]	InstantZoneData_end
+InstantZoneData_begin	id=227	name=[Ancient Pirates' Tomb]	InstantZoneData_end
+InstantZoneData_begin	id=228	name=[Training Zone]	InstantZoneData_end
+InstantZoneData_begin	id=229	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=230	name=[Valakas' Temple]	InstantZoneData_end
+InstantZoneData_begin	id=1001	name=[Primeval Isle]	InstantZoneData_end
+InstantZoneData_begin	id=1005	name=[Alligator Island]	InstantZoneData_end
+InstantZoneData_begin	id=1009	name=[Forgotten Garden]	InstantZoneData_end
+InstantZoneData_begin	id=1012	name=[Frozen Canyon]	InstantZoneData_end
+InstantZoneData_begin	id=1017	name=[Elmoreden Tower]	InstantZoneData_end
+InstantZoneData_begin	id=1019	name=[Tower of Insolence]	InstantZoneData_end
+InstantZoneData_begin	id=1020	name=[Kelbim's Fortress]	InstantZoneData_end
+InstantZoneData_begin	id=1021	name=[Pagan Temple]	InstantZoneData_end
+InstantZoneData_begin	id=1022	name=[Celestial Tower]	InstantZoneData_end
+InstantZoneData_begin	id=2000	name=[Raid Boss Battle]	InstantZoneData_end
+InstantZoneData_begin	id=2001	name=[Frost Lord's Castle]	InstantZoneData_end
+InstantZoneData_begin	id=225	name=[Frost Lord's Castle]	InstantZoneData_end
+InstantZoneData_begin	id=1024	name=[Aztacan's Temple]	InstantZoneData_end
+InstantZoneData_begin	id=1016	name=[Garden of Genesis]	InstantZoneData_end
+InstantZoneData_begin	id=2002	name=[Garden of Genesis]	InstantZoneData_end
+InstantZoneData_begin	id=235	name=[Clan Dungeon]	InstantZoneData_end
+InstantZoneData_begin	id=2004	name=[Whack-a-mole]	InstantZoneData_end
+InstantZoneData_begin	id=236	name=[Leona's Dungeon]	InstantZoneData_end
+InstantZoneData_begin	id=239	name=[Temple Catacomb]	InstantZoneData_end
+InstantZoneData_begin	id=240	name=[Entrance to Kelbim's Fortress]	InstantZoneData_end
+InstantZoneData_begin	id=2005	name=[Summer Watermelon Camp]	InstantZoneData_end
+InstantZoneData_begin	id=2006	name=[Pumpkin Autumn Party]	InstantZoneData_end
+InstantZoneData_begin	id=1025	name=[Summer Watermelon Island]	InstantZoneData_end
+InstantZoneData_begin	id=241	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=1007	name=[Ferion's Invitation]	InstantZoneData_end
+InstantZoneData_begin	id=2008	name=[Water Temple]	InstantZoneData_end
+InstantZoneData_begin	id=2009	name=[Water Temple]	InstantZoneData_end
+InstantZoneData_begin	id=1027	name=[Water Temple]	InstantZoneData_end
+InstantZoneData_begin	id=2010	name=[Dawn Lady's Sanctuary]	InstantZoneData_end
+InstantZoneData_begin	id=2011	name=[Snowmen's Winter Camp]	InstantZoneData_end
+InstantZoneData_begin	id=1028	name=[Snowmen's Winter Camp]	InstantZoneData_end
+InstantZoneData_begin	id=1029	name=[Ancient Ruins]	InstantZoneData_end
+InstantZoneData_begin	id=1030	name=[Whispering Woods]	InstantZoneData_end
+InstantZoneData_begin	id=2012	name=[Chromatic Highlands]	InstantZoneData_end
+InstantZoneData_begin	id=2013	name=[Valakas' Temple - Rescuing Draco Egg]	InstantZoneData_end
+InstantZoneData_begin	id=2014	name=[Wild Beast Reserve]	InstantZoneData_end
+InstantZoneData_begin	id=2015	name=[Last Imperial Tomb - Frintezza]	InstantZoneData_end
+InstantZoneData_begin	id=2016	name=[Raid Boss Battle]	InstantZoneData_end
+InstantZoneData_begin	id=2017	name=[Dwelling of Spirits]	InstantZoneData_end
+InstantZoneData_begin	id=2018	name=[Ifrit's Temple]	InstantZoneData_end
+InstantZoneData_begin	id=1031	name=[Water Dragon's Canyon]	InstantZoneData_end
+InstantZoneData_begin	id=2019	name=[Fafurion's Nest]	InstantZoneData_end
+InstantZoneData_begin	id=1032	name=[Ironheart Fortress]	InstantZoneData_end
+InstantZoneData_begin	id=2020	name=[Ironheart Fortress - Supply Depot]	InstantZoneData_end
+InstantZoneData_begin	id=2021	name=[Ironheart Fortress - Engineer Base]	InstantZoneData_end
+InstantZoneData_begin	id=2022	name=[Cyrax's Temple]	InstantZoneData_end
+InstantZoneData_begin	id=2023	name=[Warg Settlement's Defense]	InstantZoneData_end
+InstantZoneData_begin	id=2024	name=[Dwelling of Spirits]	InstantZoneData_end
+InstantZoneData_begin	id=2025	name=[Wolfmen Checkpoint]	InstantZoneData_end
+InstantZoneData_begin	id=2026	name=[Gustav's Manor]	InstantZoneData_end
+InstantZoneData_begin	id=2027	name=[Benedict's Monastery]	InstantZoneData_end
+InstantZoneData_begin	id=2028	name=[Gladiator's Temple]	InstantZoneData_end
+InstantZoneData_begin	id=2029	name=[Red Draconid Fortress]	InstantZoneData_end
+InstantZoneData_begin	id=2030	name=[Source of Evil]	InstantZoneData_end
+InstantZoneData_begin	id=2031	name=[Frost Lake]	InstantZoneData_end
+InstantZoneData_begin	id=1033	name=[Orbis Temple]	InstantZoneData_end
+InstantZoneData_begin	id=2032	name=[Octavis' Temple]	InstantZoneData_end
+InstantZoneData_begin	id=1034	name=[Whispering Woods]	InstantZoneData_end
+InstantZoneData_begin	id=2033	name=[Blooming Garden]	InstantZoneData_end
+InstantZoneData_begin	id=2034	name=[Aztacan's Temple]	InstantZoneData_end
+InstantZoneData_begin	id=2035	name=[Oel Mahum Forest]	InstantZoneData_end
+InstantZoneData_begin	id=2036	name=[Mafia's Secret Hideout]	InstantZoneData_end
+InstantZoneData_begin	id=2037	name=[Oel Mahum Forest]	InstantZoneData_end
+InstantZoneData_begin	id=2038	name=[Giran Harbor Raid]	InstantZoneData_end
+InstantZoneData_begin	id=2039	name=[Wasteland Spring]	InstantZoneData_end
+InstantZoneData_begin	id=2040	name=[Antharas' Nest]	InstantZoneData_end
+InstantZoneData_begin	id=2041	name=[Contest Forest]	InstantZoneData_end
+InstantZoneData_begin	id=2042	name=[Camille's Gate]	InstantZoneData_end
+InstantZoneData_begin	id=2043	name=[Festival of Illusions]	InstantZoneData_end
+InstantZoneData_begin	id=2044	name=[Valakas' Nest]	InstantZoneData_end
+InstantZoneData_begin	id=1035	name=[Mother Tree's Orphanage]	InstantZoneData_end
+InstantZoneData_begin	id=2045	name=[Legend of the Moon Coast]	InstantZoneData_end

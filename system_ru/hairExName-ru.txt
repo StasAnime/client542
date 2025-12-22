@@ -1,0 +1,287 @@
+HairEx_Name_begin	id=0	class_name=10001	hair_name=[Настоящий мачо A]	Description=[<br><BLUE01>Стиль придирчивых и избирательных, но искренне любящих мужчин.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10002	hair_name=[Прекрасный юноша A]	Description=[<br><BLUE01>Стиль харизматичного богача.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10004	hair_name=[Настоящий смельчак]	Description=[<br><BLUE01>Стиль воина, который никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10005	hair_name=[Потому что она - моя женщина A]	Description=[<br><BLUE01>Стиль молодого юноши.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10006	hair_name=[Честь джентльмена A]	Description=[<br><BLUE01>Стиль знатного заносчивого джентльмена.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10007	hair_name=[Настоящий мачо B]	Description=[<br><BLUE01>Стиль придирчивых и избирательных, но искренне любящих мужчин.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10008	hair_name=[Прекрасный юноша B]	Description=[<br><BLUE01>Стиль харизматичного богача.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10009	hair_name=[Потому что она - моя женщина B]	Description=[<br><BLUE01>Стиль молодого юноши.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10010	hair_name=[Честь джентльмена B]	Description=[<br><BLUE01>Стиль знатного заносчивого джентльмена.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10013	hair_name=[Индеец]	Description=[<br><BLUE01>Стиль воина индейского племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10014	hair_name=[Аристократ]	Description=[<br><BLUE01>Стильная и простая прическа, популярная у золотой молодежи.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=10015	hair_name=[Обыкновенный Дикарь]	Description=[<br><BLUE01>Прическа аборигена из дикого племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=15001	hair_name=[Самурай]	Description=[<br><BLUE01>Стиль японского самурая.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=0	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10001	hair_name=[Холодная городская девушка A]	Description=[<br><BLUE01>Стиль холодной городской девушки в погоне за совершенством.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10002	hair_name=[Грибочек A]	Description=[<br><BLUE01>Миловидная прическа, похожая на шляпку гриба.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10004	hair_name=[Конский хвост]	Description=[<br><BLUE01>Стиль воительницы, которая никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10005	hair_name=[Харизматичная амазонка A]	Description=[<br><BLUE01>Стиль сильной воительницы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10006	hair_name=[Унесенная ветром A]	Description=[<br><BLUE01>Стиль унесенных ветром.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10007	hair_name=[Холодная городская девушка B]	Description=[<br><BLUE01>Стиль холодной городской девушки в погоне за совершенством.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10008	hair_name=[Грибочек B]	Description=[<br><BLUE01>Миловидная прическа, похожая на шляпку гриба.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10009	hair_name=[Харизматичная амазонка B]	Description=[<br><BLUE01>Стиль сильной воительницы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10010	hair_name=[Унесенная ветром B]	Description=[<br><BLUE01>Стиль унесенных ветром.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10013	hair_name=[Пальма]	Description=[<br><BLUE01>Экзотический стиль чужеземца</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10014	hair_name=[Аристократка]	Description=[<br><BLUE01>Прическа знатной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=10015	hair_name=[Доярка]	Description=[<BLUE01>Удобная для работы женская прическа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=15001	hair_name=[Роскошный японский стиль]	Description=[<br><BLUE01>Роскошный японский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=1	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10001	hair_name=[Темная лошадка A]	Description=[<br><BLUE01>В тихом омуте черти водятся.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10002	hair_name=[Жизнь убийцы A]	Description=[<br><BLUE01>Стиль, подчеркивающий проворство Темных Эльфов.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10004	hair_name=[Настоящий смельчак]	Description=[<br><BLUE01>Стиль воина, который никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10005	hair_name=[Сумасшедший Темный Эльф A]	Description=[<br><BLUE01>Стиль, подчеркивающий буйный нрав.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10006	hair_name=[Неколебимая верность A]	Description=[<br><BLUE01>Стиль, выражающий жизнелюбие и непоколебимую верность.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10007	hair_name=[Темная лошадка B]	Description=[<br><BLUE01>В тихом омуте черти водятся.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10008	hair_name=[Жизнь убийцы B]	Description=[<br><BLUE01>Стиль, подчеркивающий проворство Темных Эльфов.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10009	hair_name=[Сумасшедший Темный Эльф B]	Description=[<br><BLUE01>Стиль, подчеркивающий буйный нрав.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10010	hair_name=[Неколебимая верность B]	Description=[<br><BLUE01>Стиль, выражающий жизнелюбие и непоколебимую верность.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10013	hair_name=[Индеец]	Description=[<br><BLUE01>Стиль воина индейского племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10014	hair_name=[Аристократ]	Description=[<br><BLUE01>Стильная и простая прическа, популярная у золотой молодежи.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=10015	hair_name=[Обыкновенный Дикарь]	Description=[<br><BLUE01>Прическа аборигена из дикого племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=15001	hair_name=[Самурай]	Description=[<br><BLUE01>Стиль японского самурая.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=2	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10001	hair_name=[Соната обольщения A]	Description=[<br><BLUE01>Стиль, сражающий наповал.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10002	hair_name=[Танцы с волками A]	Description=[<br><BLUE01>Стиль дикарки, напоминающий волка.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10004	hair_name=[Конский хвост]	Description=[<br><BLUE01>Стиль воительницы, которая никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10005	hair_name=[Богиня на земле A]	Description=[<br><BLUE01>Элегантный стиль, напоминающий Шилен.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10006	hair_name=[Челка A]	Description=[<br><BLUE01>Необычный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10007	hair_name=[Соната обольщения B]	Description=[<br><BLUE01>Стиль, сражающий наповал.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10008	hair_name=[Танцы с волками B]	Description=[<br><BLUE01>Стиль дикарки, напоминающий волка.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10009	hair_name=[Богиня на земле B]	Description=[<br><BLUE01>Элегантный стиль, напоминающий Шилен.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10010	hair_name=[Челка B]	Description=[<br><BLUE01>Необычный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10013	hair_name=[Пальма]	Description=[<br><BLUE01>Экзотический стиль чужеземца</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10014	hair_name=[Аристократка]	Description=[<br><BLUE01>Прическа знатной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=10015	hair_name=[Доярка]	Description=[<BLUE01>Удобная для работы женская прическа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=15001	hair_name=[Роскошный японский стиль]	Description=[<br><BLUE01>Роскошный японский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=3	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10001	hair_name=[Пудель A]	Description=[<br><BLUE01>Кудрявая прическа для гнома.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10002	hair_name=[Всезнайка A]	Description=[<br><BLUE01>Харизматичный стиль интеллектуала.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10004	hair_name=[Настоящий смельчак]	Description=[<br><BLUE01>Стиль воина, который никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10005	hair_name=[Роскошные усы A]	Description=[<br><BLUE01>Стильные усы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10006	hair_name=[Платформа A]	Description=[<br><BLUE01>Прическа "платформа".</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10007	hair_name=[Пудель B]	Description=[<br><BLUE01>Кудрявая прическа для гнома.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10008	hair_name=[Всезнайка B]	Description=[<br><BLUE01>Харизматичный стиль интеллектуала.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10009	hair_name=[Роскошные усы B]	Description=[<br><BLUE01>Стильные усы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10010	hair_name=[Платформа B]	Description=[<br><BLUE01>Прическа "платформа".</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10013	hair_name=[Индеец]	Description=[<br><BLUE01>Стиль воина индейского племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10014	hair_name=[Аристократ]	Description=[<br><BLUE01>Стильная и простая прическа, популярная у золотой молодежи.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=10015	hair_name=[Обыкновенный Дикарь]	Description=[<br><BLUE01>Прическа аборигена из дикого племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=15001	hair_name=[Самурай]	Description=[<br><BLUE01>Стиль японского самурая.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=4	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10001	hair_name=[Мне 6 лет A]	Description=[<br><BLUE01>Так и хочется ущипнуть за щечки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10002	hair_name=[Кудряшка A]	Description=[<br><BLUE01>Стиль девочки, которая хочет поскорее вырасти.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10004	hair_name=[Конский хвост]	Description=[<br><BLUE01>Стиль воительницы, которая никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10005	hair_name=[Юна и свежа A]	Description=[<br><BLUE01>Милый и забавный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10006	hair_name=[Львенок A]	Description=[<br><BLUE01>Немного агрессивный и очень миловидный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10007	hair_name=[Мне 6 лет B]	Description=[<br><BLUE01>Так и хочется ущипнуть за щечки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10008	hair_name=[Кудряшка B]	Description=[<br><BLUE01>Стиль девочки, которая хочет поскорее вырасти.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10009	hair_name=[Юна и свежа B]	Description=[<br><BLUE01>Милый и забавный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10010	hair_name=[Львенок B]	Description=[<br><BLUE01>Немного агрессивный и очень миловидный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10013	hair_name=[Пальма]	Description=[<br><BLUE01>Экзотический стиль чужеземца</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10014	hair_name=[Аристократка]	Description=[<br><BLUE01>Прическа знатной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=10015	hair_name=[Доярка]	Description=[<BLUE01>Удобная для работы женская прическа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=15001	hair_name=[Роскошный японский стиль]	Description=[<br><BLUE01>Роскошный японский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=5	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10001	hair_name=[Меткость 100% A]	Description=[<br><BLUE01>Стиль, способный пронзить сердце врага.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10002	hair_name=[Сладкая грусть A]	Description=[<br><BLUE01>Нежный романтический стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10004	hair_name=[Настоящий смельчак]	Description=[<br><BLUE01>Стиль воина, который никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10005	hair_name=[Соколиный Глаз A]	Description=[<br><BLUE01>Стиль, выражающий шик и харизму.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10006	hair_name=[Стиляга A]	Description=[<br><BLUE01>Дизайнерский стиль, подчеркивающий наличие отличного вкуса.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10007	hair_name=[Меткость 100% B]	Description=[<br><BLUE01>Стиль, способный пронзить сердце врага.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10008	hair_name=[Сладкая грусть B]	Description=[<br><BLUE01>Нежный романтический стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10009	hair_name=[Соколиный Глаз B]	Description=[<br><BLUE01>Стиль, выражающий шик и харизму.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10010	hair_name=[Стиляга B]	Description=[<br><BLUE01>Дизайнерский стиль, подчеркивающий наличие отличного вкуса.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10013	hair_name=[Индеец]	Description=[<br><BLUE01>Стиль воина индейского племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10014	hair_name=[Аристократ]	Description=[<br><BLUE01>Стильная и простая прическа, популярная у золотой молодежи.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=10015	hair_name=[Обыкновенный Дикарь]	Description=[<br><BLUE01>Прическа аборигена из дикого племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=15001	hair_name=[Самурай]	Description=[<br><BLUE01>Стиль японского самурая.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=6	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10001	hair_name=[Трава после дождя A]	Description=[<br><BLUE01>Стиль юной невинной девушки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10002	hair_name=[Богатая леди A]	Description=[<br><BLUE01>Интеллектуальный и элегантный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10004	hair_name=[Конский хвост]	Description=[<br><BLUE01>Стиль воительницы, которая никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10005	hair_name=[Милашка A]	Description=[<br><BLUE01>Миловидный стиль настоящей девушки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10006	hair_name=[Индианка A]	Description=[<br><BLUE01>Стиль свободной индианки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10007	hair_name=[Трава после дождя B]	Description=[<br><BLUE01>Стиль юной невинной девушки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10008	hair_name=[Богатая леди B]	Description=[<br><BLUE01>Интеллектуальный и элегантный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10009	hair_name=[Милашка B]	Description=[<br><BLUE01>Миловидный стиль настоящей девушки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10010	hair_name=[Индианка B]	Description=[<br><BLUE01>Стиль свободной индианки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10013	hair_name=[Пальма]	Description=[<br><BLUE01>Экзотический стиль чужеземца</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10014	hair_name=[Аристократка]	Description=[<br><BLUE01>Прическа знатной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=10015	hair_name=[Доярка]	Description=[<BLUE01>Удобная для работы женская прическа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=15001	hair_name=[Роскошный японский стиль]	Description=[<br><BLUE01>Роскошный японский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=7	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10001	hair_name=[Бесстрашный принц A]	Description=[<br><BLUE01>Стиль полного энергии наследника престола.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10002	hair_name=[Волшебник-денди A]	Description=[<br><BLUE01>Стиль настоящего интеллектуала.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10004	hair_name=[Настоящий смельчак]	Description=[<br><BLUE01>Стиль воина, который никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10005	hair_name=[Длинная челка A]	Description=[<br><BLUE01>Стиль красавца, разбивающего сердца.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10006	hair_name=[Аллилуйя A]	Description=[<br><BLUE01>Ангельский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10007	hair_name=[Бесстрашный принц B]	Description=[<br><BLUE01>Стиль полного энергии наследника престола.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10008	hair_name=[Волшебник-денди B]	Description=[<br><BLUE01>Стиль настоящего интеллектуала.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10009	hair_name=[Длинная челка B]	Description=[<br><BLUE01>Стиль красавца, разбивающего сердца.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10010	hair_name=[Аллилуйя B]	Description=[<br><BLUE01>Ангельский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10013	hair_name=[Индеец]	Description=[<br><BLUE01>Стиль воина индейского племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10014	hair_name=[Аристократ]	Description=[<br><BLUE01>Стильная и простая прическа, популярная у золотой молодежи.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=10015	hair_name=[Обыкновенный Дикарь]	Description=[<br><BLUE01>Прическа аборигена из дикого племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=15001	hair_name=[Самурай]	Description=[<br><BLUE01>Стиль японского самурая.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=8	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10001	hair_name=[Учись, студент A]	Description=[<br><BLUE01>Стиль строгой учительницы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10002	hair_name=[Хвостик-акцент A]	Description=[<br><BLUE01>Миловидный стиль с очаровательным хвостиком.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10004	hair_name=[Конский хвост]	Description=[<br><BLUE01>Стиль воительницы, которая никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10005	hair_name=[Суфражистка A]	Description=[<br><BLUE01>Мальчишеский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10006	hair_name=[Элегантная дама A]	Description=[<br><BLUE01>Стиль прекрасной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10007	hair_name=[Учись, студент B]	Description=[<br><BLUE01>Стиль строгой учительницы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10008	hair_name=[Хвостик-акцент B]	Description=[<br><BLUE01>Миловидный стиль с очаровательным хвостиком.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10009	hair_name=[Суфражистка B]	Description=[<br><BLUE01>Мальчишеский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10010	hair_name=[Элегантная дама B]	Description=[<br><BLUE01>Стиль прекрасной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10013	hair_name=[Пальма]	Description=[<br><BLUE01>Экзотический стиль чужеземца</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10014	hair_name=[Аристократка]	Description=[<br><BLUE01>Прическа знатной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=10015	hair_name=[Доярка]	Description=[<BLUE01>Удобная для работы женская прическа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=15001	hair_name=[Роскошный японский стиль]	Description=[<br><BLUE01>Роскошный японский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=9	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10001	hair_name=[Стильная жизнь A]	Description=[<br><BLUE01>Дорогой модный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10002	hair_name=[Право сильного A]	Description=[<br><BLUE01>Стиль, выражающий упорство и силу.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10004	hair_name=[Настоящий смельчак]	Description=[<br><BLUE01>Стиль воина, который никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10005	hair_name=[Дух регги A]	Description=[<br><BLUE01>Стиль брутального воителя.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10006	hair_name=[Площадка A]	Description=[<br><BLUE01>Стиль отъявленного шутника.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10007	hair_name=[Стильная жизнь B]	Description=[<br><BLUE01>Дорогой модный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10008	hair_name=[Право сильного B]	Description=[<br><BLUE01>Стиль, выражающий упорство и силу.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10009	hair_name=[Дух регги B]	Description=[<br><BLUE01>Стиль брутального воителя.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10010	hair_name=[Площадка B]	Description=[<br><BLUE01>Стиль отъявленного шутника.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10013	hair_name=[Индеец]	Description=[<br><BLUE01>Стиль воина индейского племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10014	hair_name=[Аристократ]	Description=[<br><BLUE01>Стильная и простая прическа, популярная у золотой молодежи.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=10015	hair_name=[Обыкновенный Дикарь]	Description=[<br><BLUE01>Прическа аборигена из дикого племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=15001	hair_name=[Самурай]	Description=[<br><BLUE01>Стиль японского самурая.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=10	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10001	hair_name=[Воительница A]	Description=[<br><BLUE01>Стиль харизматичной воительницы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10002	hair_name=[Жизнь убийцы A]	Description=[<br><BLUE01>Шикарный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10004	hair_name=[Конский хвост]	Description=[<br><BLUE01>Стиль воительницы, которая никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10005	hair_name=[Яд скорпиона A]	Description=[<br><BLUE01>Стиль, напоминающий скорпиона.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10006	hair_name=[Истинная победительница A]	Description=[<br><BLUE01>Стиль воительницы, не знающей поражения.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10007	hair_name=[Воительница B]	Description=[<br><BLUE01>Стиль харизматичной воительницы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10008	hair_name=[Жизнь убийцы B]	Description=[<br><BLUE01>Шикарный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10009	hair_name=[Яд скорпиона B]	Description=[<br><BLUE01>Стиль, напоминающий скорпиона.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10010	hair_name=[Истинная победительница B]	Description=[<br><BLUE01>Стиль воительницы, не знающей поражения.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10013	hair_name=[Пальма]	Description=[<br><BLUE01>Экзотический стиль чужеземца</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10014	hair_name=[Аристократка]	Description=[<br><BLUE01>Прическа знатной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=10015	hair_name=[Доярка]	Description=[<BLUE01>Удобная для работы женская прическа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=15001	hair_name=[Роскошный японский стиль]	Description=[<br><BLUE01>Роскошный японский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=11	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10001	hair_name=[Адский проводник A]	Description=[<br><BLUE01>Харизматичный аниме-стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10002	hair_name=[Апостол смерти A]	Description=[<br><BLUE01>Стиль избалованного городского мужчины.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10004	hair_name=[Настоящий смельчак]	Description=[<br><BLUE01>Стиль воина, который никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10005	hair_name=[Роковое пророчество A]	Description=[<br><BLUE01>Шикарный стиль денди.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10006	hair_name=[Трагическая судьба A]	Description=[<br><BLUE01>Стиль милого шутника.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10007	hair_name=[Адский проводник B]	Description=[<br><BLUE01>Харизматичный аниме-стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10008	hair_name=[Апостол смерти B]	Description=[<br><BLUE01>Стиль избалованного городского мужчины.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10009	hair_name=[Роковое пророчество B]	Description=[<br><BLUE01>Шикарный стиль денди.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10010	hair_name=[Трагическая судьба B]	Description=[<br><BLUE01>Стиль милого шутника.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10013	hair_name=[Индеец]	Description=[<br><BLUE01>Стиль воина индейского племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10014	hair_name=[Аристократ]	Description=[<br><BLUE01>Стильная и простая прическа, популярная у золотой молодежи.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=10015	hair_name=[Обыкновенный Дикарь]	Description=[<br><BLUE01>Прическа аборигена из дикого племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=15001	hair_name=[Самурай]	Description=[<br><BLUE01>Стиль японского самурая.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=12	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10001	hair_name=[Мудрость прорицательницы A ]	Description=[<br><BLUE01>Харизматичный аниме-стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10002	hair_name=[Харизма A]	Description=[<br><BLUE01>Стиль немного избалованной городской девушки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10004	hair_name=[Конский хвост]	Description=[<br><BLUE01>Стиль воительницы, которая никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10005	hair_name=[Бессмертный дух A]	Description=[<br><BLUE01>Шикарный стиль денди.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10006	hair_name=[Предсказанная судьба A]	Description=[<br><BLUE01>Стиль девушки с отличным чувством юмора.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10007	hair_name=[Мудрость прорицательницы B]	Description=[<br><BLUE01>Харизматичный аниме-стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10008	hair_name=[Харизма B]	Description=[<br><BLUE01>Стиль немного избалованной городской девушки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10009	hair_name=[Бессмертный дух B]	Description=[<br><BLUE01>Шикарный стиль денди.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10010	hair_name=[Предсказанная судьба B]	Description=[<br><BLUE01>Стиль девушки с отличным чувством юмора.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10013	hair_name=[Пальма]	Description=[<br><BLUE01>Экзотический стиль чужеземца</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10014	hair_name=[Аристократка]	Description=[<br><BLUE01>Прическа знатной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=10015	hair_name=[Доярка]	Description=[<BLUE01>Удобная для работы женская прическа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=15001	hair_name=[Роскошный японский стиль]	Description=[<br><BLUE01>Роскошный японский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=13	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10001	hair_name=[Бедный художник A]	Description=[<br><BLUE01>Стиль исполнителя классической музыки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10002	hair_name=[Казанова A]	Description=[<br><BLUE01>Стиль молодого человека, способного покорить любую девушку.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10004	hair_name=[Настоящий смельчак]	Description=[<br><BLUE01>Стиль воина, который никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10005	hair_name=[Элегантность A]	Description=[<br><BLUE01>Элегантный и величественный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10006	hair_name=[Ланфрен-ланфра A]	Description=[<br><BLUE01>Харизматичный стиль для жизни и смерти в образе.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10007	hair_name=[Бедный художник  B]	Description=[<br><BLUE01>Стиль исполнителя классической музыки.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10008	hair_name=[Казанова B]	Description=[<br><BLUE01>Стиль молодого человека, способного покорить любую девушку.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10009	hair_name=[Элегантность B]	Description=[<br><BLUE01>Элегантный и величественный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10010	hair_name=[Ланфрен-ланфра B]	Description=[<br><BLUE01>Харизматичный стиль для жизни и смерти в образе.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10013	hair_name=[Индеец]	Description=[<br><BLUE01>Стиль воина индейского племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10014	hair_name=[Аристократ]	Description=[<br><BLUE01>Стильная и простая прическа, популярная у золотой молодежи.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=10015	hair_name=[Обыкновенный Дикарь]	Description=[<br><BLUE01>Прическа аборигена из дикого племени.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=15001	hair_name=[Самурай]	Description=[<br><BLUE01>Стиль японского самурая.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=14	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10001	hair_name=[Гордячка A]	Description=[<br><BLUE01>Изысканный стиль для тех, у кого есть чувство собственного достоинства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10002	hair_name=[Неописуемый объем A]	Description=[<br><BLUE01>Очень женственный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10004	hair_name=[Конский хвост]	Description=[<br><BLUE01>Стиль воительницы, которая никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10005	hair_name=[Прогулка под дождем A]	Description=[<br><BLUE01>Стиль, напоминающий о прогулках под дождем.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10006	hair_name=[Коварная соблазнительница A]	Description=[<br><BLUE01>Элегантный стиль хитрой лисички.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10007	hair_name=[Гордячка B]	Description=[<br><BLUE01>Изысканный стиль для тех, у кого есть чувство собственного достоинства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10008	hair_name=[Неописуемый объем B]	Description=[<br><BLUE01>Очень женственный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10009	hair_name=[Прогулка под дождем B]	Description=[<br><BLUE01>Стиль, напоминающий о прогулках под дождем.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10010	hair_name=[Коварная соблазнительница B]	Description=[<br><BLUE01>Элегантный стиль хитрой лисички.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10013	hair_name=[Пальма]	Description=[<br><BLUE01>Экзотический стиль чужеземца</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10014	hair_name=[Аристократка]	Description=[<br><BLUE01>Прическа знатной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=10015	hair_name=[Доярка]	Description=[<BLUE01>Удобная для работы женская прическа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=15001	hair_name=[Роскошный японский стиль]	Description=[<br><BLUE01>Роскошный японский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=15002	hair_name=[Папаха]	Description=[<br><BLUE01>Согреет даже в лютые сибирские морозы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=15	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10001	hair_name=[Ланфрен-ланфра A]	Description=[<br><BLUE01>Харизматичный стиль для жизни и смерти в образе.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10002	hair_name=[Юна и свежа A]	Description=[<br><BLUE01>Милый и забавный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10003	hair_name=[Пират]	Description=[<br><BLUE01>Стиль пиратов южных морей.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10004	hair_name=[Конский хвост]	Description=[<br><BLUE01>Стиль воительницы, которая никогда не сдается.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10005	hair_name=[Элегантность A]	Description=[<br><BLUE01>Элегантный и величественный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10006	hair_name=[Суфражистка A]	Description=[<br><BLUE01>Мальчишеский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10007	hair_name=[Ланфрен-ланфра B]	Description=[<br><BLUE01>Харизматичный стиль для жизни и смерти в образе.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10008	hair_name=[Юна и свежа B]	Description=[<br><BLUE01>Милый и забавный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10009	hair_name=[Элегантность B]	Description=[<br><BLUE01>Элегантный и величественный стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10010	hair_name=[Суфражистка B]	Description=[<br><BLUE01>Мальчишеский стиль.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10011	hair_name=[Я герой]	Description=[<br><BLUE01>Стиль, демонстрирующий боевой дух персонажа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10013	hair_name=[Пальма]	Description=[<br><BLUE01>Экзотический стиль чужеземца</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10014	hair_name=[Аристократка]	Description=[<br><BLUE01>Прическа знатной дамы.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=10015	hair_name=[Доярка]	Description=[<BLUE01>Удобная для работы женская прическа.</BLUE01>]	HairEx_Name_end
+HairEx_Name_begin	id=17	class_name=15003	hair_name=[Прическа для конкурса]	Description=[<br><BLUE01>Прическа по последнему слову парикмахерского искусства.</BLUE01>]	HairEx_Name_end

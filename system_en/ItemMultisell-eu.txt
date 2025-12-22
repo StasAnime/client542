@@ -1,0 +1,58 @@
+itemMultisell_begin	itemClassID=82529	multisell_id_list={2472}	multisell_name={[Collection items]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=82530	multisell_id_list={2473}	multisell_name={[Heavenly Challenge Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=82531	multisell_id_list={2474}	multisell_name={[Dark/ Bloody Weapon Upgrade Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=82532	multisell_id_list={2475}	multisell_name={[Shining Energy]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=82633	multisell_id_list={2478}	multisell_name={[Blessed Exalted Heavy Armor/ Light Armor/ Robe Set Boxes]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=82657	multisell_id_list={2479}	multisell_name={[Soulshots/ Spiritshots]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=82671	multisell_id_list={2480}	multisell_name={[Appearance Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=82758	multisell_id_list={2482}	multisell_name={[Soulshots/ Spiritshots]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=82966	multisell_id_list={2486}	multisell_name={[+5 Circlet Boxes]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=82995	multisell_id_list={2491}	multisell_name={[Royal Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83092	multisell_id_list={2492}	multisell_name={[Selection Coupon: 20th Anniversary Toy Hammer]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83120	multisell_id_list={2497}	multisell_name={[Appearance Stone Coupon: Winter Outfit]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83142	multisell_id_list={2498}	multisell_name={[Superior Cat's Eye Coupon Lv. 10]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83143	multisell_id_list={2499}	multisell_name={[Superior Ruby/ Sapphire Coupon Lv. 10]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83164	multisell_id_list={2501}	multisell_name={[Radiant Exchange Coupon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83455	multisell_id_list={2508}	multisell_name={[Relic Coupon: Freya's Frozen Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83456	multisell_id_list={2509}	multisell_name={[Supply Orders]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83519	multisell_id_list={2511}	multisell_name={[Shadow Relic Coupon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83551	multisell_id_list={2513}	multisell_name={[Fisher's Ancient Coins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83645	multisell_id_list={2516}	multisell_name={[Selection Coupon: Brush]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83685	multisell_id_list={2518}	multisell_name={[Selection Coupon: Forgotten Hero's Stone]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=83711	multisell_id_list={2519}	multisell_name={[Update Festival Coupon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60645	multisell_id_list={3202}	multisell_name={[Dragon Claw (Top-grade)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60646	multisell_id_list={3203}	multisell_name={[Dragon Claw (High-grade)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60647	multisell_id_list={3204}	multisell_name={[Heavenly Accessories Lv. 6]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60648	multisell_id_list={3205}	multisell_name={[Greater Jewels Lv. 10]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60649	multisell_id_list={3206}	multisell_name={[Soul Crystals Lv. 10]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60650	multisell_id_list={3207}	multisell_name={[+10 Radiant Circlets]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60651	multisell_id_list={3208}	multisell_name={[Bloodstained Zariche]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60652	multisell_id_list={3209}	multisell_name={[Bloodstained Akamanah]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60653	multisell_id_list={3210}	multisell_name={[+32 Supreme Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60654	multisell_id_list={3211}	multisell_name={[New Collections]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60655	multisell_id_list={3212}	multisell_name={[Legendary Dyes Lv. 10]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60656	multisell_id_list={3213}	multisell_name={[Old Collections]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60701	multisell_id_list={3214}	multisell_name={[Lucky Game - D-grade]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60702	multisell_id_list={3215}	multisell_name={[Lucky Game - C-grade]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60703	multisell_id_list={3216}	multisell_name={[Lucky Game - B-grade]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60704	multisell_id_list={3217}	multisell_name={[Lucky Game - A-grade]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60712	multisell_id_list={3218}	multisell_name={[+12 Bloody Leviathan Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60713	multisell_id_list={3219}	multisell_name={[+20 Supreme Leviathan Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60759	multisell_id_list={3220}	multisell_name={[+10 Supreme Leviathan Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60506	multisell_id_list={3221}	multisell_name={[Superior Jewel Coupon Lv. 5]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60825	multisell_id_list={3223}	multisell_name={[+5 Radiant Circlet Coupon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60888	multisell_id_list={3225}	multisell_name={[Total Attendance Coupon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60507	multisell_id_list={3226}	multisell_name={[Superior Jewel Coupon Lv. 10]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60931	multisell_id_list={3227}	multisell_name={[Gran Kain's Scroll Coupon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60950	multisell_id_list={3228}	multisell_name={[Mark of Awakening]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=60992	multisell_id_list={3229}	multisell_name={[Festival Bar Coupon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=61099	multisell_id_list={3230}	multisell_name={['I want to be a Ruler of Darkness!' Agathion Charm Coupon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=61110	multisell_id_list={3231}	multisell_name={[+18 Legendary Cloak Coupon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=61111	multisell_id_list={3232}	multisell_name={[Legendary Dye Coupon Lv. 5]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=61069	multisell_id_list={3233}	multisell_name={[Official Request]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=61112	multisell_id_list={3234;3235;3236;3237;3238}	multisell_name={[Armor];[Weapons];[Other equipment];[Upgrade items];[Misc.]}	unk={101}	itemMultisell_end
+itemMultisell_begin	itemClassID=61203	multisell_id_list={3240}	multisell_name={[Eraton's Dye Coupon Lv. 1]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=61252	multisell_id_list={3241}	multisell_name={[+15 Artifact Coupon (Attack)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=61253	multisell_id_list={3242}	multisell_name={[+15 Artifact Coupon (Defense)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=61254	multisell_id_list={3243}	multisell_name={[+15 Artifact Coupon (Support)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=61255	multisell_id_list={3244}	multisell_name={[+15 Artifact Coupon (Balance)]}	unk={}	itemMultisell_end

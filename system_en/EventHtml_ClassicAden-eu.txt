@@ -1,0 +1,1 @@
+eventhtml_begin	id=1	title=[Doll Summon Coupons (Unsealed Dolls)]	desc=[Until further notice]	eventhtml_end

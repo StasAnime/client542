@@ -1,0 +1,1 @@
+Ranking_inzonedata_begin	ranking_id=2	inzone_id=235	enter_type=1	check_type=0	reward_type=0	reward_view={{4;5;{99886};{5}};{2;3;{99886};{7}};{1;1;{99886};{10}}}	Ranking_inzonedata_end

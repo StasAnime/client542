@@ -1,0 +1,125 @@
+InstantZoneData_begin	id=147	name=[Олимпиада]	InstantZoneData_end
+InstantZoneData_begin	id=148	name=[Олимпиада]	InstantZoneData_end
+InstantZoneData_begin	id=149	name=[Олимпиада]	InstantZoneData_end
+InstantZoneData_begin	id=150	name=[Олимпиада]	InstantZoneData_end
+InstantZoneData_begin	id=151	name=[Олимпиада 3 на 3]	InstantZoneData_end
+InstantZoneData_begin	id=152	name=[Олимпиада 3 на 3]	InstantZoneData_end
+InstantZoneData_begin	id=153	name=[Олимпиада 3 на 3]	InstantZoneData_end
+InstantZoneData_begin	id=182	name=[Рыцари Балтуса - Экспедиция Баюма]	InstantZoneData_end
+InstantZoneData_begin	id=183	name=[Рыцари Балтуса - Экспедиция Антараса]	InstantZoneData_end
+InstantZoneData_begin	id=184	name=[Рыцари Балтуса - Экспедиция Закена]	InstantZoneData_end
+InstantZoneData_begin	id=186	name=[Зал Орхидеи]	InstantZoneData_end
+InstantZoneData_begin	id=187	name=[Зал Элии]	InstantZoneData_end
+InstantZoneData_begin	id=188	name=[Зал Лорел]	InstantZoneData_end
+InstantZoneData_begin	id=189	name=[Зал Орхидеи]	InstantZoneData_end
+InstantZoneData_begin	id=190	name=[Зал Элии]	InstantZoneData_end
+InstantZoneData_begin	id=191	name=[Зал Лорел]	InstantZoneData_end
+InstantZoneData_begin	id=192	name=[Арена Монстров]	InstantZoneData_end
+InstantZoneData_begin	id=193	name=[Элитная Арена Монстров]	InstantZoneData_end
+InstantZoneData_begin	id=194	name=[Арена клана]	InstantZoneData_end
+InstantZoneData_begin	id=195	name=[Логово Короля Игниса]	InstantZoneData_end
+InstantZoneData_begin	id=196	name=[Логово Королевы Небулы]	InstantZoneData_end
+InstantZoneData_begin	id=197	name=[Логово Короля Прочеллы]	InstantZoneData_end
+InstantZoneData_begin	id=198	name=[Логово Короля Петрама]	InstantZoneData_end
+InstantZoneData_begin	id=199	name=[Лилит]	InstantZoneData_end
+InstantZoneData_begin	id=200	name=[Анаким]	InstantZoneData_end
+InstantZoneData_begin	id=201	name=[Логово Короля Игниса (экстремальный)]	InstantZoneData_end
+InstantZoneData_begin	id=202	name=[Логово Королевы Небулы (экстремальный)]	InstantZoneData_end
+InstantZoneData_begin	id=203	name=[Логово Короля Прочеллы (экстремальный)]	InstantZoneData_end
+InstantZoneData_begin	id=204	name=[Логово Короля Петрама (экстремальный)]	InstantZoneData_end
+InstantZoneData_begin	id=205	name=[Гробница Последнего Императора - Фринтеза]	InstantZoneData_end
+InstantZoneData_begin	id=206	name=[Ивент Гильдии Алых Весов - Говорящий Остров]	InstantZoneData_end
+InstantZoneData_begin	id=207	name=[Комната Голдберга]	InstantZoneData_end
+InstantZoneData_begin	id=208	name=[Невероятная Временная Зона]	InstantZoneData_end
+InstantZoneData_begin	id=209	name=[Невероятная Временная Зона]	InstantZoneData_end
+InstantZoneData_begin	id=210	name=[Невероятная Временная Зона]	InstantZoneData_end
+InstantZoneData_begin	id=211	name=[Невероятная Временная Зона]	InstantZoneData_end
+InstantZoneData_begin	id=212	name=[Невероятная Временная Зона]	InstantZoneData_end
+InstantZoneData_begin	id=213	name=[Невероятная Временная Зона]	InstantZoneData_end
+InstantZoneData_begin	id=214	name=[Обитель Духов]	InstantZoneData_end
+InstantZoneData_begin	id=215	name=[Невероятная Временная Зона]	InstantZoneData_end
+InstantZoneData_begin	id=216	name=[Логово Закена]	InstantZoneData_end
+InstantZoneData_begin	id=217	name=[Логово Королевы Муравьев]	InstantZoneData_end
+InstantZoneData_begin	id=218	name=[Логово Орфен]	InstantZoneData_end
+InstantZoneData_begin	id=219	name=[Центральная Комната Управления Башни Крумы]	InstantZoneData_end
+InstantZoneData_begin	id=220	name=[Логово Баюма]	InstantZoneData_end
+InstantZoneData_begin	id=221	name=[Особняк Густава]	InstantZoneData_end
+InstantZoneData_begin	id=222	name=[Монастырь Бенедикта]	InstantZoneData_end
+InstantZoneData_begin	id=223	name=[Храм Гладиатора]	InstantZoneData_end
+InstantZoneData_begin	id=224	name=[Крепость Красного Драконида]	InstantZoneData_end
+InstantZoneData_begin	id=227	name=[Гробница Древних Пиратов]	InstantZoneData_end
+InstantZoneData_begin	id=228	name=[Тренировочное Подземелье]	InstantZoneData_end
+InstantZoneData_begin	id=229	name=[Невероятная Временная Зона]	InstantZoneData_end
+InstantZoneData_begin	id=230	name=[Храм Валакаса]	InstantZoneData_end
+InstantZoneData_begin	id=1001	name=[Первобытный Остров]	InstantZoneData_end
+InstantZoneData_begin	id=1005	name=[Остров Аллигаторов]	InstantZoneData_end
+InstantZoneData_begin	id=1009	name=[Забытый Сад]	InstantZoneData_end
+InstantZoneData_begin	id=1012	name=[Замерзший Каньон]	InstantZoneData_end
+InstantZoneData_begin	id=1017	name=[Башня Эльморадена]	InstantZoneData_end
+InstantZoneData_begin	id=1019	name=[Башня Дерзости]	InstantZoneData_end
+InstantZoneData_begin	id=1020	name=[Крепость Кельбима]	InstantZoneData_end
+InstantZoneData_begin	id=1021	name=[Языческий Храм]	InstantZoneData_end
+InstantZoneData_begin	id=1022	name=[Небесная Башня]	InstantZoneData_end
+InstantZoneData_begin	id=2000	name=[Битва с Рейдовыми Боссами]	InstantZoneData_end
+InstantZoneData_begin	id=2001	name=[Замок Монарха Льда]	InstantZoneData_end
+InstantZoneData_begin	id=225	name=[Замок Монарха Льда]	InstantZoneData_end
+InstantZoneData_begin	id=1024	name=[Храм Ацтакана]	InstantZoneData_end
+InstantZoneData_begin	id=1016	name=[Сад Бытия]	InstantZoneData_end
+InstantZoneData_begin	id=2002	name=[Сад Бытия]	InstantZoneData_end
+InstantZoneData_begin	id=235	name=[Подземелье Клана]	InstantZoneData_end
+InstantZoneData_begin	id=2004	name=[Охота на Кротов]	InstantZoneData_end
+InstantZoneData_begin	id=236	name=[Подземелье Леоны]	InstantZoneData_end
+InstantZoneData_begin	id=239	name=[Подземная Пещера Храма]	InstantZoneData_end
+InstantZoneData_begin	id=240	name=[Вход в Крепость Кельбима]	InstantZoneData_end
+InstantZoneData_begin	id=2005	name=[Лагерь Летних Арбузов]	InstantZoneData_end
+InstantZoneData_begin	id=2006	name=[Осенняя Тыквенная Вечеринка]	InstantZoneData_end
+InstantZoneData_begin	id=1025	name=[Остров Летних Арбузов]	InstantZoneData_end
+InstantZoneData_begin	id=241	name=[Невероятная Временная Зона]	InstantZoneData_end
+InstantZoneData_begin	id=1007	name=[Приглашение Фериона]	InstantZoneData_end
+InstantZoneData_begin	id=2008	name=[Храм Воды]	InstantZoneData_end
+InstantZoneData_begin	id=2009	name=[Храм Воды]	InstantZoneData_end
+InstantZoneData_begin	id=1027	name=[Храм Воды]	InstantZoneData_end
+InstantZoneData_begin	id=2010	name=[Святилище Владычицы Рассвета]	InstantZoneData_end
+InstantZoneData_begin	id=2011	name=[Зимний Лагерь Снеговиков]	InstantZoneData_end
+InstantZoneData_begin	id=1028	name=[Зимний Лагерь Снеговиков]	InstantZoneData_end
+InstantZoneData_begin	id=1029	name=[Древние Руины]	InstantZoneData_end
+InstantZoneData_begin	id=1030	name=[Лес Ветров]	InstantZoneData_end
+InstantZoneData_begin	id=2012	name=[Цветное Нагорье]	InstantZoneData_end
+InstantZoneData_begin	id=2013	name=[Храм Валакаса - Спасение Яйца Драко]	InstantZoneData_end
+InstantZoneData_begin	id=2014	name=[Загон Диких Зверей]	InstantZoneData_end
+InstantZoneData_begin	id=2015	name=[Гробница Последнего Императора - Фринтеза]	InstantZoneData_end
+InstantZoneData_begin	id=2016	name=[Битва с Рейдовыми Боссами]	InstantZoneData_end
+InstantZoneData_begin	id=2017	name=[Обитель Духов]	InstantZoneData_end
+InstantZoneData_begin	id=2018	name=[Храм Ифрита]	InstantZoneData_end
+InstantZoneData_begin	id=1031	name=[Каньон Дракона Воды]	InstantZoneData_end
+InstantZoneData_begin	id=2019	name=[Гнездо Фафуриона]	InstantZoneData_end
+InstantZoneData_begin	id=1032	name=[Крепость Железного Сердца]	InstantZoneData_end
+InstantZoneData_begin	id=2020	name=[Крепость Железного Сердца - База Снабжения]	InstantZoneData_end
+InstantZoneData_begin	id=2021	name=[Крепость Железного Сердца - Инженерная База]	InstantZoneData_end
+InstantZoneData_begin	id=2022	name=[Храм Сайракса]	InstantZoneData_end
+InstantZoneData_begin	id=2023	name=[Оборона Поселения Варгов]	InstantZoneData_end
+InstantZoneData_begin	id=2024	name=[Обитель Духов]	InstantZoneData_end
+InstantZoneData_begin	id=2025	name=[Застава Волколаков]	InstantZoneData_end
+InstantZoneData_begin	id=2026	name=[Особняк Густава]	InstantZoneData_end
+InstantZoneData_begin	id=2027	name=[Монастырь Бенедикта]	InstantZoneData_end
+InstantZoneData_begin	id=2028	name=[Храм Гладиатора]	InstantZoneData_end
+InstantZoneData_begin	id=2029	name=[Крепость Красного Драконида]	InstantZoneData_end
+InstantZoneData_begin	id=2030	name=[Источник Зла]	InstantZoneData_end
+InstantZoneData_begin	id=2031	name=[Замерзшее Озеро]	InstantZoneData_end
+InstantZoneData_begin	id=1033	name=[Храм Орбиса]	InstantZoneData_end
+InstantZoneData_begin	id=2032	name=[Храм Октависа]	InstantZoneData_end
+InstantZoneData_begin	id=1034	name=[Лес Ветров]	InstantZoneData_end
+InstantZoneData_begin	id=2033	name=[Цветущий Сад]	InstantZoneData_end
+InstantZoneData_begin	id=2034	name=[Храм Ацтакана]	InstantZoneData_end
+InstantZoneData_begin	id=2035	name=[Лес Сфинксов]	InstantZoneData_end
+InstantZoneData_begin	id=2036	name=[Тайное Убежище Мафии]	InstantZoneData_end
+InstantZoneData_begin	id=2037	name=[Лес Сфинксов]	InstantZoneData_end
+InstantZoneData_begin	id=2038	name=[Рейд в Гавани Гирана]	InstantZoneData_end
+InstantZoneData_begin	id=2039	name=[Родник Пустоши]	InstantZoneData_end
+InstantZoneData_begin	id=2040	name=[Гнездо Антараса]	InstantZoneData_end
+InstantZoneData_begin	id=2041	name=[Лес Состязаний]	InstantZoneData_end
+InstantZoneData_begin	id=2042	name=[Врата Камиль]	InstantZoneData_end
+InstantZoneData_begin	id=2043	name=[Фестиваль Иллюзий]	InstantZoneData_end
+InstantZoneData_begin	id=2044	name=[Гнездо Валакаса]	InstantZoneData_end
+InstantZoneData_begin	id=1035	name=[Приют Древа Жизни]	InstantZoneData_end
+InstantZoneData_begin	id=2045	name=[Легенда Лунного Побережья]	InstantZoneData_end

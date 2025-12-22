@@ -1,0 +1,40 @@
+cell_info_begin	cell_id=1	cell_color=1	cell_name=[Talking Island Village]	cell_reward={}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=2	cell_color=7	cell_name=[Altar of Evil]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=3	cell_color=7	cell_name=[Bloody Swampland]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=4	cell_color=3	cell_name=[First Memory]	cell_reward={{81653;1}}	event_group_Id={2}	cell_info_end
+cell_info_begin	cell_id=5	cell_color=7	cell_name=[Abandoned Coal Mines]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=6	cell_color=2	cell_name=[Beleth's Magic Circle]	cell_reward={}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=7	cell_color=7	cell_name=[Desert Quarry]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=8	cell_color=4	cell_name=[Valakas' Lair]	cell_reward={{81657;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=9	cell_color=7	cell_name=[Dion]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=10	cell_color=3	cell_name=[Primordial River]	cell_reward={{81653;1}}	event_group_Id={2}	cell_info_end
+cell_info_begin	cell_id=11	cell_color=7	cell_name=[Enchanted Valley]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=12	cell_color=2	cell_name=[Storm Isle]	cell_reward={}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=13	cell_color=7	cell_name=[Phantasmal Ridge]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=14	cell_color=7	cell_name=[Ivory Tower Crater]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=15	cell_color=7	cell_name=[Silent Valley]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=16	cell_color=4	cell_name=[Lindvior's Nest]	cell_reward={{81657;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=17	cell_color=7	cell_name=[Tanor Canyon]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=18	cell_color=3	cell_name=[Daril's Water Source]	cell_reward={{81653;1}}	event_group_Id={2}	cell_info_end
+cell_info_begin	cell_id=19	cell_color=2	cell_name=[Imperial Tomb]	cell_reward={}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=20	cell_color=5	cell_name=[Primeval Isle (uninhabited)]	cell_reward={}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=21	cell_color=7	cell_name=[Forest of Mirrors]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=22	cell_color=7	cell_name=[Alligator Island]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=23	cell_color=7	cell_name=[Field of Silence]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=24	cell_color=4	cell_name=[Antharas' Nest]	cell_reward={{81657;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=25	cell_color=7	cell_name=[Field of Whispers]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=26	cell_color=3	cell_name=[Daril Phran's Water Source]	cell_reward={{81653;1}}	event_group_Id={2}	cell_info_end
+cell_info_begin	cell_id=27	cell_color=2	cell_name=[Isle of Souls]	cell_reward={}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=28	cell_color=7	cell_name=[Isle of Prayer]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=29	cell_color=7	cell_name=[Breka's Stronghold]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=30	cell_color=7	cell_name=[Wasteland]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=31	cell_color=7	cell_name=[Fafurion Temple]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=32	cell_color=4	cell_name=[Fafurion's Nest]	cell_reward={{81657;1}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=33	cell_color=7	cell_name=[Fields of Massacre]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=34	cell_color=3	cell_name=[Callide's Hall]	cell_reward={{81653;1}}	event_group_Id={2}	cell_info_end
+cell_info_begin	cell_id=35	cell_color=2	cell_name=[Dragon Valley]	cell_reward={}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=36	cell_color=7	cell_name=[Zone 1 - Asa]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=37	cell_color=7	cell_name=[Zone 2 - Anima]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=38	cell_color=7	cell_name=[Zone 3 - Nox]	cell_reward={{82155;2}}	event_group_Id={1}	cell_info_end
+cell_info_begin	cell_id=39	cell_color=8	cell_name=[Eigis' Seat]	cell_reward={{81657;2}}	event_group_Id={}	cell_info_end
+cell_info_begin	cell_id=40	cell_color=1	cell_name=[Town of Conquest]	cell_reward={}	event_group_Id={}	cell_info_end

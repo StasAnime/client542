@@ -1,0 +1,323 @@
+pet_name_begin	id=1	skill_id=0	skill_level=0	name=[Wolf's Secret 1]	desc=[Description]	pet_name_end
+pet_name_begin	id=2	skill_id=0	skill_level=0	name=[Wolf's Secret 2]	desc=[Description]	pet_name_end
+pet_name_begin	id=3	skill_id=0	skill_level=0	name=[Wolf's Secret 3]	desc=[Description]	pet_name_end
+pet_name_begin	id=4	skill_id=0	skill_level=0	name=[Wolf's Secret 4]	desc=[Description]	pet_name_end
+pet_name_begin	id=5	skill_id=0	skill_level=0	name=[Wolf's Secret 5]	desc=[Description]	pet_name_end
+pet_name_begin	id=6	skill_id=0	skill_level=0	name=[Wolf's Secret 6]	desc=[Description]	pet_name_end
+pet_name_begin	id=7	skill_id=0	skill_level=0	name=[Wolf's Secret 7]	desc=[Description]	pet_name_end
+pet_name_begin	id=8	skill_id=0	skill_level=0	name=[Wolf's Secret 8]	desc=[Description]	pet_name_end
+pet_name_begin	id=9	skill_id=0	skill_level=0	name=[Wolf's Secret 9]	desc=[Description]	pet_name_end
+pet_name_begin	id=10	skill_id=0	skill_level=0	name=[Wolf's Secret 10]	desc=[Description]	pet_name_end
+pet_name_begin	id=11	skill_id=49201	skill_level=1	name=[Strong]	desc=[STR +1]	pet_name_end
+pet_name_begin	id=12	skill_id=49201	skill_level=2	name=[Mighty]	desc=[STR +2]	pet_name_end
+pet_name_begin	id=13	skill_id=49201	skill_level=3	name=[Powerful]	desc=[STR +3]	pet_name_end
+pet_name_begin	id=14	skill_id=49202	skill_level=1	name=[Swift]	desc=[DEX +1]	pet_name_end
+pet_name_begin	id=15	skill_id=49202	skill_level=2	name=[Quick]	desc=[DEX +2]	pet_name_end
+pet_name_begin	id=16	skill_id=49202	skill_level=3	name=[Dexterous]	desc=[DEX +3]	pet_name_end
+pet_name_begin	id=17	skill_id=49203	skill_level=1	name=[Healthy]	desc=[CON +1]	pet_name_end
+pet_name_begin	id=18	skill_id=49203	skill_level=2	name=[Enduring]	desc=[CON +2]	pet_name_end
+pet_name_begin	id=19	skill_id=49203	skill_level=3	name=[Tough]	desc=[CON +3]	pet_name_end
+pet_name_begin	id=20	skill_id=49204	skill_level=1	name=[Clever]	desc=[INT +1]	pet_name_end
+pet_name_begin	id=21	skill_id=49204	skill_level=2	name=[Smart]	desc=[INT +2]	pet_name_end
+pet_name_begin	id=22	skill_id=49204	skill_level=3	name=[Intelligent]	desc=[INT +3]	pet_name_end
+pet_name_begin	id=23	skill_id=49205	skill_level=1	name=[Sharp]	desc=[WIT +1]	pet_name_end
+pet_name_begin	id=24	skill_id=49205	skill_level=2	name=[Wise]	desc=[WIT +2]	pet_name_end
+pet_name_begin	id=25	skill_id=49205	skill_level=3	name=[Insightful]	desc=[WIT +3]	pet_name_end
+pet_name_begin	id=26	skill_id=49206	skill_level=1	name=[Vigorous]	desc=[MEN +1]	pet_name_end
+pet_name_begin	id=27	skill_id=49206	skill_level=2	name=[Resolute]	desc=[MEN +2]	pet_name_end
+pet_name_begin	id=28	skill_id=49206	skill_level=3	name=[Strong-spirited]	desc=[MEN +3]	pet_name_end
+pet_name_begin	id=29	skill_id=0	skill_level=0	name=[Wolf]	desc=[]	pet_name_end
+pet_name_begin	id=30	skill_id=0	skill_level=0	name=[Buffalo]	desc=[]	pet_name_end
+pet_name_begin	id=31	skill_id=0	skill_level=0	name=[Tiger]	desc=[]	pet_name_end
+pet_name_begin	id=32	skill_id=0	skill_level=0	name=[Kookaburra]	desc=[]	pet_name_end
+pet_name_begin	id=33	skill_id=0	skill_level=0	name=[Dragon]	desc=[]	pet_name_end
+pet_name_begin	id=34	skill_id=0	skill_level=0	name=[Thunder Hawk]	desc=[]	pet_name_end
+pet_name_begin	id=35	skill_id=0	skill_level=0	name=[Fox Cub]	desc=[]	pet_name_end
+pet_name_begin	id=101	skill_id=0	skill_level=0	name=[Woof-woof]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=102	skill_id=0	skill_level=0	name=[Silver Hide]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=103	skill_id=0	skill_level=0	name=[Chun]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=105	skill_id=0	skill_level=0	name=[Red Eye]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=106	skill_id=0	skill_level=0	name=[Robo]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=107	skill_id=0	skill_level=0	name=[Sheepsnatcher]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=108	skill_id=0	skill_level=0	name=[Jindo]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=109	skill_id=0	skill_level=0	name=[Mary]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=110	skill_id=0	skill_level=0	name=[Cu Chulainn]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=111	skill_id=0	skill_level=0	name=[Cu Chulainn]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=113	skill_id=0	skill_level=0	name=[Romulus]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=114	skill_id=0	skill_level=0	name=[Fenrir]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=115	skill_id=0	skill_level=0	name=[Allen]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=116	skill_id=0	skill_level=0	name=[Alexander]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=117	skill_id=0	skill_level=0	name=[Cardiff Wolf]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=118	skill_id=0	skill_level=0	name=[Marak]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=119	skill_id=0	skill_level=0	name=[Garum Wolf]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=120	skill_id=0	skill_level=0	name=[Kasha]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=122	skill_id=0	skill_level=0	name=[Chanlan]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=123	skill_id=0	skill_level=0	name=[Lupine King]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=124	skill_id=0	skill_level=0	name=[Forest Hunter]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=125	skill_id=0	skill_level=0	name=[Blue Wolf]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=149	skill_id=0	skill_level=0	name=[Ghost]	desc=[Wolf]	pet_name_end
+pet_name_begin	id=112	skill_id=0	skill_level=0	name=[Robo]	desc=[Wolf/ Tiger]	pet_name_end
+pet_name_begin	id=139	skill_id=0	skill_level=0	name=[Puss]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=140	skill_id=0	skill_level=0	name=[Baby Tiger]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=141	skill_id=0	skill_level=0	name=[Moggy]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=142	skill_id=0	skill_level=0	name=[Kitty]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=143	skill_id=0	skill_level=0	name=[Amos]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=144	skill_id=0	skill_level=0	name=[Sel Mahum]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=146	skill_id=0	skill_level=0	name=[Marillia]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=147	skill_id=0	skill_level=0	name=[Changun]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=148	skill_id=0	skill_level=0	name=[Nightmare Catcher]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=150	skill_id=0	skill_level=0	name=[Beast King]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=151	skill_id=0	skill_level=0	name=[Assassin of Darkness]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=152	skill_id=0	skill_level=0	name=[Master of the Jungle]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=186	skill_id=0	skill_level=0	name=[King of Snow Peaks]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=190	skill_id=0	skill_level=0	name=[Tom]	desc=[Tiger]	pet_name_end
+pet_name_begin	id=127	skill_id=0	skill_level=0	name=[Minota]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=128	skill_id=0	skill_level=0	name=[Minota]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=129	skill_id=0	skill_level=0	name=[Ram]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=126	skill_id=0	skill_level=0	name=[Limonite]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=130	skill_id=0	skill_level=0	name=[Cattle King]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=131	skill_id=0	skill_level=0	name=[Bison]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=132	skill_id=0	skill_level=0	name=[Auroch]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=133	skill_id=0	skill_level=0	name=[Bison]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=134	skill_id=0	skill_level=0	name=[Apis]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=135	skill_id=0	skill_level=0	name=[Charles]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=136	skill_id=0	skill_level=0	name=[Denver]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=137	skill_id=0	skill_level=0	name=[Mathorn]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=138	skill_id=0	skill_level=0	name=[Desert Rogue]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=189	skill_id=0	skill_level=0	name=[Tanker]	desc=[Buffalo]	pet_name_end
+pet_name_begin	id=154	skill_id=0	skill_level=0	name=[Fafnir]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=156	skill_id=0	skill_level=0	name=[Fafnir]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=153	skill_id=0	skill_level=0	name=[Hatchling]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=157	skill_id=0	skill_level=0	name=[Britra]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=158	skill_id=0	skill_level=0	name=[Python]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=159	skill_id=0	skill_level=0	name=[Baxter]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=160	skill_id=0	skill_level=0	name=[Aydan]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=161	skill_id=0	skill_level=0	name=[Carbuncle]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=162	skill_id=0	skill_level=0	name=[Ancient Dragon]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=163	skill_id=0	skill_level=0	name=[Antharas' Offspring]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=187	skill_id=0	skill_level=0	name=[Salamander]	desc=[Dragon]	pet_name_end
+pet_name_begin	id=155	skill_id=0	skill_level=0	name=[Quetzalcoatl]	desc=[Dragon/ Hawk]	pet_name_end
+pet_name_begin	id=164	skill_id=0	skill_level=0	name=[Eagle]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=165	skill_id=0	skill_level=0	name=[Condor]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=173	skill_id=0	skill_level=0	name=[Condor]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=166	skill_id=0	skill_level=0	name=[Horus]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=167	skill_id=0	skill_level=0	name=[Attila]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=168	skill_id=0	skill_level=0	name=[Lachman]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=170	skill_id=0	skill_level=0	name=[Arvid]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=171	skill_id=0	skill_level=0	name=[Kalan]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=172	skill_id=0	skill_level=0	name=[Roxxy]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=174	skill_id=0	skill_level=0	name=[Falco Peregrinus]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=176	skill_id=0	skill_level=0	name=[Seer]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=177	skill_id=0	skill_level=0	name=[Sky Lord]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=179	skill_id=0	skill_level=0	name=[Cloud]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=188	skill_id=0	skill_level=0	name=[Hawkeye]	desc=[Hawk]	pet_name_end
+pet_name_begin	id=169	skill_id=0	skill_level=0	name=[Phoenix]	desc=[Hawk/ Kookaburra]	pet_name_end
+pet_name_begin	id=178	skill_id=0	skill_level=0	name=[Ostrich]	desc=[Kookaburra]	pet_name_end
+pet_name_begin	id=180	skill_id=0	skill_level=0	name=[Andrew]	desc=[Kookaburra]	pet_name_end
+pet_name_begin	id=191	skill_id=0	skill_level=0	name=[Andrew]	desc=[Kookaburra]	pet_name_end
+pet_name_begin	id=181	skill_id=0	skill_level=0	name=[Cloud]	desc=[Kookaburra]	pet_name_end
+pet_name_begin	id=182	skill_id=0	skill_level=0	name=[Hazel]	desc=[Kookaburra]	pet_name_end
+pet_name_begin	id=183	skill_id=0	skill_level=0	name=[Pepper]	desc=[Kookaburra]	pet_name_end
+pet_name_begin	id=184	skill_id=0	skill_level=0	name=[Savannah]	desc=[Kookaburra]	pet_name_end
+pet_name_begin	id=185	skill_id=0	skill_level=0	name=[Ruffian of Plains]	desc=[Kookaburra]	pet_name_end
+pet_name_begin	id=145	skill_id=0	skill_level=0	name=[Irene]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=175	skill_id=0	skill_level=0	name=[Kris]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=192	skill_id=0	skill_level=0	name=[Bartz]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=193	skill_id=0	skill_level=0	name=[Sieghardt]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=194	skill_id=0	skill_level=0	name=[Kain]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=195	skill_id=0	skill_level=0	name=[Liona]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=196	skill_id=0	skill_level=0	name=[Erica]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=197	skill_id=0	skill_level=0	name=[Gustin]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=198	skill_id=0	skill_level=0	name=[Devianne]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=199	skill_id=0	skill_level=0	name=[Hindemith]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=200	skill_id=0	skill_level=0	name=[Teon]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=201	skill_id=0	skill_level=0	name=[Franz]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=202	skill_id=0	skill_level=0	name=[Lunar]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=203	skill_id=0	skill_level=0	name=[Kastien]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=204	skill_id=0	skill_level=0	name=[Lantern]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=205	skill_id=0	skill_level=0	name=[Staris]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=206	skill_id=0	skill_level=0	name=[Ceriel]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=207	skill_id=0	skill_level=0	name=[Feyshar]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=208	skill_id=0	skill_level=0	name=[Elwyn]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=209	skill_id=0	skill_level=0	name=[Elikia]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=210	skill_id=0	skill_level=0	name=[Shiken]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=211	skill_id=0	skill_level=0	name=[Scryde]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=212	skill_id=0	skill_level=0	name=[Frikios]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=213	skill_id=0	skill_level=0	name=[Ophilia]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=214	skill_id=0	skill_level=0	name=[Sake Dun]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=215	skill_id=0	skill_level=0	name=[Tazyph]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=216	skill_id=0	skill_level=0	name=[Arian]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=217	skill_id=0	skill_level=0	name=[Asyen]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=218	skill_id=0	skill_level=0	name=[Elcadia]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=219	skill_id=0	skill_level=0	name=[Ian]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=220	skill_id=0	skill_level=0	name=[Seresin]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=221	skill_id=0	skill_level=0	name=[Tarkai]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=222	skill_id=0	skill_level=0	name=[Cardia]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=223	skill_id=0	skill_level=0	name=[Roien]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=224	skill_id=0	skill_level=0	name=[Gallint]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=225	skill_id=0	skill_level=0	name=[Tiat]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=226	skill_id=0	skill_level=0	name=[Nevit]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=227	skill_id=0	skill_level=0	name=[Karan]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=228	skill_id=0	skill_level=0	name=[Tersi]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=229	skill_id=0	skill_level=0	name=[Bremnon]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=230	skill_id=0	skill_level=0	name=[Lionel]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=231	skill_id=0	skill_level=0	name=[Adat]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=232	skill_id=0	skill_level=0	name=[Elisa]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=233	skill_id=0	skill_level=0	name=[Wunderkind]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=234	skill_id=0	skill_level=0	name=[Lucky]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=235	skill_id=0	skill_level=0	name=[Raoul]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=236	skill_id=0	skill_level=0	name=[Sirin]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=237	skill_id=0	skill_level=0	name=[Orifia]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=238	skill_id=0	skill_level=0	name=[Solina]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=239	skill_id=0	skill_level=0	name=[Momo]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=240	skill_id=0	skill_level=0	name=[Evan]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=241	skill_id=0	skill_level=0	name=[Nowel]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=242	skill_id=0	skill_level=0	name=[Akein]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=243	skill_id=0	skill_level=0	name=[Inferno]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=244	skill_id=0	skill_level=0	name=[Kallia]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=245	skill_id=0	skill_level=0	name=[Dafne]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=246	skill_id=0	skill_level=0	name=[Tirien]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=247	skill_id=0	skill_level=0	name=[Iris]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=248	skill_id=0	skill_level=0	name=[Vulcan]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=249	skill_id=0	skill_level=0	name=[Beora]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=250	skill_id=0	skill_level=0	name=[Inorin]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=251	skill_id=0	skill_level=0	name=[Berisona]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=252	skill_id=0	skill_level=0	name=[Brisilla]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=253	skill_id=0	skill_level=0	name=[Shunaiman]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=254	skill_id=0	skill_level=0	name=[Mitraell]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=255	skill_id=0	skill_level=0	name=[Kranvel]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=256	skill_id=0	skill_level=0	name=[Einhovant]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=257	skill_id=0	skill_level=0	name=[Racia]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=258	skill_id=0	skill_level=0	name=[Saraph]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=259	skill_id=0	skill_level=0	name=[Tenebri]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=260	skill_id=0	skill_level=0	name=[Aman]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=261	skill_id=0	skill_level=0	name=[Ghandi]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=262	skill_id=0	skill_level=0	name=[Silyo]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=263	skill_id=0	skill_level=0	name=[Temon]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=264	skill_id=0	skill_level=0	name=[Regina]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=265	skill_id=0	skill_level=0	name=[Ramsheart]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=266	skill_id=0	skill_level=0	name=[Elgos]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=267	skill_id=0	skill_level=0	name=[Mordred]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=268	skill_id=0	skill_level=0	name=[Grend]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=269	skill_id=0	skill_level=0	name=[Cadmus]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=270	skill_id=0	skill_level=0	name=[Lucien]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=271	skill_id=0	skill_level=0	name=[Frintezza]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=272	skill_id=0	skill_level=0	name=[Claudia]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=273	skill_id=0	skill_level=0	name=[Hunter]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=274	skill_id=0	skill_level=0	name=[Chaos]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=275	skill_id=0	skill_level=0	name=[Marilion]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=276	skill_id=0	skill_level=0	name=[Spiron]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=277	skill_id=0	skill_level=0	name=[Cema]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=278	skill_id=0	skill_level=0	name=[Jenna]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=279	skill_id=0	skill_level=0	name=[Elias]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=280	skill_id=0	skill_level=0	name=[Kumak]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=281	skill_id=0	skill_level=0	name=[Filaur]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=282	skill_id=0	skill_level=0	name=[Soma]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=283	skill_id=0	skill_level=0	name=[Ein]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=284	skill_id=0	skill_level=0	name=[Posa]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=285	skill_id=0	skill_level=0	name=[Roti]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=286	skill_id=0	skill_level=0	name=[Keucereus]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=287	skill_id=0	skill_level=0	name=[Lisin]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=288	skill_id=0	skill_level=0	name=[Agmun]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=289	skill_id=0	skill_level=0	name=[Harant]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=290	skill_id=0	skill_level=0	name=[Soiry]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=291	skill_id=0	skill_level=0	name=[Deborah]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=292	skill_id=0	skill_level=0	name=[Kuby]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=293	skill_id=0	skill_level=0	name=[Balanki]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=294	skill_id=0	skill_level=0	name=[Vichirid]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=295	skill_id=0	skill_level=0	name=[Pamela]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=296	skill_id=0	skill_level=0	name=[Grant]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=297	skill_id=0	skill_level=0	name=[Faber]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=298	skill_id=0	skill_level=0	name=[Kakai]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=299	skill_id=0	skill_level=0	name=[Allegra]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=300	skill_id=0	skill_level=0	name=[Akkan]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=301	skill_id=0	skill_level=0	name=[Tidi]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=302	skill_id=0	skill_level=0	name=[Takuna]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=303	skill_id=0	skill_level=0	name=[Kentaron]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=304	skill_id=0	skill_level=0	name=[Paris]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=305	skill_id=0	skill_level=0	name=[Kanan]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=306	skill_id=0	skill_level=0	name=[Gamon]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=307	skill_id=0	skill_level=0	name=[Telinaus]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=308	skill_id=0	skill_level=0	name=[Adeline]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=309	skill_id=0	skill_level=0	name=[Raphiel]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=310	skill_id=0	skill_level=0	name=[Arien]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=311	skill_id=0	skill_level=0	name=[Lauron]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=312	skill_id=0	skill_level=0	name=[Tor]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=313	skill_id=0	skill_level=0	name=[Banamin]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=314	skill_id=0	skill_level=0	name=[Castella]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=315	skill_id=0	skill_level=0	name=[Ashton]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=316	skill_id=0	skill_level=0	name=[Nadine]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=317	skill_id=0	skill_level=0	name=[Rhien]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=318	skill_id=0	skill_level=0	name=[Trishe]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=319	skill_id=0	skill_level=0	name=[Bergis]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=320	skill_id=0	skill_level=0	name=[Nix]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=321	skill_id=0	skill_level=0	name=[Hella]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=322	skill_id=0	skill_level=0	name=[Ayrina]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=323	skill_id=0	skill_level=0	name=[Kaysha]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=324	skill_id=0	skill_level=0	name=[Tobald]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=325	skill_id=0	skill_level=0	name=[Moina]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=326	skill_id=0	skill_level=0	name=[Kaspar]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=327	skill_id=0	skill_level=0	name=[Terestien]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=328	skill_id=0	skill_level=0	name=[Medina]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=329	skill_id=0	skill_level=0	name=[Tess]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=330	skill_id=0	skill_level=0	name=[Toma]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=331	skill_id=0	skill_level=0	name=[Photian]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=332	skill_id=0	skill_level=0	name=[Naomy]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=333	skill_id=0	skill_level=0	name=[Rudbis]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=334	skill_id=0	skill_level=0	name=[Biel]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=335	skill_id=0	skill_level=0	name=[Varkees]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=336	skill_id=0	skill_level=0	name=[Hines]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=337	skill_id=0	skill_level=0	name=[Ellina]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=338	skill_id=0	skill_level=0	name=[Avija]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=339	skill_id=0	skill_level=0	name=[Odelia]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=340	skill_id=0	skill_level=0	name=[Gubod]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=341	skill_id=0	skill_level=0	name=[Rudris]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=342	skill_id=0	skill_level=0	name=[Espada]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=343	skill_id=0	skill_level=0	name=[Valdstone]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=344	skill_id=0	skill_level=0	name=[Goldik]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=104	skill_id=0	skill_level=0	name=[Einhasad]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=121	skill_id=0	skill_level=0	name=[Gran Kain]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=345	skill_id=0	skill_level=0	name=[Eva]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=346	skill_id=0	skill_level=0	name=[Shillien]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=347	skill_id=0	skill_level=0	name=[Pa'agrio]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=348	skill_id=0	skill_level=0	name=[Maphr]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=349	skill_id=0	skill_level=0	name=[Sayha]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=350	skill_id=0	skill_level=0	name=[Starfall]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=351	skill_id=0	skill_level=0	name=[Moonlight]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=352	skill_id=0	skill_level=0	name=[Lighty]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=353	skill_id=0	skill_level=0	name=[Brightlight]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=354	skill_id=0	skill_level=0	name=[Bronzy]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=355	skill_id=0	skill_level=0	name=[Silvery]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=356	skill_id=0	skill_level=0	name=[Goldy]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=357	skill_id=0	skill_level=0	name=[Platina]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=358	skill_id=0	skill_level=0	name=[Lucy]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=359	skill_id=0	skill_level=0	name=[Grace]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=360	skill_id=0	skill_level=0	name=[Sia]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=361	skill_id=0	skill_level=0	name=[Ailith]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=362	skill_id=0	skill_level=0	name=[Ribo]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=363	skill_id=0	skill_level=0	name=[Stella]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=364	skill_id=0	skill_level=0	name=[Lucas]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=365	skill_id=0	skill_level=0	name=[Shion]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=366	skill_id=0	skill_level=0	name=[Spring]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=367	skill_id=0	skill_level=0	name=[Luna]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=368	skill_id=0	skill_level=0	name=[Yuri]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=369	skill_id=0	skill_level=0	name=[Haru]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=370	skill_id=0	skill_level=0	name=[Edgy]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=371	skill_id=0	skill_level=0	name=[Mocca]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=372	skill_id=0	skill_level=0	name=[Night]	desc=[General pet name]	pet_name_end
+pet_name_begin	id=373	skill_id=0	skill_level=0	name=[Canny]	desc=[Fox]	pet_name_end
+pet_name_begin	id=374	skill_id=0	skill_level=0	name=[Tibet]	desc=[Fox]	pet_name_end
+pet_name_begin	id=375	skill_id=0	skill_level=0	name=[Miho]	desc=[Fox]	pet_name_end
+pet_name_begin	id=376	skill_id=0	skill_level=0	name=[Shinbi]	desc=[Fox]	pet_name_end
+pet_name_begin	id=377	skill_id=0	skill_level=0	name=[Inbi]	desc=[Fox]	pet_name_end
+pet_name_begin	id=378	skill_id=0	skill_level=0	name=[Siho]	desc=[Fox]	pet_name_end
+pet_name_begin	id=379	skill_id=0	skill_level=0	name=[Fennec]	desc=[Fox]	pet_name_end
+pet_name_begin	id=380	skill_id=0	skill_level=0	name=[Kumiho]	desc=[Fox]	pet_name_end
+pet_name_begin	id=381	skill_id=0	skill_level=0	name=[Firefox]	desc=[Fox]	pet_name_end
+pet_name_begin	id=382	skill_id=0	skill_level=0	name=[Maku]	desc=[Fox]	pet_name_end
+pet_name_begin	id=383	skill_id=0	skill_level=0	name=[Ayri]	desc=[Fox]	pet_name_end
+pet_name_begin	id=384	skill_id=0	skill_level=0	name=[Coco]	desc=[Fox]	pet_name_end
+pet_name_begin	id=385	skill_id=0	skill_level=0	name=[Lara]	desc=[Fox]	pet_name_end
+pet_name_begin	id=386	skill_id=0	skill_level=0	name=[Raven]	desc=[Raven]	pet_name_end
+pet_name_begin	id=387	skill_id=0	skill_level=0	name=[Vulcan]	desc=[Vulcan]	pet_name_end
+pet_name_begin	id=388	skill_id=0	skill_level=0	name=[Glassia]	desc=[Glassia]	pet_name_end

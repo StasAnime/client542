@@ -1,0 +1,2 @@
+steadybox_begin	id=1	type=[Охота]	title=[Убийство монстров]	desc=[Уничтожить монстров, подходящих персонажу по уровню]	steadybox_end
+steadybox_begin	id=2	type=[PvP]	title=[Охота на персонажей]	desc=[Победить других персонажей]	steadybox_end

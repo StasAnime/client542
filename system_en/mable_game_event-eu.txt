@@ -1,0 +1,7 @@
+mable_game_event_begin	event_group=back	event_id=1	event_group_description=[Move Backward]	event_description=[Monsters attack! You have to retreat.]	mable_game_event_end
+mable_game_event_begin	event_group=next	event_id=1	event_group_description=[Move Forward]	event_description=[Your legs carry you forward.]	mable_game_event_end
+mable_game_event_begin	event_group=warp	event_id=1	event_group_description=[Teleport]	event_description=[You have to be careful using teleport scrolls...]	mable_game_event_end
+mable_game_event_begin	event_group=warp	event_id=2	event_group_description=[Teleport]	event_description=[A dimensional rift appears right before you teleporting you somewhere else.]	mable_game_event_end
+mable_game_event_begin	event_group=reward	event_id=1	event_group_description=[Receiving Items]	event_description=[You've found a treasure!]	mable_game_event_end
+mable_game_event_begin	event_group=reward	event_id=2	event_group_description=[Stop]	event_description=[You must prepare for the journey.]	mable_game_event_end
+mable_game_event_begin	event_group=prison	event_id=1	event_group_description=[Uninhabited Island]	event_description=[It won't be easy to get out.]	mable_game_event_end

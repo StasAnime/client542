@@ -1,0 +1,145 @@
+itemMultisell_begin	itemClassID=90907	multisell_id_list={1702}	multisell_name={[Заряды Души]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=49487	multisell_id_list={1123}	multisell_name={[Заряды Души]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98206	multisell_id_list={1124}	multisell_name={[Обмен Краски Ур. 11]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98044	multisell_id_list={1126}	multisell_name={[Особые Доспехи +5]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98440	multisell_id_list={1127}	multisell_name={[Талисманы +6]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98441	multisell_id_list={1128}	multisell_name={[Благословенные Камни Зачарования]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98443	multisell_id_list={1129}	multisell_name={[Талисманы +7]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99512	multisell_id_list={1130}	multisell_name={[Оружие Монарха Льда]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99511	multisell_id_list={1131}	multisell_name={[Доспехи Защиты]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99517	multisell_id_list={1132}	multisell_name={[Особые Доспехи]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99437	multisell_id_list={1119}	multisell_name={[Оружие Монарха Льда +12]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99530	multisell_id_list={1134}	multisell_name={[Особые Доспехи]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99531	multisell_id_list={1135}	multisell_name={[Доспехи Защиты]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98697	multisell_id_list={1136}	multisell_name={[Заряды Души]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98825	multisell_id_list={1137}	multisell_name={[Талисманы +10]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98824	multisell_id_list={1138}	multisell_name={[Куклы Ур. 5]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99558	multisell_id_list={1140}	multisell_name={[Оружие Зачистки]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99570	multisell_id_list={1141}	multisell_name={[Особые Доспехи +6]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99576	multisell_id_list={1142}	multisell_name={[Куклы Ур. 3]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99578	multisell_id_list={1143}	multisell_name={[Оружие Монарха Льда +15]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100255	multisell_id_list={1145}	multisell_name={[Королевские Купоны]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99615	multisell_id_list={1146}	multisell_name={[Талисманы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99616	multisell_id_list={1147}	multisell_name={[Особые Доспехи]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99617	multisell_id_list={1148}	multisell_name={[Особые Доспехи]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99618	multisell_id_list={1149}	multisell_name={[Особые Доспехи]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99642	multisell_id_list={1150}	multisell_name={[Обмен Краски Ур. 15]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100521	multisell_id_list={1151}	multisell_name={[Улучшенные Украшения]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98238	multisell_id_list={1152}	multisell_name={[Свитки Благословения]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130002	multisell_id_list={1153}	multisell_name={[Куклы Ур. 2]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130009	multisell_id_list={1154}	multisell_name={[Доспехи Защиты (Верх/ Низ) +12]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100974	multisell_id_list={1155}	multisell_name={[Коллекционные предметы на замену]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100972	multisell_id_list={1156}	multisell_name={[Краски, Усилитель Скрытой Силы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100975	multisell_id_list={1157}	multisell_name={[Камни Зачарования для Оружия]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100978	multisell_id_list={1158}	multisell_name={[Камни Зачарования для Доспехов]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100980	multisell_id_list={1159}	multisell_name={[Камни Зачарования для Аксессуаров]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100982	multisell_id_list={1160}	multisell_name={[Камни Зачарования для Особого Снаряжения]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130048	multisell_id_list={1161}	multisell_name={[Талисманы +8]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130023	multisell_id_list={1162}	multisell_name={[Оружие Монарха Льда +15]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130036	multisell_id_list={1163}	multisell_name={[Доспехи Защиты +12]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130049	multisell_id_list={1164}	multisell_name={[Особое Снаряжение]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101449	multisell_id_list={1166}	multisell_name={[Краски, Усилитель Скрытой Силы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130068	multisell_id_list={1167}	multisell_name={[Камни Зачарования]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130094	multisell_id_list={1168}	multisell_name={[Оружие Монарха Льда +18]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130095	multisell_id_list={1169}	multisell_name={[Доспехи Защиты +15]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130096	multisell_id_list={1170}	multisell_name={[Краски Ур. 20]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130105	multisell_id_list={1171}	multisell_name={[Доспехи Защиты (Верх/ Низ) +15]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130120	multisell_id_list={1172}	multisell_name={[Особое Зелье/ Плод Дракона]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130121	multisell_id_list={1173}	multisell_name={[Благословенные Камни Зачарования]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130122	multisell_id_list={1174}	multisell_name={[Оружие Монарха Льда +12]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130144	multisell_id_list={1175}	multisell_name={[Улучшенные Куклы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130145	multisell_id_list={1176}	multisell_name={[Исключительные Куклы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130156	multisell_id_list={1177;1178}	multisell_name={[Доспехи Ледяного Кристалла/ Молнии/ Огненного Рыцаря];[Доспехи Ледяного Кристалла/ Молнии/ Огненного Рыцаря +10]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130157	multisell_id_list={1179}	multisell_name={[Рукавицы Оглушения]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130158	multisell_id_list={1180}	multisell_name={[Шлем Маны]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130159	multisell_id_list={1181}	multisell_name={[Сапоги Уклонения]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130160	multisell_id_list={1182}	multisell_name={[Символы/ Щиты]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130161	multisell_id_list={1183}	multisell_name={[Талисман Скорости]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130162	multisell_id_list={1184}	multisell_name={[Талисман Евы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130163	multisell_id_list={1185}	multisell_name={[Небесный Талисман]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130164	multisell_id_list={1186}	multisell_name={[Венец Героя]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130165	multisell_id_list={1187}	multisell_name={[Маска Фантома]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102374	multisell_id_list={1188}	multisell_name={[Купоны Выбора Камня Зачарования]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100396	multisell_id_list={1189;1190}	multisell_name={[Оружие Монарха Льда];[Оружие Монарха Льда (Запечатано)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100397	multisell_id_list={1191;1192}	multisell_name={[Доспехи Защиты];[Доспехи Защиты (Запечатано)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100399	multisell_id_list={1193;1194}	multisell_name={[Особые Доспехи];[Особые Доспехи (Запечатано)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130179	multisell_id_list={1195}	multisell_name={[Доспехи Защиты +15 (Запечатано)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130194	multisell_id_list={1196}	multisell_name={[Доспехи Защиты +16]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130201	multisell_id_list={1197}	multisell_name={[Агатионы Высокого Качества +10]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100443	multisell_id_list={1656;1657;1658;1659;1660}	multisell_name={[Ур. 5-9];[Ур. 10-14];[Ур. 15-19];[Ур. 20-24];[Ур. 25-30]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102796	multisell_id_list={1661;1662;1663;1664;1665}	multisell_name={[Ур. 6-9];[Ур. 10-14];[Ур. 15-19];[Ур. 20-24];[Ур. 25-30]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130221	multisell_id_list={1666}	multisell_name={[Особое снаряжение]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130222	multisell_id_list={1667}	multisell_name={[Кристаллы Души]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=103155	multisell_id_list={1668}	multisell_name={[Краски и скрытая сила]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130226	multisell_id_list={1669}	multisell_name={[Книги Трансформации]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130227	multisell_id_list={1670}	multisell_name={[Особое Снаряжение +6]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=93414	multisell_id_list={1671}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3884	multisell_id_list={1672}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3882	multisell_id_list={1673}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3878	multisell_id_list={1674}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=103177	multisell_id_list={1675}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3875	multisell_id_list={1676}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3885	multisell_id_list={1677}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=93412	multisell_id_list={1678}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3886	multisell_id_list={1679}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3881	multisell_id_list={1680}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3883	multisell_id_list={1681}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3877	multisell_id_list={1682}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3879	multisell_id_list={1683}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=3888	multisell_id_list={1684}	multisell_name={[Металлические Буквы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=103228	multisell_id_list={1686}	multisell_name={[Талисманы +5]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130244	multisell_id_list={1687}	multisell_name={[Большие Драгоценные Камни Ур. 1]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130251	multisell_id_list={1688}	multisell_name={[Особый Билет Адена]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=103375	multisell_id_list={1689}	multisell_name={[Купоны Призыва Редкой Куклы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130272	multisell_id_list={1690}	multisell_name={[Оружие Монарха Льда +18 (Запечатано)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130273	multisell_id_list={1691}	multisell_name={[Предметы для Развития]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130286	multisell_id_list={1692}	multisell_name={[Доспехи Защиты +16 (Запечатано)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130287	multisell_id_list={1693}	multisell_name={[Небесный Билет]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130304	multisell_id_list={1694}	multisell_name={[Легендарные Куклы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130306	multisell_id_list={1695}	multisell_name={[Героические Куклы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=104040	multisell_id_list={1696}	multisell_name={[Усилители]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=104042	multisell_id_list={1697}	multisell_name={[Особый Купон]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=104044	multisell_id_list={1698}	multisell_name={[Талисманы +8]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130340	multisell_id_list={1699}	multisell_name={[Души Айгис]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130346	multisell_id_list={1700}	multisell_name={[Доспехи Защиты +12]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130362	multisell_id_list={1701}	multisell_name={[Обмен Монет]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=104500	multisell_id_list={1703;1704;1705}	multisell_name={[Улучшенные Куклы];[Исключительные Куклы];[Редкие Куклы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130379	multisell_id_list={1706}	multisell_name={[Запечатанные Краски Ур. 21]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130383	multisell_id_list={1707}	multisell_name={[Припасы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130392	multisell_id_list={1708}	multisell_name={[Запечатанные Краски Ур. 25]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130416	multisell_id_list={1709}	multisell_name={[Оружие Монарха Льда +20]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130417	multisell_id_list={1710}	multisell_name={[Доспехи Защиты +18]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130422	multisell_id_list={1711}	multisell_name={[Знаки Орбиса]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130429	multisell_id_list={1712}	multisell_name={[Оружия Монарха Льда (Запечатано)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130430	multisell_id_list={1713}	multisell_name={[Доспехи Защиты (Запечатано)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130434	multisell_id_list={1714}	multisell_name={[Камни Продления Времени]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130433	multisell_id_list={1715}	multisell_name={[Особое Зелье/ Плод Дракона Ур. 3]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=6408	multisell_id_list={1716}	multisell_name={[Обмен предметов для внешнего вида]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=90731	multisell_id_list={1717}	multisell_name={[Обмен предметов для внешнего вида]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130452	multisell_id_list={1718}	multisell_name={[Камни Продления Времени]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130455	multisell_id_list={1719}	multisell_name={[Благословенные Камни Зачарования]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=130456	multisell_id_list={1721}	multisell_name={[Энергия Бессмертия]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=93930	multisell_id_list={70001}	multisell_name={[Особые Доспехи]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78323	multisell_id_list={70006}	multisell_name={[Талисманы +6]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78324	multisell_id_list={70007}	multisell_name={[Куклы Ур. 1]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78325	multisell_id_list={70008}	multisell_name={[Шкатулки Ур. 3]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78326	multisell_id_list={70009}	multisell_name={[Агатионы +5]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=72105	multisell_id_list={70011}	multisell_name={[Особые Доспехи]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78339	multisell_id_list={70013}	multisell_name={[Оружие Адена]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78358	multisell_id_list={70015}	multisell_name={[Символ/ Щит Берсерка]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78359	multisell_id_list={70017}	multisell_name={[Символ/ Щит Защиты]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78365	multisell_id_list={70019}	multisell_name={[Куклы Ур. 2]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78376	multisell_id_list={70021}	multisell_name={[Куклы Ур. 2]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99454	multisell_id_list={70023}	multisell_name={[Обмен Краски Ур. 3]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78446	multisell_id_list={70025}	multisell_name={[Заряды Души]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78516	multisell_id_list={70027}	multisell_name={[Доспехи Защиты (Верх и Низ) +12]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78605	multisell_id_list={70029}	multisell_name={[Особое Снаряжение]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78640	multisell_id_list={70031}	multisell_name={[Календарь Подарков - Снаряжение]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78672	multisell_id_list={70033}	multisell_name={[Купон Шкалы Фестиваля]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78695	multisell_id_list={70035}	multisell_name={[Знаки Битвы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78732	multisell_id_list={70038}	multisell_name={[Агатионы "Я Хочу Стать Повелителем Тьмы!"]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78741	multisell_id_list={70042;70044;70046;70048;70050}	multisell_name={[Доспехи];[Оружие];[Прочее снаряжение];[Предметы для усиления];[Другое]}	unk={59}	itemMultisell_end
+itemMultisell_begin	itemClassID=78740	multisell_id_list={70040}	multisell_name={[Символ/ Щит Берсерка +12]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78763	multisell_id_list={70051}	multisell_name={[Купон на Агатиона Высокого Качества - PvE +10 (Временно)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78764	multisell_id_list={70052}	multisell_name={[Купон на Агатиона Высокого Качества - PvP +10 (Временно)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=78768	multisell_id_list={70054}	multisell_name={[Купон на Облик Доспехов (Временно)]}	unk={}	itemMultisell_end

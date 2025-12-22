@@ -1,0 +1,1 @@
+skill_enchant_charge_begin	group_item=96955	exp_grade={{1;10714;10000};{2;5405;10000};{3;1361;10000};{4;50;10000}}	commission_item_id=57	group_id=1	target_level=0	skill_enchant_charge_end

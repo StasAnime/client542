@@ -1,0 +1,200 @@
+EnchantValue_begin	enchant_add={4.0;4.0;4.0;8.0;8.0;8.0;8.0;8.0;8.0;8.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={5.0;5.0;5.0;10.0;10.0;10.0;10.0;10.0;10.0;10.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={8.0;8.0;8.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={4.0;4.0;4.0;8.0;8.0;8.0;8.0;8.0;8.0;8.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={5.0;5.0;5.0;10.0;10.0;10.0;10.0;10.0;10.0;10.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={8.0;8.0;8.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={4.0;4.0;4.0;8.0;8.0;8.0;8.0;8.0;8.0;8.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={5.0;5.0;5.0;10.0;10.0;10.0;10.0;10.0;10.0;10.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={8.0;8.0;8.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={4.0;4.0;4.0;8.0;8.0;8.0;8.0;8.0;8.0;8.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={5.0;5.0;5.0;10.0;10.0;10.0;10.0;10.0;10.0;10.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={8.0;8.0;8.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={3.0;3.0;3.0;6.0;6.0;6.0;6.0;6.0;6.0;6.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={5.0;5.0;5.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;20.0;43.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;24.0;24.0;24.0;24.0;24.0;24.0;24.0;24.0;24.0;24.0;24.0;24.0;24.0;77.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={10.0;10.0;10.0;40.0;40.0;40.0;40.0;40.0;40.0;40.0;40.0;40.0;40.0;40.0;40.0;40.0;126.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={4.0;4.0;4.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;43.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={4.0;4.0;4.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;43.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={4.0;4.0;4.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;16.0;43.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={1.0;1.0;1.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={2.0;2.0;2.0;8.0;8.0;8.0;8.0;8.0;8.0;8.0;26.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={2.0;2.0;2.0;8.0;8.0;8.0;8.0;8.0;8.0;8.0;26.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={2.0;2.0;2.0;8.0;8.0;8.0;8.0;8.0;8.0;8.0;20.0}	EnchantValue_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=sword	grade=d	enchant_add={{patk;0};{matk;3}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=blunt	grade=d	enchant_add={{patk;0};{matk;3}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=staff	grade=d	enchant_add={{patk;0};{matk;3}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dagger	grade=d	enchant_add={{patk;0};{matk;3}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=pole	grade=d	enchant_add={{patk;0};{matk;3}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=buster	grade=d	enchant_add={{patk;0};{matk;3}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=rapier	grade=d	enchant_add={{patk;0};{matk;3}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandstaff	grade=d	enchant_add={{patk;1};{matk;4}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandsword	grade=d	enchant_add={{patk;1};{matk;4}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=fist2	grade=d	enchant_add={{patk;1};{matk;4}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dual	grade=d	enchant_add={{patk;1};{matk;4}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandblunt	grade=d	enchant_add={{patk;1};{matk;4}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=ancientsword	grade=d	enchant_add={{patk;1};{matk;4}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dualblunt	grade=d	enchant_add={{patk;1};{matk;4}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=bow	grade=d	enchant_add={{patk;2};{matk;5}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=sword	grade=c	enchant_add={{patk;6};{matk;9}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=blunt	grade=c	enchant_add={{patk;6};{matk;9}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=staff	grade=c	enchant_add={{patk;6};{matk;9}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dagger	grade=c	enchant_add={{patk;6};{matk;9}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=pole	grade=c	enchant_add={{patk;6};{matk;9}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=buster	grade=c	enchant_add={{patk;6};{matk;9}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=rapier	grade=c	enchant_add={{patk;6};{matk;9}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandstaff	grade=c	enchant_add={{patk;7};{matk;10}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandsword	grade=c	enchant_add={{patk;7};{matk;10}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=fist2	grade=c	enchant_add={{patk;7};{matk;10}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dual	grade=c	enchant_add={{patk;7};{matk;10}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandblunt	grade=c	enchant_add={{patk;7};{matk;10}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=ancientsword	grade=c	enchant_add={{patk;7};{matk;10}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dualblunt	grade=c	enchant_add={{patk;7};{matk;10}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=bow	grade=c	enchant_add={{patk;8};{matk;11}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=sword	grade=b	enchant_add={{patk;12};{matk;15}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=blunt	grade=b	enchant_add={{patk;12};{matk;15}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=staff	grade=b	enchant_add={{patk;12};{matk;15}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dagger	grade=b	enchant_add={{patk;12};{matk;15}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=pole	grade=b	enchant_add={{patk;12};{matk;15}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=buster	grade=b	enchant_add={{patk;12};{matk;15}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=rapier	grade=b	enchant_add={{patk;12};{matk;15}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandstaff	grade=b	enchant_add={{patk;13};{matk;16}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandsword	grade=b	enchant_add={{patk;13};{matk;16}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=fist2	grade=b	enchant_add={{patk;13};{matk;16}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dual	grade=b	enchant_add={{patk;13};{matk;16}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandblunt	grade=b	enchant_add={{patk;13};{matk;16}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=ancientsword	grade=b	enchant_add={{patk;13};{matk;16}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dualblunt	grade=b	enchant_add={{patk;13};{matk;16}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=bow	grade=b	enchant_add={{patk;14};{matk;17}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=sword	grade=a	enchant_add={{patk;18};{matk;21}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=blunt	grade=a	enchant_add={{patk;18};{matk;21}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=staff	grade=a	enchant_add={{patk;18};{matk;21}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dagger	grade=a	enchant_add={{patk;18};{matk;21}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=pole	grade=a	enchant_add={{patk;18};{matk;21}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=buster	grade=a	enchant_add={{patk;18};{matk;21}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=rapier	grade=a	enchant_add={{patk;18};{matk;21}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandstaff	grade=a	enchant_add={{patk;19};{matk;22}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandsword	grade=a	enchant_add={{patk;19};{matk;22}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=fist2	grade=a	enchant_add={{patk;19};{matk;22}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dual	grade=a	enchant_add={{patk;19};{matk;22}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandblunt	grade=a	enchant_add={{patk;19};{matk;22}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=ancientsword	grade=a	enchant_add={{patk;19};{matk;22}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dualblunt	grade=a	enchant_add={{patk;19};{matk;22}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=bow	grade=a	enchant_add={{patk;20};{matk;23}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=sword	grade=s	enchant_add={{patk;24};{matk;27}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=blunt	grade=s	enchant_add={{patk;24};{matk;27}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=staff	grade=s	enchant_add={{patk;24};{matk;27}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dagger	grade=s	enchant_add={{patk;24};{matk;27}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=pole	grade=s	enchant_add={{patk;24};{matk;27}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=buster	grade=s	enchant_add={{patk;24};{matk;27}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=rapier	grade=s	enchant_add={{patk;24};{matk;27}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandstaff	grade=s	enchant_add={{patk;25};{matk;28}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandsword	grade=s	enchant_add={{patk;25};{matk;28}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=fist2	grade=s	enchant_add={{patk;25};{matk;28}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dual	grade=s	enchant_add={{patk;25};{matk;28}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=twohandblunt	grade=s	enchant_add={{patk;25};{matk;28}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=ancientsword	grade=s	enchant_add={{patk;25};{matk;28}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=dualblunt	grade=s	enchant_add={{patk;25};{matk;28}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=bow	grade=s	enchant_add={{patk;26};{matk;29}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=hair	weapon_type=fist	grade=none	enchant_add={{pdef;30}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rhand1	weapon_type=fist	grade=none	enchant_add={{pdef;30}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=hairall	weapon_type=fist	grade=none	enchant_add={{pdef;30}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=waist	weapon_type=fist	grade=none	enchant_add={{pdef;30}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=underwear	weapon_type=fist	grade=none	enchant_add={{pdef;30}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=back	weapon_type=fist	grade=none	enchant_add={{pdef;30}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rfinger	weapon_type=fist	grade=none	enchant_add={{mdef;31}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lfinger	weapon_type=fist	grade=none	enchant_add={{mdef;31}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rear	weapon_type=fist	grade=none	enchant_add={{mdef;31}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lear	weapon_type=fist	grade=none	enchant_add={{mdef;31}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=neck	weapon_type=fist	grade=none	enchant_add={{mdef;31}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=agathion_main	weapon_type=fist	grade=none	enchant_add={{mdef;31}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=deco1	weapon_type=fist	grade=none	enchant_add={{mdef;31}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=feet	weapon_type=fist	grade=d	enchant_add={{pdef;32}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=head	weapon_type=fist	grade=d	enchant_add={{pdef;32}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=chest	weapon_type=fist	grade=d	enchant_add={{pdef;32}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=legs	weapon_type=fist	grade=d	enchant_add={{pdef;32}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=gloves	weapon_type=fist	grade=d	enchant_add={{pdef;32}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=onepiece	weapon_type=fist	grade=d	enchant_add={{pdef;32}}	ItemProperty_end
+ItemProperty_begin	armor_type=sigil	bodypart=lhand	weapon_type=fist	grade=d	enchant_add={{pdef;32}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lhand	weapon_type=fist	grade=d	enchant_add={{shdef;33}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rfinger	weapon_type=fist	grade=d	enchant_add={{mdef;34}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lfinger	weapon_type=fist	grade=d	enchant_add={{mdef;34}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rear	weapon_type=fist	grade=d	enchant_add={{mdef;34}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lear	weapon_type=fist	grade=d	enchant_add={{mdef;34}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=neck	weapon_type=fist	grade=d	enchant_add={{mdef;34}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=feet	weapon_type=fist	grade=c	enchant_add={{pdef;35}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=head	weapon_type=fist	grade=c	enchant_add={{pdef;35}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=chest	weapon_type=fist	grade=c	enchant_add={{pdef;35}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=legs	weapon_type=fist	grade=c	enchant_add={{pdef;35}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=gloves	weapon_type=fist	grade=c	enchant_add={{pdef;35}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=onepiece	weapon_type=fist	grade=c	enchant_add={{pdef;35}}	ItemProperty_end
+ItemProperty_begin	armor_type=sigil	bodypart=lhand	weapon_type=fist	grade=c	enchant_add={{pdef;35}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lhand	weapon_type=fist	grade=c	enchant_add={{shdef;36}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rfinger	weapon_type=fist	grade=c	enchant_add={{mdef;37}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lfinger	weapon_type=fist	grade=c	enchant_add={{mdef;37}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rear	weapon_type=fist	grade=c	enchant_add={{mdef;37}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lear	weapon_type=fist	grade=c	enchant_add={{mdef;37}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=neck	weapon_type=fist	grade=c	enchant_add={{mdef;37}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=feet	weapon_type=fist	grade=b	enchant_add={{pdef;38}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=head	weapon_type=fist	grade=b	enchant_add={{pdef;38}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=chest	weapon_type=fist	grade=b	enchant_add={{pdef;38}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=legs	weapon_type=fist	grade=b	enchant_add={{pdef;38}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=gloves	weapon_type=fist	grade=b	enchant_add={{pdef;38}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=onepiece	weapon_type=fist	grade=b	enchant_add={{pdef;38}}	ItemProperty_end
+ItemProperty_begin	armor_type=sigil	bodypart=lhand	weapon_type=fist	grade=b	enchant_add={{pdef;38}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lhand	weapon_type=fist	grade=b	enchant_add={{shdef;39}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rfinger	weapon_type=fist	grade=b	enchant_add={{mdef;40}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lfinger	weapon_type=fist	grade=b	enchant_add={{mdef;40}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rear	weapon_type=fist	grade=b	enchant_add={{mdef;40}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lear	weapon_type=fist	grade=b	enchant_add={{mdef;40}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=neck	weapon_type=fist	grade=b	enchant_add={{mdef;40}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=feet	weapon_type=fist	grade=a	enchant_add={{pdef;41}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=head	weapon_type=fist	grade=a	enchant_add={{pdef;41}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=chest	weapon_type=fist	grade=a	enchant_add={{pdef;41}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=legs	weapon_type=fist	grade=a	enchant_add={{pdef;41}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=gloves	weapon_type=fist	grade=a	enchant_add={{pdef;41}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=onepiece	weapon_type=fist	grade=a	enchant_add={{pdef;41}}	ItemProperty_end
+ItemProperty_begin	armor_type=sigil	bodypart=lhand	weapon_type=fist	grade=a	enchant_add={{pdef;41}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lhand	weapon_type=fist	grade=a	enchant_add={{shdef;42}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rfinger	weapon_type=fist	grade=a	enchant_add={{mdef;43}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lfinger	weapon_type=fist	grade=a	enchant_add={{mdef;43}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rear	weapon_type=fist	grade=a	enchant_add={{mdef;43}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lear	weapon_type=fist	grade=a	enchant_add={{mdef;43}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=neck	weapon_type=fist	grade=a	enchant_add={{mdef;43}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=feet	weapon_type=fist	grade=s	enchant_add={{pdef;44}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=head	weapon_type=fist	grade=s	enchant_add={{pdef;44}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=chest	weapon_type=fist	grade=s	enchant_add={{pdef;44}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=legs	weapon_type=fist	grade=s	enchant_add={{pdef;44}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=gloves	weapon_type=fist	grade=s	enchant_add={{pdef;44}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=onepiece	weapon_type=fist	grade=s	enchant_add={{pdef;44}}	ItemProperty_end
+ItemProperty_begin	armor_type=sigil	bodypart=lhand	weapon_type=fist	grade=s	enchant_add={{pdef;44}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lhand	weapon_type=fist	grade=s	enchant_add={{shdef;45}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rfinger	weapon_type=fist	grade=s	enchant_add={{mdef;46}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lfinger	weapon_type=fist	grade=s	enchant_add={{mdef;46}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=rear	weapon_type=fist	grade=s	enchant_add={{mdef;46}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=lear	weapon_type=fist	grade=s	enchant_add={{mdef;46}}	ItemProperty_end
+ItemProperty_begin	armor_type=none	bodypart=neck	weapon_type=fist	grade=s	enchant_add={{mdef;46}}	ItemProperty_end

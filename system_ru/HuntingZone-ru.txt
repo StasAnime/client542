@@ -1,0 +1,525 @@
+Hunt_begin	id=1	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=1	name=[Земли Диона]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=2	type=2	rc_level={126;126}	loc={48352.0;136067.0;-2576.0}	desc=[]	search_zoneid=1	name=[Земля Казненных]	regionid=78	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=3	type=11	rc_level={23;23}	loc={50081.0;116859.0;-2176.0}	desc=[]	search_zoneid=1	name=[Лагерь Партизан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=4	type=2	rc_level={116;116}	loc={5106.0;119915.0;-3648.0}	desc=[]	search_zoneid=1	name=[Топи Крумы]	regionid=195	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=5	type=11	rc_level={40;40}	loc={17782.0;100701.0;-3656.0}	desc=[]	search_zoneid=1	name=[Башня Крумы]	regionid=56	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=6	type=11	rc_level={95;95}	loc={38291.0;148029.0;-3696.0}	desc=[]	search_zoneid=1	name=[Цветочная Ферма]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=7	type=6	rc_level={0;0}	loc={15472.0;142880.0;-2699.0}	desc=[]	search_zoneid=1	name=[Дион]	regionid=59	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=8	type=6	rc_level={0;0}	loc={17308.0;170368.0;-3495.0}	desc=[]	search_zoneid=1	name=[Деревня Флоран]	regionid=60	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=9	type=8	rc_level={0;0}	loc={22310.0;155917.0;-2952.0}	desc=[]	search_zoneid=1	name=[Замок Дион]	regionid=58	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=10	type=11	rc_level={108;108}	loc={55949.0;164634.0;-2640.0}	desc=[]	search_zoneid=1	name=[Каньон Танор]	regionid=80	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=11	type=11	rc_level={30;30}	loc={34475.0;188095.0;-2976.0}	desc=[]	search_zoneid=1	name=[Пасека]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=12	type=11	rc_level={20;20}	loc={29928.0;151415.0;2392.0}	desc=[]	search_zoneid=1	name=[Холмы Диона]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=13	type=11	rc_level={30;30}	loc={10610.0;156322.0;-2472.0}	desc=[]	search_zoneid=1	name=[Угодья Флорана]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=14	type=11	rc_level={23;23}	loc={630.0;179184.0;-3720.0}	desc=[]	search_zoneid=1	name=[Равнины Диона]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=15	type=5	rc_level={0;0}	loc={43962.0;108861.0;-2032.0}	desc=[]	search_zoneid=1	name=[Укрепление Партизан]	regionid=77	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=16	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=16	name=[Земли Гирана]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=17	type=6	rc_level={0;0}	loc={105918.0;109759.0;-3170.0}	desc=[]	search_zoneid=16	name=[Академия Хардина]	regionid=129	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=18	type=11	rc_level={124;124}	loc={97504.0;109493.0;-3688.0}	desc=[]	search_zoneid=16	name=[Долина Драконов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=19	type=11	rc_level={85;85}	loc={146828.0;109717.0;160.0}	desc=[]	search_zoneid=16	name=[Логово Антараса]	regionid=152	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=20	type=7	rc_level={105;105}	loc={179319.0;109585.0;-3720.0}	desc=[]	search_zoneid=16	name=[Гнездо Антараса]	regionid=170	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=21	type=11	rc_level={35;35}	loc={70304.0;115058.0;-3512.0}	desc=[]	search_zoneid=16	name=[Долина Смерти]	regionid=102	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=22	type=7	rc_level={0;0}	loc={41528.0;198358.0;-4648.0}	desc=[]	search_zoneid=16	name=[Тоннель Пиратов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=23	type=11	rc_level={92;92}	loc={48110.0;210873.0;-3592.0}	desc=[]	search_zoneid=16	name=[Остров Дьявола]	regionid=82	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=24	type=7	rc_level={0;0}	loc={47938.0;186864.0;-3420.0}	desc=[]	search_zoneid=16	name=[Гавань Гирана]	regionid=81	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=25	type=6	rc_level={0;0}	loc={83475.0;147966.0;-3404.0}	desc=[]	search_zoneid=16	name=[Гиран]	regionid=106	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=26	type=7	rc_level={0;0}	loc={73579.0;142709.0;-3768.0}	desc=[]	search_zoneid=16	name=[Арена]	regionid=107	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=27	type=8	rc_level={0;0}	loc={112077.0;144869.0;-2824.0}	desc=[]	search_zoneid=16	name=[Замок Гиран]	regionid=131	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=28	type=11	rc_level={120;120}	loc={80971.0;126927.0;15996.0}	desc=[]	search_zoneid=16	name=[Укрепление Брека]	regionid=104	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=29	type=11	rc_level={31;31}	loc={107894.0;126276.0;-1488.0}	desc=[]	search_zoneid=16	name=[Сад Горгон]	regionid=130	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=30	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=30	name=[Земли Глудио]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=31	type=1	rc_level={1;1}	loc={-18244.0;137068.0;-3640.0}	desc=[]	search_zoneid=30	name=[Руины Отчаяния]	regionid=44	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=32	type=1	rc_level={20;20}	loc={-45916.0;109252.0;-3432.0}	desc=[]	search_zoneid=30	name=[Руины Страданий]	regionid=31	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=33	type=2	rc_level={114;114}	loc={-21052.0;183750.0;-2784.0}	desc=[]	search_zoneid=30	name=[Пустошь]	regionid=46	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=34	type=11	rc_level={29;29}	loc={-9959.0;176184.0;-4160.0}	desc=[]	search_zoneid=30	name=[Муравейник]	regionid=45	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=35	type=6	rc_level={0;0}	loc={-80684.0;149770.0;-3043.0}	desc=[]	search_zoneid=30	name=[Деревня Глудин]	regionid=21	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=36	type=7	rc_level={0;0}	loc={-91101.0;150344.0;-3624.0}	desc=[]	search_zoneid=30	name=[Гавань Глудина]	regionid=22	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=37	type=6	rc_level={0;0}	loc={-12787.0;122779.0;-3114.0}	desc=[]	search_zoneid=30	name=[Глудио]	regionid=43	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=39	type=1	rc_level={76;76}	loc={-95307.0;105097.0;-3408.0}	desc=[]	search_zoneid=30	name=[Лагерь Орков]	regionid=20	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=40	type=11	rc_level={27;27}	loc={-52577.0;190752.0;-3520.0}	desc=[]	search_zoneid=30	name=[Забытый Храм]	regionid=34	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=41	type=7	rc_level={0;0}	loc={-57798.0;127629.0;-2928.0}	desc=[]	search_zoneid=30	name=[Озеро Фельмер]	regionid=32	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=42	type=7	rc_level={0;0}	loc={-87328.0;142266.0;-3640.0}	desc=[]	search_zoneid=30	name=[Арена]	regionid=23	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=43	type=8	rc_level={0;0}	loc={-18341.0;113946.0;-1268.0}	desc=[]	search_zoneid=30	name=[Замок Глудио]	regionid=42	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=44	type=1	rc_level={40;40}	loc={-82560.0;85048.0;-3448.0}	desc=[]	search_zoneid=30	name=[Холм Ветров]	regionid=19	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=45	type=11	rc_level={30;30}	loc={-44829.0;188171.0;-3256.0}	desc=[]	search_zoneid=30	name=[Подножье Горы]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=46	type=11	rc_level={16;16}	loc={-49100.0;205856.0;-3744.0}	desc=[]	search_zoneid=30	name=[Поселение Ящеров Лангк]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=47	type=11	rc_level={20;20}	loc={-25283.0;106820.0;-3416.0}	desc=[]	search_zoneid=30	name=[Лагерь Ящеров Мэль]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=48	type=7	rc_level={0;0}	loc={-114212.0;245920.0;-3680.0}	desc=[]	search_zoneid=30	name=[Говорящий Остров]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=49	type=6	rc_level={0;0}	loc={-114358.0;255884.0;-1512.0}	desc=[]	search_zoneid=30	name=[Деревня Говорящего Острова]	regionid=11	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=57	type=11	rc_level={14;14}	loc={-63736.0;101522.0;-3552.0}	desc=[]	search_zoneid=30	name=[Охотничьи Угодья Фельмер]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=58	type=11	rc_level={18;18}	loc={-74631.0;164837.0;-3560.0}	desc=[]	search_zoneid=30	name=[Холм Ветряных Мельниц]	regionid=24	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=59	type=11	rc_level={19;19}	loc={-50174.0;129303.0;-2912.0}	desc=[]	search_zoneid=30	name=[Вход в Руины Страданий]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=60	type=11	rc_level={14;14}	loc={-6989.0;109503.0;-3040.0}	desc=[]	search_zoneid=30	name=[Охотничьи Угодья Зла]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=61	type=11	rc_level={19;19}	loc={-36652.0;135591.0;-3160.0}	desc=[]	search_zoneid=30	name=[Вход в Руины Отчаяния]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=62	type=11	rc_level={22;22}	loc={-28327.0;155125.0;-3496.0}	desc=[]	search_zoneid=30	name=[Поместье Виндавуд]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=63	type=11	rc_level={22;22}	loc={-6661.0;201880.0;-3632.0}	desc=[]	search_zoneid=30	name=[Застава Гноллов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=64	type=11	rc_level={36;36}	loc={-26489.0;195307.0;-3928.0}	desc=[]	search_zoneid=30	name=[Муравьиный Инкубатор]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=66	type=2	rc_level={112;112}	loc={-10612.0;75881.0;-3592.0}	desc=[]	search_zoneid=30	name=[Нейтральная Зона]	regionid=41	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=67	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=67	name=[Земли Орена]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=68	type=11	rc_level={7;7}	loc={21362.0;51122.0;-3688.0}	desc=[]	search_zoneid=67	name=[Эльфийский Лес]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=69	type=1	rc_level={130;130}	loc={45459.0;31367.0;-3408.0}	desc=[]	search_zoneid=67	name=[Тень Древа Жизни]	regionid=74	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=70	type=6	rc_level={0;0}	loc={46951.0;51550.0;-2976.0}	desc=[]	search_zoneid=67	name=[Эльфийская Деревня]	regionid=75	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=71	type=11	rc_level={10;10}	loc={23392.0;69865.0;-3272.0}	desc=[]	search_zoneid=67	name=[Эльфийская Крепость]	regionid=54	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=72	type=7	rc_level={0;0}	loc={51469.0;82600.0;-3312.0}	desc=[]	search_zoneid=67	name=[Радужное Озеро]	regionid=76	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=74	type=6	rc_level={0;0}	loc={25934.0;11037.0;-3720.0}	desc=[]	search_zoneid=67	name=[Храм Шилен]	regionid=53	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=75	type=6	rc_level={0;0}	loc={9709.0;15566.0;-4500.0}	desc=[]	search_zoneid=67	name=[Деревня Темных Эльфов]	regionid=52	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=76	type=11	rc_level={101;101}	loc={-53348.0;42758.0;-3168.0}	desc=[]	search_zoneid=67	name=[Крепость Астатина]	regionid=29	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=77	type=1	rc_level={97;97}	loc={-17983.0;37563.0;-3320.0}	desc=[]	search_zoneid=67	name=[Кровавые Топи]	regionid=40	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=79	type=2	rc_level={122;122}	loc={53168.0;13788.0;-5792.0}	desc=[]	search_zoneid=67	name=[Море Спор]	regionid=73	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=80	type=5	rc_level={0;0}	loc={87091.0;-20354.0;-2072.0}	desc=[]	search_zoneid=67	name=[Лагерь Разбойников]	regionid=93	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=81	type=6	rc_level={0;0}	loc={85391.0;16228.0;-3640.0}	desc=[]	search_zoneid=67	name=[Башня Слоновой Кости]	regionid=95	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=82	type=6	rc_level={0;0}	loc={82971.0;53207.0;-1470.0}	desc=[]	search_zoneid=67	name=[Орен]	regionid=98	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=83	type=8	rc_level={0;0}	loc={78189.0;36936.0;-2560.0}	desc=[]	search_zoneid=67	name=[Замок Орен]	regionid=97	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=84	type=1	rc_level={120;120}	loc={86075.0;75460.0;-3640.0}	desc=[]	search_zoneid=67	name=[Долина Ящеров]	regionid=101	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=85	type=1	rc_level={118;118}	loc={84517.0;62538.0;-3480.0}	desc=[]	search_zoneid=67	name=[Школа Полномочий]	regionid=99	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=89	type=11	rc_level={40;40}	loc={67097.0;68815.0;-3648.0}	desc=[]	search_zoneid=67	name=[Застава Тимак]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=90	type=11	rc_level={106;106}	loc={85391.0;16228.0;-3640.0}	desc=[]	search_zoneid=67	name=[Кратер Башни Слоновой Кости]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=91	type=11	rc_level={45;45}	loc={93218.0;16969.0;-3904.0}	desc=[]	search_zoneid=67	name=[Лес Зла]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=92	type=11	rc_level={50;50}	loc={90775.0;-9438.0;-2768.0}	desc=[]	search_zoneid=67	name=[Лес Разбойников]	regionid=94	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=93	type=7	rc_level={0;0}	loc={61740.0;94946.0;-1488.0}	desc=[]	search_zoneid=67	name=[Туманные Горы]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=94	type=7	rc_level={0;0}	loc={58502.0;53453.0;-3624.0}	desc=[]	search_zoneid=67	name=[Водопад Звездного Сияния]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=95	type=7	rc_level={0;0}	loc={-7233.0;57006.0;-3520.0}	desc=[]	search_zoneid=67	name=[Водопад Ундины]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=96	type=7	rc_level={0;0}	loc={70456.0;6591.0;-3632.0}	desc=[]	search_zoneid=67	name=[Водопад Богов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=97	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=97	name=[Земли Адена]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=98	type=7	rc_level={0;0}	loc={114649.0;11115.0;-5120.0}	desc=[]	search_zoneid=97	name=[Башня Дерзости]	regionid=124	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=99	type=1	rc_level={99;99}	loc={147307.0;-23064.0;-3200.0}	desc=[]	search_zoneid=97	name=[Раскаленные Топи]	regionid=145	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=100	type=5	rc_level={0;0}	loc={178358.0;-14192.0;-2256.0}	desc=[]	search_zoneid=97	name=[Разоренный Замок]	regionid=161	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=101	type=11	rc_level={95;95}	loc={191940.0;16645.0;-3664.0}	desc=[]	search_zoneid=97	name=[Запретные Врата]	regionid=164	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=102	type=11	rc_level={100;100}	loc={190613.0;46954.0;-3784.0}	desc=[]	search_zoneid=97	name=[Пещера Гигантов]	regionid=166	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=103	type=11	rc_level={104;104}	loc={109093.0;46354.0;-3720.0}	desc=[]	search_zoneid=97	name=[Волшебная Долина]	regionid=125	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=104	type=1	rc_level={124;124}	loc={175542.0;13963.0;-3256.0}	desc=[]	search_zoneid=97	name=[Кладбище Короля Змей]	regionid=163	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=105	type=1	rc_level={108;108}	loc={150483.0;81178.0;-3472.0}	desc=[]	search_zoneid=97	name=[Лес Зеркал]	regionid=151	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=106	type=7	rc_level={0;0}	loc={166182.0;91560.0;-3168.0}	desc=[]	search_zoneid=97	name=[Ангельский Водопад]	regionid=169	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=107	type=6	rc_level={0;0}	loc={146783.0;25808.0;-2000.0}	desc=[]	search_zoneid=97	name=[Аден]	regionid=147	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=108	type=6	rc_level={0;0}	loc={117088.0;76931.0;-2670.0}	desc=[]	search_zoneid=97	name=[Деревня Охотников]	regionid=127	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=109	type=7	rc_level={0;0}	loc={158141.0;-24543.0;-1288.0}	desc=[]	search_zoneid=97	name=[Восточная Пограничная Застава]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=110	type=7	rc_level={0;0}	loc={146440.0;46723.0;-3400.0}	desc=[]	search_zoneid=97	name=[Колизей]	regionid=150	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=111	type=7	rc_level={0;0}	loc={146440.0;46723.0;-3400.0}	desc=[]	search_zoneid=97	name=[Озеро Нарсилл]	regionid=149	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=112	type=8	rc_level={0;0}	loc={147461.0;9898.0;-592.0}	desc=[]	search_zoneid=97	name=[Замок Аден]	regionid=146	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=113	type=11	rc_level={60;60}	loc={124467.0;-10564.0;-3072.0}	desc=[]	search_zoneid=97	name=[Древнее Поле Битвы]	regionid=123	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=114	type=11	rc_level={56;56}	loc={175428.0;37962.0;-4632.0}	desc=[]	search_zoneid=97	name=[Забытые Равнины]	regionid=167	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=115	type=1	rc_level={102;102}	loc={177426.0;48152.0;-3872.0}	desc=[]	search_zoneid=97	name=[Долина Безмолвия]	regionid=168	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=116	type=11	rc_level={40;40}	loc={114306.0;86573.0;-3112.0}	desc=[]	search_zoneid=97	name=[Долина Охотников]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=117	type=11	rc_level={45;45}	loc={135580.0;19467.0;-3424.0}	desc=[]	search_zoneid=97	name=[Равнины Славы]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=118	type=1	rc_level={122;122}	loc={170003.0;-12546.0;-2576.0}	desc=[]	search_zoneid=97	name=[Поле Брани]	regionid=162	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=119	type=1	rc_level={99;99}	loc={156898.0;11217.0;-4032.0}	desc=[]	search_zoneid=97	name=[Равнины Неистовства]	regionid=193	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=120	type=7	rc_level={0;0}	loc={112405.0;-16607.0;-1864.0}	desc=[]	search_zoneid=97	name=[Западная Пограничная Застава]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=121	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=121	name=[Земли Иннадрила]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=122	type=1	rc_level={114;114}	loc={84133.0;177743.0;-3672.0}	desc=[]	search_zoneid=121	name=[Поля Безмолвия]	regionid=108	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=123	type=1	rc_level={116;116}	loc={91114.0;203340.0;-3728.0}	desc=[]	search_zoneid=121	name=[Шепчущие Поля]	regionid=110	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=124	type=11	rc_level={41;41}	loc={84413.0;234334.0;-3656.0}	desc=[]	search_zoneid=121	name=[Сады Богини Евы]	regionid=111	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=125	type=1	rc_level={110;110}	loc={117189.0;169535.0;-3336.0}	desc=[]	search_zoneid=121	name=[Остров Аллигаторов]	regionid=132	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=126	type=6	rc_level={0;0}	loc={111455.0;219400.0;-3546.0}	desc=[]	search_zoneid=121	name=[Хейн]	regionid=134	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=127	type=8	rc_level={0;0}	loc={115988.0;246899.0;-976.0}	desc=[]	search_zoneid=121	name=[Замок Иннадрил]	regionid=135	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=128	type=11	rc_level={36;36}	loc={116267.0;201177.0;-3432.0}	desc=[]	search_zoneid=121	name=[Пляж Аллигаторов]	regionid=196	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=129	type=7	rc_level={0;0}	loc={12443.0;183467.0;-3560.0}	desc=[]	search_zoneid=1	name=[Арена]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=130	type=6	rc_level={0;0}	loc={-55699.0;-114967.0;2528.0}	desc=[]	search_zoneid=138	name=[Храм Паагрио]	regionid=27	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=131	type=6	rc_level={0;0}	loc={-45158.0;-112583.0;-236.0}	desc=[]	search_zoneid=138	name=[Деревня Орков]	regionid=28	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=132	type=2	rc_level={130;130}	loc={-19000.0;-126757.0;-2256.0}	desc=[]	search_zoneid=138	name=[Крепость Орков Кхаши]	regionid=36	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=133	type=6	rc_level={0;0}	loc={9340.0;-112509.0;-2536.0}	desc=[]	search_zoneid=138	name=[Кайнак]	regionid=49	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=134	type=2	rc_level={126;126}	loc={17501.0;-153906.0;1424.0}	desc=[]	search_zoneid=138	name=[Лесосека Орков Кхаши]	regionid=48	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=135	type=11	rc_level={1;1}	loc={-39347.0;-107274.0;-2072.0}	desc=[]	search_zoneid=138	name=[Плато Бессмертия]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=136	type=11	rc_level={98;98}	loc={-2598.0;-104498.0;-2736.0}	desc=[]	search_zoneid=138	name=[Плато Бессмертия]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=137	type=2	rc_level={122;122}	loc={-3602.0;-86881.0;-2128.0}	desc=[]	search_zoneid=138	name=[Плато Бессмертия]	regionid=37	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=138	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=138	name=[Земли Шутгарта]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=139	type=7	rc_level={0;0}	loc={106561.0;-173949.0;-400.0}	desc=[]	search_zoneid=138	name=[Рудник Возрождения]	regionid=113	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=140	type=6	rc_level={0;0}	loc={115120.0;-178224.0;-917.0}	desc=[]	search_zoneid=138	name=[Деревня Гномов]	regionid=112	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=141	type=7	rc_level={0;0}	loc={147493.0;-200840.0;192.0}	desc=[]	search_zoneid=138	name=[Горный Хребет]	regionid=137	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=142	type=7	rc_level={99;99}	loc={139714.0;-177456.0;-1536.0}	desc=[]	search_zoneid=138	name=[Заброшенный Угольный Рудник]	regionid=138	npc_id=0	quest_id={}	instantzone_id=1011	Hunt_end
+Hunt_begin	id=143	type=11	rc_level={81;81}	loc={171946.0;-173352.0;3440.0}	desc=[]	search_zoneid=138	name=[Мифриловый Рудник]	regionid=157	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=144	type=11	rc_level={2;2}	loc={112971.0;-174924.0;-608.0}	desc=[]	search_zoneid=138	name=[Замерзшая Долина]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=145	type=11	rc_level={8;8}	loc={131275.0;-209350.0;-3536.0}	desc=[]	search_zoneid=138	name=[Западные Рудники]	regionid=136	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=146	type=11	rc_level={18;18}	loc={181025.0;-209186.0;-3416.0}	desc=[]	search_zoneid=138	name=[Восточные Рудники]	regionid=156	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=147	type=7	rc_level={0;0}	loc={113826.0;-171150.0;-160.0}	desc=[]	search_zoneid=138	name=[Проход к Рудникам]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=148	type=2	rc_level={127;127}	loc={115472.0;-163171.0;-816.0}	desc=[]	search_zoneid=138	name=[Разграбленные Равнины]	regionid=114	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=149	type=11	rc_level={122;122}	loc={125562.0;-121260.0;-1328.0}	desc=[]	search_zoneid=138	name=[Ледяной Лабиринт]	regionid=117	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=150	type=11	rc_level={57;57}	loc={106740.0;-132486.0;-3600.0}	desc=[]	search_zoneid=138	name=[Сад Фреи]	regionid=116	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=151	type=11	rc_level={87;87}	loc={91510.0;-127076.0;-4216.0}	desc=[]	search_zoneid=138	name=[Заброшенная Мастерская]	regionid=87	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=152	type=7	rc_level={0;0}	loc={76021.0;-110477.0;-1704.0}	desc=[]	search_zoneid=138	name=[Проход Карона]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=153	type=11	rc_level={81;81}	loc={74346.0;-128436.0;-3464.0}	desc=[]	search_zoneid=138	name=[Логово Зла]	regionid=86	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=154	type=11	rc_level={25;25}	loc={51889.0;-127880.0;-3616.0}	desc=[]	search_zoneid=138	name=[Склепы Позора]	regionid=64	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=155	type=7	rc_level={0;0}	loc={32173.0;-122954.0;-792.0}	desc=[]	search_zoneid=138	name=[Долина Лордов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=156	type=8	rc_level={0;0}	loc={77630.0;-150885.0;368.0}	desc=[]	search_zoneid=138	name=[Замок Шутгарт]	regionid=83	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=157	type=6	rc_level={0;0}	loc={87056.0;-143472.0;-1296.0}	desc=[]	search_zoneid=138	name=[Шутгарт]	regionid=84	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=158	type=11	rc_level={70;70}	loc={86431.0;-109461.0;-3312.0}	desc=[]	search_zoneid=138	name=[Древняя Лаборатория]	regionid=85	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=159	type=7	rc_level={0;0}	loc={107577.0;-122392.0;-3632.0}	desc=[]	search_zoneid=138	name=[Замерзшее Озеро]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=160	type=11	rc_level={39;39}	loc={121618.0;-141554.0;-1496.0}	desc=[]	search_zoneid=138	name=[Руины Воздушной Дороги]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=177	type=11	rc_level={97;97}	loc={146829.0;26684.0;-2200.0}	desc=[]	search_zoneid=97	name=[Разлом Между Мирами]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=178	type=7	rc_level={0;0}	loc={-21453.0;-21058.0;-3024.0}	desc=[]	search_zoneid=179	name=[Олимпийский Стадион]	regionid=38	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=179	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=179	name=[Пограничье]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=180	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=180	name=[Земли Годдарда]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=181	type=6	rc_level={0;0}	loc={148024.0;-55281.0;-2728.0}	desc=[]	search_zoneid=180	name=[Годдард]	regionid=144	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=182	type=8	rc_level={0;0}	loc={147450.0;-47331.0;-496.0}	desc=[]	search_zoneid=180	name=[Замок Годдард]	regionid=143	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=183	type=11	rc_level={67;67}	loc={132997.0;-60608.0;-2960.0}	desc=[]	search_zoneid=180	name=[Сад Чудовищ]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=184	type=1	rc_level={126;126}	loc={154042.0;-107990.0;-2728.0}	desc=[]	search_zoneid=180	name=[Горячие Источники]	regionid=140	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=185	type=5	rc_level={0;0}	loc={139997.0;-124860.0;-1896.0}	desc=[]	search_zoneid=180	name=[Дворец Радужных Источников]	regionid=139	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=186	type=11	rc_level={78;78}	loc={171324.0;-116522.0;-2096.0}	desc=[]	search_zoneid=180	name=[Кузница Богов]	regionid=158	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=187	type=11	rc_level={78;78}	loc={189964.0;-116820.0;-1624.0}	desc=[]	search_zoneid=180	name=[Зал Пламени]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=188	type=7	rc_level={120;120}	loc={215789.0;-121682.0;2056.0}	desc=[]	search_zoneid=180	name=[Логово Валакаса]	regionid=171	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=189	type=2	rc_level={120;120}	loc={149025.0;-84499.0;-4912.0}	desc=[]	search_zoneid=180	name=[Застава Орков Кетра]	regionid=141	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=190	type=6	rc_level={0;0}	loc={149548.0;-82014.0;-5592.0}	desc=[]	search_zoneid=180	name=[Деревня Орков Кетра]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=191	type=7	rc_level={105;105}	loc={188217.0;-74059.0;-2688.0}	desc=[]	search_zoneid=180	name=[Гробница Императоров]	regionid=159	npc_id=0	quest_id={}	instantzone_id=1012	Hunt_end
+Hunt_begin	id=192	type=7	rc_level={0;0}	loc={168982.0;-86455.0;-3007.0}	desc=[]	search_zoneid=180	name=[Храм Паломников]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=193	type=1	rc_level={128;128}	loc={172809.0;-53435.0;-2128.0}	desc=[]	search_zoneid=180	name=[Стена Аргоса]	regionid=160	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=194	type=11	rc_level={73;73}	loc={190112.0;-61776.0;-2944.0}	desc=[]	search_zoneid=180	name=[Усыпальница Верности]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=195	type=2	rc_level={120;120}	loc={115746.0;-53873.0;-3344.0}	desc=[]	search_zoneid=180	name=[Лагерь Фавнов Варка]	regionid=120	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=196	type=6	rc_level={0;0}	loc={108155.0;-53670.0;-2472.0}	desc=[]	search_zoneid=180	name=[Деревня Фавнов Варка]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=198	type=11	rc_level={65;65}	loc={106349.0;-61870.0;-2904.0}	desc=[]	search_zoneid=180	name=[Ущелье Дьявола]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=199	type=11	rc_level={80;80}	loc={174141.0;-88685.0;-5112.0}	desc=[]	search_zoneid=180	name=[Гробница Последнего Императора]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=200	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=200	name=[Земли Руны]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=201	type=6	rc_level={0;0}	loc={43835.0;-47749.0;-792.0}	desc=[]	search_zoneid=200	name=[Руна]	regionid=68	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=202	type=8	rc_level={0;0}	loc={14659.0;-49230.0;-160.0}	desc=[]	search_zoneid=200	name=[Замок Руна]	regionid=50	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=203	type=7	rc_level={0;0}	loc={36839.0;-38435.0;-3640.0}	desc=[]	search_zoneid=200	name=[Гавань Руны]	regionid=69	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=204	type=7	rc_level={0;0}	loc={40723.0;-94881.0;-2096.0}	desc=[]	search_zoneid=200	name=[Водопад Хвост Ветра]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=205	type=2	rc_level={122;122}	loc={50867.0;-90809.0;-2320.0}	desc=[]	search_zoneid=200	name=[Ферма Диких Зверей]	regionid=66	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=206	type=5	rc_level={0;0}	loc={55133.0;-93217.0;-1360.0}	desc=[]	search_zoneid=200	name=[Загон Диких Зверей]	regionid=65	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=207	type=2	rc_level={118;118}	loc={73963.0;-85053.0;-3424.0}	desc=[]	search_zoneid=200	name=[Долина Святых]	regionid=88	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=208	type=11	rc_level={65;65}	loc={56321.0;-52830.0;-3248.0}	desc=[]	search_zoneid=200	name=[Лес Неупокоенных]	regionid=67	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=209	type=6	rc_level={0;0}	loc={57670.0;-41672.0;-3154.0}	desc=[]	search_zoneid=200	name=[Проклятая Деревня]	regionid=70	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=210	type=5	rc_level={0;0}	loc={57966.0;-28378.0;584.0}	desc=[]	search_zoneid=200	name=[Крепость Неупокоенных]	regionid=72	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=211	type=2	rc_level={126;126}	loc={79794.0;-55890.0;-2328.0}	desc=[]	search_zoneid=200	name=[Болото Криков]	regionid=90	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=212	type=11	rc_level={78;78}	loc={111291.0;-86516.0;1592.0}	desc=[]	search_zoneid=200	name=[Монастырь Безмолвия]	regionid=119	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=213	type=11	rc_level={99;99}	loc={30969.0;-54947.0;-3424.0}	desc=[]	search_zoneid=200	name=[Языческий Храм]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=214	type=11	rc_level={82;82}	loc={89690.0;-49871.0;-2600.0}	desc=[]	search_zoneid=200	name=[Гнездо Стакато]	regionid=91	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=215	type=7	rc_level={0;0}	loc={111418.0;225960.0;-3624.0}	desc=[]	search_zoneid=121	name=[Пристань Паромов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=217	type=7	rc_level={0;0}	loc={126272.0;-159336.0;-1232.0}	desc=[]	search_zoneid=138	name=[Бандитская Твердыня]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=218	type=7	rc_level={105;105}	loc={14585.0;-19581.0;-3032.0}	desc=[]	search_zoneid=200	name=[Первобытный Остров]	regionid=51	npc_id=0	quest_id={}	instantzone_id=1006	Hunt_end
+Hunt_begin	id=219	type=7	rc_level={0;0}	loc={10448.0;-24960.0;-3664.0}	desc=[]	search_zoneid=200	name=[Пристань Первобытного Острова]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=220	type=7	rc_level={0;0}	loc={26240.0;-7840.0;-1972.0}	desc=[]	search_zoneid=200	name=[Логово Сэйлрена]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=234	type=1	rc_level={112;112}	loc={149371.0;184097.0;-3736.0}	desc=[]	search_zoneid=121	name=[Кристальный Остров]	regionid=155	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=236	type=11	rc_level={76;76}	loc={157640.0;148831.0;-3280.0}	desc=[]	search_zoneid=121	name=[Цветное Нагорье]	regionid=153	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=237	type=11	rc_level={82;82}	loc={148838.0;179183.0;-6009.0}	desc=[]	search_zoneid=121	name=[Особняк Темного Облака]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=238	type=7	rc_level={0;0}	loc={160074.0;167893.0;-3538.0}	desc=[]	search_zoneid=121	name=[Коралловый Риф]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=239	type=7	rc_level={97;97}	loc={149365.0;172564.0;-952.0}	desc=[]	search_zoneid=121	name=[Парнас]	regionid=154	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=243	type=11	rc_level={1;1}	loc={-121436.0;56288.0;-1586.0}	desc=[]	search_zoneid=97	name=[Остров Душ (Север)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=244	type=6	rc_level={0;0}	loc={-118070.0;45956.0;420.0}	desc=[]	search_zoneid=97	name=[Деревня Камаэль]	regionid=9	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=245	type=11	rc_level={93;93}	loc={-89717.0;40964.0;-1856.0}	desc=[]	search_zoneid=97	name=[Подземелье Норнил]	regionid=14	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=246	type=7	rc_level={93;98}	loc={-87141.0;55901.0;-2416.0}	desc=[Здесь обитает Спикула Зеро. Это чудовище необходимо уничтожить.]	search_zoneid=97	name=[Сад Норнил]	regionid=0	npc_id=0	quest_id={}	instantzone_id=231	Hunt_end
+Hunt_begin	id=247	type=7	rc_level={15;15}	loc={-123842.0;38117.0;1176.0}	desc=[]	search_zoneid=97	name=[Пещера Душ]	regionid=8	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=248	type=11	rc_level={93;93}	loc={-103032.0;46457.0;-1136.0}	desc=[]	search_zoneid=97	name=[Лес Мимира]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=249	type=11	rc_level={7;7}	loc={-116114.0;87005.0;-3544.0}	desc=[]	search_zoneid=97	name=[Остров Душ (Юг)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=250	type=9	rc_level={0;0}	loc={16732.0;188294.0;-2760.0}	desc=[]	search_zoneid=1	name=[Крепость Улья]	regionid=62	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=251	type=9	rc_level={0;0}	loc={5317.0;149746.0;-2728.0}	desc=[]	search_zoneid=1	name=[Крепость Флорана]	regionid=57	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=252	type=9	rc_level={0;0}	loc={60342.0;139723.0;-1592.0}	desc=[]	search_zoneid=1	name=[Крепость Танор]	regionid=79	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=253	type=9	rc_level={0;0}	loc={126082.0;123622.0;-2424.0}	desc=[]	search_zoneid=16	name=[Драконья Крепость]	regionid=128	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=254	type=9	rc_level={0;0}	loc={-53034.0;156482.0;-1896.0}	desc=[]	search_zoneid=30	name=[Укрепленный Лагерь]	regionid=33	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=255	type=9	rc_level={0;0}	loc={-22429.0;219895.0;-3072.0}	desc=[]	search_zoneid=30	name=[Южная Крепость Глудио]	regionid=47	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=256	type=9	rc_level={0;0}	loc={72606.0;4413.0;-2888.0}	desc=[]	search_zoneid=67	name=[Крепость Слоновой Кости]	regionid=96	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=258	type=9	rc_level={0;0}	loc={11535.0;95277.0;-3264.0}	desc=[]	search_zoneid=67	name=[Крепость Черепахи]	regionid=55	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=259	type=9	rc_level={0;0}	loc={79503.0;91179.0;-2720.0}	desc=[]	search_zoneid=67	name=[Крепость Антараса]	regionid=100	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=260	type=9	rc_level={0;0}	loc={111368.0;-14851.0;-832.0}	desc=[]	search_zoneid=67	name=[Западная Крепость]	regionid=122	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=261	type=9	rc_level={0;0}	loc={154613.0;55391.0;-3096.0}	desc=[]	search_zoneid=97	name=[Крепость Нарсилл]	regionid=148	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=262	type=9	rc_level={0;0}	loc={189828.0;40014.0;-3248.0}	desc=[]	search_zoneid=97	name=[Крепость Гигантов]	regionid=165	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=263	type=9	rc_level={0;0}	loc={125250.0;95423.0;-1976.0}	desc=[]	search_zoneid=97	name=[Крепость Охотников]	regionid=126	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=264	type=9	rc_level={0;0}	loc={118659.0;205047.0;-3176.0}	desc=[]	search_zoneid=121	name=[Крепость Белых Песков]	regionid=133	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=265	type=9	rc_level={0;0}	loc={72959.0;186218.0;-2424.0}	desc=[]	search_zoneid=121	name=[Крепость Аару]	regionid=109	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=266	type=9	rc_level={0;0}	loc={109203.0;-141149.0;-2800.0}	desc=[]	search_zoneid=138	name=[Заснеженная Крепость]	regionid=115	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=267	type=9	rc_level={0;0}	loc={158920.0;-70150.0;-2704.0}	desc=[]	search_zoneid=180	name=[Крепость Пограничья]	regionid=142	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=268	type=9	rc_level={0;0}	loc={100429.0;-55316.0;-488.0}	desc=[]	search_zoneid=180	name=[Крепость Демона]	regionid=121	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=269	type=9	rc_level={0;0}	loc={69955.0;-61163.0;-2624.0}	desc=[]	search_zoneid=200	name=[Крепость Болота]	regionid=92	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=270	type=9	rc_level={0;0}	loc={72269.0;-94495.0;-1264.0}	desc=[]	search_zoneid=200	name=[Крепость Монахов]	regionid=89	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=273	type=1	rc_level={104;104}	loc={-20612.0;232689.0;-3552.0}	desc=[]	search_zoneid=30	name=[Волшебные Мегалиты Белефа]	regionid=183	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=275	type=6	rc_level={0;0}	loc={-26781.0;255525.0;-1952.0}	desc=[]	search_zoneid=30	name=[Деревня Беженцев]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=276	type=1	rc_level={106;106}	loc={-13279.0;249017.0;-1992.0}	desc=[]	search_zoneid=30	name=[Затерянный Холм]	regionid=184	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=278	type=1	rc_level={102;102}	loc={-5799.0;240392.0;80.0}	desc=[]	search_zoneid=30	name=[Каменоломня Повстанцев]	regionid=185	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=285	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Земли Румварса]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=286	type=11	rc_level={97;97}	loc={-187817.0;235769.0;-1744.0}	desc=[]	search_zoneid=285	name=[База Альянса Кецеруса]	regionid=6	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=287	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Зал Шилен]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=288	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[Это место необходимо захватить.]	search_zoneid=285	name=[Семя Разрушения]	regionid=3	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=289	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Гавань Тайны]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=290	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Врата Разрушения]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=291	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Центральная Площадь]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=292	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Ущелье Дозорных]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=293	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Крепость Разрушения]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=294	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Трон Дракона]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=295	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[Это место необходимо захватить.]	search_zoneid=285	name=[Семя Бессмертия]	regionid=4	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=296	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Двери Смерти]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=297	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Зал Страданий]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=298	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Зал Гибели]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=299	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=285	name=[Источник Бессмертия]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=301	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=179	name=[Грань Реальности]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=302	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=302	name=[Земли Кадифа]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=303	type=11	rc_level={88;88}	loc={-178027.0;139463.0;4672.0}	desc=[]	search_zoneid=302	name=[Семя Уничтожения]	regionid=5	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=304	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=304	name=[Магмельд]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=305	type=6	rc_level={0;0}	loc={207106.0;87611.0;-1104.0}	desc=[]	search_zoneid=304	name=[Древний Город Аркан]	regionid=174	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=306	type=11	rc_level={88;88}	loc={219104.0;67840.0;3072.0}	desc=[]	search_zoneid=304	name=[Колония Фей]	regionid=173	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=307	type=11	rc_level={95;95}	loc={194565.0;77305.0;264.0}	desc=[]	search_zoneid=304	name=[Храм Орбиса]	regionid=172	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=308	type=11	rc_level={90;90}	loc={214790.0;117295.0;-1968.0}	desc=[]	search_zoneid=304	name=[Сад Бытия]	regionid=175	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=309	type=11	rc_level={90;95}	loc={209886.0;88894.0;-1000.0}	desc=[Здесь обитает Спасия. Это чудовище необходимо уничтожить.]	search_zoneid=304	name=[Логово Спасии]	regionid=0	npc_id=32912	quest_id={}	instantzone_id=159	Hunt_end
+Hunt_begin	id=310	type=11	rc_level={92;92}	loc={206832.0;90068.0;-1012.0}	desc=[Здесь обитает Фрон. Это чудовище необходимо уничтожить.]	search_zoneid=304	name=[Фортуна]	regionid=0	npc_id=32894	quest_id={}	instantzone_id=179	Hunt_end
+Hunt_begin	id=311	type=11	rc_level={4;4}	loc={-109332.0;237041.0;-2912.0}	desc=[]	search_zoneid=30	name=[Руины Эсагира]	regionid=12	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=313	type=11	rc_level={85;85}	loc={-125678.0;236568.0;-4040.0}	desc=[]	search_zoneid=30	name=[Подземные Руины Харнака]	regionid=13	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=315	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=315	name=[Земли Бенона]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=316	type=6	rc_level={0;0}	loc={-79445.0;249501.0;-3096.0}	desc=[]	search_zoneid=315	name=[Бенон]	regionid=25	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=317	type=11	rc_level={2;2}	loc={-76689.0;236947.0;-3032.0}	desc=[]	search_zoneid=315	name=[Лес Ветров]	regionid=26	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=319	type=11	rc_level={102;102}	loc={-43919.0;82887.0;-4328.0}	desc=[]	search_zoneid=67	name=[Храм Духов]	regionid=30	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=320	type=6	rc_level={0;0}	loc={-51171.0;-147024.0;-14730.0}	desc=[]	search_zoneid=138	name=[Подземный Кайнак]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=321	type=11	rc_level={102;102}	loc={91693.0;149550.0;-2912.0}	desc=[]	search_zoneid=16	name=[Крепость Суперион]	regionid=105	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=322	type=11	rc_level={101;101}	loc={147069.0;26684.0;-2200.0}	desc=[]	search_zoneid=97	name=[Пространственный Разлом]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=325	type=7	rc_level={100;100}	loc={-251741.0;137935.0;2616.0}	desc=[]	search_zoneid=302	name=[Твердыня Мессии]	regionid=2	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=326	type=11	rc_level={97;97}	loc={-270350.0;140802.0;-4656.0}	desc=[]	search_zoneid=302	name=[Семя Адского Пламени]	regionid=1	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=327	type=11	rc_level={105;130}	loc={146920.0;26692.0;-2184.0}	desc=[Необходимо уничтожить всех монстров, что появляются здесь.]	search_zoneid=179	name=[Вечное Пристанище]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=258	Hunt_end
+Hunt_begin	id=328	type=7	rc_level={95;95}	loc={45155.0;-22379.0;-1080.0}	desc=[]	search_zoneid=179	name=[Алтарь Ритуалов]	regionid=71	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=329	type=11	rc_level={105;130}	loc={146920.0;26692.0;-2184.0}	desc=[Здесь обитает Байлор. Это чудовище необходимо уничтожить.]	search_zoneid=179	name=[Кристальная Тюрьма]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=166	Hunt_end
+Hunt_begin	id=330	type=11	rc_level={97;99}	loc={147079.0;171595.0;-986.0}	desc=[Здесь обитает Валлок. Это чудовище необходимо уничтожить.]	search_zoneid=121	name=[Кристальная Тюрьма (Валлок)]	regionid=0	npc_id=33523	quest_id={}	instantzone_id=167	Hunt_end
+Hunt_begin	id=331	type=11	rc_level={85;89}	loc={147539.0;27361.0;-2160.0}	desc=[Здесь обитает Челлака. Это чудовище необходимо уничтожить.]	search_zoneid=97	name=[Лабиринт Картии (Налетчик Измерений)]	regionid=0	npc_id=33647	quest_id={}	instantzone_id=205	Hunt_end
+Hunt_begin	id=332	type=11	rc_level={90;94}	loc={147539.0;27361.0;-2160.0}	desc=[Здесь обитает Феллине. Это чудовище необходимо уничтожить.]	search_zoneid=97	name=[Лабиринт Картии (Налетчик Измерений)]	regionid=0	npc_id=33647	quest_id={}	instantzone_id=206	Hunt_end
+Hunt_begin	id=333	type=11	rc_level={95;98}	loc={147539.0;27361.0;-2160.0}	desc=[Здесь обитает Каллиос. Это чудовище необходимо уничтожить.]	search_zoneid=97	name=[Лабиринт Картии (Налетчик Измерений)]	regionid=0	npc_id=33647	quest_id={}	instantzone_id=207	Hunt_end
+Hunt_begin	id=337	type=11	rc_level={85;90}	loc={85572.0;-142477.0;-1336.0}	desc=[Здесь обитает Траджан. Это чудовище необходимо уничтожить.]	search_zoneid=138	name=[Убежище Траджана]	regionid=0	npc_id=33092	quest_id={}	instantzone_id=160	Hunt_end
+Hunt_begin	id=338	type=11	rc_level={90;95}	loc={-178471.0;147060.0;2106.0}	desc=[Здесь обитает Истхина. Это чудовище необходимо уничтожить.]	search_zoneid=302	name=[Логово Истхины]	regionid=0	npc_id=33151	quest_id={}	instantzone_id=169	Hunt_end
+Hunt_begin	id=339	type=11	rc_level={97;99}	loc={-178471.0;147060.0;2106.0}	desc=[Здесь обитает усиленная Истхина. Это чудовище необходимо уничтожить.]	search_zoneid=302	name=[Логово Истхины (экстремальный)]	regionid=0	npc_id=33151	quest_id={}	instantzone_id=170	Hunt_end
+Hunt_begin	id=340	type=11	rc_level={85;90}	loc={-175828.0;148234.0;5840.0}	desc=[Здесь необходимо собрать остатки Жизненной Энергии.]	search_zoneid=302	name=[Семя Уничтожения (Колыбель Жизни)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=171	Hunt_end
+Hunt_begin	id=342	type=12	rc_level={110;130}	loc={146803.0;26692.0;-2192.0}	desc=[Здесь обитает Октавис. Это чудовище необходимо уничтожить.]	search_zoneid=97	name=[Логово Октависа]	regionid=0	npc_id=34543	quest_id={}	instantzone_id=303	Hunt_end
+Hunt_begin	id=343	type=11	rc_level={107;130}	loc={146803.0;26692.0;-2192.0}	desc=[Здесь обитает Антарас. Это чудовище необходимо уничтожить.]	search_zoneid=97	name=[Гнездо Антараса (Рыцарь Балтуса)]	regionid=0	npc_id=34543	quest_id={}	instantzone_id=304	Hunt_end
+Hunt_begin	id=344	type=11	rc_level={104;130}	loc={205090.0;84098.0;-1000.0}	desc=[Здесь обитает усиленный Спасия. Это чудовище необходимо уничтожить.]	search_zoneid=304	name=[Логово Спасии (экстремальный)]	regionid=0	npc_id=32912	quest_id={}	instantzone_id=196	Hunt_end
+Hunt_begin	id=346	type=12	rc_level={110;130}	loc={146803.0;26692.0;-2192.0}	desc=[Здесь обитает Таути. Это чудовище необходимо уничтожить.]	search_zoneid=97	name=[Логово Таути]	regionid=0	npc_id=34543	quest_id={}	instantzone_id=301	Hunt_end
+Hunt_begin	id=349	type=11	rc_level={105;130}	loc={146920.0;26692.0;-2184.0}	desc=[Здесь скрываются Легаты Лагеря Серой Тени. Необходимо уничтожить их.]	search_zoneid=30	name=[Лагерь Серой Тени]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=260	Hunt_end
+Hunt_begin	id=350	type=11	rc_level={99;104}	loc={-49767.0;-148190.0;-14176.0}	desc=[Из Таинственной Таверны можно попасть в различные временные зоны.]	search_zoneid=138	name=[Таинственная Таверна]	regionid=0	npc_id=34180	quest_id={833;834;835;861}	instantzone_id=0	Hunt_end
+Hunt_begin	id=351	type=11	rc_level={100;105}	loc={-50063.0;49439.0;-1760.0}	desc=[Здесь находится Легат Бернштайн. Необходимо уничтожить его.]	search_zoneid=67	name=[Штаб Легиона]	regionid=0	npc_id=34089	quest_id={}	instantzone_id=259	Hunt_end
+Hunt_begin	id=352	type=7	rc_level={0;0}	loc={-149384.0;253392.0;-112.0}	desc=[]	search_zoneid=30	name=[Причал Воздушных Кораблей Глудио]	regionid=7	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=353	type=7	rc_level={0;0}	loc={11902.0;182154.0;-3560.0}	desc=[]	search_zoneid=1	name=[Ипподром Монстров]	regionid=61	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=354	type=7	rc_level={7;7}	loc={-122410.0;73205.0;-2859.0}	desc=[]	search_zoneid=97	name=[Алтарь Золота]	regionid=10	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=355	type=7	rc_level={93;93}	loc={-94885.0;52217.0;-2024.0}	desc=[]	search_zoneid=97	name=[Алтарь Мимира]	regionid=16	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=356	type=7	rc_level={93;93}	loc={-85928.0;37095.0;-2040.0}	desc=[]	search_zoneid=97	name=[Алтарь Норнил]	regionid=17	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=357	type=7	rc_level={0;0}	loc={-73983.0;51956.0;-3680.0}	desc=[]	search_zoneid=97	name=[Гавань Острова Душ]	regionid=18	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=358	type=1	rc_level={89;89}	loc={-27155.0;22007.0;-1816.0}	desc=[]	search_zoneid=67	name=[Алтарь Зла]	regionid=39	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=359	type=7	rc_level={101;101}	loc={-8792.0;243562.0;-64.0}	desc=[]	search_zoneid=30	name=[Остров Ада]	regionid=63	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=360	type=11	rc_level={100;105}	loc={-185956.0;243245.0;2552.0}	desc=[Отсюда можно проникнуть во Внутреннюю Часть Твердыни Мессии.]	search_zoneid=302	name=[Внешняя Часть Твердыни Мессии]	regionid=0	npc_id=34319	quest_id={}	instantzone_id=265	Hunt_end
+Hunt_begin	id=361	type=11	rc_level={100;107}	loc={-186390.0;241736.0;2552.0}	desc=[Здесь обитает Камиль. Это чудовище необходимо уничтожить.]	search_zoneid=302	name=[Внутренняя Часть Твердыни Мессии]	regionid=0	npc_id=34319	quest_id={}	instantzone_id=266	Hunt_end
+Hunt_begin	id=362	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=97	name=[Сад Норнил]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=363	type=7	rc_level={0;0}	loc={-35366.0;51949.0;-2536.0}	desc=[]	search_zoneid=179	name=[Окрестности Крепости Астатина]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=364	type=7	rc_level={0;0}	loc={-66935.0;76924.0;-3352.0}	desc=[]	search_zoneid=179	name=[Окрестности Храма Духов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=365	type=7	rc_level={85;85}	loc={100501.0;78323.0;-2576.0}	desc=[]	search_zoneid=179	name=[Весь Аден]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=366	type=7	rc_level={0;0}	loc={149477.0;173993.0;-986.0}	desc=[]	search_zoneid=179	name=[Кристальная Тюрьма]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=367	type=11	rc_level={93;97}	loc={-248793.0;250271.0;4308.0}	desc=[Это место необходимо захватить.]	search_zoneid=285	name=[Семя Разрушения]	regionid=0	npc_id=32526	quest_id={}	instantzone_id=110	Hunt_end
+Hunt_begin	id=368	type=11	rc_level={95;99}	loc={-212831.0;209536.0;4272.0}	desc=[Это место необходимо захватить.]	search_zoneid=285	name=[Семя Бессмертия]	regionid=0	npc_id=33915	quest_id={}	instantzone_id=249	Hunt_end
+Hunt_begin	id=369	type=11	rc_level={103;130}	loc={147784.0;25914.0;-2008.0}	desc=[Здесь обитают Мелисса и Исадора. Этих чудовищ необходимо уничтожить.]	search_zoneid=97	name=[Алтарь Шилен]	regionid=0	npc_id=33515	quest_id={}	instantzone_id=193	Hunt_end
+Hunt_begin	id=372	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=302	name=[Великий Храм Этины]	regionid=186	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=373	type=6	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=16	name=[Лагерь Рыцарей Балтуса]	regionid=187	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=375	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=200	name=[Окрестности Пайлаки (Замок)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=376	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=200	name=[Окрестности Пайлаки (Крепость)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=377	type=11	rc_level={103;130}	loc={83487.0;149304.0;-3400.0}	desc=[Здесь обитает Хелиос. Это чудовище необходимо уничтожить.]	search_zoneid=16	name=[Тронный Зал Падшего Императора]	regionid=0	npc_id=34222	quest_id={}	instantzone_id=283	Hunt_end
+Hunt_begin	id=378	type=11	rc_level={104;130}	loc={-58943.0;38762.0;-1224.0}	desc=[Здесь обитает Этис ван Этина. Это чудовище необходимо уничтожить.]	search_zoneid=302	name=[Обитель Этины]	regionid=0	npc_id=34426	quest_id={}	instantzone_id=285	Hunt_end
+Hunt_begin	id=379	type=11	rc_level={104;104}	loc={-51678.0;60081.0;-3345.0}	desc=[]	search_zoneid=67	name=[Фабрика Астатина]	regionid=189	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=380	type=12	rc_level={110;130}	loc={146803.0;26692.0;-2192.0}	desc=[Здесь обитает Скарлет ван Халиша. Это чудовище необходимо уничтожить.]	search_zoneid=97	name=[Фринтеза - Гробница Последнего Императора]	regionid=0	npc_id=34543	quest_id={}	instantzone_id=302	Hunt_end
+Hunt_begin	id=381	type=4	rc_level={115;130}	loc={146920.0;26692.0;-2184.0}	desc=[Здесь обитает Снежная Королева Фрея. Это чудовище необходимо уничтожить.]	search_zoneid=138	name=[Замок Снежной Королевы]	regionid=0	npc_id=32781	quest_id={}	instantzone_id=288	Hunt_end
+Hunt_begin	id=382	type=7	rc_level={125;125}	loc={44514.0;18229.0;-4392.0}	desc=[Здесь обитает Орфен. Это чудовище необходимо уничтожить.]	search_zoneid=67	name=[Гнездо Орфен]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=383	type=11	rc_level={105;130}	loc={146915.0;26756.0;-2200.0}	desc=[Здесь обитает Королева Крошана. Это чудовище необходимо уничтожить.]	search_zoneid=121	name=[Гнездо Крофинов]	regionid=0	npc_id=33907	quest_id={}	instantzone_id=291	Hunt_end
+Hunt_begin	id=384	type=7	rc_level={105;105}	loc={-6687.0;20954.0;-5488.0}	desc=[]	search_zoneid=67	name=[Катакомбы Темного Пророчества]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=385	type=7	rc_level={105;105}	loc={185064.0;-13226.0;-5488.0}	desc=[]	search_zoneid=97	name=[Некрополь Апостолов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=386	type=7	rc_level={118;118}	loc={180987.0;211635.0;-14551.0}	desc=[]	search_zoneid=121	name=[Гнездо Фафуриона]	regionid=191	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=387	type=2	rc_level={126;126}	loc={168448.0;234496.0;-2560.0}	desc=[]	search_zoneid=121	name=[Храм Фафуриона]	regionid=190	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=388	type=7	rc_level={0;0}	loc={-114986.0;226633.0;-2864.0}	desc=[]	search_zoneid=30	name=[Гробница Духа]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=389	type=7	rc_level={101;101}	loc={-48154.0;69462.0;-3080.0}	desc=[]	search_zoneid=67	name=[Лагерь Блэкберд]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=390	type=7	rc_level={105;105}	loc={172231.0;173031.0;-3104.0}	desc=[]	search_zoneid=121	name=[Остров Бурь]	regionid=192	npc_id=0	quest_id={}	instantzone_id=1001	Hunt_end
+Hunt_begin	id=391	type=11	rc_level={100;130}	loc={147040.0;26691.0;-2192.0}	desc=[Необходимо уничтожить Правителя Кастии.]	search_zoneid=97	name=[Лабиринт Кастии]	regionid=0	npc_id=34541	quest_id={}	instantzone_id=298	Hunt_end
+Hunt_begin	id=392	type=11	rc_level={100;130}	loc={147040.0;26691.0;-2192.0}	desc=[Необходимо уничтожить Правителя Кастии.]	search_zoneid=97	name=[Лабиринт Кастии]	regionid=0	npc_id=34541	quest_id={}	instantzone_id=299	Hunt_end
+Hunt_begin	id=393	type=11	rc_level={100;130}	loc={147040.0;26691.0;-2192.0}	desc=[Необходимо уничтожить Правителя Кастии.]	search_zoneid=97	name=[Лабиринт Кастии]	regionid=0	npc_id=34541	quest_id={}	instantzone_id=300	Hunt_end
+Hunt_begin	id=395	type=11	rc_level={100;130}	loc={147040.0;26691.0;-2192.0}	desc=[Необходимо уничтожить Правителя Кастии.]	search_zoneid=97	name=[Лабиринт Кастии]	regionid=0	npc_id=34541	quest_id={}	instantzone_id=305	Hunt_end
+Hunt_begin	id=396	type=3	rc_level={100;130}	loc={147038.0;26692.0;-2184.0}	desc=[Необходимо уничтожить Правителя Кастии.]	search_zoneid=97	name=[Лабиринт Кастии]	regionid=0	npc_id=34541	quest_id={}	instantzone_id=306	Hunt_end
+Hunt_begin	id=397	type=11	rc_level={110;130}	loc={146920.0;26692.0;-2184.0}	desc=[Необходимо уничтожить всех монстров, что появились здесь.]	search_zoneid=315	name=[Лес Духов]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=310	Hunt_end
+Hunt_begin	id=398	type=11	rc_level={110;130}	loc={146920.0;26692.0;-2184.0}	desc=[Здесь скрываются Легаты Лагеря Серой Тени. Необходимо уничтожить их.]	search_zoneid=30	name=[Лагерь Серой Тени]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=311	Hunt_end
+Hunt_begin	id=399	type=11	rc_level={110;130}	loc={146920.0;26692.0;-2184.0}	desc=[Здесь обитает Байлор. Это чудовище необходимо уничтожить.]	search_zoneid=179	name=[Кристальная Тюрьма]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=312	Hunt_end
+Hunt_begin	id=400	type=11	rc_level={110;130}	loc={146920.0;26692.0;-2184.0}	desc=[Необходимо уничтожить всех монстров, что появляются здесь.]	search_zoneid=179	name=[Вечное Пристанище]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=313	Hunt_end
+Hunt_begin	id=401	type=7	rc_level={125;125}	loc={-6505.0;183040.0;-3419.0}	desc=[]	search_zoneid=30	name=[Жилище Королевы Муравьев]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=403	type=11	rc_level={105;130}	loc={146920.0;26692.0;-2184.0}	desc=[Необходимо уничтожить всех монстров, что появились здесь.]	search_zoneid=315	name=[Лес Духов]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=314	Hunt_end
+Hunt_begin	id=404	type=11	rc_level={110;130}	loc={146915.0;26756.0;-2200.0}	desc=[Здесь обитает Королева Крошана. Это чудовище необходимо уничтожить.]	search_zoneid=121	name=[Гнездо Крофинов]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=315	Hunt_end
+Hunt_begin	id=405	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=405	name=[Область Свержения]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=406	type=6	rc_level={0;0}	loc={-16277.0;-187707.0;-3800.0}	desc=[]	search_zoneid=405	name=[Город Свержения]	regionid=194	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=407	type=2	rc_level={112;112}	loc={-24425.0;-194448.0;-3688.0}	desc=[]	search_zoneid=405	name=[Водный Источник Дэрила (PvP недоступно)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=408	type=2	rc_level={116;116}	loc={-10514.0;-194102.0;-3608.0}	desc=[]	search_zoneid=405	name=[Водный Источник Дэрила Франа (PvP недоступно)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=409	type=2	rc_level={116;116}	loc={-14508.0;-198977.0;-3424.0}	desc=[]	search_zoneid=405	name=[Зона 1: Аса (Ур. 116)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=410	type=2	rc_level={120;120}	loc={-22445.0;-197651.0;-3424.0}	desc=[]	search_zoneid=405	name=[Зона 1: Аса (Ур. 120)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=411	type=2	rc_level={124;124}	loc={-8567.0;-204203.0;-3424.0}	desc=[]	search_zoneid=405	name=[Зона 1: Аса (Ур. 124)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=412	type=2	rc_level={116;116}	loc={-12682.0;-220259.0;-3424.0}	desc=[]	search_zoneid=405	name=[Зона 2: Анима (Ур. 116)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=413	type=2	rc_level={120;120}	loc={-23851.0;-216494.0;-3424.0}	desc=[]	search_zoneid=405	name=[Зона 2: Анима (Ур. 120)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=414	type=2	rc_level={124;124}	loc={-27930.0;-205673.0;-3424.0}	desc=[]	search_zoneid=405	name=[Зона 2: Анима (Ур. 124)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=415	type=2	rc_level={116;116}	loc={-2472.0;-211407.0;-3424.0}	desc=[]	search_zoneid=405	name=[Зона 3: Нокс (Ур. 116)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=416	type=2	rc_level={120;120}	loc={-4216.0;-215328.0;-3424.0}	desc=[]	search_zoneid=405	name=[Зона 3: Нокс (Ур. 120)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=417	type=2	rc_level={124;124}	loc={-5143.0;-222879.0;-3424.0}	desc=[]	search_zoneid=405	name=[Зона 3: Нокс (Ур. 124)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=418	type=2	rc_level={124;124}	loc={-15038.0;-213063.0;-3192.0}	desc=[]	search_zoneid=405	name=[Зал Каллиды]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=419	type=12	rc_level={115;130}	loc={146803.0;26692.0;-2192.0}	desc=[Здесь обитает Антарас. Это чудовище необходимо уничтожить.]	search_zoneid=16	name=[Гнездо Антараса]	regionid=0	npc_id=34543	quest_id={}	instantzone_id=316	Hunt_end
+Hunt_begin	id=420	type=4	rc_level={105;130}	loc={146920.0;26692.0;-2184.0}	desc=[Необходимо уничтожить всех монстров, что появились здесь.]	search_zoneid=315	name=[Лес Духов]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=318	Hunt_end
+Hunt_begin	id=421	type=4	rc_level={105;130}	loc={146920.0;26692.0;-2184.0}	desc=[Здесь скрываются Легаты Лагеря Серой Тени. Необходимо уничтожить их.]	search_zoneid=30	name=[Лагерь Серой Тени]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=319	Hunt_end
+Hunt_begin	id=422	type=4	rc_level={105;130}	loc={146920.0;26692.0;-2184.0}	desc=[Здесь обитает Байлор. Это чудовище необходимо уничтожить.]	search_zoneid=179	name=[Кристальная Тюрьма]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=320	Hunt_end
+Hunt_begin	id=423	type=4	rc_level={105;130}	loc={146920.0;26692.0;-2184.0}	desc=[Необходимо уничтожить всех монстров, что появляются здесь.]	search_zoneid=179	name=[Вечное Пристанище]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=321	Hunt_end
+Hunt_begin	id=424	type=4	rc_level={105;130}	loc={146920.0;26692.0;-2184.0}	desc=[Здесь обитает Королева Крошана. Это чудовище необходимо уничтожить.]	search_zoneid=121	name=[Гнездо Крофинов]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=322	Hunt_end
+Hunt_begin	id=425	type=2	rc_level={124;124}	loc={81315.0;113690.0;-3112.0}	desc=[]	search_zoneid=16	name=[Долина Драконов - Запад]	regionid=197	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=426	type=2	rc_level={124;124}	loc={101997.0;117400.0;-3688.0}	desc=[]	search_zoneid=16	name=[Долина Драконов - Восток]	regionid=198	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=427	type=1	rc_level={130;130}	loc={-47010.0;141367.0;-2920.0}	desc=[]	search_zoneid=30	name=[Лагерь Ракшасов]	regionid=199	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=428	type=6	rc_level={0;0}	loc={7435.0;-204408.0;-3136.0}	desc=[]	search_zoneid=405	name=[Крепость Огня]	regionid=200	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=429	type=2	rc_level={120;120}	loc={12787.0;-204527.0;-3648.0}	desc=[]	search_zoneid=405	name=[Сад Пламени (PvP недоступно)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=430	type=2	rc_level={116;116}	loc={5722.0;-209081.0;-3728.0}	desc=[]	search_zoneid=405	name=[Пылающее Поле (PvP недоступно)]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=431	type=2	rc_level={124;124}	loc={11988.0;-220184.0;-3704.0}	desc=[]	search_zoneid=405	name=[Зона 1: Вита]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=432	type=2	rc_level={128;128}	loc={25541.0;-206077.0;-5016.0}	desc=[]	search_zoneid=405	name=[Зона 2: Игнис]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=433	type=6	rc_level={0;0}	loc={20791.0;-225507.0;-3792.0}	desc=[]	search_zoneid=405	name=[Тайные Казармы Келлонд]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=434	type=7	rc_level={110;110}	loc={18326.0;-215648.0;-4248.0}	desc=[]	search_zoneid=405	name=[Центральная область]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=435	type=7	rc_level={110;110}	loc={16311.0;-212326.0;-4656.0}	desc=[]	search_zoneid=405	name=[Источник Огня]	regionid=201	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=436	type=7	rc_level={120;120}	loc={206011.0;183899.0;-2216.0}	desc=[]	search_zoneid=121	name=[Морозный Остров]	regionid=202	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=437	type=2	rc_level={126;126}	loc={-53585.0;209993.0;-2504.0}	desc=[]	search_zoneid=30	name=[Лагерь Ящеров Лангк]	regionid=35	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=438	type=2	rc_level={128;128}	loc={-77994.0;212392.0;-4656.0}	desc=[]	search_zoneid=30	name=[Храм Ящеров Лангк]	regionid=203	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=439	type=7	rc_level={128;128}	loc={-84404.0;209878.0;-5248.0}	desc=[]	search_zoneid=30	name=[Логово Коатля]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=440	type=7	rc_level={0;0}	loc={75167.0;113108.0;-2296.0}	desc=[]	search_zoneid=16	name=[Долина Драконов - Могила Смотрителя]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=441	type=12	rc_level={115;130}	loc={146803.0;26692.0;-2192.0}	desc=[Уничтожение 4 Королей и Королев Духов]	search_zoneid=179	name=[Печать Духов]	regionid=0	npc_id=34543	quest_id={}	instantzone_id=338	Hunt_end
+Hunt_begin	id=442	type=4	rc_level={115;130}	loc={146920.0;26692.0;-2184.0}	desc=[Победить Императрицу Рамону]	search_zoneid=16	name=[Дворец Императрицы]	regionid=0	npc_id=34542	quest_id={}	instantzone_id=345	Hunt_end
+Hunt_begin	id=443	type=2	rc_level={122;122}	loc={148455.0;-155448.0;-3192.0}	desc=[]	search_zoneid=138	name=[Заснеженный Вулкан]	regionid=204	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=444	type=2	rc_level={126;126}	loc={178643.0;-153863.0;-2808.0}	desc=[]	search_zoneid=138	name=[Поле Битвы с Балуаном]	regionid=205	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=445	type=12	rc_level={115;130}	loc={146803.0;26692.0;-2192.0}	desc=[Уничтожение Балуана]	search_zoneid=138	name=[Трон Балуана]	regionid=0	npc_id=34543	quest_id={}	instantzone_id=355	Hunt_end
+Hunt_begin	id=446	type=3	rc_level={120;130}	loc={147038.0;26692.0;-2184.0}	desc=[Спасение Пленников в Заброшенной Пещере Испытаний]	search_zoneid=138	name=[Заброшенная Пещера Испытаний]	regionid=0	npc_id=34541	quest_id={}	instantzone_id=351	Hunt_end
+Hunt_begin	id=447	type=3	rc_level={115;130}	loc={147038.0;26692.0;-2184.0}	desc=[Помешать Ритуалу Последователей Каллакса]	search_zoneid=179	name=[Алтарь Каллакса]	regionid=0	npc_id=34541	quest_id={}	instantzone_id=356	Hunt_end
+Hunt_begin	id=448	type=7	rc_level={105;130}	loc={148890.0;214490.0;-1930.0}	desc=[]	search_zoneid=179	name=[Остров Сакуры]	regionid=0	npc_id=0	quest_id={}	instantzone_id=360	Hunt_end
+Hunt_begin	id=900	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Рекомендуемые зоны охоты]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=901	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Одиночная охота Ур. 1-100]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=902	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Одиночная охота Ур. 101-110]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=903	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Одиночная охота Ур. 111-120]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=904	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Групповая охота Ур. 111-120]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=905	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Одиночная охота Ур. 121-130]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=906	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Групповая охота Ур. 121-130]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=907	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Одиночная охота Ур. 131-140]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=908	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Групповая охота Ур. 131-140]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=909	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Одиночная охота Ур. 141-150]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=910	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Групповая охота Ур. 141-150]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=911	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Одиночная охота Ур. 151-160]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=912	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=900	name=[Групповая охота Ур. 151-160]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1001	type=0	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=1001	name=[Область Выполнения Квеста]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1002	type=7	rc_level={0;0}	loc={-14254.0;123780.0;-3104.0}	desc=[]	search_zoneid=1001	name=[Помощник в Развитии Дарти]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1003	type=7	rc_level={0;0}	loc={-20598.0;136748.0;-3888.0}	desc=[]	search_zoneid=1001	name=[Помощник в Тренировках Дарти]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1004	type=7	rc_level={0;0}	loc={-17916.0;143630.0;-3904.0}	desc=[]	search_zoneid=1001	name=[Область Руин Отчаяния]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1005	type=7	rc_level={0;0}	loc={-19330.0;136840.0;-3760.0}	desc=[]	search_zoneid=1001	name=[Стражник Сильван]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1006	type=7	rc_level={0;0}	loc={-16744.0;140209.0;-3872.0}	desc=[]	search_zoneid=1001	name=[Внутренняя Часть Руин Отчаяния]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1007	type=7	rc_level={0;0}	loc={-43688.0;117592.0;-3650.0}	desc=[]	search_zoneid=1001	name=[Область Руин Страданий]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1008	type=7	rc_level={0;0}	loc={-41314.0;122982.0;-2904.0}	desc=[]	search_zoneid=1001	name=[Стражник Калесин]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1009	type=7	rc_level={0;0}	loc={-46450.0;110273.0;-3808.0}	desc=[]	search_zoneid=1001	name=[Область Руин Страданий]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1010	type=7	rc_level={0;0}	loc={-46159.0;109438.0;-3808.0}	desc=[]	search_zoneid=1001	name=[Стражник Джена]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1011	type=7	rc_level={0;0}	loc={-51637.0;108721.0;-3720.0}	desc=[]	search_zoneid=1001	name=[Область Руин Страданий]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1012	type=7	rc_level={0;0}	loc={-12877.0;121710.0;-2960.0}	desc=[]	search_zoneid=1001	name=[Верховный Жрец Раймонд]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1013	type=7	rc_level={0;0}	loc={-4983.0;116607.0;-3344.0}	desc=[]	search_zoneid=1001	name=[Северо-восточная Часть Глудио]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1014	type=7	rc_level={0;0}	loc={-9026.0;105140.0;-3320.0}	desc=[]	search_zoneid=1001	name=[Загадочный Маг]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1015	type=7	rc_level={0;0}	loc={-93474.0;89730.0;-3208.0}	desc=[]	search_zoneid=1001	name=[Исследователь Фио]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1016	type=7	rc_level={0;0}	loc={-76775.0;92186.0;-3688.0}	desc=[]	search_zoneid=1001	name=[Область Холма Ветров]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1017	type=7	rc_level={0;0}	loc={-81155.0;89637.0;-3728.0}	desc=[]	search_zoneid=1001	name=[Область Холма Ветров]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1018	type=7	rc_level={0;0}	loc={-85449.0;80722.0;-3048.0}	desc=[]	search_zoneid=1001	name=[Область Холма Ветров]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1019	type=7	rc_level={0;0}	loc={-87952.0;87062.0;-3416.0}	desc=[]	search_zoneid=1001	name=[Область Холма Ветров]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1020	type=7	rc_level={0;0}	loc={-91374.0;92270.0;-3360.0}	desc=[]	search_zoneid=1001	name=[Область Холма Ветров]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1021	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=1001	name=[Крепость Неупокоенных]	regionid=0	npc_id=0	quest_id={}	instantzone_id=254	Hunt_end
+Hunt_begin	id=1022	type=7	rc_level={0;0}	loc={-85049.0;105814.0;-3592.0}	desc=[]	search_zoneid=1001	name=[Отшельник Ликрус]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1023	type=7	rc_level={0;0}	loc={-89433.0;111717.0;-3336.0}	desc=[]	search_zoneid=1001	name=[Область Лагеря Орков]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1024	type=7	rc_level={0;0}	loc={-92290.0;116512.0;-3472.0}	desc=[]	search_zoneid=1001	name=[Область Лагеря Орков]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1025	type=7	rc_level={0;0}	loc={-92680.0;112394.0;-3696.0}	desc=[]	search_zoneid=1001	name=[Область Лагеря Орков]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1026	type=7	rc_level={0;0}	loc={-93023.0;108834.0;-3856.0}	desc=[]	search_zoneid=1001	name=[Область Лагеря Орков]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1027	type=7	rc_level={0;0}	loc={-95920.0;102192.0;-3544.0}	desc=[]	search_zoneid=1001	name=[Область Лагеря Орков]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1028	type=7	rc_level={0;0}	loc={-88533.0;104054.0;-3416.0}	desc=[]	search_zoneid=1001	name=[Область Лагеря Орков]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1029	type=7	rc_level={0;0}	loc={-78670.0;251026.0;-2960.0}	desc=[]	search_zoneid=1001	name=[Верховный Жрец Терениус]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1030	type=7	rc_level={0;0}	loc={0.0;0.0;0.0}	desc=[]	search_zoneid=1001	name=[Зал Предсказаний]	regionid=0	npc_id=0	quest_id={}	instantzone_id=255	Hunt_end
+Hunt_begin	id=1031	type=7	rc_level={0;0}	loc={146590.0;26870.0;-2200.0}	desc=[]	search_zoneid=1001	name=[Герпа]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1032	type=7	rc_level={0;0}	loc={-14051.0;22195.0;-3616.0}	desc=[]	search_zoneid=1001	name=[Воллодос]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1033	type=7	rc_level={0;0}	loc={-14216.0;44785.0;-3592.0}	desc=[]	search_zoneid=1001	name=[Рафласия]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1034	type=7	rc_level={0;0}	loc={152665.0;-15038.0;-4392.0}	desc=[]	search_zoneid=1001	name=[Хариф Зу Хестуи]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1035	type=7	rc_level={0;0}	loc={159596.0;21322.0;-3688.0}	desc=[]	search_zoneid=1001	name=[Эван Грейам]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1036	type=7	rc_level={0;0}	loc={111391.0;221167.0;-3536.0}	desc=[]	search_zoneid=1001	name=[Леонел Хантер]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1037	type=7	rc_level={0;0}	loc={147811.0;28529.0;-2264.0}	desc=[]	search_zoneid=1001	name=[Гид Свержения Хлои]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1038	type=7	rc_level={0;0}	loc={-16276.0;-187571.0;-3808.0}	desc=[]	search_zoneid=1001	name=[Гид Свержения Энтропия]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1039	type=7	rc_level={0;0}	loc={7954.0;-203586.0;-3200.0}	desc=[]	search_zoneid=1001	name=[Гид Крепости Огня Касгард]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1040	type=7	rc_level={0;0}	loc={7767.0;-202034.0;-3120.0}	desc=[]	search_zoneid=1001	name=[Гид Крепости Огня Ишрин]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1041	type=7	rc_level={0;0}	loc={15741.0;-212536.0;-4656.0}	desc=[]	search_zoneid=1001	name=[Ревнитель Силы Огня]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1042	type=7	rc_level={0;0}	loc={106131.0;105979.0;-3480.0}	desc=[]	search_zoneid=1001	name=[Черный Судья]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1043	type=7	rc_level={0;0}	loc={147558.0;-55157.0;-2728.0}	desc=[]	search_zoneid=1001	name=[Дешифровщик Леопард]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1044	type=7	rc_level={0;0}	loc={-20598.0;136748.0;-3888.0}	desc=[]	search_zoneid=1001	name=[Руины Отчаяния]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1045	type=7	rc_level={0;0}	loc={146496.0;26730.0;-2200.0}	desc=[]	search_zoneid=1001	name=[Мастер Двойных Классов Йоаким]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1046	type=7	rc_level={0;0}	loc={146496.0;26730.0;-2200.0}	desc=[]	search_zoneid=1001	name=[Мастер Двойных Классов Йоаким]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1047	type=7	rc_level={0;0}	loc={146590.0;26870.0;-2200.0}	desc=[]	search_zoneid=1001	name=[Герпа]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1048	type=7	rc_level={0;0}	loc={-14051.0;22195.0;-3616.0}	desc=[]	search_zoneid=1001	name=[Воллодос]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1049	type=7	rc_level={0;0}	loc={-14216.0;44785.0;-3592.0}	desc=[]	search_zoneid=1001	name=[Рафласия]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1050	type=7	rc_level={0;0}	loc={152665.0;-15038.0;-4392.0}	desc=[]	search_zoneid=1001	name=[Хариф Зу Хестуи]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1051	type=7	rc_level={0;0}	loc={159596.0;21322.0;-3688.0}	desc=[]	search_zoneid=1001	name=[Эван Грейам]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1052	type=7	rc_level={0;0}	loc={-12877.0;121710.0;-2960.0}	desc=[]	search_zoneid=1001	name=[Верховный Жрец Раймонд]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1053	type=7	rc_level={0;0}	loc={-78670.0;251026.0;-2960.0}	desc=[]	search_zoneid=1001	name=[Верховный Жрец Терениус]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1054	type=7	rc_level={0;0}	loc={-14254.0;123780.0;-3104.0}	desc=[]	search_zoneid=1001	name=[Помощник в Развитии Дарти]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1055	type=7	rc_level={0;0}	loc={147811.0;28529.0;-2264.0}	desc=[]	search_zoneid=1001	name=[Гид Свержения Хлои]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1056	type=7	rc_level={0;0}	loc={86228.0;-19620.0;-1912.0}	desc=[]	search_zoneid=1001	name=[Посланник]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1057	type=7	rc_level={0;0}	loc={53443.0;-93869.0;-1592.0}	desc=[]	search_zoneid=1001	name=[Посланник]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1058	type=7	rc_level={0;0}	loc={79870.0;5319.0;-3088.0}	desc=[]	search_zoneid=1001	name=[Лес Зла]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1059	type=7	rc_level={0;0}	loc={53254.0;-91230.0;-2128.0}	desc=[]	search_zoneid=1001	name=[Ферма Диких Зверей]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1060	type=7	rc_level={0;0}	loc={111391.0;221167.0;-3536.0}	desc=[]	search_zoneid=1001	name=[Леонел Хантер]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1061	type=7	rc_level={0;0}	loc={-54440.0;192769.0;-3592.0}	desc=[]	search_zoneid=1001	name=[Посланник Ракшасов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1062	type=7	rc_level={0;0}	loc={-87293.0;215766.0;-4288.0}	desc=[]	search_zoneid=1001	name=[Предводитель Ракшасов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1063	type=7	rc_level={0;0}	loc={149369.0;174122.0;-912.0}	desc=[]	search_zoneid=1001	name=[Парнас]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1064	type=7	rc_level={0;0}	loc={149369.0;174122.0;-912.0}	desc=[]	search_zoneid=1001	name=[Парнас]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1065	type=7	rc_level={0;0}	loc={90369.0;213623.0;-3760.0}	desc=[]	search_zoneid=1001	name=[Дух Воды Лиан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1066	type=7	rc_level={0;0}	loc={79633.0;70950.0;-3416.0}	desc=[]	search_zoneid=1001	name=[Посланник Ракшасов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1067	type=7	rc_level={0;0}	loc={78511.0;72584.0;-3536.0}	desc=[]	search_zoneid=1001	name=[Посол Ящеров Тантаар]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1068	type=7	rc_level={0;0}	loc={161936.0;-8020.0;-3240.0}	desc=[]	search_zoneid=1001	name=[Старик]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1069	type=7	rc_level={0;0}	loc={161936.0;-8020.0;-3240.0}	desc=[]	search_zoneid=1001	name=[Старик]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1070	type=7	rc_level={0;0}	loc={183379.0;-53423.0;-1896.0}	desc=[]	search_zoneid=1001	name=[Око Аргоса]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1071	type=7	rc_level={0;0}	loc={183379.0;-53423.0;-1896.0}	desc=[]	search_zoneid=1001	name=[Око Аргоса]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1072	type=7	rc_level={0;0}	loc={185866.0;-44511.0;-3184.0}	desc=[]	search_zoneid=1001	name=[Алтарь Дэймона]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1073	type=7	rc_level={0;0}	loc={-15624.0;208835.0;-3664.0}	desc=[]	search_zoneid=1001	name=[Селан Мрачномеч]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1074	type=7	rc_level={0;0}	loc={-15624.0;208835.0;-3664.0}	desc=[]	search_zoneid=1001	name=[Селан Мрачномеч]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1075	type=7	rc_level={0;0}	loc={147456.0;22686.0;-1984.0}	desc=[]	search_zoneid=1001	name=[Орвен]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1076	type=7	rc_level={0;0}	loc={177630.0;25991.0;-3328.0}	desc=[]	search_zoneid=1001	name=[Надгробие Неизвестного Молодого Человека]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1077	type=7	rc_level={0;0}	loc={168801.0;27802.0;-3664.0}	desc=[]	search_zoneid=1001	name=[Посланец Тьмы Ахучак]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1078	type=7	rc_level={0;0}	loc={184986.0;22930.0;-3312.0}	desc=[]	search_zoneid=1001	name=[Надгробие Неизвестного Гнома]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1079	type=7	rc_level={0;0}	loc={186561.0;12414.0;-2696.0}	desc=[]	search_zoneid=1001	name=[Сумеречный Рыцарь Хвайнор]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1080	type=7	rc_level={0;0}	loc={171388.0;13699.0;-2736.0}	desc=[]	search_zoneid=1001	name=[Надгробие Неизвестной Женщины]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1081	type=7	rc_level={0;0}	loc={177560.0;12912.0;-2728.0}	desc=[]	search_zoneid=1001	name=[Рыцарь Разрушения Зеруэль]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1082	type=7	rc_level={0;0}	loc={66505.0;-72000.0;-3816.0}	desc=[]	search_zoneid=1001	name=[Микелан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1083	type=7	rc_level={0;0}	loc={149234.0;-112429.0;-2064.0}	desc=[]	search_zoneid=1001	name=[Джереми]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1084	type=7	rc_level={0;0}	loc={6166.0;125219.0;-3640.0}	desc=[]	search_zoneid=1001	name=[Лорейн]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1085	type=7	rc_level={0;0}	loc={102483.0;-124540.0;-2808.0}	desc=[]	search_zoneid=1001	name=[Зиния]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1086	type=7	rc_level={0;0}	loc={-52100.0;151925.0;-2568.0}	desc=[]	search_zoneid=1001	name=[Посол Ящеров Тантаар]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1087	type=7	rc_level={0;0}	loc={44813.0;52253.0;-2792.0}	desc=[]	search_zoneid=1001	name=[Астериос]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1088	type=7	rc_level={0;0}	loc={143928.0;-107565.0;-3448.0}	desc=[]	search_zoneid=1001	name=[Пьяница Кафка]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1089	type=7	rc_level={0;0}	loc={147479.0;-56707.0;-2776.0}	desc=[]	search_zoneid=1001	name=[Начальник Стражи Андрей]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1090	type=7	rc_level={0;0}	loc={145720.0;-87681.0;-4968.0}	desc=[]	search_zoneid=1001	name=[Герой Кетра Хекатон]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1091	type=7	rc_level={0;0}	loc={109755.0;-43094.0;-2936.0}	desc=[]	search_zoneid=1001	name=[Вождь Варка Хорус]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1092	type=7	rc_level={0;0}	loc={41415.0;22075.0;-3872.0}	desc=[]	search_zoneid=1001	name=[Хранитель Грани Бэйкон]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1093	type=7	rc_level={0;0}	loc={53515.0;-82695.0;-2704.0}	desc=[]	search_zoneid=1001	name=[Пастух Тунатун]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1094	type=7	rc_level={0;0}	loc={86914.0;148642.0;-3464.0}	desc=[]	search_zoneid=1001	name=[Максимилиан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1095	type=7	rc_level={0;0}	loc={72698.0;116521.0;-3720.0}	desc=[]	search_zoneid=1001	name=[Теодрик]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1096	type=7	rc_level={0;0}	loc={15877.0;142339.0;-2688.0}	desc=[]	search_zoneid=1001	name=[Сильвиан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1097	type=7	rc_level={0;0}	loc={756.0;137457.0;-2120.0}	desc=[]	search_zoneid=1001	name=[Долина Драконов - Тайная Долина]	regionid=0	npc_id=0	quest_id={}	instantzone_id=331	Hunt_end
+Hunt_begin	id=1098	type=7	rc_level={0;0}	loc={168676.0;234472.0;-2304.0}	desc=[]	search_zoneid=1001	name=[Руфисия]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1099	type=7	rc_level={0;0}	loc={41455.0;137769.0;-3024.0}	desc=[]	search_zoneid=1001	name=[Шнабель Мастер]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1100	type=7	rc_level={0;0}	loc={-122529.0;-116539.0;-5728.0}	desc=[]	search_zoneid=1001	name=[Тайное Измерение Евы]	regionid=0	npc_id=0	quest_id={}	instantzone_id=294	Hunt_end
+Hunt_begin	id=1101	type=7	rc_level={0;0}	loc={69400.0;-50322.0;-3288.0}	desc=[]	search_zoneid=1001	name=[Аберкромби]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1102	type=7	rc_level={0;0}	loc={147456.0;22686.0;-1984.0}	desc=[]	search_zoneid=1001	name=[Орвен]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1103	type=7	rc_level={0;0}	loc={164328.0;-11449.0;-3528.0}	desc=[]	search_zoneid=1001	name=[Демон Беном]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1104	type=7	rc_level={0;0}	loc={171585.0;20312.0;-3320.0}	desc=[]	search_zoneid=1001	name=[Мститель Грап]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1105	type=7	rc_level={0;0}	loc={144000.0;-105995.0;-3528.0}	desc=[]	search_zoneid=1001	name=[Обезумевший Куллан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1106	type=7	rc_level={0;0}	loc={172888.0;-46997.0;-3416.0}	desc=[]	search_zoneid=1001	name=[Высокомерная Лабурум]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1107	type=7	rc_level={0;0}	loc={-87293.0;215766.0;-4288.0}	desc=[]	search_zoneid=1001	name=[Храм Ящеров Лангк]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1108	type=7	rc_level={0;0}	loc={15894.0;-112034.0;-224.0}	desc=[]	search_zoneid=1001	name=[Гакан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1109	type=7	rc_level={0;0}	loc={15894.0;-112034.0;-224.0}	desc=[]	search_zoneid=1001	name=[Гакан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1110	type=7	rc_level={0;0}	loc={9334.0;-112524.0;-2528.0}	desc=[]	search_zoneid=1001	name=[Гонитель Токара]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1111	type=7	rc_level={0;0}	loc={9334.0;-112524.0;-2528.0}	desc=[]	search_zoneid=1001	name=[Гонитель Токара]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1112	type=7	rc_level={0;0}	loc={-45158.0;-113598.0;-208.0}	desc=[]	search_zoneid=1001	name=[Префект Брукерс]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1113	type=7	rc_level={0;0}	loc={-45158.0;-113598.0;-208.0}	desc=[]	search_zoneid=1001	name=[Префект Брукерс]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1114	type=7	rc_level={0;0}	loc={-45572.0;-113188.0;-240.0}	desc=[]	search_zoneid=1001	name=[Вождь Атуба Варкис]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1115	type=7	rc_level={0;0}	loc={-45164.0;-112512.0;-240.0}	desc=[]	search_zoneid=1001	name=[Вождь Уруту Хатос]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1116	type=7	rc_level={0;0}	loc={-45155.0;-114484.0;-240.0}	desc=[]	search_zoneid=1001	name=[Вождь Неруга Тантус]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1117	type=7	rc_level={0;0}	loc={-45931.0;-115606.0;-240.0}	desc=[]	search_zoneid=1001	name=[Префект Карукия]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1118	type=7	rc_level={0;0}	loc={-45931.0;-115606.0;-240.0}	desc=[]	search_zoneid=1001	name=[Префект Карукия]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1119	type=7	rc_level={0;0}	loc={-56615.0;-113673.0;-672.0}	desc=[]	search_zoneid=1001	name=[Наследник Пламени Аккан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1120	type=7	rc_level={0;0}	loc={-56615.0;-113673.0;-672.0}	desc=[]	search_zoneid=1001	name=[Храм Паагрио]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1121	type=7	rc_level={0;0}	loc={-56636.0;-113536.0;-672.0}	desc=[]	search_zoneid=1001	name=[Таркаи Зу Дуда-Мара]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1122	type=7	rc_level={0;0}	loc={-56636.0;-113536.0;-672.0}	desc=[]	search_zoneid=1001	name=[Храм Паагрио]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1123	type=7	rc_level={0;0}	loc={-15078.0;-114708.0;-4016.0}	desc=[]	search_zoneid=1001	name=[Аватар Кашу]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1124	type=7	rc_level={0;0}	loc={-15078.0;-114708.0;-4016.0}	desc=[]	search_zoneid=1001	name=[Аватар Кашу]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1125	type=7	rc_level={0;0}	loc={-50883.0;-110531.0;-240.0}	desc=[]	search_zoneid=1001	name=[Забытый Дух Войны]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1126	type=7	rc_level={0;0}	loc={-50883.0;-110531.0;-240.0}	desc=[]	search_zoneid=1001	name=[Забытый Дух Войны]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1127	type=7	rc_level={0;0}	loc={-23686.0;-110853.0;-3304.0}	desc=[]	search_zoneid=1001	name=[Аватар Рошик]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1128	type=7	rc_level={0;0}	loc={-23686.0;-110853.0;-3304.0}	desc=[]	search_zoneid=1001	name=[Аватар Рошик]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1129	type=7	rc_level={0;0}	loc={12256.0;-112456.0;-2976.0}	desc=[]	search_zoneid=1001	name=[Заброшенная Пещера Испытаний]	regionid=0	npc_id=0	quest_id={}	instantzone_id=346	Hunt_end
+Hunt_begin	id=1130	type=7	rc_level={0;0}	loc={-40029.0;-108706.0;-1768.0}	desc=[]	search_zoneid=1001	name=[Убежище Тотемных Духов]	regionid=0	npc_id=0	quest_id={}	instantzone_id=347	Hunt_end
+Hunt_begin	id=1131	type=7	rc_level={0;0}	loc={16505.0;-206244.0;-8016.0}	desc=[]	search_zoneid=1001	name=[Секретная База Орков Кхаши]	regionid=0	npc_id=0	quest_id={}	instantzone_id=348	Hunt_end
+Hunt_begin	id=1132	type=7	rc_level={0;0}	loc={21147.0;-105611.0;-704.0}	desc=[]	search_zoneid=1001	name=[Алтарь Огня]	regionid=0	npc_id=0	quest_id={}	instantzone_id=349	Hunt_end
+Hunt_begin	id=1133	type=7	rc_level={0;0}	loc={-49399.0;-102517.0;-2040.0}	desc=[]	search_zoneid=1001	name=[Центр Крепости Орков Кхаши]	regionid=0	npc_id=0	quest_id={}	instantzone_id=350	Hunt_end
+Hunt_begin	id=1134	type=7	rc_level={0;0}	loc={-40109.0;-116124.0;-1912.0}	desc=[]	search_zoneid=1001	name=[Плато Бессмертия]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1135	type=7	rc_level={0;0}	loc={112395.0;-154261.0;-1528.0}	desc=[]	search_zoneid=1001	name=[Путевой Обходчик Оби]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1136	type=7	rc_level={0;0}	loc={135598.0;-135406.0;-3288.0}	desc=[]	search_zoneid=1001	name=[Алтея]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1137	type=7	rc_level={0;0}	loc={135598.0;-135406.0;-3288.0}	desc=[]	search_zoneid=1001	name=[Заснеженный Вулкан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1138	type=7	rc_level={0;0}	loc={146385.0;-144236.0;-3288.0}	desc=[]	search_zoneid=1001	name=[Ториан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1139	type=7	rc_level={0;0}	loc={193329.0;-158342.0;-1624.0}	desc=[]	search_zoneid=1001	name=[Джозеф]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1140	type=7	rc_level={0;0}	loc={146385.0;-144236.0;-3288.0}	desc=[]	search_zoneid=1001	name=[Заснеженный Вулкан]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1141	type=7	rc_level={0;0}	loc={169948.0;-136416.0;-3384.0}	desc=[]	search_zoneid=1001	name=[Поле Битвы с Балуаном]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=1142	type=7	rc_level={0;0}	loc={-49781.0;-147967.0;-14152.0}	desc=[]	search_zoneid=1001	name=[Подземный Кайнак]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end

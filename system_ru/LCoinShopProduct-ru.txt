@@ -1,0 +1,79 @@
+product_begin	product_id=325111301	category=5	mark_type=event	buy_items={{61209;1;[Сверкающий Волшебный Сундук];{1;999}}}	product_type=1	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325111302	category=5	mark_type=event	buy_items={{82172;1;[Печенье Стремительного Боя];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325111303	category=5	mark_type=event	buy_items={{82187;1;[Печенье Стремительной Защиты];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325111304	category=5	mark_type=event	buy_items={{81887;1;[Камень Рун];{1;999}}}	product_type=2	buy_limit={2;one_day;16}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325102701	category=5	mark_type=relay	buy_items={{61176;1;[Набор Дарти: Приветствие Самурая];{1;999}};{61177;1;[Набор Гильдии Путешественников: Приветствие Самурая];{1;999}};{61178;1;[Набор Торговой Ассоциации: Приветствие Самурая];{1;999}};{61179;1;[Набор Гильдии Рыболовов: Приветствие Самурая];{1;999}}}	product_type=1	buy_limit={2;always;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=407	category=0	mark_type=none	buy_items={{83362;1;[Орб Стихий];{1;999}}}	product_type=1	buy_limit={1;one_month;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=433	category=4	mark_type=none	buy_items={{83575;1;[Сказания Начинающего Странника];{1;999}}}	product_type=0	buy_limit={2;one_day;20}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=434	category=4	mark_type=none	buy_items={{82400;1;[Сундук с Камнем Зачарования];{1;999}}}	product_type=0	buy_limit={2;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=458	category=2	mark_type=none	buy_items={{83611;1;[Фиолетовая Сфера];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325062501	category=0	mark_type=none	buy_items={{60907;1;[Набор: Помощь с Иллюзорным Снаряжением];{1;999}}}	product_type=0	buy_limit={2;always;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=354	category=0	mark_type=none	buy_items={{47817;1;[Сундук с Талисманом Сайхи];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=358	category=0	mark_type=none	buy_items={{47916;1;[Сундук с Плащом Света Невитт];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=472	category=0	mark_type=none	buy_items={{81448;1;[Сундук с Ожерельем Ангела];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=473	category=0	mark_type=none	buy_items={{81449;1;[Сундук с Серьгой Ангела];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=474	category=0	mark_type=none	buy_items={{81450;1;[Сундук с Кольцом Ангела];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=360	category=1	mark_type=none	buy_items={{47951;1;[Кристалл Боевого Духа];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=361	category=1	mark_type=none	buy_items={{47952;1;[Кристалл Защиты];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=362	category=1	mark_type=none	buy_items={{80839;1;[Кристалл Рассвета];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=410	category=1	mark_type=none	buy_items={{83363;1;[Кристалл Мудрости];{1;999}}}	product_type=1	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=363	category=1	mark_type=none	buy_items={{82903;1;[Солярис];{1;999}}}	product_type=2	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=364	category=1	mark_type=none	buy_items={{82074;1;[Благословенный Свиток: Модифицировать Оружие Почета];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=365	category=1	mark_type=none	buy_items={{81898;1;[Свиток: Модифицировать Благословенные Доспехи Почета];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=366	category=1	mark_type=none	buy_items={{80964;1;[Энергия Защиты];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=370	category=1	mark_type=none	buy_items={{80636;1;[Кристалл Артефакта];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=371	category=1	mark_type=none	buy_items={{81134;1;[Кристалл Красок];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=373	category=2	mark_type=none	buy_items={{82634;1;[Песочные Часы Гомункула Высшего Ранга];{1;999}}}	product_type=0	buy_limit={2;one_month;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325040701	category=2	mark_type=none	buy_items={{81358;1;[Камень Продления Времени Заброшенного Угольного Рудника];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=374	category=2	mark_type=none	buy_items={{82665;1;[Сундук с Эфиром (10 шт.)];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=375	category=2	mark_type=none	buy_items={{81979;1;[Купон Смены Имени Свержения];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=376	category=2	mark_type=none	buy_items={{36308;1;[Предмет Королевской Красоты];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=377	category=2	mark_type=none	buy_items={{82904;1;[Блестящие Песочные Часы Гомункула];{1;999}}}	product_type=0	buy_limit={2;one_day;3}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=378	category=2	mark_type=none	buy_items={{83191;1;[Сундук с Запечатанным Источником Огня (25 шт.)];{1;999}}}	product_type=0	buy_limit={2;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=379	category=2	mark_type=none	buy_items={{83192;1;[Сундук с Божественным Огнем (10 шт.)];{1;999}}}	product_type=0	buy_limit={2;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=380	category=2	mark_type=none	buy_items={{83193;1;[Сундук со Сферой Огня (100 шт.)];{1;999}}}	product_type=0	buy_limit={2;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=381	category=2	mark_type=none	buy_items={{10649;1;[Благословенное Перо];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=382	category=2	mark_type=none	buy_items={{13015;1;[Книга Свободного Телепорта Ур. 1];{1;999}}}	product_type=0	buy_limit={1;always;6}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=383	category=2	mark_type=none	buy_items={{80999;1;[Книга Свободного Телепорта Ур. 2];{1;999}}}	product_type=0	buy_limit={1;always;6}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=384	category=2	mark_type=none	buy_items={{82788;1;[Книга Свободного Телепорта Ур. 3];{1;999}}}	product_type=0	buy_limit={1;always;6}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=385	category=2	mark_type=none	buy_items={{13016;1;[Свиток Свободного Телепорта];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=386	category=3	mark_type=none	buy_items={{82356;1;[Улучшенный Камень Рун];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=387	category=3	mark_type=none	buy_items={{82766;1;[Золотая Сфера];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=388	category=3	mark_type=none	buy_items={{82302;1;[Факел Тьмы];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=389	category=3	mark_type=none	buy_items={{82303;1;[Обломок Башни Дерзости];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=390	category=3	mark_type=none	buy_items={{82304;1;[Тайный Свиток Архангела];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=391	category=3	mark_type=none	buy_items={{48876;1;[Книга Забытой Силы Глава 1];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=392	category=3	mark_type=none	buy_items={{47951;1;[Кристалл Боевого Духа];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=393	category=3	mark_type=none	buy_items={{47952;1;[Кристалл Защиты];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=394	category=3	mark_type=none	buy_items={{80839;1;[Кристалл Рассвета];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=395	category=3	mark_type=none	buy_items={{82903;1;[Солярис];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=396	category=3	mark_type=none	buy_items={{83100;1;[Сундук со Сферой Гнева];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=397	category=3	mark_type=none	buy_items={{82344;1;[Сказания Измерений];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=420	category=3	mark_type=none	buy_items={{83356;1;[Таинственный Камень];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=424	category=3	mark_type=none	buy_items={{83382;1;[Таинственная Сфера Души];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=446	category=4	mark_type=none	buy_items={{83579;1;[Руна Неизвестного Странника];{1;999}}}	product_type=0	buy_limit={2;one_week;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070901	category=0	mark_type=none	buy_items={{28585;1;[Плащ Эльморадена];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070902	category=0	mark_type=none	buy_items={{28586;1;[Плащ Адена];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070903	category=0	mark_type=none	buy_items={{28587;1;[Плащ Эльмора];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070904	category=0	mark_type=none	buy_items={{28588;1;[Плащ Фериоса];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070908	category=1	mark_type=none	buy_items={{28593;1;[Свиток: Модифицировать Плащ];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=325040702	category=4	mark_type=none	buy_items={{48491;1;[Рубаха из Необработанной Кожи Дракона];{1;999}}}	product_type=0	buy_limit={1;one_month;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=408	category=4	mark_type=none	buy_items={{83006;1;[Купон Призыва Реликвии - 11 Раз];{110;999}}}	product_type=0	buy_limit={2;one_week;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=409	category=4	mark_type=none	buy_items={{83007;1;[Купон Призыва Реликвии - 1 Раз];{1;999}}}	product_type=0	buy_limit={2;one_day;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=401	category=4	mark_type=none	buy_items={{81215;1;[Эфир];{1;999}}}	product_type=0	buy_limit={2;one_day;80}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=402	category=4	mark_type=none	buy_items={{82344;1;[Сказания Измерений];{1;999}}}	product_type=0	buy_limit={2;one_day;20}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=403	category=4	mark_type=none	buy_items={{80762;1;[Красящий Порошок];{1;999}}}	product_type=0	buy_limit={2;one_day;10}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=405	category=4	mark_type=none	buy_items={{81815;1;[Песочные Часы Обычного Гомункула];{1;999}}}	product_type=0	buy_limit={2;one_day;3}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=406	category=4	mark_type=none	buy_items={{82305;1;[Древняя Энергия Беоры];{1;999}}}	product_type=0	buy_limit={2;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070918	category=3	mark_type=none	buy_items={{48848;1;[Ледяная Роза Фреи];{1;999}}}	product_type=0	buy_limit={1;one_day;18}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070919	category=3	mark_type=none	buy_items={{81054;1;[Свиток Шторма Фреи];{1;999}}}	product_type=0	buy_limit={1;one_day;28}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070920	category=3	mark_type=none	buy_items={{81013;1;[Сверкающие Золотые Песочные Часы Невитт];{1;999}}}	product_type=0	buy_limit={1;one_day;9}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070921	category=3	mark_type=none	buy_items={{81012;1;[Чудодейственный Коктейль];{1;999}}}	product_type=0	buy_limit={1;one_day;9}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070922	category=3	mark_type=none	buy_items={{48857;1;[Сверкающее Зелье Стихий Дракона (Опыт)];{1;999}}}	product_type=0	buy_limit={1;one_day;18}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070923	category=3	mark_type=none	buy_items={{81011;1;[Медовое Темное Пиво];{1;999}}}	product_type=0	buy_limit={1;one_day;18}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070924	category=3	mark_type=none	buy_items={{13300;1;[Благословенное Перо];{1;999}}}	product_type=0	buy_limit={1;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070925	category=3	mark_type=none	buy_items={{82305;1;[Древняя Энергия Беоры];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070934	category=3	mark_type=none	buy_items={{6406;1;[Фейерверк];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070935	category=3	mark_type=none	buy_items={{6407;1;[Большой Фейерверк];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324070936	category=3	mark_type=none	buy_items={{81815;1;[Песочные Часы Обычного Гомункула];{1;999}}}	product_type=0	buy_limit={1;one_day;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=324112001	category=3	mark_type=none	buy_items={{83007;1;[Купон Призыва Реликвии - 1 Раз];{1;999}}}	product_type=0	buy_limit={2;one_day;1}	product_desc=[]	product_htm=[]	product_end

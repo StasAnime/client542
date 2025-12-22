@@ -1,0 +1,3 @@
+prison_data_begin	prison_type=1	min_PK_count=10	max_PK_count=35	req_adena_for_leave=1000000000	req_items_for_leave={0;0}	holding_time=180	prison_data_end
+prison_data_begin	prison_type=2	min_PK_count=35	max_PK_count=40	req_adena_for_leave=1500000000	req_items_for_leave={82402;108}	holding_time=240	prison_data_end
+prison_data_begin	prison_type=3	min_PK_count=40	max_PK_count=-1	req_adena_for_leave=2000000000	req_items_for_leave={82401;54}	holding_time=300	prison_data_end

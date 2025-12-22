@@ -1,0 +1,12 @@
+mable_game_event_begin	event_group=back	event_id=1	event_group_description=[Move Backward]	event_description=[Monsters attack! You have to retreat.]	mable_game_event_end
+mable_game_event_begin	event_group=back	event_id=2	event_group_description=[Move Backward]	event_description=[The way is blocked by a trap.]	mable_game_event_end
+mable_game_event_begin	event_group=next	event_id=1	event_group_description=[Move Forward]	event_description=[A mysterious power forces you to go ahead.]	mable_game_event_end
+mable_game_event_begin	event_group=next	event_id=2	event_group_description=[Move Forward]	event_description=[You join a caravan heading in the same direction.]	mable_game_event_end
+mable_game_event_begin	event_group=warp	event_id=1	event_group_description=[Forced Teleport]	event_description=[Oops! You have to be careful when using scrolls of escape...]	mable_game_event_end
+mable_game_event_begin	event_group=warp	event_id=2	event_group_description=[Forced Teleport]	event_description=[A dimensional rift appears right before you teleporting you somewhere else.]	mable_game_event_end
+mable_game_event_begin	event_group=warp	event_id=3	event_group_description=[Forced Teleport]	event_description=[If you die in the Blazing Swamp, you start anew in Floran Village.]	mable_game_event_end
+mable_game_event_begin	event_group=warp	event_id=4	event_group_description=[Forced Teleport]	event_description=[If you die from the Turek Orcs, you start anew in Gludin.]	mable_game_event_end
+mable_game_event_begin	event_group=reward	event_id=1	event_group_description=[Receiving Items]	event_description=[Heading through the forest you find a treasure chest.]	mable_game_event_end
+mable_game_event_begin	event_group=reward	event_id=2	event_group_description=[Receiving Items]	event_description=[After dealing with monsters you have found valuable items.]	mable_game_event_end
+mable_game_event_begin	event_group=reward	event_id=3	event_group_description=[Receiving Items]	event_description=[You have found a lost treasure chest on the road.]	mable_game_event_end
+mable_game_event_begin	event_group=prison	event_id=1	event_group_description=[Uninhabited Island]	event_description=[An unknown power has teleported you to a mysterious place.]	mable_game_event_end

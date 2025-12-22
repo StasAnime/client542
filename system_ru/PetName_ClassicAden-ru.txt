@@ -1,0 +1,323 @@
+pet_name_begin	id=1	skill_id=0	skill_level=0	name=[Волчья тайна 1]	desc=[Описание]	pet_name_end
+pet_name_begin	id=2	skill_id=0	skill_level=0	name=[Волчья тайна 2]	desc=[Описание]	pet_name_end
+pet_name_begin	id=3	skill_id=0	skill_level=0	name=[Волчья тайна 3]	desc=[Описание]	pet_name_end
+pet_name_begin	id=4	skill_id=0	skill_level=0	name=[Волчья тайна 4]	desc=[Описание]	pet_name_end
+pet_name_begin	id=5	skill_id=0	skill_level=0	name=[Волчья тайна 5]	desc=[Описание]	pet_name_end
+pet_name_begin	id=6	skill_id=0	skill_level=0	name=[Волчья тайна 6]	desc=[Описание]	pet_name_end
+pet_name_begin	id=7	skill_id=0	skill_level=0	name=[Волчья тайна 7]	desc=[Описание]	pet_name_end
+pet_name_begin	id=8	skill_id=0	skill_level=0	name=[Волчья тайна 8]	desc=[Описание]	pet_name_end
+pet_name_begin	id=9	skill_id=0	skill_level=0	name=[Волчья тайна 9]	desc=[Описание]	pet_name_end
+pet_name_begin	id=10	skill_id=0	skill_level=0	name=[Волчья тайна 10]	desc=[Описание]	pet_name_end
+pet_name_begin	id=11	skill_id=49201	skill_level=1	name=[Сильный]	desc=[СИЛ +1]	pet_name_end
+pet_name_begin	id=12	skill_id=49201	skill_level=2	name=[Дюжий]	desc=[СИЛ +2]	pet_name_end
+pet_name_begin	id=13	skill_id=49201	skill_level=3	name=[Могучий]	desc=[СИЛ +3]	pet_name_end
+pet_name_begin	id=14	skill_id=49202	skill_level=1	name=[Проворный]	desc=[ЛВК +1]	pet_name_end
+pet_name_begin	id=15	skill_id=49202	skill_level=2	name=[Резвый]	desc=[ЛВК +2]	pet_name_end
+pet_name_begin	id=16	skill_id=49202	skill_level=3	name=[Стремительный]	desc=[ЛВК +3]	pet_name_end
+pet_name_begin	id=17	skill_id=49203	skill_level=1	name=[Здоровый]	desc=[ВЫН +1]	pet_name_end
+pet_name_begin	id=18	skill_id=49203	skill_level=2	name=[Крепкий]	desc=[ВЫН +2]	pet_name_end
+pet_name_begin	id=19	skill_id=49203	skill_level=3	name=[Стойкий]	desc=[ВЫН +3]	pet_name_end
+pet_name_begin	id=20	skill_id=49204	skill_level=1	name=[Смышленый]	desc=[ИНТ +1]	pet_name_end
+pet_name_begin	id=21	skill_id=49204	skill_level=2	name=[Умный]	desc=[ИНТ +2]	pet_name_end
+pet_name_begin	id=22	skill_id=49204	skill_level=3	name=[Гениальный]	desc=[ИНТ +3]	pet_name_end
+pet_name_begin	id=23	skill_id=49205	skill_level=1	name=[Наблюдательный]	desc=[МДР +1]	pet_name_end
+pet_name_begin	id=24	skill_id=49205	skill_level=2	name=[Проницательный]	desc=[МДР +2]	pet_name_end
+pet_name_begin	id=25	skill_id=49205	skill_level=3	name=[Прозорливый]	desc=[МДР +3]	pet_name_end
+pet_name_begin	id=26	skill_id=49206	skill_level=1	name=[Решительный]	desc=[ДУХ +1]	pet_name_end
+pet_name_begin	id=27	skill_id=49206	skill_level=2	name=[Здравомыслящий]	desc=[ДУХ +2]	pet_name_end
+pet_name_begin	id=28	skill_id=49206	skill_level=3	name=[Волевой]	desc=[ДУХ +3]	pet_name_end
+pet_name_begin	id=29	skill_id=0	skill_level=0	name=[Волк]	desc=[]	pet_name_end
+pet_name_begin	id=30	skill_id=0	skill_level=0	name=[Буйвол]	desc=[]	pet_name_end
+pet_name_begin	id=31	skill_id=0	skill_level=0	name=[Тигр]	desc=[]	pet_name_end
+pet_name_begin	id=32	skill_id=0	skill_level=0	name=[Кукабарра]	desc=[]	pet_name_end
+pet_name_begin	id=33	skill_id=0	skill_level=0	name=[Дракон]	desc=[]	pet_name_end
+pet_name_begin	id=34	skill_id=0	skill_level=0	name=[Громовой Ястреб]	desc=[]	pet_name_end
+pet_name_begin	id=35	skill_id=0	skill_level=0	name=[Лисенок]	desc=[]	pet_name_end
+pet_name_begin	id=101	skill_id=0	skill_level=0	name=[Лай]	desc=[Волк]	pet_name_end
+pet_name_begin	id=102	skill_id=0	skill_level=0	name=[Среброшкур]	desc=[Волк]	pet_name_end
+pet_name_begin	id=103	skill_id=0	skill_level=0	name=[Чон]	desc=[Волк]	pet_name_end
+pet_name_begin	id=105	skill_id=0	skill_level=0	name=[Красноглаз]	desc=[Волк]	pet_name_end
+pet_name_begin	id=106	skill_id=0	skill_level=0	name=[Робо]	desc=[Волк]	pet_name_end
+pet_name_begin	id=107	skill_id=0	skill_level=0	name=[Овчарка]	desc=[Волк]	pet_name_end
+pet_name_begin	id=108	skill_id=0	skill_level=0	name=[Хиндо]	desc=[Волк]	pet_name_end
+pet_name_begin	id=109	skill_id=0	skill_level=0	name=[Мэрин]	desc=[Волк]	pet_name_end
+pet_name_begin	id=110	skill_id=0	skill_level=0	name=[Кухулин]	desc=[Волк]	pet_name_end
+pet_name_begin	id=111	skill_id=0	skill_level=0	name=[Кухулин]	desc=[Волк]	pet_name_end
+pet_name_begin	id=113	skill_id=0	skill_level=0	name=[Ромул]	desc=[Волк]	pet_name_end
+pet_name_begin	id=114	skill_id=0	skill_level=0	name=[Фенрир]	desc=[Волк]	pet_name_end
+pet_name_begin	id=115	skill_id=0	skill_level=0	name=[Аллен]	desc=[Волк]	pet_name_end
+pet_name_begin	id=116	skill_id=0	skill_level=0	name=[Александр]	desc=[Волк]	pet_name_end
+pet_name_begin	id=117	skill_id=0	skill_level=0	name=[Кадифан]	desc=[Волк]	pet_name_end
+pet_name_begin	id=118	skill_id=0	skill_level=0	name=[Марак]	desc=[Волк]	pet_name_end
+pet_name_begin	id=119	skill_id=0	skill_level=0	name=[Гарум]	desc=[Волк]	pet_name_end
+pet_name_begin	id=120	skill_id=0	skill_level=0	name=[Кхаши]	desc=[Волк]	pet_name_end
+pet_name_begin	id=122	skill_id=0	skill_level=0	name=[Чанран]	desc=[Волк]	pet_name_end
+pet_name_begin	id=123	skill_id=0	skill_level=0	name=[Волчище]	desc=[Волк]	pet_name_end
+pet_name_begin	id=124	skill_id=0	skill_level=0	name=[Хищник]	desc=[Волк]	pet_name_end
+pet_name_begin	id=125	skill_id=0	skill_level=0	name=[Синешкур]	desc=[Волк]	pet_name_end
+pet_name_begin	id=149	skill_id=0	skill_level=0	name=[Призрак]	desc=[Волк]	pet_name_end
+pet_name_begin	id=112	skill_id=0	skill_level=0	name=[Робо]	desc=[Волк/ Тигр]	pet_name_end
+pet_name_begin	id=139	skill_id=0	skill_level=0	name=[Мурлыка]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=140	skill_id=0	skill_level=0	name=[Тигренок]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=141	skill_id=0	skill_level=0	name=[Котан]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=142	skill_id=0	skill_level=0	name=[Котенок]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=143	skill_id=0	skill_level=0	name=[Амос]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=144	skill_id=0	skill_level=0	name=[Ракшас]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=146	skill_id=0	skill_level=0	name=[Марилл]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=147	skill_id=0	skill_level=0	name=[Чангун]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=148	skill_id=0	skill_level=0	name=[Ловец Кошмаров]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=150	skill_id=0	skill_level=0	name=[Звереныш]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=151	skill_id=0	skill_level=0	name=[Ассасин Тьмы]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=152	skill_id=0	skill_level=0	name=[Лесовик]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=186	skill_id=0	skill_level=0	name=[Снежник]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=190	skill_id=0	skill_level=0	name=[Том]	desc=[Тигр]	pet_name_end
+pet_name_begin	id=127	skill_id=0	skill_level=0	name=[Минот]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=128	skill_id=0	skill_level=0	name=[Минот]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=129	skill_id=0	skill_level=0	name=[Таран]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=126	skill_id=0	skill_level=0	name=[Лимонит]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=130	skill_id=0	skill_level=0	name=[Вожак]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=131	skill_id=0	skill_level=0	name=[Бизон]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=132	skill_id=0	skill_level=0	name=[Зубр]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=133	skill_id=0	skill_level=0	name=[Бизон]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=134	skill_id=0	skill_level=0	name=[Апис]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=135	skill_id=0	skill_level=0	name=[Чарльз]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=136	skill_id=0	skill_level=0	name=[Денвер]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=137	skill_id=0	skill_level=0	name=[Матхорн]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=138	skill_id=0	skill_level=0	name=[Пустынник]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=189	skill_id=0	skill_level=0	name=[Танги]	desc=[Буйвол]	pet_name_end
+pet_name_begin	id=154	skill_id=0	skill_level=0	name=[Фафнир]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=156	skill_id=0	skill_level=0	name=[Фафнир]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=153	skill_id=0	skill_level=0	name=[Дракончик]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=157	skill_id=0	skill_level=0	name=[Бритра]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=158	skill_id=0	skill_level=0	name=[Питон]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=159	skill_id=0	skill_level=0	name=[Бакстер]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=160	skill_id=0	skill_level=0	name=[Эдан]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=161	skill_id=0	skill_level=0	name=[Огневик]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=162	skill_id=0	skill_level=0	name=[Драконище]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=163	skill_id=0	skill_level=0	name=[Антарс]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=187	skill_id=0	skill_level=0	name=[Саламандр]	desc=[Дракон]	pet_name_end
+pet_name_begin	id=155	skill_id=0	skill_level=0	name=[Кетцалькоатль]	desc=[Дракон/ Ястреб]	pet_name_end
+pet_name_begin	id=164	skill_id=0	skill_level=0	name=[Орел]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=165	skill_id=0	skill_level=0	name=[Кондор]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=173	skill_id=0	skill_level=0	name=[Кондор]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=166	skill_id=0	skill_level=0	name=[Гор]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=167	skill_id=0	skill_level=0	name=[Аттила]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=168	skill_id=0	skill_level=0	name=[Лахман]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=170	skill_id=0	skill_level=0	name=[Арвид]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=171	skill_id=0	skill_level=0	name=[Калан]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=172	skill_id=0	skill_level=0	name=[Рокс]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=174	skill_id=0	skill_level=0	name=[Сапсан]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=176	skill_id=0	skill_level=0	name=[Ясновидец]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=177	skill_id=0	skill_level=0	name=[Летун]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=179	skill_id=0	skill_level=0	name=[Клауд]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=188	skill_id=0	skill_level=0	name=[Стрелок]	desc=[Ястреб]	pet_name_end
+pet_name_begin	id=169	skill_id=0	skill_level=0	name=[Феникс]	desc=[Ястреб/ Кукабарра]	pet_name_end
+pet_name_begin	id=178	skill_id=0	skill_level=0	name=[Страус]	desc=[Кукабарра]	pet_name_end
+pet_name_begin	id=180	skill_id=0	skill_level=0	name=[Эндрю]	desc=[Кукабарра]	pet_name_end
+pet_name_begin	id=191	skill_id=0	skill_level=0	name=[Эндрю]	desc=[Кукабарра]	pet_name_end
+pet_name_begin	id=181	skill_id=0	skill_level=0	name=[Клауд]	desc=[Кукабарра]	pet_name_end
+pet_name_begin	id=182	skill_id=0	skill_level=0	name=[Хазел]	desc=[Кукабарра]	pet_name_end
+pet_name_begin	id=183	skill_id=0	skill_level=0	name=[Пепер]	desc=[Кукабарра]	pet_name_end
+pet_name_begin	id=184	skill_id=0	skill_level=0	name=[Саван]	desc=[Кукабарра]	pet_name_end
+pet_name_begin	id=185	skill_id=0	skill_level=0	name=[Бегун]	desc=[Кукабарра]	pet_name_end
+pet_name_begin	id=145	skill_id=0	skill_level=0	name=[Ирен]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=175	skill_id=0	skill_level=0	name=[Крис]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=192	skill_id=0	skill_level=0	name=[Барц]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=193	skill_id=0	skill_level=0	name=[Зигхард]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=194	skill_id=0	skill_level=0	name=[Кайн]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=195	skill_id=0	skill_level=0	name=[Лион]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=196	skill_id=0	skill_level=0	name=[Эрикс]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=197	skill_id=0	skill_level=0	name=[Гастин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=198	skill_id=0	skill_level=0	name=[Девиан]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=199	skill_id=0	skill_level=0	name=[Хиндемит]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=200	skill_id=0	skill_level=0	name=[Теон]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=201	skill_id=0	skill_level=0	name=[Франц]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=202	skill_id=0	skill_level=0	name=[Лунар]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=203	skill_id=0	skill_level=0	name=[Кастиен]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=204	skill_id=0	skill_level=0	name=[Светоч]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=205	skill_id=0	skill_level=0	name=[Старис]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=206	skill_id=0	skill_level=0	name=[Сериэль]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=207	skill_id=0	skill_level=0	name=[Фейшар]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=208	skill_id=0	skill_level=0	name=[Эльвин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=209	skill_id=0	skill_level=0	name=[Элрик]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=210	skill_id=0	skill_level=0	name=[Шикен]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=211	skill_id=0	skill_level=0	name=[Скрайд]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=212	skill_id=0	skill_level=0	name=[Фрикиос]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=213	skill_id=0	skill_level=0	name=[Офилин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=214	skill_id=0	skill_level=0	name=[Сейкдун]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=215	skill_id=0	skill_level=0	name=[Тазиф]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=216	skill_id=0	skill_level=0	name=[Ариан]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=217	skill_id=0	skill_level=0	name=[Эсиэн]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=218	skill_id=0	skill_level=0	name=[Элькард]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=219	skill_id=0	skill_level=0	name=[Иан]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=220	skill_id=0	skill_level=0	name=[Сересин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=221	skill_id=0	skill_level=0	name=[Таркаи]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=222	skill_id=0	skill_level=0	name=[Кардин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=223	skill_id=0	skill_level=0	name=[Роен]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=224	skill_id=0	skill_level=0	name=[Галлинт]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=225	skill_id=0	skill_level=0	name=[Тиада]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=226	skill_id=0	skill_level=0	name=[Невитор]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=227	skill_id=0	skill_level=0	name=[Каран]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=228	skill_id=0	skill_level=0	name=[Терси]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=229	skill_id=0	skill_level=0	name=[Бремнон]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=230	skill_id=0	skill_level=0	name=[Леонел]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=231	skill_id=0	skill_level=0	name=[Адат]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=232	skill_id=0	skill_level=0	name=[Элиза]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=233	skill_id=0	skill_level=0	name=[Роберткен]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=234	skill_id=0	skill_level=0	name=[Везунчик]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=235	skill_id=0	skill_level=0	name=[Рауль]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=236	skill_id=0	skill_level=0	name=[Сирин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=237	skill_id=0	skill_level=0	name=[Орифия]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=238	skill_id=0	skill_level=0	name=[Солина]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=239	skill_id=0	skill_level=0	name=[Момо]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=240	skill_id=0	skill_level=0	name=[Эван]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=241	skill_id=0	skill_level=0	name=[Новель]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=242	skill_id=0	skill_level=0	name=[Акейн]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=243	skill_id=0	skill_level=0	name=[Инферно]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=244	skill_id=0	skill_level=0	name=[Каллия]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=245	skill_id=0	skill_level=0	name=[Дафне]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=246	skill_id=0	skill_level=0	name=[Тириэн]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=247	skill_id=0	skill_level=0	name=[Ирис]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=248	skill_id=0	skill_level=0	name=[Вулкан]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=249	skill_id=0	skill_level=0	name=[Беора]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=250	skill_id=0	skill_level=0	name=[Инорин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=251	skill_id=0	skill_level=0	name=[Берисона]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=252	skill_id=0	skill_level=0	name=[Бризилла]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=253	skill_id=0	skill_level=0	name=[Шунайман]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=254	skill_id=0	skill_level=0	name=[Митраэль]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=255	skill_id=0	skill_level=0	name=[Кранвел]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=256	skill_id=0	skill_level=0	name=[Айнховант]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=257	skill_id=0	skill_level=0	name=[Расия]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=258	skill_id=0	skill_level=0	name=[Сараф]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=259	skill_id=0	skill_level=0	name=[Тенебри]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=260	skill_id=0	skill_level=0	name=[Аман]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=261	skill_id=0	skill_level=0	name=[Ганди]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=262	skill_id=0	skill_level=0	name=[Сильйо]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=263	skill_id=0	skill_level=0	name=[Темон]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=264	skill_id=0	skill_level=0	name=[Регина]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=265	skill_id=0	skill_level=0	name=[Рамсхарт]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=266	skill_id=0	skill_level=0	name=[Элгос]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=267	skill_id=0	skill_level=0	name=[Мордред]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=268	skill_id=0	skill_level=0	name=[Гренд]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=269	skill_id=0	skill_level=0	name=[Кадмус]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=270	skill_id=0	skill_level=0	name=[Люсьен]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=271	skill_id=0	skill_level=0	name=[Фринтеза]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=272	skill_id=0	skill_level=0	name=[Клаудия]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=273	skill_id=0	skill_level=0	name=[Хантер]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=274	skill_id=0	skill_level=0	name=[Хаос]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=275	skill_id=0	skill_level=0	name=[Марилион]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=276	skill_id=0	skill_level=0	name=[Спирон]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=277	skill_id=0	skill_level=0	name=[Сема]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=278	skill_id=0	skill_level=0	name=[Дженна]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=279	skill_id=0	skill_level=0	name=[Элиас]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=280	skill_id=0	skill_level=0	name=[Кумак]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=281	skill_id=0	skill_level=0	name=[Филар]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=282	skill_id=0	skill_level=0	name=[Сома]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=283	skill_id=0	skill_level=0	name=[Айн]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=284	skill_id=0	skill_level=0	name=[Поса]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=285	skill_id=0	skill_level=0	name=[Роти]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=286	skill_id=0	skill_level=0	name=[Кецерус]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=287	skill_id=0	skill_level=0	name=[Лизин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=288	skill_id=0	skill_level=0	name=[Агмун]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=289	skill_id=0	skill_level=0	name=[Харант]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=290	skill_id=0	skill_level=0	name=[Соири]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=291	skill_id=0	skill_level=0	name=[Дебора]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=292	skill_id=0	skill_level=0	name=[Куби]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=293	skill_id=0	skill_level=0	name=[Баланки]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=294	skill_id=0	skill_level=0	name=[Вичирид]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=295	skill_id=0	skill_level=0	name=[Памела]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=296	skill_id=0	skill_level=0	name=[Грант]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=297	skill_id=0	skill_level=0	name=[Фабер]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=298	skill_id=0	skill_level=0	name=[Кекеи]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=299	skill_id=0	skill_level=0	name=[Аллегра]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=300	skill_id=0	skill_level=0	name=[Аккан]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=301	skill_id=0	skill_level=0	name=[Тиди]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=302	skill_id=0	skill_level=0	name=[Такуна]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=303	skill_id=0	skill_level=0	name=[Кентарон]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=304	skill_id=0	skill_level=0	name=[Парис]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=305	skill_id=0	skill_level=0	name=[Канан]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=306	skill_id=0	skill_level=0	name=[Гамон]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=307	skill_id=0	skill_level=0	name=[Телинаус]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=308	skill_id=0	skill_level=0	name=[Аделин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=309	skill_id=0	skill_level=0	name=[Рафиэль]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=310	skill_id=0	skill_level=0	name=[Ариэн]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=311	skill_id=0	skill_level=0	name=[Лаурон]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=312	skill_id=0	skill_level=0	name=[Тор]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=313	skill_id=0	skill_level=0	name=[Банамин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=314	skill_id=0	skill_level=0	name=[Кастелла]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=315	skill_id=0	skill_level=0	name=[Эштон]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=316	skill_id=0	skill_level=0	name=[Надин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=317	skill_id=0	skill_level=0	name=[Риэн]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=318	skill_id=0	skill_level=0	name=[Триш]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=319	skill_id=0	skill_level=0	name=[Бергис]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=320	skill_id=0	skill_level=0	name=[Никс]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=321	skill_id=0	skill_level=0	name=[Хелла]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=322	skill_id=0	skill_level=0	name=[Эйрина]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=323	skill_id=0	skill_level=0	name=[Кайша]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=324	skill_id=0	skill_level=0	name=[Тобальд]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=325	skill_id=0	skill_level=0	name=[Мойна]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=326	skill_id=0	skill_level=0	name=[Каспар]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=327	skill_id=0	skill_level=0	name=[Терестиен]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=328	skill_id=0	skill_level=0	name=[Медина]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=329	skill_id=0	skill_level=0	name=[Тез]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=330	skill_id=0	skill_level=0	name=[Тома]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=331	skill_id=0	skill_level=0	name=[Фотиан]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=332	skill_id=0	skill_level=0	name=[Наоми]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=333	skill_id=0	skill_level=0	name=[Рудбис]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=334	skill_id=0	skill_level=0	name=[Биэль]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=335	skill_id=0	skill_level=0	name=[Варкис]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=336	skill_id=0	skill_level=0	name=[Хинес]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=337	skill_id=0	skill_level=0	name=[Эллина]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=338	skill_id=0	skill_level=0	name=[Авиджа]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=339	skill_id=0	skill_level=0	name=[Оделия]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=340	skill_id=0	skill_level=0	name=[Гюбод]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=341	skill_id=0	skill_level=0	name=[Рудрис]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=342	skill_id=0	skill_level=0	name=[Эспада]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=343	skill_id=0	skill_level=0	name=[Валдстоун]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=344	skill_id=0	skill_level=0	name=[Гольдик]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=104	skill_id=0	skill_level=0	name=[Эйнхасад]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=121	skill_id=0	skill_level=0	name=[Гран Каин]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=345	skill_id=0	skill_level=0	name=[Ева]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=346	skill_id=0	skill_level=0	name=[Шилен]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=347	skill_id=0	skill_level=0	name=[Паагрио]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=348	skill_id=0	skill_level=0	name=[Мафр]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=349	skill_id=0	skill_level=0	name=[Сайха]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=350	skill_id=0	skill_level=0	name=[Звездопад]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=351	skill_id=0	skill_level=0	name=[Луносвет]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=352	skill_id=0	skill_level=0	name=[Светик]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=353	skill_id=0	skill_level=0	name=[Яркоцвет]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=354	skill_id=0	skill_level=0	name=[Бронзик]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=355	skill_id=0	skill_level=0	name=[Серебрянка]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=356	skill_id=0	skill_level=0	name=[Золотко]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=357	skill_id=0	skill_level=0	name=[Платинка]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=358	skill_id=0	skill_level=0	name=[Люси]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=359	skill_id=0	skill_level=0	name=[Грейс]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=360	skill_id=0	skill_level=0	name=[Сиа]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=361	skill_id=0	skill_level=0	name=[Айрис]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=362	skill_id=0	skill_level=0	name=[Рибо]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=363	skill_id=0	skill_level=0	name=[Стелла]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=364	skill_id=0	skill_level=0	name=[Лукас]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=365	skill_id=0	skill_level=0	name=[Шион]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=366	skill_id=0	skill_level=0	name=[Весна]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=367	skill_id=0	skill_level=0	name=[Луна]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=368	skill_id=0	skill_level=0	name=[Юри]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=369	skill_id=0	skill_level=0	name=[Хару]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=370	skill_id=0	skill_level=0	name=[Эджи]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=371	skill_id=0	skill_level=0	name=[Мокка]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=372	skill_id=0	skill_level=0	name=[Ночь]	desc=[Общее имя питомца]	pet_name_end
+pet_name_begin	id=373	skill_id=0	skill_level=0	name=[Хитринка]	desc=[Лис]	pet_name_end
+pet_name_begin	id=374	skill_id=0	skill_level=0	name=[Тибет]	desc=[Лис]	pet_name_end
+pet_name_begin	id=375	skill_id=0	skill_level=0	name=[Михо]	desc=[Лис]	pet_name_end
+pet_name_begin	id=376	skill_id=0	skill_level=0	name=[Шинби]	desc=[Лис]	pet_name_end
+pet_name_begin	id=377	skill_id=0	skill_level=0	name=[Инби]	desc=[Лис]	pet_name_end
+pet_name_begin	id=378	skill_id=0	skill_level=0	name=[Сихо]	desc=[Лис]	pet_name_end
+pet_name_begin	id=379	skill_id=0	skill_level=0	name=[Фенек]	desc=[Лис]	pet_name_end
+pet_name_begin	id=380	skill_id=0	skill_level=0	name=[Кумихо]	desc=[Лис]	pet_name_end
+pet_name_begin	id=381	skill_id=0	skill_level=0	name=[Огнелис]	desc=[Лис]	pet_name_end
+pet_name_begin	id=382	skill_id=0	skill_level=0	name=[Мэку]	desc=[Лис]	pet_name_end
+pet_name_begin	id=383	skill_id=0	skill_level=0	name=[Ари]	desc=[Лис]	pet_name_end
+pet_name_begin	id=384	skill_id=0	skill_level=0	name=[Коко]	desc=[Лис]	pet_name_end
+pet_name_begin	id=385	skill_id=0	skill_level=0	name=[Лара]	desc=[Лис]	pet_name_end
+pet_name_begin	id=386	skill_id=0	skill_level=0	name=[Ворон]	desc=[Ворон]	pet_name_end
+pet_name_begin	id=387	skill_id=0	skill_level=0	name=[Вулкан]	desc=[Вулкан]	pet_name_end
+pet_name_begin	id=388	skill_id=0	skill_level=0	name=[Глассия]	desc=[Глассия]	pet_name_end

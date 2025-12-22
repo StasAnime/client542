@@ -1,0 +1,1 @@
+localize_begin	target=[null]	targettype=45302	targetid=0	skilllv=0	value=[45302_ch]	applycountry={cn}	localize_end

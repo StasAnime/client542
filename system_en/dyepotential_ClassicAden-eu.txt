@@ -1,0 +1,14 @@
+dyepotential_begin	dyepotential_id=1	dye_slot_id=1	max_skill_level=30	skill_id=83001	effect_name=[P./ M. Atk.]	dyepotential_end
+dyepotential_begin	dyepotential_id=2	dye_slot_id=1	max_skill_level=30	skill_id=83002	effect_name=[P./ M. Def.]	dyepotential_end
+dyepotential_begin	dyepotential_id=3	dye_slot_id=1	max_skill_level=30	skill_id=83003	effect_name=[Atk. Spd./ Casting Spd.]	dyepotential_end
+dyepotential_begin	dyepotential_id=4	dye_slot_id=2	max_skill_level=30	skill_id=83004	effect_name=[Skill damage bonus]	dyepotential_end
+dyepotential_begin	dyepotential_id=5	dye_slot_id=2	max_skill_level=30	skill_id=83005	effect_name=[Received skill damage]	dyepotential_end
+dyepotential_begin	dyepotential_id=8	dye_slot_id=3	max_skill_level=30	skill_id=83008	effect_name=[Skill Critical Damage]	dyepotential_end
+dyepotential_begin	dyepotential_id=9	dye_slot_id=3	max_skill_level=30	skill_id=83009	effect_name=[Skill Critical Rate]	dyepotential_end
+dyepotential_begin	dyepotential_id=10	dye_slot_id=3	max_skill_level=30	skill_id=83010	effect_name=[Received Skill Critical Damage]	dyepotential_end
+dyepotential_begin	dyepotential_id=11	dye_slot_id=3	max_skill_level=30	skill_id=83011	effect_name=[Received Skill Critical Rate]	dyepotential_end
+dyepotential_begin	dyepotential_id=12	dye_slot_id=4	max_skill_level=30	skill_id=83012	effect_name=[Soulshot/ Spiritshot damage]	dyepotential_end
+dyepotential_begin	dyepotential_id=13	dye_slot_id=4	max_skill_level=30	skill_id=83013	effect_name=[Soulshot/ Spiritshot Damage Resistance]	dyepotential_end
+dyepotential_begin	dyepotential_id=14	dye_slot_id=4	max_skill_level=30	skill_id=83014	effect_name=[Damage Reduction]	dyepotential_end
+dyepotential_begin	dyepotential_id=15	dye_slot_id=4	max_skill_level=30	skill_id=83015	effect_name=[Damage Reduction Ignore]	dyepotential_end
+dyepotential_begin	dyepotential_id=16	dye_slot_id=4	max_skill_level=30	skill_id=83016	effect_name=[Anomaly Atk. Rate]	dyepotential_end

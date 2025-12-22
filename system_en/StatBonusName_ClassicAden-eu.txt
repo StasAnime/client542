@@ -1,0 +1,18 @@
+statbonus_begin	stat_bonus_type=str	stat_grade=60	desc=[<60+> P. Atk. +20]	statbonus_end
+statbonus_begin	stat_bonus_type=str	stat_grade=70	desc=[<70+> P. Skill Critical Damage +200]	statbonus_end
+statbonus_begin	stat_bonus_type=str	stat_grade=90	desc=[<90+> P. Skill Power +10%]	statbonus_end
+statbonus_begin	stat_bonus_type=int	stat_grade=60	desc=[<60+> M. Atk. +20]	statbonus_end
+statbonus_begin	stat_bonus_type=int	stat_grade=70	desc=[<70+> M. Skill Critical Damage +200]	statbonus_end
+statbonus_begin	stat_bonus_type=int	stat_grade=90	desc=[<90+> M. Skill Power +10%]	statbonus_end
+statbonus_begin	stat_bonus_type=dex	stat_grade=50	desc=[<50+> Basic Critical Rate +50]	statbonus_end
+statbonus_begin	stat_bonus_type=dex	stat_grade=60	desc=[<60+> P. Skill Cooldown -10%]	statbonus_end
+statbonus_begin	stat_bonus_type=dex	stat_grade=80	desc=[<80+> P. Skill Evasion +20%]	statbonus_end
+statbonus_begin	stat_bonus_type=wit	stat_grade=40	desc=[<40+> M. Critical Rate +50]	statbonus_end
+statbonus_begin	stat_bonus_type=wit	stat_grade=50	desc=[<50+> M. Skill Cooldown -10%]	statbonus_end
+statbonus_begin	stat_bonus_type=wit	stat_grade=70	desc=[<70+> M. Skill Evasion +20%]	statbonus_end
+statbonus_begin	stat_bonus_type=con	stat_grade=50	desc=[<50+> P. Def. +200]	statbonus_end
+statbonus_begin	stat_bonus_type=con	stat_grade=65	desc=[<65+> Max HP +1000]	statbonus_end
+statbonus_begin	stat_bonus_type=con	stat_grade=90	desc=[<90+> HP Recovery Rate +10]	statbonus_end
+statbonus_begin	stat_bonus_type=men	stat_grade=45	desc=[<45+> M. Def. +200]	statbonus_end
+statbonus_begin	stat_bonus_type=men	stat_grade=60	desc=[<60+> Max MP +1000]	statbonus_end
+statbonus_begin	stat_bonus_type=men	stat_grade=85	desc=[<85+> MP Recovery Rate +10]	statbonus_end

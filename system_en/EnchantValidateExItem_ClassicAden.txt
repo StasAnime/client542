@@ -1,0 +1,350 @@
+EnchantValue_begin	enchant_add={30.0;50.0;100.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;31.0;31.0;31.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;31.0;31.0;31.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;31.0;31.0;31.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;31.0;31.0;31.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={15.0;15.0;15.0;35.0;35.0;35.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={15.0;15.0;15.0;35.0;35.0;35.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={15.0;15.0;15.0;35.0;35.0;35.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={15.0;15.0;15.0;35.0;35.0;35.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;31.0;31.0;31.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;31.0;31.0;31.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;31.0;31.0;31.0;65.0;65.0;65.0;65.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={11.0;11.0;11.0;31.0;31.0;31.0;65.0;65.0;65.0;65.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={13.0;13.0;13.0;37.0;37.0;37.0;73.0;73.0;73.0;73.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={13.0;13.0;13.0;37.0;37.0;37.0;73.0;73.0;73.0;73.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={13.0;13.0;13.0;37.0;37.0;37.0;73.0;73.0;73.0;73.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={13.0;13.0;13.0;37.0;37.0;37.0;73.0;73.0;73.0;73.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={13.0;13.0;13.0;37.0;37.0;37.0;73.0;73.0;73.0;73.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={13.0;13.0;13.0;37.0;37.0;37.0;73.0;73.0;73.0;73.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={13.0;13.0;13.0;37.0;37.0;37.0;73.0;73.0;73.0;73.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={13.0;13.0;13.0;37.0;37.0;37.0;73.0;73.0;73.0;73.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={13.0;13.0;13.0;37.0;37.0;37.0;73.0;73.0;73.0;73.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={13.0;13.0;13.0;37.0;37.0;37.0;73.0;73.0;73.0;73.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={17.0;17.0;17.0;49.0;49.0;49.0;96.0;96.0;96.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={17.0;17.0;17.0;49.0;49.0;49.0;96.0;96.0;96.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={17.0;17.0;17.0;49.0;49.0;49.0;96.0;96.0;96.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={17.0;17.0;17.0;49.0;49.0;49.0;96.0;96.0;96.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={10.0;10.0;10.0;30.0;30.0;30.0;50.0;50.0;50.0;50.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={10.0;10.0;10.0;30.0;30.0;30.0;50.0;50.0;50.0;50.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={10.0;10.0;10.0;30.0;30.0;30.0;50.0;50.0;50.0;50.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={10.0;10.0;10.0;30.0;30.0;30.0;50.0;50.0;50.0;50.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={6.0;6.0;6.0;18.0;18.0;18.0;18.0;36.0;36.0;36.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={15.0;15.0;15.0;35.0;35.0;35.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={10.0;10.0;10.0;30.0;30.0;30.0;50.0;50.0;50.0;50.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={15.0;15.0;15.0;35.0;35.0;35.0;75.0;75.0;75.0;75.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={10.0;10.0;10.0;30.0;30.0;30.0;50.0;50.0;50.0;50.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;85.0;90.0;100.0;100.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={50.0;95.0;105.0;115.0;125.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={50.0;95.0;105.0;115.0;125.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={42.0;54.0;66.0;80.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={42.0;54.0;66.0;80.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={60.0;80.0;90.0;100.0;110.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={60.0;80.0;90.0;100.0;110.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={60.0;80.0;90.0;100.0;110.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={60.0;80.0;90.0;100.0;110.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={60.0;80.0;90.0;100.0;110.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={60.0;80.0;90.0;100.0;110.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={40.0;75.0;85.0;95.0;95.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={60.0;80.0;90.0;100.0;110.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={60.0;80.0;90.0;100.0;110.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={42.0;54.0;66.0;80.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={42.0;54.0;66.0;80.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={42.0;54.0;66.0;80.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={42.0;54.0;66.0;80.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={42.0;54.0;66.0;80.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={42.0;54.0;66.0;80.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={42.0;54.0;66.0;80.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={42.0;54.0;66.0;80.0;96.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+EnchantValue_begin	enchant_add={30.0;44.0;56.0;68.0;80.0}	EnchantValue_end
+ItemProperty_begin	item_id=93000	enchant_add={{patk;0}}	ItemProperty_end
+ItemProperty_begin	item_id=95725	enchant_add={{patk;1};{matk;27}}	ItemProperty_end
+ItemProperty_begin	item_id=96751	enchant_add={{patk;2};{matk;28}}	ItemProperty_end
+ItemProperty_begin	item_id=95727	enchant_add={{patk;3};{matk;29}}	ItemProperty_end
+ItemProperty_begin	item_id=96753	enchant_add={{patk;4};{matk;30}}	ItemProperty_end
+ItemProperty_begin	item_id=95732	enchant_add={{patk;5};{matk;31}}	ItemProperty_end
+ItemProperty_begin	item_id=96758	enchant_add={{patk;6};{matk;32}}	ItemProperty_end
+ItemProperty_begin	item_id=95728	enchant_add={{patk;7};{matk;33}}	ItemProperty_end
+ItemProperty_begin	item_id=96754	enchant_add={{patk;8};{matk;34}}	ItemProperty_end
+ItemProperty_begin	item_id=95729	enchant_add={{patk;9};{matk;35}}	ItemProperty_end
+ItemProperty_begin	item_id=96755	enchant_add={{patk;10};{matk;36}}	ItemProperty_end
+ItemProperty_begin	item_id=95735	enchant_add={{patk;11};{matk;37}}	ItemProperty_end
+ItemProperty_begin	item_id=96761	enchant_add={{patk;12};{matk;38}}	ItemProperty_end
+ItemProperty_begin	item_id=95733	enchant_add={{patk;13};{matk;39}}	ItemProperty_end
+ItemProperty_begin	item_id=96759	enchant_add={{patk;14};{matk;40}}	ItemProperty_end
+ItemProperty_begin	item_id=95726	enchant_add={{patk;15};{matk;41}}	ItemProperty_end
+ItemProperty_begin	item_id=96752	enchant_add={{patk;16};{matk;42}}	ItemProperty_end
+ItemProperty_begin	item_id=95731	enchant_add={{patk;17};{matk;43}}	ItemProperty_end
+ItemProperty_begin	item_id=96757	enchant_add={{patk;18};{matk;44}}	ItemProperty_end
+ItemProperty_begin	item_id=95737	enchant_add={{patk;19};{matk;45}}	ItemProperty_end
+ItemProperty_begin	item_id=96763	enchant_add={{patk;20};{matk;46}}	ItemProperty_end
+ItemProperty_begin	item_id=95734	enchant_add={{patk;21};{matk;47}}	ItemProperty_end
+ItemProperty_begin	item_id=96760	enchant_add={{patk;22};{matk;48}}	ItemProperty_end
+ItemProperty_begin	item_id=95730	enchant_add={{patk;23};{matk;49}}	ItemProperty_end
+ItemProperty_begin	item_id=96756	enchant_add={{patk;24};{matk;50}}	ItemProperty_end
+ItemProperty_begin	item_id=95736	enchant_add={{patk;25};{matk;51}}	ItemProperty_end
+ItemProperty_begin	item_id=96762	enchant_add={{patk;26};{matk;52}}	ItemProperty_end
+ItemProperty_begin	item_id=98943	enchant_add={{patk;53};{matk;54}}	ItemProperty_end
+ItemProperty_begin	item_id=98944	enchant_add={{patk;55};{matk;56}}	ItemProperty_end
+ItemProperty_begin	item_id=93864	enchant_add={{patk;57};{matk;71}}	ItemProperty_end
+ItemProperty_begin	item_id=105312	enchant_add={{patk;57};{matk;71}}	ItemProperty_end
+ItemProperty_begin	item_id=97088	enchant_add={{patk;58};{matk;72}}	ItemProperty_end
+ItemProperty_begin	item_id=105313	enchant_add={{patk;58};{matk;72}}	ItemProperty_end
+ItemProperty_begin	item_id=96938	enchant_add={{patk;59};{matk;73}}	ItemProperty_end
+ItemProperty_begin	item_id=105323	enchant_add={{patk;59};{matk;73}}	ItemProperty_end
+ItemProperty_begin	item_id=96927	enchant_add={{patk;60};{matk;74}}	ItemProperty_end
+ItemProperty_begin	item_id=105315	enchant_add={{patk;60};{matk;74}}	ItemProperty_end
+ItemProperty_begin	item_id=96935	enchant_add={{patk;61};{matk;75}}	ItemProperty_end
+ItemProperty_begin	item_id=105322	enchant_add={{patk;61};{matk;75}}	ItemProperty_end
+ItemProperty_begin	item_id=96939	enchant_add={{patk;62};{matk;76}}	ItemProperty_end
+ItemProperty_begin	item_id=105324	enchant_add={{patk;62};{matk;76}}	ItemProperty_end
+ItemProperty_begin	item_id=96929	enchant_add={{patk;63};{matk;77}}	ItemProperty_end
+ItemProperty_begin	item_id=105317	enchant_add={{patk;63};{matk;77}}	ItemProperty_end
+ItemProperty_begin	item_id=96933	enchant_add={{patk;64};{matk;78}}	ItemProperty_end
+ItemProperty_begin	item_id=105321	enchant_add={{patk;64};{matk;78}}	ItemProperty_end
+ItemProperty_begin	item_id=96928	enchant_add={{patk;65};{matk;79}}	ItemProperty_end
+ItemProperty_begin	item_id=105316	enchant_add={{patk;65};{matk;79}}	ItemProperty_end
+ItemProperty_begin	item_id=96932	enchant_add={{patk;66};{matk;80}}	ItemProperty_end
+ItemProperty_begin	item_id=105320	enchant_add={{patk;66};{matk;80}}	ItemProperty_end
+ItemProperty_begin	item_id=97089	enchant_add={{patk;67};{matk;81}}	ItemProperty_end
+ItemProperty_begin	item_id=105314	enchant_add={{patk;67};{matk;81}}	ItemProperty_end
+ItemProperty_begin	item_id=96930	enchant_add={{patk;68};{matk;82}}	ItemProperty_end
+ItemProperty_begin	item_id=105318	enchant_add={{patk;68};{matk;82}}	ItemProperty_end
+ItemProperty_begin	item_id=96940	enchant_add={{patk;69};{matk;83}}	ItemProperty_end
+ItemProperty_begin	item_id=105325	enchant_add={{patk;69};{matk;83}}	ItemProperty_end
+ItemProperty_begin	item_id=96931	enchant_add={{patk;70};{matk;84}}	ItemProperty_end
+ItemProperty_begin	item_id=105319	enchant_add={{patk;70};{matk;84}}	ItemProperty_end
+ItemProperty_begin	item_id=103875	enchant_add={{patk;85};{matk;137}}	ItemProperty_end
+ItemProperty_begin	item_id=105365	enchant_add={{patk;85};{matk;137}}	ItemProperty_end
+ItemProperty_begin	item_id=103877	enchant_add={{patk;86};{matk;138}}	ItemProperty_end
+ItemProperty_begin	item_id=105367	enchant_add={{patk;86};{matk;138}}	ItemProperty_end
+ItemProperty_begin	item_id=103881	enchant_add={{patk;87};{matk;139}}	ItemProperty_end
+ItemProperty_begin	item_id=105371	enchant_add={{patk;87};{matk;139}}	ItemProperty_end
+ItemProperty_begin	item_id=103876	enchant_add={{patk;88};{matk;140}}	ItemProperty_end
+ItemProperty_begin	item_id=105366	enchant_add={{patk;88};{matk;140}}	ItemProperty_end
+ItemProperty_begin	item_id=103879	enchant_add={{patk;89};{matk;141}}	ItemProperty_end
+ItemProperty_begin	item_id=105369	enchant_add={{patk;89};{matk;141}}	ItemProperty_end
+ItemProperty_begin	item_id=103882	enchant_add={{patk;90};{matk;142}}	ItemProperty_end
+ItemProperty_begin	item_id=105372	enchant_add={{patk;90};{matk;142}}	ItemProperty_end
+ItemProperty_begin	item_id=103883	enchant_add={{patk;91};{matk;143}}	ItemProperty_end
+ItemProperty_begin	item_id=105373	enchant_add={{patk;91};{matk;143}}	ItemProperty_end
+ItemProperty_begin	item_id=103886	enchant_add={{patk;92};{matk;144}}	ItemProperty_end
+ItemProperty_begin	item_id=105376	enchant_add={{patk;92};{matk;144}}	ItemProperty_end
+ItemProperty_begin	item_id=103887	enchant_add={{patk;93};{matk;145}}	ItemProperty_end
+ItemProperty_begin	item_id=105377	enchant_add={{patk;93};{matk;145}}	ItemProperty_end
+ItemProperty_begin	item_id=103884	enchant_add={{patk;94};{matk;146}}	ItemProperty_end
+ItemProperty_begin	item_id=105374	enchant_add={{patk;94};{matk;146}}	ItemProperty_end
+ItemProperty_begin	item_id=103878	enchant_add={{patk;95};{matk;147}}	ItemProperty_end
+ItemProperty_begin	item_id=105368	enchant_add={{patk;95};{matk;147}}	ItemProperty_end
+ItemProperty_begin	item_id=103880	enchant_add={{patk;96};{matk;148}}	ItemProperty_end
+ItemProperty_begin	item_id=105370	enchant_add={{patk;96};{matk;148}}	ItemProperty_end
+ItemProperty_begin	item_id=103885	enchant_add={{patk;97};{matk;149}}	ItemProperty_end
+ItemProperty_begin	item_id=105375	enchant_add={{patk;97};{matk;149}}	ItemProperty_end
+ItemProperty_begin	item_id=103833	enchant_add={{patk;98};{matk;150}}	ItemProperty_end
+ItemProperty_begin	item_id=105326	enchant_add={{patk;98};{matk;150}}	ItemProperty_end
+ItemProperty_begin	item_id=103835	enchant_add={{patk;99};{matk;151}}	ItemProperty_end
+ItemProperty_begin	item_id=105328	enchant_add={{patk;99};{matk;151}}	ItemProperty_end
+ItemProperty_begin	item_id=103839	enchant_add={{patk;100};{matk;152}}	ItemProperty_end
+ItemProperty_begin	item_id=105332	enchant_add={{patk;100};{matk;152}}	ItemProperty_end
+ItemProperty_begin	item_id=103834	enchant_add={{patk;101};{matk;153}}	ItemProperty_end
+ItemProperty_begin	item_id=105327	enchant_add={{patk;101};{matk;153}}	ItemProperty_end
+ItemProperty_begin	item_id=103837	enchant_add={{patk;102};{matk;154}}	ItemProperty_end
+ItemProperty_begin	item_id=105330	enchant_add={{patk;102};{matk;154}}	ItemProperty_end
+ItemProperty_begin	item_id=103840	enchant_add={{patk;103};{matk;155}}	ItemProperty_end
+ItemProperty_begin	item_id=105333	enchant_add={{patk;103};{matk;155}}	ItemProperty_end
+ItemProperty_begin	item_id=103841	enchant_add={{patk;104};{matk;156}}	ItemProperty_end
+ItemProperty_begin	item_id=105334	enchant_add={{patk;104};{matk;156}}	ItemProperty_end
+ItemProperty_begin	item_id=103844	enchant_add={{patk;105};{matk;157}}	ItemProperty_end
+ItemProperty_begin	item_id=105337	enchant_add={{patk;105};{matk;157}}	ItemProperty_end
+ItemProperty_begin	item_id=103845	enchant_add={{patk;106};{matk;158}}	ItemProperty_end
+ItemProperty_begin	item_id=105338	enchant_add={{patk;106};{matk;158}}	ItemProperty_end
+ItemProperty_begin	item_id=103842	enchant_add={{patk;107};{matk;159}}	ItemProperty_end
+ItemProperty_begin	item_id=105335	enchant_add={{patk;107};{matk;159}}	ItemProperty_end
+ItemProperty_begin	item_id=103836	enchant_add={{patk;108};{matk;160}}	ItemProperty_end
+ItemProperty_begin	item_id=105329	enchant_add={{patk;108};{matk;160}}	ItemProperty_end
+ItemProperty_begin	item_id=103838	enchant_add={{patk;109};{matk;161}}	ItemProperty_end
+ItemProperty_begin	item_id=105331	enchant_add={{patk;109};{matk;161}}	ItemProperty_end
+ItemProperty_begin	item_id=103843	enchant_add={{patk;110};{matk;162}}	ItemProperty_end
+ItemProperty_begin	item_id=105336	enchant_add={{patk;110};{matk;162}}	ItemProperty_end
+ItemProperty_begin	item_id=103861	enchant_add={{patk;111};{matk;163}}	ItemProperty_end
+ItemProperty_begin	item_id=105352	enchant_add={{patk;111};{matk;163}}	ItemProperty_end
+ItemProperty_begin	item_id=103863	enchant_add={{patk;112};{matk;164}}	ItemProperty_end
+ItemProperty_begin	item_id=105354	enchant_add={{patk;112};{matk;164}}	ItemProperty_end
+ItemProperty_begin	item_id=103867	enchant_add={{patk;113};{matk;165}}	ItemProperty_end
+ItemProperty_begin	item_id=105358	enchant_add={{patk;113};{matk;165}}	ItemProperty_end
+ItemProperty_begin	item_id=103862	enchant_add={{patk;114};{matk;166}}	ItemProperty_end
+ItemProperty_begin	item_id=105353	enchant_add={{patk;114};{matk;166}}	ItemProperty_end
+ItemProperty_begin	item_id=103865	enchant_add={{patk;115};{matk;167}}	ItemProperty_end
+ItemProperty_begin	item_id=105356	enchant_add={{patk;115};{matk;167}}	ItemProperty_end
+ItemProperty_begin	item_id=103868	enchant_add={{patk;116};{matk;168}}	ItemProperty_end
+ItemProperty_begin	item_id=105359	enchant_add={{patk;116};{matk;168}}	ItemProperty_end
+ItemProperty_begin	item_id=103869	enchant_add={{patk;117};{matk;169}}	ItemProperty_end
+ItemProperty_begin	item_id=105360	enchant_add={{patk;117};{matk;169}}	ItemProperty_end
+ItemProperty_begin	item_id=103872	enchant_add={{patk;118};{matk;170}}	ItemProperty_end
+ItemProperty_begin	item_id=105363	enchant_add={{patk;118};{matk;170}}	ItemProperty_end
+ItemProperty_begin	item_id=103873	enchant_add={{patk;119};{matk;171}}	ItemProperty_end
+ItemProperty_begin	item_id=105364	enchant_add={{patk;119};{matk;171}}	ItemProperty_end
+ItemProperty_begin	item_id=103870	enchant_add={{patk;120};{matk;172}}	ItemProperty_end
+ItemProperty_begin	item_id=105361	enchant_add={{patk;120};{matk;172}}	ItemProperty_end
+ItemProperty_begin	item_id=103864	enchant_add={{patk;121};{matk;173}}	ItemProperty_end
+ItemProperty_begin	item_id=105355	enchant_add={{patk;121};{matk;173}}	ItemProperty_end
+ItemProperty_begin	item_id=103866	enchant_add={{patk;122};{matk;174}}	ItemProperty_end
+ItemProperty_begin	item_id=105357	enchant_add={{patk;122};{matk;174}}	ItemProperty_end
+ItemProperty_begin	item_id=103871	enchant_add={{patk;123};{matk;175}}	ItemProperty_end
+ItemProperty_begin	item_id=105362	enchant_add={{patk;123};{matk;175}}	ItemProperty_end
+ItemProperty_begin	item_id=103847	enchant_add={{patk;124};{matk;176}}	ItemProperty_end
+ItemProperty_begin	item_id=105339	enchant_add={{patk;124};{matk;176}}	ItemProperty_end
+ItemProperty_begin	item_id=103849	enchant_add={{patk;125};{matk;177}}	ItemProperty_end
+ItemProperty_begin	item_id=105341	enchant_add={{patk;125};{matk;177}}	ItemProperty_end
+ItemProperty_begin	item_id=103853	enchant_add={{patk;126};{matk;178}}	ItemProperty_end
+ItemProperty_begin	item_id=105345	enchant_add={{patk;126};{matk;178}}	ItemProperty_end
+ItemProperty_begin	item_id=103848	enchant_add={{patk;127};{matk;179}}	ItemProperty_end
+ItemProperty_begin	item_id=105340	enchant_add={{patk;127};{matk;179}}	ItemProperty_end
+ItemProperty_begin	item_id=103851	enchant_add={{patk;128};{matk;180}}	ItemProperty_end
+ItemProperty_begin	item_id=105343	enchant_add={{patk;128};{matk;180}}	ItemProperty_end
+ItemProperty_begin	item_id=103854	enchant_add={{patk;129};{matk;181}}	ItemProperty_end
+ItemProperty_begin	item_id=105346	enchant_add={{patk;129};{matk;181}}	ItemProperty_end
+ItemProperty_begin	item_id=103855	enchant_add={{patk;130};{matk;182}}	ItemProperty_end
+ItemProperty_begin	item_id=105347	enchant_add={{patk;130};{matk;182}}	ItemProperty_end
+ItemProperty_begin	item_id=103858	enchant_add={{patk;131};{matk;183}}	ItemProperty_end
+ItemProperty_begin	item_id=105350	enchant_add={{patk;131};{matk;183}}	ItemProperty_end
+ItemProperty_begin	item_id=103859	enchant_add={{patk;132};{matk;184}}	ItemProperty_end
+ItemProperty_begin	item_id=105351	enchant_add={{patk;132};{matk;184}}	ItemProperty_end
+ItemProperty_begin	item_id=103856	enchant_add={{patk;133};{matk;185}}	ItemProperty_end
+ItemProperty_begin	item_id=105348	enchant_add={{patk;133};{matk;185}}	ItemProperty_end
+ItemProperty_begin	item_id=103850	enchant_add={{patk;134};{matk;186}}	ItemProperty_end
+ItemProperty_begin	item_id=105342	enchant_add={{patk;134};{matk;186}}	ItemProperty_end
+ItemProperty_begin	item_id=103852	enchant_add={{patk;135};{matk;187}}	ItemProperty_end
+ItemProperty_begin	item_id=105344	enchant_add={{patk;135};{matk;187}}	ItemProperty_end
+ItemProperty_begin	item_id=103857	enchant_add={{patk;136};{matk;188}}	ItemProperty_end
+ItemProperty_begin	item_id=105349	enchant_add={{patk;136};{matk;188}}	ItemProperty_end

@@ -494,8 +494,6 @@ itemMultisell_begin	itemClassID=103684	multisell_id_list={1775}	multisell_name={
 itemMultisell_begin	itemClassID=103685	multisell_id_list={1776}	multisell_name={[Маски Фантома +8]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=103686	multisell_id_list={1777}	multisell_name={[Предметы для Развития]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=103687	multisell_id_list={1778}	multisell_name={[Предметы для Развития]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=92314	multisell_id_list={1780}	multisell_name={[Печать Гирана]}	unk={114}	itemMultisell_end
-itemMultisell_begin	itemClassID=92314	multisell_id_list={2088}	multisell_name={[Печать Гирана]}	unk={10}	itemMultisell_end
 itemMultisell_begin	itemClassID=103698	multisell_id_list={1782}	multisell_name={[Талисманы Адена +9]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=103699	multisell_id_list={1783}	multisell_name={[Талисманы Евы +9]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=103700	multisell_id_list={1784}	multisell_name={[Талисманы Властителя +9]}	unk={}	itemMultisell_end

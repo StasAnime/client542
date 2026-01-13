@@ -198,4 +198,7 @@ product_begin	product_id=204	category=2	mark_type=none	buy_items={{93268;1;[[У�
 product_begin	product_id=205	category=2	mark_type=none	buy_items={{93269;1;[[Улучшенный Свиток Модификации Доспех Ранга А]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=206	category=2	mark_type=none	buy_items={{93270;1;[[Проклятый Свиток Модификации Оружие Ранга А]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=207	category=2	mark_type=none	buy_items={{93271;1;[[Проклятый Свиток Модификации Доспех Ранга А]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
-
+product_begin	product_id=208	category=3	mark_type=none	buy_items={{105276;1;[[Улучшенная Книга Заклинаний]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=209	category=3	mark_type=none	buy_items={{105280;1;[[Исключительная Книга Заклинаний]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=210	category=3	mark_type=none	buy_items={{105284;1;[[Редкая Книга Заклинаний]];{1;999}}}	product_type=0	buy_limit={1;one_week;3}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=211	category=3	mark_type=none	buy_items={{97178;1;[[Героическая Книга Заклинаний]];{1;999}}}	product_type=0	buy_limit={1;one_week;1}	product_desc=[]	product_htm=[]	product_end

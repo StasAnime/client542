@@ -494,8 +494,6 @@ itemMultisell_begin	itemClassID=103684	multisell_id_list={1775}	multisell_name={
 itemMultisell_begin	itemClassID=103685	multisell_id_list={1776}	multisell_name={[+8 Phantom Mask]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=103686	multisell_id_list={1777}	multisell_name={[Growth Items]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=103687	multisell_id_list={1778}	multisell_name={[Growth Items]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=92314	multisell_id_list={1780}	multisell_name={[Giran Seal]}	unk={114}	itemMultisell_end
-itemMultisell_begin	itemClassID=92314	multisell_id_list={2088}	multisell_name={[Giran Seal]}	unk={10}	itemMultisell_end
 itemMultisell_begin	itemClassID=103698	multisell_id_list={1782}	multisell_name={[+9 Talisman of Aden]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=103699	multisell_id_list={1783}	multisell_name={[+9 Talisman of Eva]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=103700	multisell_id_list={1784}	multisell_name={[+9 Talisman of Authority]}	unk={}	itemMultisell_end

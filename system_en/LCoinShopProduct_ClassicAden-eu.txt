@@ -198,3 +198,7 @@ product_begin	product_id=204	category=2	mark_type=none	buy_items={{93268;1;[[Imp
 product_begin	product_id=205	category=2	mark_type=none	buy_items={{93269;1;[[Improved Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=206	category=2	mark_type=none	buy_items={{93270;1;[[Cursed Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=207	category=2	mark_type=none	buy_items={{93271;1;[[Cursed Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=208	category=3	mark_type=none	buy_items={{105276;1;[[Enhanced Spellbook]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=209	category=3	mark_type=none	buy_items={{105280;1;[[Superior Spellbook]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=210	category=3	mark_type=none	buy_items={{105284;1;[[Rare Spellbook]];{1;999}}}	product_type=0	buy_limit={1;one_week;3}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=211	category=3	mark_type=none	buy_items={{97178;1;[[Heroic Spellbook]];{1;999}}}	product_type=0	buy_limit={1;one_week;1}	product_desc=[]	product_htm=[]	product_end

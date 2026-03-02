@@ -20318,3 +20318,8 @@ skillacquire_begin	block_skill_id={}	class_id=239	skill_id=87705	consume_sp=2400
 skillacquire_begin	block_skill_id={}	class_id=239	skill_id=87705	consume_sp=2900000	consume_adena=100000000	consume_item={}	multisell_group_id=0	system_msg_id=0	level=15	get_lv=95	category_index=0	consume_item_count=0	skillacquire_end
 skillacquire_begin	block_skill_id={}	class_id=239	skill_id=87710	consume_sp=6700	consume_adena=0	consume_item={101160;101146}	multisell_group_id=0	system_msg_id=13860	level=1	get_lv=76	category_index=2	consume_item_count=1	skillacquire_end
 skillacquire_begin	block_skill_id={}	class_id=239	skill_id=87710	consume_sp=6700	consume_adena=0	consume_item={101161;101147}	multisell_group_id=0	system_msg_id=13902	level=2	get_lv=76	category_index=2	consume_item_count=1	skillacquire_end
+
+skillacquire_begin	block_skill_id={}	class_id=263	skill_id=45408	consume_sp=0	consume_adena=10000000	consume_item={}	multisell_group_id=0	system_msg_id=0	level=1	get_lv=76	category_index=0	consume_item_count=0	skillacquire_end
+skillacquire_begin	block_skill_id={}	class_id=263	skill_id=45408	consume_sp=0	consume_adena=40000000	consume_item={}	multisell_group_id=0	system_msg_id=0	level=2	get_lv=80	category_index=0	consume_item_count=0	skillacquire_end
+skillacquire_begin	block_skill_id={}	class_id=263	skill_id=45408	consume_sp=0	consume_adena=100000000	consume_item={}	multisell_group_id=0	system_msg_id=0	level=3	get_lv=85	category_index=0	consume_item_count=0	skillacquire_end
+skillacquire_begin	block_skill_id={}	class_id=263	skill_id=45408	consume_sp=0	consume_adena=200000000	consume_item={}	multisell_group_id=0	system_msg_id=0	level=4	get_lv=90	category_index=0	consume_item_count=0	skillacquire_end

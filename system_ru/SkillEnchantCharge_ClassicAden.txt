@@ -1,3 +1,9 @@
+skill_enchant_charge_begin	group_item=300022	exp_grade={{1;0;0}}	commission_item_id=57	group_id=18	target_level=1001	skill_enchant_charge_end
+skill_enchant_charge_begin	group_item=300023	exp_grade={{1;0;0}}	commission_item_id=57	group_id=19	target_level=1002	skill_enchant_charge_end
+skill_enchant_charge_begin	group_item=300024	exp_grade={{1;0;0}}	commission_item_id=57	group_id=20	target_level=1003	skill_enchant_charge_end
+skill_enchant_charge_begin	group_item=300025	exp_grade={{2;0;0}}	commission_item_id=57	group_id=21	target_level=1001	skill_enchant_charge_end
+skill_enchant_charge_begin	group_item=300026	exp_grade={{2;0;0}}	commission_item_id=57	group_id=22	target_level=1002	skill_enchant_charge_end
+skill_enchant_charge_begin	group_item=300027	exp_grade={{2;0;0}}	commission_item_id=57	group_id=23	target_level=1003	skill_enchant_charge_end
 skill_enchant_charge_begin	group_item=98232	exp_grade={{0;10000;10000};{1;2250;3000000};{2;750;3000000};{3;450;3000000};{4;11;3000000}}	commission_item_id=57	group_id=1	target_level=0	skill_enchant_charge_end
 skill_enchant_charge_begin	group_item=103802	exp_grade={{0;300000;1000};{1;2250;3000000};{2;750;3000000};{3;450;3000000};{4;11;3000000}}	commission_item_id=57	group_id=2	target_level=0	skill_enchant_charge_end
 skill_enchant_charge_begin	group_item=103804	exp_grade={{0;300000;1000};{1;2250;3000000};{2;750;3000000};{3;450;3000000};{4;11;3000000}}	commission_item_id=57	group_id=2	target_level=0	skill_enchant_charge_end

@@ -833,3 +833,4 @@ itemMultisell_begin	itemClassID=72448	multisell_id_list={4740}	multisell_name={[
 itemMultisell_begin	itemClassID=72574	multisell_id_list={70008;70010;70012;70014;70016}	multisell_name={[Armor];[Weapons];[Other equipment];[Upgrade items];[Misc.]}	unk={59}	itemMultisell_end
 itemMultisell_begin	itemClassID=72565	multisell_id_list={70018}	multisell_name={['I want to be a Ruler of Darkness!' Agathions]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=72579	multisell_id_list={70020}	multisell_name={[Supply Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=700013	multisell_id_list={20000}	multisell_name={[Item Exchange]}	unk={}	itemMultisell_end

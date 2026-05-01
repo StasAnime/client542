@@ -597,8 +597,6 @@ itemMultisell_begin	itemClassID=104308	multisell_id_list={1902}	multisell_name={
 itemMultisell_begin	itemClassID=104328	multisell_id_list={1903}	multisell_name={[Особые Доспехи]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104345	multisell_id_list={1904}	multisell_name={[Ларцы Ур. 6]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104261	multisell_id_list={1905}	multisell_name={[Розы Кровавой Розы]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=91076	multisell_id_list={1907}	multisell_name={[Обмен Талисманов]}	unk={10}	itemMultisell_end
-itemMultisell_begin	itemClassID=91076	multisell_id_list={1908}	multisell_name={[Обмен Талисманов]}	unk={114}	itemMultisell_end
 itemMultisell_begin	itemClassID=104370	multisell_id_list={1909}	multisell_name={[Специальные Сертификаты на Снаряжение]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104375	multisell_id_list={1910}	multisell_name={[Подвески Эйнхасад]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104376	multisell_id_list={1911}	multisell_name={[Куклы Премиум]}	unk={}	itemMultisell_end

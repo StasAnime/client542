@@ -102,6 +102,8 @@ product_begin	product_id=107	category=4	mark_type=none	buy_items={{98315;1;[[Scr
 product_begin	product_id=108	category=5	mark_type=none	buy_items={{94871;1;[[Heavenly Ticket (Time-limited)]];{1;999}}}	product_type=1	buy_limit={1;one_day;200}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=109	category=5	mark_type=none	buy_items={{94871;1;[[Heavenly Ticket (Time-limited)]];{1;999}}}	product_type=1	buy_limit={1;one_day;200}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=110	category=5	mark_type=none	buy_items={{93740;1;[[Giran Seal Pack]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=212	category=5	mark_type=none	buy_items={{100567;1;[[Stable Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=213	category=5	mark_type=none	buy_items={{100568;1;[[Stable Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=111	category=0	mark_type=none	buy_items={{100589;1;[[Enchant Kit: Phantom Mask]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=112	category=0	mark_type=none	buy_items={{93685;1;[[Enchant Kit: Talisman of Speed]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=113	category=0	mark_type=none	buy_items={{92468;1;[[Venir's Talisman Pack Lv. 1]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
@@ -186,7 +188,7 @@ product_begin	product_id=192	category=3	mark_type=none	buy_items={{97449;1;[[Scr
 product_begin	product_id=193	category=3	mark_type=none	buy_items={{97860;1;[[Stable Scroll: Enchant Rare Accessories]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=194	category=1	mark_type=none	buy_items={{93274;1;[[Sayha's Cookie]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=195	category=2	mark_type=none	buy_items={{98946;1;[[Special Zone's Time Stone Coupon (Time-limited)]];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=196	category=0	mark_type=none	buy_items={{101234;1;[[A-grade Weapon Exchange Coupon]];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=196	category=0	mark_type=none	buy_items={{101234;1;[[A-grade Weapon Exchange Coupon]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=197	category=0	mark_type=none	buy_items={{101264;1;[[A-grade Armor Coupon (Sealed) (Time-limited)]];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=198	category=2	mark_type=none	buy_items={{93976;1;[[Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=199	category=2	mark_type=none	buy_items={{93977;1;[[Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
@@ -194,10 +196,10 @@ product_begin	product_id=200	category=2	mark_type=none	buy_items={{93406;1;[[Scr
 product_begin	product_id=201	category=2	mark_type=none	buy_items={{93407;1;[[Scroll: Enchant B-grade Armor]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=202	category=2	mark_type=none	buy_items={{93408;1;[[Scroll: Enchant C-grade Weapon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=203	category=2	mark_type=none	buy_items={{93409;1;[[Scroll: Enchant C-grade Armor]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=204	category=2	mark_type=none	buy_items={{93268;1;[[Improved Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=205	category=2	mark_type=none	buy_items={{93269;1;[[Improved Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=206	category=2	mark_type=none	buy_items={{93270;1;[[Cursed Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=207	category=2	mark_type=none	buy_items={{93271;1;[[Cursed Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=204	category=2	mark_type=none	buy_items={{93268;1;[[Improved Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=205	category=2	mark_type=none	buy_items={{93269;1;[[Improved Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=206	category=2	mark_type=none	buy_items={{93270;1;[[Cursed Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=207	category=2	mark_type=none	buy_items={{93271;1;[[Cursed Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=208	category=3	mark_type=none	buy_items={{105276;1;[[Enhanced Spellbook]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=209	category=3	mark_type=none	buy_items={{105280;1;[[Superior Spellbook]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=210	category=3	mark_type=none	buy_items={{105284;1;[[Rare Spellbook]];{1;999}}}	product_type=0	buy_limit={1;one_week;3}	product_desc=[]	product_htm=[]	product_end

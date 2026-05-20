@@ -1131,7 +1131,7 @@ string_begin	stringID=1110071	string=[is standing up.]	string_end
 string_begin	stringID=1110072	string=[is sitting down.]	string_end
 string_begin	stringID=1110073	string=[You can only use this skill in attack mode.]	string_end
 string_begin	stringID=1110074	string=[Out of range.]	string_end
-string_begin	stringID=1110075	string=[<Button ALIGN=LEFT ICON="NORMAL" action="bypass -h menu_select?ask=255&reply=3" msg="811;Ипподром Монстров">Teleport to Monster Race Track (free)</button>]	string_end
+string_begin	stringID=1110075	string=[<Button ALIGN=LEFT ICON="NORMAL" action="bypass -h menu_select?ask=255&reply=3" msg="811;РРїРїРѕРґСЂРѕРј РњРѕРЅСЃС‚СЂРѕРІ">Teleport to Monster Race Track (free)</button>]	string_end
 string_begin	stringID=1111002	string=[<Button ALIGN=LEFT ICON="NORMAL" action="bypass -h menu_select?ask=-2&reply=41&state=1">Gladiator</button>]	string_end
 string_begin	stringID=1111003	string=[<Button ALIGN=LEFT ICON="NORMAL" action="bypass -h menu_select?ask=-2&reply=41&state=1">Warlord</button>]	string_end
 string_begin	stringID=1111005	string=[<Button ALIGN=LEFT ICON="NORMAL" action="bypass -h menu_select?ask=-2&reply=41&state=1">Paladin</button>]	string_end
@@ -2843,7 +2843,7 @@ string_begin	stringID=7161	string=[I have to go. I've got some business to take 
 string_begin	stringID=7162	string=[Ugh! Don't let him get away!]	string_end
 string_begin	stringID=7163	string=[Don't forget your pride. You're protecting the world!]	string_end
 string_begin	stringID=7164	string=[Ha, ha, ha!...]	string_end
-string_begin	stringID=7165	string=[Kuh, huh…]	string_end
+string_begin	stringID=7165	string=[Kuh, huhвЂ¦]	string_end
 string_begin	stringID=7166	string=[Aah! Kuh...$s1!...Kuh, huh...]	string_end
 string_begin	stringID=7167	string=[$s1!...Re... mem... Ugh...Uh...]	string_end
 string_begin	stringID=7250	string=[$s1, You'd better listen.]	string_end
@@ -3533,7 +3533,7 @@ string_begin	stringID=1010634	string=[The $s1 team's jackpot has $s2%% of its re
 string_begin	stringID=1010635	string=[Undecided]	string_end
 string_begin	stringID=1010636	string=[Heh heh... I see that the feast has begun! Be wary! The curse of the Hellmann family has poisoned this land!]	string_end
 string_begin	stringID=1010637	string=[Arise, my faithful servants! You, my people who have inherited the blood. It is the calling of my daughter. The feast of blood will now begin!]	string_end
-string_begin	stringID=1010638	string=[You may have lordship over the forest for now…but remember! The true lord will return… Enjoy your power while it lasts, if you can manage to sleep at night! Hahaha!]	string_end
+string_begin	stringID=1010638	string=[You may have lordship over the forest for nowвЂ¦but remember! The true lord will returnвЂ¦ Enjoy your power while it lasts, if you can manage to sleep at night! Hahaha!]	string_end
 string_begin	stringID=1010639	string=[In 2 min. the game arena will be cleaned. Throw any items you don't need on the floor.]	string_end
 string_begin	stringID=1010640	string=[Grarr! $s1 team is using the Hot Spring Brimstone on the opponent's camp.]	string_end
 string_begin	stringID=1010641	string=[Grarr! $s1 team is attempting to steal the jackpot.]	string_end
@@ -4803,7 +4803,7 @@ string_begin	stringID=1600003	string=[You cannot mount a Wyvern while in battle 
 string_begin	stringID=1600004	string=[Boo-hoo... I hate...]	string_end
 string_begin	stringID=1600005	string=[See you later.]	string_end
 string_begin	stringID=1600006	string=[You've made a great choice.]	string_end
-string_begin	stringID=1600007	string=[Thanks! I feel more relaxed…]	string_end
+string_begin	stringID=1600007	string=[Thanks! I feel more relaxedвЂ¦]	string_end
 string_begin	stringID=1600008	string=[Did you see that Firecracker explode?]	string_end
 string_begin	stringID=1600009	string=[I am nothing.]	string_end
 string_begin	stringID=1600010	string=[I am telling the truth.]	string_end
@@ -5022,7 +5022,7 @@ string_begin	stringID=14303	string=[|Lv. 38-99| Fallen Angel - Request of Dusk (
 string_begin	stringID=18301	string=[|Lv. 40-99| Relics Exploration]	string_end
 string_begin	stringID=18302	string=[|Lv. 40-99| Relics Exploration (In progress)]	string_end
 string_begin	stringID=18303	string=[|Lv. 40-99| Relics Exploration (Completed)]	string_end
-string_begin	stringID=18304	string=[|Lv. 40-99| Giant’s Relics Exploration]	string_end
+string_begin	stringID=18304	string=[|Lv. 40-99| GiantвЂ™s Relics Exploration]	string_end
 string_begin	stringID=18401	string=[|Lv. 40-99| Nikola's Cooperation - Agreement]	string_end
 string_begin	stringID=18402	string=[|Lv. 40-99| Nikola's Cooperation - Agreement (In progress)]	string_end
 string_begin	stringID=18403	string=[|Lv. 40-99| Nikola's Cooperation - Agreement (Completed)]	string_end
@@ -5538,7 +5538,7 @@ string_begin	stringID=19601	string=[|Lv. 79-99| Seven Signs, Seal of the Emperor
 string_begin	stringID=19602	string=[|Lv. 79-99| Seven Signs, Seal of the Emperor (In progress)]	string_end
 string_begin	stringID=19603	string=[|Lv. 79-99| Seven Signs, Seal of the Emperor (Completed)]	string_end
 string_begin	stringID=19604	string=[|Lv. 79-99| Seven Signs, Seal of the Emperor]	string_end
-string_begin	stringID=19624	string=[Who dares summon the merchant of Mammon…?]	string_end
+string_begin	stringID=19624	string=[Who dares summon the merchant of MammonвЂ¦?]	string_end
 string_begin	stringID=19605	string=[The ancient promise to the Emperor has been fulfilled.]	string_end
 string_begin	stringID=19606	string=[For Einhasad!!!]	string_end
 string_begin	stringID=19607	string=[Shillien's offsprings! You are not capable of confronting us!]	string_end
@@ -5938,7 +5938,7 @@ string_begin	stringID=44440004	string=[Give me my youth back!]	string_end
 string_begin	stringID=44440005	string=[Don't you want to sleep forever with me?]	string_end
 string_begin	stringID=44440006	string=[My heart aches with loneliness...]	string_end
 string_begin	stringID=44440007	string=[I'm su.. suffering...]	string_end
-string_begin	stringID=44440008	string=[No more….]	string_end
+string_begin	stringID=44440008	string=[No moreвЂ¦.]	string_end
 string_begin	stringID=44440009	string=[Attracted to $s1]	string_end
 string_begin	stringID=44440010	string=[$s1, you don't know how long I've waited for you...]	string_end
 string_begin	stringID=44440011	string=[Quiet!]	string_end
@@ -5994,7 +5994,7 @@ string_begin	stringID=17173502	string=[In order to use the skill, utilize the sh
 string_begin	stringID=17173503	string=[Another A will help you.]	string_end
 string_begin	stringID=17173504	string=[Another B will help you.]	string_end
 string_begin	stringID=1811157	string=[Soldier Tie has absorbed regenerative energy from your body and converted it to Bio-energy x$s1.]	string_end
-string_begin	stringID=18555	string=[So bored… is there no one I can play with?]	string_end
+string_begin	stringID=18555	string=[So boredвЂ¦ is there no one I can play with?]	string_end
 string_begin	stringID=18556	string=[Hey, I didn't get to put in one word! Sheesh!]	string_end
 string_begin	stringID=18557	string=[Hmm...]	string_end
 string_begin	stringID=18558	string=[Subquests have been renovated! Check them out and see if you're eligible for rewards!]	string_end
@@ -6258,7 +6258,7 @@ string_begin	stringID=1900245	string=[Calm down. ]	string_end
 string_begin	stringID=1900246	string=[Does it even make sense that all monsters from Catacomb and Necropolis disappeared?]	string_end
 string_begin	stringID=1900247	string=[This has never happened in the past. ]	string_end
 string_begin	stringID=1900248	string=[First.. Calm down... ]	string_end
-string_begin	stringID=1900249	string=[Shillien... Shillien isn’t going to be resurrected... ]	string_end
+string_begin	stringID=1900249	string=[Shillien... Shillien isnвЂ™t going to be resurrected... ]	string_end
 string_begin	stringID=1900250	string=[Sigh.. First... I will start with purification process. ]	string_end
 string_begin	stringID=1900251	string=[When you're calm, please report to the kingdom. ]	string_end
 string_begin	stringID=1900252	string=[What do you think? ]	string_end
@@ -6423,7 +6423,7 @@ string_begin	stringID=2621101	string=[Setting the Device]	string_end
 string_begin	stringID=1032310	string=[Ah, I forgot to give you soulshot. Try this!]	string_end
 string_begin	stringID=1032311	string=[You can use a much more powerful attack!]	string_end
 string_begin	stringID=1032312	string=[Using the soulshot, defeat them faster!]	string_end
-string_begin	stringID=1032313	string=[It's quite a walk to Ruins of Ye Sagira…]	string_end
+string_begin	stringID=1032313	string=[It's quite a walk to Ruins of Ye SagiraвЂ¦]	string_end
 string_begin	stringID=1032314	string=[Isn't there an easier way to get there?]	string_end
 string_begin	stringID=1032315	string=[It's dangerous out there if you don't know what you're doing.]	string_end
 string_begin	stringID=1032316	string=[You will find Pantheon in the Museum.]	string_end
@@ -6438,7 +6438,7 @@ string_begin	stringID=1032324	string=[Finally... I thought I was going to die wa
 string_begin	stringID=1032325	string=[Your normal attacks aren't working!]	string_end
 string_begin	stringID=1032326	string=[Looks like only skill based attacks damage them!]	string_end
 string_begin	stringID=1032327	string=[Use your skill attacks against them!]	string_end
-string_begin	stringID=1032328	string=[Enough of this… come at me!]	string_end
+string_begin	stringID=1032328	string=[Enough of thisвЂ¦ come at me!]	string_end
 string_begin	stringID=1034710	string=[Sacrifice begins to get absorbed into the Altar of Blood.]	string_end
 string_begin	stringID=1034711	string=[First sacrifice got absorbed into the Altar of Blood.]	string_end
 string_begin	stringID=1034712	string=[Second sacrifice got absorbed into the Altar of Blood.]	string_end
@@ -6460,7 +6460,7 @@ string_begin	stringID=1032338	string=[Don't know what to do? Look at the map.]	s
 string_begin	stringID=1032339	string=[Do you see a scroll icon? Go that location.]	string_end
 string_begin	stringID=1032340	string=[To your right the Administrative district and to the left is the Museum.]	string_end
 string_begin	stringID=1032341	string=[When you use the teleporter, you can go to the Ruins of Ye Sagira.]	string_end
-string_begin	stringID=1032342	string=[Have you been to Ruins of Ye Sagira?  You have to go at least once.]	string_end
+string_begin	stringID=1032342	string=[Have you been to Ruins of Ye Sagira?В  You have to go at least once.]	string_end
 string_begin	stringID=1032343	string=[Training Ground is located straight ahead.]	string_end
 string_begin	stringID=1032344	string=[While training in the Training Grounds, it becomes progressively difficult.]	string_end
 string_begin	stringID=1032345	string=[To enter the Training Hall, find Pantheon's Museum first.]	string_end
@@ -6518,9 +6518,9 @@ string_begin	stringID=10338003	string=[Find Hermuncus.]	string_end
 string_begin	stringID=10338004	string=[Find Hermuncus.]	string_end
 string_begin	stringID=10338005	string=[Break the seal. ]	string_end
 string_begin	stringID=10338006	string=[Free me from this binding of light! ]	string_end
-string_begin	stringID=10338007	string=[Destroy the Ghost of Harnak… this corrupted creature. ]	string_end
+string_begin	stringID=10338007	string=[Destroy the Ghost of HarnakвЂ¦ this corrupted creature. ]	string_end
 string_begin	stringID=10338008	string=[Free me... And I promise you the power of Giants! ]	string_end
-string_begin	stringID=10338009	string=[Fight for me...  The true leader of all the races! ]	string_end
+string_begin	stringID=10338009	string=[Fight for me...В  The true leader of all the races! ]	string_end
 string_begin	stringID=1622009	string=[Stop enemies healing!]	string_end
 string_begin	stringID=1622010	string=[Attack weakened enemy!]	string_end
 string_begin	stringID=1622011	string=[Come at me!]	string_end
@@ -6606,7 +6606,7 @@ string_begin	stringID=1620053	string=[Soldiers, we're fighting a battle that can
 string_begin	stringID=1620054	string=[But we have to defend our village, so we're fighting.]	string_end
 string_begin	stringID=1620055	string=[For the fine wines and treasures of Aden!]	string_end
 string_begin	stringID=1620056	string=[I'm proud of every one of---]	string_end
-string_begin	stringID=1620057	string=[Ugh!! If I see you in the spirit world… first round is on me.]	string_end
+string_begin	stringID=1620057	string=[Ugh!! If I see you in the spirit worldвЂ¦ first round is on me.]	string_end
 string_begin	stringID=1620058	string=[Rogin! I'm here!]	string_end
 string_begin	stringID=1620059	string=[Bronk!!!]	string_end
 string_begin	stringID=1620060	string=[Chief!]	string_end
@@ -6640,7 +6640,7 @@ string_begin	stringID=1620087	string=[I'm beside you~]	string_end
 string_begin	stringID=1620088	string=[If you become the king of Aden... I will think about it..]	string_end
 string_begin	stringID=1620089	string=[We can't let that happen. Master!]	string_end
 string_begin	stringID=1620090	string=[Master!]	string_end
-string_begin	stringID=1620091	string=[…]	string_end
+string_begin	stringID=1620091	string=[вЂ¦]	string_end
 string_begin	stringID=1620092	string=[This is a hideout made with 'Shine Stone' used in Giant's Dimensional technique. Supposedly the capital of the Giants that have not been found is still in the dimensional gap somewhere...]	string_end
 string_begin	stringID=1620093	string=[The Earth Wyrm has lost consciousness.]	string_end
 string_begin	stringID=1620094	string=[The Earth Wyrm stopped gathering energy.]	string_end
@@ -6651,7 +6651,7 @@ string_begin	stringID=1620098	string=[The specter of light is subsiding.]	string
 string_begin	stringID=1620099	string=[Teredor is inside the Earth Wyrm.]	string_end
 string_begin	stringID=1620100	string=[Teredor has entered.]	string_end
 string_begin	stringID=11021701	string=[I saw they use not only Hermuncus' Minion teleports but Sayune too.]	string_end
-string_begin	stringID=11021702	string=[It's because they have become Awaken… the power of the Giant's.]	string_end
+string_begin	stringID=11021702	string=[It's because they have become AwakenвЂ¦ the power of the Giant's.]	string_end
 string_begin	stringID=11021703	string=[Duh, you can't use Sayune without the power of the Giants in the first place.]	string_end
 string_begin	stringID=11021704	string=[I think that's why many people come to visit Celphine.]	string_end
 string_begin	stringID=11021705	string=[After Ye Sagira fell there were many sacrifices made.]	string_end
@@ -6678,27 +6678,27 @@ string_begin	stringID=17178341	string=[You must move to Exploration Area 5 in or
 string_begin	stringID=17178342	string=[Your guide is gone. Return to Dep and start again.]	string_end
 string_begin	stringID=17178343	string=[Can't help you now.]	string_end
 string_begin	stringID=17178344	string=[I should rest.]	string_end
-string_begin	stringID=10338011	string=[An intruder… interesting.]	string_end
-string_begin	stringID=10338012	string=[Prove your worth… ]	string_end
+string_begin	stringID=10338011	string=[An intruderвЂ¦ interesting.]	string_end
+string_begin	stringID=10338012	string=[Prove your worthвЂ¦ ]	string_end
 string_begin	stringID=10338013	string=[Only those strong enough shall proceed.]	string_end
 string_begin	stringID=10338014	string=[Are you against the will of light? ]	string_end
 string_begin	stringID=10338015	string=[Come! Attack me if you dare!]	string_end
 string_begin	stringID=10338016	string=[Are you planning to betray the gods and follow a Giant?]	string_end
 string_begin	stringID=10338017	string=[It's the end for you traitor!]	string_end
-string_begin	stringID=10338018	string=[Haha…]	string_end
+string_begin	stringID=10338018	string=[HahaвЂ¦]	string_end
 string_begin	stringID=10338019	string=[I want to hear you cry.]	string_end
 string_begin	stringID=10338020	string=[Mortal!]	string_end
 string_begin	stringID=10338021	string=[Lets see what you are made of!]	string_end
 string_begin	stringID=10338022	string=[You will not free Hermuncus. ]	string_end
 string_begin	stringID=10338023	string=[You'll have to kill us first!]	string_end
-string_begin	stringID=10338024	string=[Trying to free Hermuncus… ]	string_end
+string_begin	stringID=10338024	string=[Trying to free HermuncusвЂ¦ ]	string_end
 string_begin	stringID=10338025	string=[Repent and your death will be quick!]	string_end
 string_begin	stringID=10338026	string=[You will never break the seal! ]	string_end
 string_begin	stringID=10338027	string=[Die traitor!]	string_end
 string_begin	stringID=10338028	string=[Only the light may pass. ]	string_end
 string_begin	stringID=10338029	string=[You are not light. You may not pass. ]	string_end
-string_begin	stringID=10338030	string=[Prove your worth… ]	string_end
-string_begin	stringID=10338031	string=[Are you strong or weak... Of the Light or darkness…]	string_end
+string_begin	stringID=10338030	string=[Prove your worthвЂ¦ ]	string_end
+string_begin	stringID=10338031	string=[Are you strong or weak... Of the Light or darknessвЂ¦]	string_end
 string_begin	stringID=10338032	string=[Only those of light may pass. Others must prove their strength. ]	string_end
 string_begin	stringID=10338033	string=[Warrior. I've finally got out of seal of light thanks to you. ]	string_end
 string_begin	stringID=10338034	string=[Is strength to defend the world what you wanted?]	string_end
@@ -6826,7 +6826,7 @@ string_begin	stringID=17178346	string=[Scared!! Let's run!]	string_end
 string_begin	stringID=17178347	string=[Can't die in a place like this!!]	string_end
 string_begin	stringID=17178348	string=[Ahh...Save me!!]	string_end
 string_begin	stringID=17178349	string=[Urgh...]	string_end
-string_begin	stringID=17178350	string=[Ahhk…]	string_end
+string_begin	stringID=17178350	string=[AhhkвЂ¦]	string_end
 string_begin	stringID=17178351	string=[Darn it!! Dying here like this!!!!]	string_end
 string_begin	stringID=17178352	string=[Is this as far as I go...]	string_end
 string_begin	stringID=17178353	string=[I'm fighting. Talk to me later!]	string_end
@@ -6855,9 +6855,9 @@ string_begin	stringID=1810364	string=[Grudge of Ye Sagira victims have been reli
 string_begin	stringID=1811204	string=[If I can't become a gardener... I will stay a traitor!]	string_end
 string_begin	stringID=901900139	string=[Lukpie~! I'm Lukpie, the spirit that loves Adena~]	string_end
 string_begin	stringID=901900140	string=[Lukpie~! I want to eat Adena... Give me Adena!]	string_end
-string_begin	stringID=901900141	string=[Lukpie~! If I eat too much Adena, my wings disappear…]	string_end
+string_begin	stringID=901900141	string=[Lukpie~! If I eat too much Adena, my wings disappearвЂ¦]	string_end
 string_begin	stringID=901900142	string=[Yummy. Thanks! Lukpie~!]	string_end
-string_begin	stringID=901900143	string=[Grrrr... Yuck…]	string_end
+string_begin	stringID=901900143	string=[Grrrr... YuckвЂ¦]	string_end
 string_begin	stringID=901900144	string=[Lukpie~! Adena is so good! My body is getting bigger!]	string_end
 string_begin	stringID=901900145	string=[Lukpie~! You won't give me any more Adena? Oh... The body is too heavy!]	string_end
 string_begin	stringID=901900146	string=[Lukpie~! I'm full~ It was delicious! Oh... The body is too heavy!]	string_end
@@ -6868,7 +6868,7 @@ string_begin	stringID=901900150	string=[The evil Earth Dragon Antharas has been 
 string_begin	stringID=901900151	string=[The evil Fire Dragon Valakas has been defeated! ]	string_end
 string_begin	stringID=901900152	string=[To serve him now means you will be able to escape a worse situation.]	string_end
 string_begin	stringID=901900153	string=[Oh goddess of destruction, forgive us...]	string_end
-string_begin	stringID=901900154	string=[When the sky turns blood red and the earth begins to crumble… from the darkness… she will return.]	string_end
+string_begin	stringID=901900154	string=[When the sky turns blood red and the earth begins to crumbleвЂ¦ from the darknessвЂ¦ she will return.]	string_end
 string_begin	stringID=901900155	string=[The Earth energy is gathering below Antharas.]	string_end
 string_begin	stringID=901900156	string=[Antharas starts to absorb the energy of earth.]	string_end
 string_begin	stringID=901900157	string=[Antharas raises its thick tail.]	string_end
@@ -6889,7 +6889,7 @@ string_begin	stringID=901900171	string=[By my wrath, I command you, creature, lo
 string_begin	stringID=901900172	string=[Show respect to the heroes who defeated the evil dragon and protected this Aden world!]	string_end
 string_begin	stringID=901900173	string=[Shout to celebrate the victory of the heroes!]	string_end
 string_begin	stringID=901900174	string=[Praise the achievement of the heroes and receive Tersi's blessing!]	string_end
-string_begin	stringID=901900175	string=[Ugh… I think this is it for me…]	string_end
+string_begin	stringID=901900175	string=[UghвЂ¦ I think this is it for meвЂ¦]	string_end
 string_begin	stringID=901900176	string=[Valakas forcefully recalls the summoner or the summoned pet.]	string_end
 string_begin	stringID=901900177	string=[Plague, new nightmare (Lv. 80-85) ]	string_end
 string_begin	stringID=1811205	string=[This is the beginning to get into the deepest parts of Seed of Annihilation.]	string_end
@@ -7219,7 +7219,7 @@ string_begin	stringID=50857	string=[Arhhhh...]	string_end
 string_begin	stringID=50858	string=[We offer our blood as a sacrifice! Shillien see us!  ]	string_end
 string_begin	stringID=50859	string=[Will Dark Elves be forgotten after what we have done?]	string_end
 string_begin	stringID=50860	string=[Unbelievers run... death will follow you.]	string_end
-string_begin	stringID=50861	string=[I curse our blood.. I despise what we are... Shillien… ]	string_end
+string_begin	stringID=50861	string=[I curse our blood.. I despise what we are... ShillienвЂ¦ ]	string_end
 string_begin	stringID=1811219	string=[When you move outside of the area, Teredor gets ready to summon subordinates. ]	string_end
 string_begin	stringID=1811220	string=[Teredor summons subordinate because you moved out of Teredor's area]	string_end
 string_begin	stringID=1811221	string=[Lovely Plagueworms, contaminate the swamp even more!]	string_end
@@ -7250,7 +7250,7 @@ string_begin	stringID=1811243	string=[Talking Island Village is really beautiful
 string_begin	stringID=1811244	string=[I haven't felt this good in ages.]	string_end
 string_begin	stringID=1811245	string=[Alchemy is a science and an art.]	string_end
 string_begin	stringID=1811246	string=[Tell me about moving to Aden Continent.]	string_end
-string_begin	stringID=1811247	string=[Hmm… is this still a decent weapon?]	string_end
+string_begin	stringID=1811247	string=[HmmвЂ¦ is this still a decent weapon?]	string_end
 string_begin	stringID=1811248	string=[Spiritshots are mixed!]	string_end
 string_begin	stringID=1811249	string=[When will I organize this all.]	string_end
 string_begin	stringID=1811250	string=[All races came together to rebuild Talking Island Village.]	string_end
@@ -7295,11 +7295,11 @@ string_begin	stringID=1811285	string=[Does the Goddess see what she has done?]	s
 string_begin	stringID=1811286	string=[Why have the heroes abandoned us?]	string_end
 string_begin	stringID=1811287	string=[Something like that comes out of the ruins...]	string_end
 string_begin	stringID=1811288	string=[Stop them from approaching the town!!]	string_end
-string_begin	stringID=1811289	string=[The Seven Signs ended…]	string_end
+string_begin	stringID=1811289	string=[The Seven Signs endedвЂ¦]	string_end
 string_begin	stringID=1811290	string=[We need to find her weakness...]	string_end
-string_begin	stringID=1811291	string=[Is it better to end destiny or start destiny…]	string_end
+string_begin	stringID=1811291	string=[Is it better to end destiny or start destinyвЂ¦]	string_end
 string_begin	stringID=1811292	string=[Look at all the newbies. Ha ha ha.]	string_end
-string_begin	stringID=1811293	string=[Tis a scratch…]	string_end
+string_begin	stringID=1811293	string=[Tis a scratchвЂ¦]	string_end
 string_begin	stringID=1811294	string=[And now your journey begins.]	string_end
 string_begin	stringID=10338036	string=[Receive this power form the ancient Giant. ]	string_end
 string_begin	stringID=10338037	string=[Use this new power when the time is right. ]	string_end
@@ -7309,7 +7309,7 @@ string_begin	stringID=1811297	string=[You can't ride Kukuru now.]	string_end
 string_begin	stringID=1717800	string=[We cannot resonate with voice at the current state.]	string_end
 string_begin	stringID=1811298	string=[$s1 has demonstrated respect.]	string_end
 string_begin	stringID=1811299	string=[$s1, your empathy is appreciated. ]	string_end
-string_begin	stringID=1811300	string=[Thank you for attending this mourning service. It is alright to show your sorrow…]	string_end
+string_begin	stringID=1811300	string=[Thank you for attending this mourning service. It is alright to show your sorrowвЂ¦]	string_end
 string_begin	stringID=1811301	string=[The name is Janson... Bow your head and show some respect for the dead.]	string_end
 string_begin	stringID=1811302	string=[Time left]	string_end
 string_begin	stringID=1811303	string=[The beach where relics of Giants had fallen has now become clean.]	string_end
@@ -7345,7 +7345,7 @@ string_begin	stringID=1811323	string=[Would you care to die?]	string_end
 string_begin	stringID=1811324	string=[You want a piece of me!]	string_end
 string_begin	stringID=1811325	string=[That's what I thought, all talk!]	string_end
 string_begin	stringID=1811326	string=[Thank you! And now you die!]	string_end
-string_begin	stringID=1811327	string=[It's time to turn that frown upside down… it's party town!]	string_end
+string_begin	stringID=1811327	string=[It's time to turn that frown upside downвЂ¦ it's party town!]	string_end
 string_begin	stringID=1811328	string=[Enjoy the festivities!]	string_end
 string_begin	stringID=1811329	string=[Come on, let's dance!]	string_end
 string_begin	stringID=1811330	string=[Time to get down and get funky!]	string_end
@@ -7489,12 +7489,12 @@ string_begin	stringID=1801234	string=[Someone is off the stage. Please bring the
 string_begin	stringID=1801235	string=[Hahaha... You dare to disrupt me... I will be your nightmare from which you can never awaken!]	string_end
 string_begin	stringID=1801236	string=[You dare attack me? I will fill your nightmares with blood!]	string_end
 string_begin	stringID=1801237	string=[I cannot let you stop the wraith of Shillien!]	string_end
-string_begin	stringID=1801238	string=[Ah…]	string_end
+string_begin	stringID=1801238	string=[AhвЂ¦]	string_end
 string_begin	stringID=1801239	string=[Halt! Your nightmares will fill you with dread!]	string_end
 string_begin	stringID=1801240	string=[You won't get away!]	string_end
 string_begin	stringID=1801241	string=[How... All that power... Removed...]	string_end
 string_begin	stringID=1801242	string=[Shillien... I have failed...]	string_end
-string_begin	stringID=1801243	string=[To think that I could fail… impossible.]	string_end
+string_begin	stringID=1801243	string=[To think that I could failвЂ¦ impossible.]	string_end
 string_begin	stringID=1801244	string=[Who dares to bother us?]	string_end
 string_begin	stringID=1801245	string=[How foolish. The price of attacking me is death!]	string_end
 string_begin	stringID=1801246	string=[My sword will take your life!]	string_end
@@ -8274,7 +8274,7 @@ string_begin	stringID=1802006	string=[The curse must be working on Giselle as we
 string_begin	stringID=1802007	string=[Please, grant freedom to these wretched souls.]	string_end
 string_begin	stringID=1802008	string=[Today isn't a lucky day. Stop here for a moment.]	string_end
 string_begin	stringID=1802009	string=[Shame. You are awaited by many, it seems.]	string_end
-string_begin	stringID=1802010	string=[You unfortunate souls…I can sense your hearts growing heavier as you head her way.]	string_end
+string_begin	stringID=1802010	string=[You unfortunate soulsвЂ¦I can sense your hearts growing heavier as you head her way.]	string_end
 string_begin	stringID=1802011	string=[The Vampire Adepts outside the Outer Castle Gates have all fallen.]	string_end
 string_begin	stringID=1802012	string=[Giselle von Hellmann's HP has decreased.]	string_end
 string_begin	stringID=1802013	string=[The HP of monsters outside the Outer Castle Gates have decreased.]	string_end
@@ -8320,8 +8320,8 @@ string_begin	stringID=1802052	string=[<Clan Hall Siege Alert>\nA clan has conque
 string_begin	stringID=1802053	string=[<Clan Hall Siege Alert>\nA clan has conquered 2 Strongholds for the first time!]	string_end
 string_begin	stringID=1802054	string=[<Clan Hall Siege Alert>\nA clan has conquered all 3 Strongholds for the first time!]	string_end
 string_begin	stringID=1802055	string=[<Clan Hall Siege Alert>\nA clan has defeated Gustav for the first time!]	string_end
-string_begin	stringID=1802056	string=[You…our house is already fallen to wretchedness, and you dare add insult to injury!]	string_end
-string_begin	stringID=1802057	string=[You don't deserve such luck…]	string_end
+string_begin	stringID=1802056	string=[YouвЂ¦our house is already fallen to wretchedness, and you dare add insult to injury!]	string_end
+string_begin	stringID=1802057	string=[You don't deserve such luckвЂ¦]	string_end
 string_begin	stringID=1802058	string=[You don't deserve to even take such form!]	string_end
 string_begin	stringID=1802059	string=[Alfred! How can you be so calm? After being murdered so brutally!]	string_end
 string_begin	stringID=1802060	string=[Giselle! Show yourself once more.]	string_end
@@ -8335,8 +8335,8 @@ string_begin	stringID=1802067	string=[Energetic Battle Supporter]	string_end
 string_begin	stringID=1802068	string=[Something good may happen if you fully restore Logan's HP.]	string_end
 string_begin	stringID=1802069	string=[So much energy! It is a little fearsome to be honest, but I will lend you a hand as payback for what I went through!]	string_end
 string_begin	stringID=1802070	string=[You gave me the strength to escape. I will give you the strength to rise again!]	string_end
-string_begin	stringID=1802071	string=[This…this is my last gift to you before I make my escape. Lidia!]	string_end
-string_begin	stringID=1802072	string=[Oh…mistake. Sorry about that.]	string_end
+string_begin	stringID=1802071	string=[ThisвЂ¦this is my last gift to you before I make my escape. Lidia!]	string_end
+string_begin	stringID=1802072	string=[OhвЂ¦mistake. Sorry about that.]	string_end
 string_begin	stringID=1802073	string=[You cold-blooded monsters! Curse be upon you all! You will not live to escape this place!]	string_end
 string_begin	stringID=1802074	string=[Logan joins the battle.]	string_end
 string_begin	stringID=1802075	string=[Characters near Logan increase greatly in HP Recovery Amount.]	string_end
@@ -8354,7 +8354,7 @@ string_begin	stringID=538701	string=[|Lv. 93-99| Soulless One]	string_end
 string_begin	stringID=538702	string=[|Lv. 93-99| Soulless One (In progress)]	string_end
 string_begin	stringID=538703	string=[|Lv. 93-99| Soulless One (Completed)]	string_end
 string_begin	stringID=538704	string=[|Lv. 93-99| Soulless One]	string_end
-string_begin	stringID=1802081	string=[I will make my leave, Master… ]	string_end
+string_begin	stringID=1802081	string=[I will make my leave, MasterвЂ¦ ]	string_end
 string_begin	stringID=75201	string=[|Lv. 93-99| Uncover the Secret]	string_end
 string_begin	stringID=75202	string=[|Lv. 93-99| Uncover the Secret (In progress)]	string_end
 string_begin	stringID=75203	string=[|Lv. 93-99| Uncover the Secret (Completed)]	string_end
@@ -8423,9 +8423,9 @@ string_begin	stringID=1802138	string=[Quest Successful!]	string_end
 string_begin	stringID=1802139	string=[Quest Failed!]	string_end
 string_begin	stringID=1802140	string=[Your clan has acquired 100 points to its Clan Reputation. Clan Reputation is given from Clan Level 5 or above.]	string_end
 string_begin	stringID=1802141	string=[You can obtain the Multi Hammer through the Clan Request Assistant.]	string_end
-string_begin	stringID=1802142	string=[Zzz… Zzz…]	string_end
+string_begin	stringID=1802142	string=[ZzzвЂ¦ ZzzвЂ¦]	string_end
 string_begin	stringID=1802143	string=[Tiger! Tiger!!!]	string_end
-string_begin	stringID=1802144	string=[Hmm… Do you think you can break through Lord Nurka's formation? Have fun! Hahaha!]	string_end
+string_begin	stringID=1802144	string=[HmmвЂ¦ Do you think you can break through Lord Nurka's formation? Have fun! Hahaha!]	string_end
 string_begin	stringID=1802145	string=[Man, just that time when everyone's resting. Consider yourself lucky!]	string_end
 string_begin	stringID=1802146	string=[Haha, oh man you guys are out of luck. Think you can hold out against Lord Nurka's Royal Guards?]	string_end
 string_begin	stringID=1802147	string=[Ouch, ouch! Help!]	string_end
@@ -8468,7 +8468,7 @@ string_begin	stringID=1802183	string=[You can receive your reward after completi
 string_begin	stringID=1802184	string=[Only those who summoned the Clan Request Manager may use this menu.]	string_end
 string_begin	stringID=1600057	string=[Boz's Energy]	string_end
 string_begin	stringID=1802185	string=[Charlotte appears while looking around fretfully.]	string_end
-string_begin	stringID=1802186	string=[Whew…just watching from the shadows scared me out of my wits! ]	string_end
+string_begin	stringID=1802186	string=[WhewвЂ¦just watching from the shadows scared me out of my wits! ]	string_end
 string_begin	stringID=53901	string=[Put on the Analysis Hat and try Analysis on me.]	string_end
 string_begin	stringID=53902	string=[That's how you do it!]	string_end
 string_begin	stringID=75701	string=[|Lv. 97-99| Triol's Movement]	string_end
@@ -8491,84 +8491,84 @@ string_begin	stringID=1717810	string=[Lord Triol, please let us hear your voice 
 string_begin	stringID=1717811	string=[We must find creatures to sacrifice to Lord Triol.]	string_end
 string_begin	stringID=1717812	string=[Is this where I can find creatures to sacrifice for Lord Triol?]	string_end
 string_begin	stringID=1717813	string=[Found you! Consider it an honor to be offered up to Lord Triol.]	string_end
-string_begin	stringID=1717814	string=[So weak-looking… must be easy to snatch away.]	string_end
-string_begin	stringID=1717815	string=[Where did they go? Hmm… we'll withdraw for now. Can't find anything to serve as offerings here.]	string_end
-string_begin	stringID=1717816	string=[I heard this is where I could find them… I guess I'll have to look elsewhere.]	string_end
+string_begin	stringID=1717814	string=[So weak-lookingвЂ¦ must be easy to snatch away.]	string_end
+string_begin	stringID=1717815	string=[Where did they go? HmmвЂ¦ we'll withdraw for now. Can't find anything to serve as offerings here.]	string_end
+string_begin	stringID=1717816	string=[I heard this is where I could find themвЂ¦ I guess I'll have to look elsewhere.]	string_end
 string_begin	stringID=1717817	string=[Come out, Triol's Troopers! Let's bring this creature to Lord Triol!]	string_end
 string_begin	stringID=1802187	string=[Breaking news! Boss monsters have appeared in the Elven Village!]	string_end
 string_begin	stringID=1802188	string=[Lyn Draco appears due to $s1.]	string_end
-string_begin	stringID=1802189	string=[I'll be back…]	string_end
+string_begin	stringID=1802189	string=[I'll be backвЂ¦]	string_end
 string_begin	stringID=1802190	string=[Who called me? I'm gonna tell Mom!]	string_end
 string_begin	stringID=1802191	string=[When I grow up, I'm gonna on a bloodstorm!]	string_end
 string_begin	stringID=1802192	string=[You let me leave like this, and you'll regret it later!]	string_end
 string_begin	stringID=1802193	string=[How do you like the color of my scales? I bet you never saw the likes of them!]	string_end
 string_begin	stringID=1802194	string=[Lyn Draco appears due to $s1's party.]	string_end
 string_begin	stringID=1802195	string=[You won't lay a finger on His Majesty Travis!]	string_end
-string_begin	stringID=1802196	string=[What is this sickening aura…?]	string_end
+string_begin	stringID=1802196	string=[What is this sickening auraвЂ¦?]	string_end
 string_begin	stringID=1802197	string=[His Majesty Travis has charged me with the duty to protect. And protect I shall!]	string_end
-string_begin	stringID=1802198	string=[I hear His Majesty's voice…I hear it every waking moment…]	string_end
+string_begin	stringID=1802198	string=[I hear His Majesty's voiceвЂ¦I hear it every waking momentвЂ¦]	string_end
 string_begin	stringID=1802199	string=[Hah! My body is hale yet!]	string_end
-string_begin	stringID=1802200	string=[Behold…my power!]	string_end
-string_begin	stringID=1802201	string=[A long slumber has come to an end…]	string_end
-string_begin	stringID=1802202	string=[Long have I waited for His Majesty's call… ]	string_end
+string_begin	stringID=1802200	string=[BeholdвЂ¦my power!]	string_end
+string_begin	stringID=1802201	string=[A long slumber has come to an endвЂ¦]	string_end
+string_begin	stringID=1802202	string=[Long have I waited for His Majesty's callвЂ¦ ]	string_end
 string_begin	stringID=1802203	string=[I will destroy you, just as I have destroyed the enemy forces!]	string_end
-string_begin	stringID=1802204	string=[You…!]	string_end
-string_begin	stringID=1802205	string=[What...what is this power…?]	string_end
-string_begin	stringID=1802206	string=[My strength has not yet fully returned…]	string_end
+string_begin	stringID=1802204	string=[YouвЂ¦!]	string_end
+string_begin	stringID=1802205	string=[What...what is this powerвЂ¦?]	string_end
+string_begin	stringID=1802206	string=[My strength has not yet fully returnedвЂ¦]	string_end
 string_begin	stringID=1802207	string=[I will not lose!]	string_end
-string_begin	stringID=1802208	string=[I will remember you…]	string_end
+string_begin	stringID=1802208	string=[I will remember youвЂ¦]	string_end
 string_begin	stringID=1802209	string=[Do you want to kill me?]	string_end
-string_begin	stringID=1802210	string=[Feel for yourself…the strength of my will!]	string_end
-string_begin	stringID=1802211	string=[I don't have much time left…]	string_end
-string_begin	stringID=1802212	string=[Such deadly aura… haven't felt the likes of this in years!]	string_end
+string_begin	stringID=1802210	string=[Feel for yourselfвЂ¦the strength of my will!]	string_end
+string_begin	stringID=1802211	string=[I don't have much time leftвЂ¦]	string_end
+string_begin	stringID=1802212	string=[Such deadly auraвЂ¦ haven't felt the likes of this in years!]	string_end
 string_begin	stringID=1802213	string=[Do you want to kill me?]	string_end
 string_begin	stringID=1802214	string=[His Majesty Travis has ordered immediate execution!]	string_end
 string_begin	stringID=1802215	string=[Agh! My eye! My eye!]	string_end
 string_begin	stringID=1802216	string=[Do not defile this place with your presence!]	string_end
 string_begin	stringID=1802217	string=[We were the ones who cleansed this place of evil pests!]	string_end
 string_begin	stringID=1802218	string=[What would you know of loyalty?!]	string_end
-string_begin	stringID=1802219	string=[A mysterious power has taken residence in me…]	string_end
-string_begin	stringID=1802220	string=[My ears…they keep ringing!]	string_end
+string_begin	stringID=1802219	string=[A mysterious power has taken residence in meвЂ¦]	string_end
+string_begin	stringID=1802220	string=[My earsвЂ¦they keep ringing!]	string_end
 string_begin	stringID=1802221	string=[What is this! So disorienting!]	string_end
 string_begin	stringID=1802222	string=[So you killed my comrades, did you?!]	string_end
-string_begin	stringID=1802223	string=[I will avenge my fallen comrades…]	string_end
-string_begin	stringID=1802224	string=[Let me be blind…let me be deaf… but I will not stop!!]	string_end
-string_begin	stringID=1802225	string=[Remember our history…our glorious history!]	string_end
-string_begin	stringID=1802226	string=[I cannot…I will not…back down!]	string_end
-string_begin	stringID=1802227	string=[A mountain of corpses…]	string_end
-string_begin	stringID=1802228	string=[My slumbering muscles begin to wake…]	string_end
+string_begin	stringID=1802223	string=[I will avenge my fallen comradesвЂ¦]	string_end
+string_begin	stringID=1802224	string=[Let me be blindвЂ¦let me be deafвЂ¦ but I will not stop!!]	string_end
+string_begin	stringID=1802225	string=[Remember our historyвЂ¦our glorious history!]	string_end
+string_begin	stringID=1802226	string=[I cannotвЂ¦I will notвЂ¦back down!]	string_end
+string_begin	stringID=1802227	string=[A mountain of corpsesвЂ¦]	string_end
+string_begin	stringID=1802228	string=[My slumbering muscles begin to wakeвЂ¦]	string_end
 string_begin	stringID=1802229	string=[No use trying your petty tricks!]	string_end
 string_begin	stringID=1802230	string=[I'm ten steps ahead of you. Don't bother trying.]	string_end
 string_begin	stringID=1802231	string=[We haven't even begun yet.]	string_end
-string_begin	stringID=1802232	string=[Are you watching? Watch… and feel what true fear is!]	string_end
+string_begin	stringID=1802232	string=[Are you watching? WatchвЂ¦ and feel what true fear is!]	string_end
 string_begin	stringID=1802233	string=[Who are you? You weren't here before..]	string_end
 string_begin	stringID=1802234	string=[Look upon this great grave, and tell me you see nothing!]	string_end
 string_begin	stringID=1802235	string=[The dead shall pass judgment on the living!]	string_end
 string_begin	stringID=1802236	string=[Heh, interesting trick you use there.]	string_end
 string_begin	stringID=1802237	string=[Now, your turn!]	string_end
 string_begin	stringID=1802238	string=[Today's your judgment day!]	string_end
-string_begin	stringID=1802239	string=[Fool…]	string_end
+string_begin	stringID=1802239	string=[FoolвЂ¦]	string_end
 string_begin	stringID=1802240	string=[You idiot!]	string_end
 string_begin	stringID=1802241	string=[I will end that sorry life.]	string_end
-string_begin	stringID=1802242	string=[Well, what do you know… you're gutsier than you look.]	string_end
-string_begin	stringID=1802243	string=[So this is the end…]	string_end
+string_begin	stringID=1802242	string=[Well, what do you knowвЂ¦ you're gutsier than you look.]	string_end
+string_begin	stringID=1802243	string=[So this is the endвЂ¦]	string_end
 string_begin	stringID=1802244	string=[May Aden live on forever!]	string_end
 string_begin	stringID=1802245	string=[Glory to Aden!]	string_end
 string_begin	stringID=1802246	string=[Hail His Majesty Travis!]	string_end
 string_begin	stringID=1802247	string=[How dare you?!]	string_end
 string_begin	stringID=1802248	string=[Do you have any idea who I am?!]	string_end
-string_begin	stringID=1802249	string=[Cough…wheeze…]	string_end
-string_begin	stringID=1802250	string=[My strength has not yet fully returned…]	string_end
+string_begin	stringID=1802249	string=[CoughвЂ¦wheezeвЂ¦]	string_end
+string_begin	stringID=1802250	string=[My strength has not yet fully returnedвЂ¦]	string_end
 string_begin	stringID=1802251	string=[Be gone, I say!]	string_end
-string_begin	stringID=1802252	string=[Imbecile…]	string_end
+string_begin	stringID=1802252	string=[ImbecileвЂ¦]	string_end
 string_begin	stringID=1802253	string=[Shame on you!]	string_end
 string_begin	stringID=1802254	string=[Are you not ashamed before the gods?!]	string_end
-string_begin	stringID=1802255	string=[Shillien… Shillien. Such is the name imprinted in my memory…]	string_end
+string_begin	stringID=1802255	string=[ShillienвЂ¦ Shillien. Such is the name imprinted in my memoryвЂ¦]	string_end
 string_begin	stringID=1802256	string=[I am Travis! I shall not bow down to you!]	string_end
-string_begin	stringID=1802257	string=[Not enough time…not enough time at all.]	string_end
-string_begin	stringID=1802258	string=[No…argh…]	string_end
-string_begin	stringID=1802259	string=[How…how dare you do such a foul thing!]	string_end
-string_begin	stringID=1802260	string=[You will pay… upon my word you will pay!!]	string_end
+string_begin	stringID=1802257	string=[Not enough timeвЂ¦not enough time at all.]	string_end
+string_begin	stringID=1802258	string=[NoвЂ¦arghвЂ¦]	string_end
+string_begin	stringID=1802259	string=[HowвЂ¦how dare you do such a foul thing!]	string_end
+string_begin	stringID=1802260	string=[You will payвЂ¦ upon my word you will pay!!]	string_end
 string_begin	stringID=539354	string=[Use Vaccine on Golem Generator]	string_end
 string_begin	stringID=1802261	string=[A powerful wind begins to blow.]	string_end
 string_begin	stringID=1802262	string=[Aghh! It's Lindvior! Lindvior's up in the sky!]	string_end
@@ -8602,12 +8602,12 @@ string_begin	stringID=75901	string=[|Lv. 98-99| The Dwarven Nightmare Continues]
 string_begin	stringID=75902	string=[|Lv. 98-99| The Dwarven Nightmare Continues (In progress)]	string_end
 string_begin	stringID=75903	string=[Dwarf|Lv. 98-99| The Dwarven Nightmare Continues (Completed)]	string_end
 string_begin	stringID=75904	string=[|Lv. 98-99| The Dwarven Nightmare Continues]	string_end
-string_begin	stringID=1802266	string=[Please…stop the dragon…]	string_end
+string_begin	stringID=1802266	string=[PleaseвЂ¦stop the dragonвЂ¦]	string_end
 string_begin	stringID=1802267	string=[Thank you! I'll be going to protect the village now that you're here!]	string_end
 string_begin	stringID=1802268	string=[It's good to have you here.]	string_end
 string_begin	stringID=1802269	string=[Well, how is this?!]	string_end
 string_begin	stringID=1802270	string=[We did it! All right, I'll be on my way to protecting the village!]	string_end
-string_begin	stringID=1802271	string=[We did it! We…defeated…]	string_end
+string_begin	stringID=1802271	string=[We did it! WeвЂ¦defeatedвЂ¦]	string_end
 string_begin	stringID=1802272	string=[Nornil Error. Nornil Error.]	string_end
 string_begin	stringID=1802273	string=[$s1 has obtained bonus XP for defeating a rare A-grade soldier.]	string_end
 string_begin	stringID=1802274	string=[Nornil's Will Manifest. Nornil's Will Manifest.]	string_end
@@ -8645,7 +8645,7 @@ string_begin	stringID=1010735	string=[Center of the Wall of Argos (Lv. 71)]	stri
 string_begin	stringID=1010736	string=[North of the Den of Evil (Lv. 81)]	string_end
 string_begin	stringID=1802299	string=[I'm the only merchant you'll find in this dangerous place!]	string_end
 string_begin	stringID=1802300	string=[Find the prison key carried by the Nerva Orcs, and get me out of here! I'll make it worth your while, I promise.]	string_end
-string_begin	stringID=1802301	string=[What… what's happening to my body? Argh..!]	string_end
+string_begin	stringID=1802301	string=[WhatвЂ¦ what's happening to my body? Argh..!]	string_end
 string_begin	stringID=1802302	string=[Help me, my comrades! Come out of your hiding and help me!]	string_end
 string_begin	stringID=1802303	string=[The Nerva's energy increases!]	string_end
 string_begin	stringID=1802304	string=[You have obtained Nerva's Temporary Prison Key.]	string_end
@@ -8851,7 +8851,7 @@ string_begin	stringID=540301	string=[|Lv. 58-61| The Guardian Giant]	string_end
 string_begin	stringID=540302	string=[|Lv. 58-61| The Guardian Giant (In progress)]	string_end
 string_begin	stringID=540303	string=[|Lv. 58-61| The Guardian Giant (Completed)]	string_end
 string_begin	stringID=540304	string=[|Lv. 58-61| The Guardian Giant]	string_end
-string_begin	stringID=540351	string=[Who is it…that threatens us…? You, with the power of the gods… why do you covet our powers?]	string_end
+string_begin	stringID=540351	string=[Who is itвЂ¦that threatens usвЂ¦? You, with the power of the godsвЂ¦ why do you covet our powers?]	string_end
 string_begin	stringID=540352	string=[You have divine power... Please stop our fake master... Or else...]	string_end
 string_begin	stringID=540501	string=[|Lv. 61-65| Kartia's Seed]	string_end
 string_begin	stringID=540502	string=[|Lv. 61-65| Kartia's Seed (In progress)]	string_end
@@ -8883,8 +8883,8 @@ string_begin	stringID=544101	string=[|Lv. 81-84| Chasing Meccadan]	string_end
 string_begin	stringID=544102	string=[|Lv. 81-84| Chasing Meccadan (In progress)]	string_end
 string_begin	stringID=544103	string=[|Lv. 81-84| Chasing Meccadan (Completed)]	string_end
 string_begin	stringID=544104	string=[|Lv. 81-84| Chasing Meccadan]	string_end
-string_begin	stringID=544151	string=[Coveting the power of the Seal, huh? Such courage should be rewarded with…death!]	string_end
-string_begin	stringID=544152	string=[Fools… You have also been used by Shillien… Argh… Even if I die, the Seal of Scourge will be broken…]	string_end
+string_begin	stringID=544151	string=[Coveting the power of the Seal, huh? Such courage should be rewarded withвЂ¦death!]	string_end
+string_begin	stringID=544152	string=[FoolsвЂ¦ You have also been used by ShillienвЂ¦ ArghвЂ¦ Even if I die, the Seal of Scourge will be brokenвЂ¦]	string_end
 string_begin	stringID=544711	string=[Use Nerva's Temporary Prison Key]	string_end
 string_begin	stringID=544511	string=[Go to Tuska]	string_end
 string_begin	stringID=544512	string=[Go to Bruener]	string_end
@@ -8995,9 +8995,9 @@ string_begin	stringID=1802333	string=[Come on! Onto the next place!]	string_end
 string_begin	stringID=1802334	string=[Device destroyed! Let's go, onto the next!]	string_end
 string_begin	stringID=1802335	string=[Hey, you're not all bad. Let me know when you're ready.]	string_end
 string_begin	stringID=1802336	string=[Ready? Let me know.]	string_end
-string_begin	stringID=1802337	string=[Something ominous in there… I hope you're really ready for this. Let me know.]	string_end
+string_begin	stringID=1802337	string=[Something ominous in thereвЂ¦ I hope you're really ready for this. Let me know.]	string_end
 string_begin	stringID=1802338	string=[Good work! You're really something!]	string_end
-string_begin	stringID=1802339	string=[I can't…let it end like this…]	string_end
+string_begin	stringID=1802339	string=[I can'tвЂ¦let it end like thisвЂ¦]	string_end
 string_begin	stringID=1600063	string=[Gainak in War]	string_end
 string_begin	stringID=1802340	string=[Whew, that's more than I thought I could handle! I need to take cover for a bit,. ]	string_end
 string_begin	stringID=1600064	string=[Monitor the damage for 30 sec.]	string_end
@@ -9017,7 +9017,7 @@ string_begin	stringID=533904	string=[|Lv. 85-99| Fighting the Forgotten]	string_
 string_begin	stringID=1802341	string=[Dance time! Show me what ya got! ]	string_end
 string_begin	stringID=1802342	string=[Equip the 9th Anniversary Instrument. You can get it from Angel Cat right here.]	string_end
 string_begin	stringID=16211701	string=[Charging]	string_end
-string_begin	stringID=1802324	string=[Ye who covet the power of Chaos…come to me.]	string_end
+string_begin	stringID=1802324	string=[Ye who covet the power of ChaosвЂ¦come to me.]	string_end
 string_begin	stringID=1802325	string=[Talk to the Agent of Chaos if you desire power.]	string_end
 string_begin	stringID=1600072	string=[Monitor the damage for 50 sec.]	string_end
 string_begin	stringID=1600073	string=[40 seconds left!]	string_end
@@ -9025,7 +9025,7 @@ string_begin	stringID=1600074	string=[35 seconds left!]	string_end
 string_begin	stringID=1600075	string=[30 seconds left!]	string_end
 string_begin	stringID=1802343	string=[Hide. Hide.]	string_end
 string_begin	stringID=1802344	string=[Aak, there goes the Hide!]	string_end
-string_begin	stringID=1802345	string=[Nooo…avenge me!]	string_end
+string_begin	stringID=1802345	string=[NoooвЂ¦avenge me!]	string_end
 string_begin	stringID=1802346	string=[I come to help a comrade in need!]	string_end
 string_begin	stringID=1600076	string=[45 seconds left!]	string_end
 string_begin	stringID=11505	string=[Congratulations, $s1! You have become the Hero of Sigel Phoenix Knights.]	string_end
@@ -9085,7 +9085,7 @@ string_begin	stringID=1802350	string=[It just goes to show how important and dif
 string_begin	stringID=1802351	string=[This has been too taxing on us all.]	string_end
 string_begin	stringID=1802352	string=[We need a new soul that can maintain the seal.]	string_end
 string_begin	stringID=1802353	string=[It sure seems sturdy, but would this really be able to stop the sacrifices? Hm.]	string_end
-string_begin	stringID=1802354	string=[We did make this Generator at Lady Jenna's suggestion, but…I'm still nervous.]	string_end
+string_begin	stringID=1802354	string=[We did make this Generator at Lady Jenna's suggestion, butвЂ¦I'm still nervous.]	string_end
 string_begin	stringID=1802355	string=[Rumors have it that Lindvior is headed this way.]	string_end
 string_begin	stringID=1802356	string=[Do you think he can be stopped?]	string_end
 string_begin	stringID=1802357	string=[For now, we have no choice but to rely on these cannons placed around the Generators.]	string_end
@@ -9105,7 +9105,7 @@ string_begin	stringID=1300193	string=[I must say I am disappointed. You turn dow
 string_begin	stringID=1300194	string=[The lord of Rune Castle will be happy to receive your goodwill. ]	string_end
 string_begin	stringID=1300195	string=[I must say I am disappointed. You turn down our goodwill and assist Aden Castle? I see how little you think of us. Very well, I will let your will be known to the lord of Rune Castle.]	string_end
 string_begin	stringID=1300196	string=[Congratulations! You are the lord of the Dimensional Castle. You will find the Dimensional Manager by the throne. ]	string_end
-string_begin	stringID=1300197	string=[You have obtained the Dimensional Castle…! Well then, my lord, I have something for you.]	string_end
+string_begin	stringID=1300197	string=[You have obtained the Dimensional CastleвЂ¦! Well then, my lord, I have something for you.]	string_end
 string_begin	stringID=1300198	string=[I wish you luck on your next endeavors, heroes of the dimensions.]	string_end
 string_begin	stringID=1300199	string=[Aden's heroes have seized victory in the Dimensional Space.]	string_end
 string_begin	stringID=1300200	string=[Rune's heroes have seized victory in the Dimensional Space.]	string_end
@@ -9150,7 +9150,7 @@ string_begin	stringID=1802389	string=[How far did you look? Come on, try breakin
 string_begin	stringID=1802390	string=[Ow, my back. Isn't there a doctor around here?]	string_end
 string_begin	stringID=1802391	string=[I hope everyone has had a great year! Ho ho ho! ]	string_end
 string_begin	stringID=1802392	string=[Hope your new year is a happy one, everyone! Ho ho ho!]	string_end
-string_begin	stringID=1802393	string=[Is there no Mrs. Claus around here? I hate being lonely on Christmas…]	string_end
+string_begin	stringID=1802393	string=[Is there no Mrs. Claus around here? I hate being lonely on ChristmasвЂ¦]	string_end
 string_begin	stringID=2000000	string=[Is this the surface world?]	string_end
 string_begin	stringID=2000001	string=[I can feel a dangerous energy! I must find young mistress and young master as soon as possible...]	string_end
 string_begin	stringID=2000002	string=[Urgh! Above world people are stronger than I thought~ I'll need to leave a trace to let young master and young mistress know that I was here.]	string_end
@@ -9183,24 +9183,24 @@ string_begin	stringID=2000028	string=[I rest my hopes on your feats.]	string_end
 string_begin	stringID=2000029	string=[I have seen your true powers. Please allow me to follow you.]	string_end
 string_begin	stringID=2000030	string=[I offer you all that I have, Master.]	string_end
 string_begin	stringID=2000031	string=[It seems your fate ends here.]	string_end
-string_begin	stringID=2000032	string=[You're an interesting one… I can feel the power of the giants from you, and you're not even a giant!]	string_end
+string_begin	stringID=2000032	string=[You're an interesting oneвЂ¦ I can feel the power of the giants from you, and you're not even a giant!]	string_end
 string_begin	stringID=2000033	string=[Display your dominance over either Kajin or Beryn,#and the other one will submit to you.]	string_end
 string_begin	stringID=2000034	string=[The Ancient Kartia Records hold the beginning and the end of Ancient Kartia's Labyrinth, #and everything in between.]	string_end
 string_begin	stringID=2000035	string=[Wait, don't tell me you don't recognize the Great Pirate Captain Uthanka?!]	string_end
 string_begin	stringID=2000036	string=[Well, for starters, the Great Pirate Captain Uthanka - that's me - was the ruler of the very Talking Island you're standing on!]	string_end
 string_begin	stringID=2000037	string=[Back in those days, nobodies like you wouldn't have stood a chance against the likes of me.]	string_end
-string_begin	stringID=2000038	string=[Well, all that came to an end when Ye Sagira crashed onto the Talking Island because of Shillien's resurrection, so it's all done and past, I guess…]	string_end
+string_begin	stringID=2000038	string=[Well, all that came to an end when Ye Sagira crashed onto the Talking Island because of Shillien's resurrection, so it's all done and past, I guessвЂ¦]	string_end
 string_begin	stringID=2000039	string=[If it hadn't been for that, this island would have stayed under my great rule.]	string_end
-string_begin	stringID=2000040	string=[Ah, the good old days…]	string_end
+string_begin	stringID=2000040	string=[Ah, the good old daysвЂ¦]	string_end
 string_begin	stringID=2000041	string=[What, still here? You were actually listening?]	string_end
-string_begin	stringID=2000042	string=[Ahem, eh, well, thanks…]	string_end
+string_begin	stringID=2000042	string=[Ahem, eh, well, thanksвЂ¦]	string_end
 string_begin	stringID=2000043	string=[Well, since you stayed to hear my story, I can't let you leave empty-handed now, can I?]	string_end
 string_begin	stringID=2000044	string=[I'll give you a special gift. It's not for everyone, mind you! It's the most valuable thing in the history of Aden!]	string_end
 string_begin	stringID=2000045	string=[It's in your pouch, so use it well, you hear?]	string_end
-string_begin	stringID=2000046	string=[Man, I'm tired… I forgot how much talking can wear you out!]	string_end
+string_begin	stringID=2000046	string=[Man, I'm tiredвЂ¦ I forgot how much talking can wear you out!]	string_end
 string_begin	stringID=2000047	string=[Only one ruler left! Let's finish this up!]	string_end
 string_begin	stringID=2000048	string=[Everyone watch out for ice shards when debuffing.]	string_end
-string_begin	stringID=2000049	string=[So sleepy… better finish this fast so I can go sleep!]	string_end
+string_begin	stringID=2000049	string=[So sleepyвЂ¦ better finish this fast so I can go sleep!]	string_end
 string_begin	stringID=2000050	string=[Now, don't make yourself look stupid. Finish it clean.]	string_end
 string_begin	stringID=2000051	string=[Watch out for lags, and start! Go, go, go!]	string_end
 string_begin	stringID=2000052	string=[Man, that hurts like hell! Heal, give me a heal!]	string_end
@@ -9226,18 +9226,18 @@ string_begin	stringID=2000071	string=[You will need to prepare skills that match
 string_begin	stringID=2000072	string=[Well, I'll continue my story next time we meet. See ya.]	string_end
 string_begin	stringID=2000073	string=[Loyal Captain]	string_end
 string_begin	stringID=2000074	string=[I think this is as far as I can go in helping you, $s1. I will bow out now.]	string_end
-string_begin	stringID=2000075	string=[I want a slushie…oh, if only I could have a slushie…hey, if you bring me 10 of each ingredient, I'll make you a Summer Slushie!]	string_end
+string_begin	stringID=2000075	string=[I want a slushieвЂ¦oh, if only I could have a slushieвЂ¦hey, if you bring me 10 of each ingredient, I'll make you a Summer Slushie!]	string_end
 string_begin	stringID=2000076	string=[I'll give you a Boss Accessory Pack if you bring me 15 Summer Slushies!]	string_end
 string_begin	stringID=2000077	string=[Well, howdy-do! Isn't my swimsuit the cutest thing ever? It's time for a tan, yes it is!]	string_end
 string_begin	stringID=2000078	string=[Thanks! I'll be counting on you next time too!]	string_end
-string_begin	stringID=2000079	string=[Oh come on… you have to bring me the right materials!]	string_end
+string_begin	stringID=2000079	string=[Oh come onвЂ¦ you have to bring me the right materials!]	string_end
 string_begin	stringID=2000080	string=[Aghh! Zombies! Zombies!]	string_end
-string_begin	stringID=2000081	string=[Ugh…please, someone get rid of these zombies…]	string_end
-string_begin	stringID=2000082	string=[I've been bitten by a zombie…someone help me…]	string_end
+string_begin	stringID=2000081	string=[UghвЂ¦please, someone get rid of these zombiesвЂ¦]	string_end
+string_begin	stringID=2000082	string=[I've been bitten by a zombieвЂ¦someone help meвЂ¦]	string_end
 string_begin	stringID=2000083	string=[Is there no hero that can save us?]	string_end
-string_begin	stringID=2000084	string=[Einhasad, dear goddess…please save us…]	string_end
+string_begin	stringID=2000084	string=[Einhasad, dear goddessвЂ¦please save usвЂ¦]	string_end
 string_begin	stringID=2000085	string=[We have to protect the Crystal of Protection if we want to stop these blasted zombies.]	string_end
-string_begin	stringID=2000086	string=[Filthy creatures of Shillien… The town will fall into chaos if we don't stop the zombies.]	string_end
+string_begin	stringID=2000086	string=[Filthy creatures of ShillienвЂ¦ The town will fall into chaos if we don't stop the zombies.]	string_end
 string_begin	stringID=2000087	string=[I can't partake in the battle because I have to defend the Crystal of Protection. Please, someone stop these zombies.]	string_end
 string_begin	stringID=2000088	string=[Zombies have appeared at the outskirts of Gludio, and are coming this way.]	string_end
 string_begin	stringID=2000089	string=[Zombies have appeared at the outskirts of Aden, and are coming this way.]	string_end
@@ -9245,7 +9245,7 @@ string_begin	stringID=2000090	string=[Zombies have appeared at the outskirts of 
 string_begin	stringID=2000091	string=[Zombies have appeared at the outskirts of Talking Island Village, and are coming this way.]	string_end
 string_begin	stringID=2000092	string=[The age of chaos and darkness has come. I shall guide you to darkness.]	string_end
 string_begin	stringID=2000093	string=[I will make you invincible with the power of this plague.]	string_end
-string_begin	stringID=2000094	string=[Humans…so complacent and weak after years of peace. How about I let you spread the fear of pestilence unto them?]	string_end
+string_begin	stringID=2000094	string=[HumansвЂ¦so complacent and weak after years of peace. How about I let you spread the fear of pestilence unto them?]	string_end
 string_begin	stringID=2000095	string=[For the prosperity of my people, I will use my power on Jermann and Jermann only.  I cannot overpower my own people.]	string_end
 string_begin	stringID=2000096	string=[Are you ready to face your enemies?]	string_end
 string_begin	stringID=2000097	string=[You sense the presence of Pirate Captain Uthanka at the outskirts of Talking Island Village.]	string_end
@@ -9449,7 +9449,7 @@ string_begin	stringID=1802418	string=[You may fall into danger with a sudden att
 string_begin	stringID=1802419	string=[$s1, thank you for saving me. I wish you good fortune... ]	string_end
 string_begin	stringID=1802420	string=[Gasp... gasp...]	string_end
 string_begin	stringID=1802421	string=[My body... what happened?]	string_end
-string_begin	stringID=1802422	string=[Please, take my power. It is not much, but…]	string_end
+string_begin	stringID=1802422	string=[Please, take my power. It is not much, butвЂ¦]	string_end
 string_begin	stringID=1802423	string=[$s1! I will not forget this, you nasty little grunt!]	string_end
 string_begin	stringID=1802425	string=[Too bad for you~~]	string_end
 string_begin	stringID=1802426	string=[Run to the Magic Circle!]	string_end
@@ -9642,7 +9642,7 @@ string_begin	stringID=1802476	string=[Ekimus prepares the 4th powerful spell wit
 string_begin	stringID=1802477	string=[Ekimus prepares the 5th powerful spell with the magic sacrificed by the 5 remaining minions!]	string_end
 string_begin	stringID=1802478	string=[Ekimus prepares the 6th powerful spell with the magic sacrificed by the 6 remaining minions!]	string_end
 string_begin	stringID=1802479	string=[Mayday! Mayday! We need backup! We need backup!]	string_end
-string_begin	stringID=1802480	string=[Whoa, this is actualy kinda scary… I'll need to retreat after a few token blows!]	string_end
+string_begin	stringID=1802480	string=[Whoa, this is actualy kinda scaryвЂ¦ I'll need to retreat after a few token blows!]	string_end
 string_begin	stringID=1802481	string=[You have gained 5 extra minutes for defeating the Hiding Tracker. ]	string_end
 string_begin	stringID=1802482	string=[The Yehan Brothers have emerged from the innermost hall.]	string_end
 string_begin	stringID=1802483	string=[I'll be leaving soon. If you're going to trade fish, you'd better do it now.]	string_end
@@ -9681,11 +9681,11 @@ string_begin	stringID=570903	string=[|Lv. 58-61| Stolen Seed (Completed)]	string
 string_begin	stringID=570904	string=[|Lv. 58-61| Stolen Seed]	string_end
 string_begin	stringID=570911	string=[Activate the Magic Circle Control Device]	string_end
 string_begin	stringID=1802496	string=[The Repository is attacked! Fight! Fight!]	string_end
-string_begin	stringID=1802497	string=[Argh! Who is…hiding there…?]	string_end
+string_begin	stringID=1802497	string=[Argh! Who isвЂ¦hiding thereвЂ¦?]	string_end
 string_begin	stringID=1802498	string=[A smart Giant, huh? Well, hand it over! The Kartia's Seed is ours!]	string_end
 string_begin	stringID=1802499	string=[Kartia's Seed! Got it!]	string_end
-string_begin	stringID=1802500	string=[You worthless Giant…curse you for eternity!]	string_end
-string_begin	stringID=1802501	string=[Thank you…thank you for helping!]	string_end
+string_begin	stringID=1802500	string=[You worthless GiantвЂ¦curse you for eternity!]	string_end
+string_begin	stringID=1802501	string=[Thank youвЂ¦thank you for helping!]	string_end
 string_begin	stringID=1802502	string=[Thank you. You are kind.]	string_end
 string_begin	stringID=575601	string=[|Lv. 20-99| An Interdimensional Draft]	string_end
 string_begin	stringID=575602	string=[|Lv. 20-99| An Interdimensional Draft (In progress)]	string_end
@@ -9848,7 +9848,7 @@ string_begin	stringID=1802529	string=[Use the Purest Soul in your inventory.]	st
 string_begin	stringID=1802530	string=[Use the Clearest Water in your inventory.]	string_end
 string_begin	stringID=1802531	string=[Now you can choose a dual class! Talk to Raina in Talking Island Village for more details.]	string_end
 string_begin	stringID=1802532	string=[You will kneel to me!]	string_end
-string_begin	stringID=1802533	string=[The dead are calling…and I answer! ]	string_end
+string_begin	stringID=1802533	string=[The dead are callingвЂ¦and I answer! ]	string_end
 string_begin	stringID=1802534	string=[Kill, all you cursed soldiers! Kill everything!]	string_end
 string_begin	stringID=1802535	string=[My wind barrier! How? Only the Ertheia can - wait - unless you are..?!]	string_end
 string_begin	stringID=573201	string=[|Lv. 1-20| A Foreign Land]	string_end
@@ -10307,7 +10307,7 @@ string_begin	stringID=547225	string=[Talk to Raina]	string_end
 string_begin	stringID=1802609	string=[$s1 seconds have been added to the Instance Zone duration.]	string_end
 string_begin	stringID=1802610	string=[Master Katalin has sent a letter.\nClick the question-mark icon to read.]	string_end
 string_begin	stringID=1802611	string=[Magister Ayanthe has sent a letter.\nClick the question-mark icon to read.]	string_end
-string_begin	stringID=1802612	string=[Such monsters in a place like this…! Unbelievable!]	string_end
+string_begin	stringID=1802612	string=[Such monsters in a place like thisвЂ¦! Unbelievable!]	string_end
 string_begin	stringID=1802613	string=[Be on your toes!]	string_end
 string_begin	stringID=1802614	string=[Leave this place to Kain.\nGo to the next room.]	string_end
 string_begin	stringID=1802615	string=[Try talking to Vorbos by the well.\nYou can receive Queen Navari's next letter at Lv. 40!]	string_end
@@ -10336,7 +10336,7 @@ string_begin	stringID=1802625	string=[Unworldly Imp!]	string_end
 string_begin	stringID=1802626	string=[Abyssal Imp!]	string_end
 string_begin	stringID=1802627	string=[I'm outta here as soon as I find some treasure. ]	string_end
 string_begin	stringID=1802628	string=[You didn't forget your escape scrolls, did you? Because I'm about to use this key to use my ultimate skill!]	string_end
-string_begin	stringID=1802629	string=[My ultimate skill is…Lv. 36 Retreat!]	string_end
+string_begin	stringID=1802629	string=[My ultimate skill isвЂ¦Lv. 36 Retreat!]	string_end
 string_begin	stringID=1802630	string=[I'm not helping you cuz I feel sorry or anything!]	string_end
 string_begin	stringID=1802631	string=[You should be honored that I'm helping you.]	string_end
 string_begin	stringID=1802632	string=[I'm gonna tell Daddy if you keep hitting me!]	string_end
@@ -10391,11 +10391,11 @@ string_begin	stringID=1802677	string=[Grow stronger here until you receive the n
 string_begin	stringID=1802678	string=[You have finished all of Queen Navari's Letters! Grow stronger here until you receive letters from a minstrel at Lv. 85.]	string_end
 string_begin	stringID=1802679	string=[So good, neigh!]	string_end
 string_begin	stringID=1802680	string=[Thank you! What a delicious carrot.]	string_end
-string_begin	stringID=1802681	string=[So good…so good.]	string_end
+string_begin	stringID=1802681	string=[So goodвЂ¦so good.]	string_end
 string_begin	stringID=1802682	string=[This is a true carrot! A true carrot!]	string_end
 string_begin	stringID=1802683	string=[Just like home.]	string_end
 string_begin	stringID=1802684	string=[You just don't understand.]	string_end
-string_begin	stringID=1802685	string=[A carrot is much better than sticks. But some horses do like sticks better…]	string_end
+string_begin	stringID=1802685	string=[A carrot is much better than sticks. But some horses do like sticks betterвЂ¦]	string_end
 string_begin	stringID=1802686	string=[Carrot! Carroticious! Carrogant!]	string_end
 string_begin	stringID=1802687	string=[So full. Carrots are great, though.]	string_end
 string_begin	stringID=1802688	string=[A full tummy is the key to happiness! That's my original quote.]	string_end
@@ -10441,27 +10441,27 @@ string_begin	stringID=85711	string=[Wait up, you clowns! You're gonna lose me in
 string_begin	stringID=85712	string=[Ooh, pictures! Ok, I'm ready. Cheese!]	string_end
 string_begin	stringID=85713	string=[Whoa, wait a minute. Who do you think you are, shoving a camera in my face without permission? I'm going to report you!]	string_end
 string_begin	stringID=85714	string=[No no, no pictures! I look horrible today!]	string_end
-string_begin	stringID=85715	string=[You scared me! Geez. Oh hey, if anyone asks…you didn't see me taking a break from the fashion show, ok?]	string_end
+string_begin	stringID=85715	string=[You scared me! Geez. Oh hey, if anyone asksвЂ¦you didn't see me taking a break from the fashion show, ok?]	string_end
 string_begin	stringID=85716	string=[Ta-da! What do you think? Like, totally trendy, right?]	string_end
-string_begin	stringID=85717	string=[I see…a future lying ahead of you. Don't speak! I see…I see…yes, a trendsetter. You shall be the trendiest trendsetter! Muahaha!]	string_end
+string_begin	stringID=85717	string=[I seeвЂ¦a future lying ahead of you. Don't speak! I seeвЂ¦I seeвЂ¦yes, a trendsetter. You shall be the trendiest trendsetter! Muahaha!]	string_end
 string_begin	stringID=85718	string=[You are cordially invited to this year's special fashion show featuring Sir Adenia Andron.]	string_end
-string_begin	stringID=85719	string=[Whew…walking practices all day, like a newbie! It's humiliating!]	string_end
+string_begin	stringID=85719	string=[WhewвЂ¦walking practices all day, like a newbie! It's humiliating!]	string_end
 string_begin	stringID=85720	string=[Be sure to watch the fashion show! Take this little gift from me.]	string_end
 string_begin	stringID=85721	string=[You want my autograph? Then come to the fashion show! Here, you can take this. ]	string_end
 string_begin	stringID=85722	string=[Eye-catching fashion is a must in a festival! Try on Sir Adenia Andron's high-end styles!]	string_end
-string_begin	stringID=85723	string=[Haha, ha… um, I'll be going now. See you at the fashion show!]	string_end
+string_begin	stringID=85723	string=[Haha, haвЂ¦ um, I'll be going now. See you at the fashion show!]	string_end
 string_begin	stringID=85724	string=[Here is a Contender's Mark! Please be sure to attend the Fantasy Isle Festival!]	string_end
 string_begin	stringID=85725	string=[So long, adventurer! See you again at the Fantasy Isle Festival!]	string_end
 string_begin	stringID=85726	string=[So apparently they make monsters duel and reward the winner! Sounds interesting, doesn't it?]	string_end
 string_begin	stringID=85727	string=[These contenders are bloodthirsty nothings. No wonder I can't win!]	string_end
-string_begin	stringID=85728	string=[Hey, this match is a lot like a… wait, no. It can't be…it can't be.]	string_end
+string_begin	stringID=85728	string=[Hey, this match is a lot like aвЂ¦ wait, no. It can't beвЂ¦it can't be.]	string_end
 string_begin	stringID=85729	string=[So you can use the Monster Arena if you have a Contender's Mark, huh?]	string_end
-string_begin	stringID=85730	string=[Aren't there any cute monsters to look at? These are really not aesthetically appealing…]	string_end
+string_begin	stringID=85730	string=[Aren't there any cute monsters to look at? These are really not aesthetically appealingвЂ¦]	string_end
 string_begin	stringID=85780	string=[Ahh, how long since I last visited Fantasy Isle again?]	string_end
 string_begin	stringID=85781	string=[Mm, yes. The crowd, the noise, the junk food. The markers of a true festival!]	string_end
 string_begin	stringID=85782	string=[Oh hey, new attractions! I can't leave these things untested now, can I?]	string_end
 string_begin	stringID=85783	string=[New facilities are great and all, but nothing beats the good ol' Block Checkers or Kratei's Cube.]	string_end
-string_begin	stringID=85784	string=[Let's see…where should I start?]	string_end
+string_begin	stringID=85784	string=[Let's seeвЂ¦where should I start?]	string_end
 string_begin	stringID=85785	string=[Pst. Hey, rumor going around. Is it true that Fantasy Isle is falling on hard times?]	string_end
 string_begin	stringID=85790	string=[Fantasy Isle Tourist]	string_end
 string_begin	stringID=85791	string=[Handy's Block Checker]	string_end
@@ -10480,7 +10480,7 @@ string_begin	stringID=2000120	string=[Move, move, move! Back straight! Shoulders
 string_begin	stringID=2000121	string=[Remarkable! It's even better than my expectations. Such extraordinary fashion!]	string_end
 string_begin	stringID=2000122	string=[Adena can't buy my works of art! I'd rather give them for free!]	string_end
 string_begin	stringID=2000123	string=[You know what kind of guests are coming to the show today, don't you? Get your acts together!]	string_end
-string_begin	stringID=2000124	string=[I…I wanna go home…]	string_end
+string_begin	stringID=2000124	string=[IвЂ¦I wanna go homeвЂ¦]	string_end
 string_begin	stringID=2000125	string=[Show start! Come on, snap snap!]	string_end
 string_begin	stringID=2000126	string=[My beauties! You were fabulous! Now back to practice!]	string_end
 string_begin	stringID=2000127	string=[The fashion show will begin shortly. Please take a seat!]	string_end
@@ -10490,9 +10490,9 @@ string_begin	stringID=2000130	string=[Can't you just feel the chill air of secre
 string_begin	stringID=2000131	string=[The Traditional Taiwanese Costume is for real warriors. It's becoming even on a hulking orc!]	string_end
 string_begin	stringID=2000132	string=[A round of applause for these fantastic designs, ladies and gentlemen!]	string_end
 string_begin	stringID=2000133	string=[This closes tonight's fashion show, ladies and gentlemen! Come again tomorrow!]	string_end
-string_begin	stringID=2000134	string=[Um…like this?]	string_end
+string_begin	stringID=2000134	string=[UmвЂ¦like this?]	string_end
 string_begin	stringID=2000135	string=[Ok, let me try that again.]	string_end
-string_begin	stringID=2000136	string=[I think I'm getting the hang of it…]	string_end
+string_begin	stringID=2000136	string=[I think I'm getting the hang of itвЂ¦]	string_end
 string_begin	stringID=2000137	string=[Drat, not again.]	string_end
 string_begin	stringID=2000138	string=[I'm getting better! I feel it!]	string_end
 string_begin	stringID=2000139	string=[Really, would a bonus pay hurt that much?]	string_end
@@ -10519,16 +10519,16 @@ string_begin	stringID=2000159	string=[Don't forget to brush your teeth, kiddos!]
 string_begin	stringID=2000160	string=[I'm guarding Master Uthanka!]	string_end
 string_begin	stringID=2000161	string=[I'm more than enough for the likes of you.]	string_end
 string_begin	stringID=2000162	string=[Get away from Master Uthanka, now!]	string_end
-string_begin	stringID=2000163	string=[Mas…ter… Uthan…ka…]	string_end
+string_begin	stringID=2000163	string=[MasвЂ¦terвЂ¦ UthanвЂ¦kaвЂ¦]	string_end
 string_begin	stringID=2000164	string=[$s1 is inflicted with the Blood Seal. Now $s1 have 30 seconds to face Bloody Katura.]	string_end
-string_begin	stringID=2000165	string=[Katura Queen is summoning minions…]	string_end
+string_begin	stringID=2000165	string=[Katura Queen is summoning minionsвЂ¦]	string_end
 string_begin	stringID=2000166	string=[Katura Queen is in defensive mode. Now is your chance to inflict additional damage!]	string_end
 string_begin	stringID=2000167	string=[Katura Queen has restored her HP by absorbing her minions.]	string_end
 string_begin	stringID=2000168	string=[Katura Queen is weakened by the death of her minions!]	string_end
 string_begin	stringID=2000169	string=[You have defeated Katura Queen and won the battle of Infernal Kamaloka.]	string_end
 string_begin	stringID=2000170	string=[$s1 is inflicted with the Poison Seed, which will explode in 10 seconds.]	string_end
 string_begin	stringID=2000171	string=[Lunatic Lord is in defensive mode. Now is your chance to inflict additional damage!]	string_end
-string_begin	stringID=2000172	string=[Lunatic Lord is summoning minions…]	string_end
+string_begin	stringID=2000172	string=[Lunatic Lord is summoning minionsвЂ¦]	string_end
 string_begin	stringID=2000173	string=[Lunatic Lord is weakened by the simultaneous death of his minions.]	string_end
 string_begin	stringID=2000174	string=[Time is up, and the enemies have withdrawn. The battle is over.]	string_end
 string_begin	stringID=2000175	string=[You have defeated Lunatic Lord and won the battle of Lunatic Kamaloka.]	string_end
@@ -10562,10 +10562,10 @@ string_begin	stringID=2000202	string=[Please choose a monster, or one will be au
 string_begin	stringID=2000203	string=[A monster has been automatically designated.]	string_end
 string_begin	stringID=2000204	string=[Congratulations! You are victorious. Your final score: wins - $s1, draws - $s2, losses - $s3.]	string_end
 string_begin	stringID=1802704	string=[The instanced zone will close soon!]	string_end
-string_begin	stringID=1802705	string=[Nooo…not enough Vitality yet!]	string_end
-string_begin	stringID=1802706	string=[Ow, ow! It hurts…]	string_end
-string_begin	stringID=1802707	string=[It tizzes and bungles! Tingles and…ow!]	string_end
-string_begin	stringID=1802708	string=[Ergh, stop, stop…]	string_end
+string_begin	stringID=1802705	string=[NoooвЂ¦not enough Vitality yet!]	string_end
+string_begin	stringID=1802706	string=[Ow, ow! It hurtsвЂ¦]	string_end
+string_begin	stringID=1802707	string=[It tizzes and bungles! Tingles andвЂ¦ow!]	string_end
+string_begin	stringID=1802708	string=[Ergh, stop, stopвЂ¦]	string_end
 string_begin	stringID=1802709	string=[You think you can stop me from getting ow!]	string_end
 string_begin	stringID=1802710	string=[Just wait a minute! I'm almost done getting all the Vitality!]	string_end
 string_begin	stringID=1802711	string=[Hey, stop the violence and I'll give you the Vitality I got!]	string_end
@@ -10639,7 +10639,7 @@ string_begin	stringID=1802769	string=[Kaboom!]	string_end
 string_begin	stringID=1802770	string=[Gurgle...]	string_end
 string_begin	stringID=1802771	string=[Boom!]	string_end
 string_begin	stringID=1802772	string=[Don't get too far away from Piero!]	string_end
-string_begin	stringID=1802773	string=[It’s beginning! Do your best!]	string_end
+string_begin	stringID=1802773	string=[ItвЂ™s beginning! Do your best!]	string_end
 string_begin	stringID=1802774	string=[Woah! It's $s1!]	string_end
 string_begin	stringID=1802775	string=[$s1! Stay focused!]	string_end
 string_begin	stringID=1802776	string=[$s1!, everything depends on you!]	string_end
@@ -11109,7 +11109,7 @@ string_begin	stringID=1803635	string=[You have already received Zaken's treasure
 string_begin	stringID=3000102	string=[If you want to get a Magic Fire from us, ]	string_end
 string_begin	stringID=3000106	string=[you should check whether you have a Magic Fan equipped. ]	string_end
 string_begin	stringID=3000103	string=[Only the Magic Fan skill will incite the flames. ]	string_end
-string_begin	stringID=3000104	string=[Let’s work together, friend! ]	string_end
+string_begin	stringID=3000104	string=[LetвЂ™s work together, friend! ]	string_end
 string_begin	stringID=3000105	string=[The Magic Fan has 2 skills.]	string_end
 string_begin	stringID=3000107	string=[Oh my! How dare you, without a Magic Fan!]	string_end
 string_begin	stringID=3000108	string=[You don't have a Magic Fan? You are very brave.]	string_end
@@ -11128,7 +11128,7 @@ string_begin	stringID=3000120	string=[30 seconds left, stay strong!]	string_end
 string_begin	stringID=3000121	string=[Did you... did you just steal the Magic of Fire?]	string_end
 string_begin	stringID=3000122	string=[Oh, those flames are bright...]	string_end
 string_begin	stringID=3000123	string=[Oh, I see, you're grilled!]	string_end
-string_begin	stringID=3000124	string=[Don’t forget our bright flames!]	string_end
+string_begin	stringID=3000124	string=[DonвЂ™t forget our bright flames!]	string_end
 string_begin	stringID=3000125	string=[The Flame Festival has begun! ]	string_end
 string_begin	stringID=3000126	string=[After the festival of flames ends, Victory will appear.]	string_end
 string_begin	stringID=3000127	string=[We remember your excitement, your luck, and your happiness.]	string_end
@@ -11156,20 +11156,20 @@ string_begin	stringID=1803642	string=[Time extension error!]	string_end
 string_begin	stringID=1803643	string=[Be careful! You are about to face His Majesty Ol Mahum the Last!]	string_end
 string_begin	stringID=1803644	string=[Come what may - it is not your fault. ]	string_end
 string_begin	stringID=1803645	string=[Bring over and surrender your precious gold treasure to me!]	string_end
-string_begin	stringID=1803646	string=[I'm covered in Kraven's blood… You will be punished!]	string_end
+string_begin	stringID=1803646	string=[I'm covered in Kraven's bloodвЂ¦ You will be punished!]	string_end
 string_begin	stringID=1803647	string=[Who is real? It is not easy to tell!]	string_end
 string_begin	stringID=1803648	string=[I will be fighting until Kandra finally accepts me!]	string_end
 string_begin	stringID=1803649	string=[This is the power of Orcs! Hahaha!]	string_end
 string_begin	stringID=1803650	string=[I'm gonna make you feel my rage!]	string_end
 string_begin	stringID=1803651	string=[Where is Leo? Where have you hidden him?]	string_end
-string_begin	stringID=1803652	string=[It is just the beginning… You will fail!]	string_end
+string_begin	stringID=1803652	string=[It is just the beginningвЂ¦ You will fail!]	string_end
 string_begin	stringID=1803653	string=[We are nothing like these Varka weaklings!]	string_end
 string_begin	stringID=1803654	string=[I'll kill you! This is Hallate's will! Die!]	string_end
 string_begin	stringID=1803655	string=[Fine, let's see what you can do.]	string_end
 string_begin	stringID=1803656	string=[I will show no mercy! I will kill you!]	string_end
 string_begin	stringID=1803657	string=[I'll make you suffer! You will burn forever!]	string_end
 string_begin	stringID=1803658	string=[I'll make everyone feel this pain!]	string_end
-string_begin	stringID=1803659	string=[You worthless scum… I will break you!]	string_end
+string_begin	stringID=1803659	string=[You worthless scumвЂ¦ I will break you!]	string_end
 string_begin	stringID=1803660	string=[There is nothing you can do!]	string_end
 string_begin	stringID=1803661	string=[You think you can take me?]	string_end
 string_begin	stringID=1803662	string=[Run, run!]	string_end
@@ -11182,16 +11182,16 @@ string_begin	stringID=1640005	string=[All levels are completed. ]	string_end
 string_begin	stringID=1803668	string=[What a lovely day! The treasure is mine!]	string_end
 string_begin	stringID=1803669	string=[Wow! This was a pure success! ]	string_end
 string_begin	stringID=1803670	string=[The treasure chest is over there! Come, quickly!]	string_end
-string_begin	stringID=1803671	string=[There, that's the treasure chest! Let's see…]	string_end
+string_begin	stringID=1803671	string=[There, that's the treasure chest! Let's seeвЂ¦]	string_end
 string_begin	stringID=1803672	string=[The treasure is ours! We will rule the world!]	string_end
 string_begin	stringID=1803673	string=[I see the treasure chest! Come on, let's go!]	string_end
-string_begin	stringID=1803674	string=[$s1, that's the treasure… It's our lucky day! ]	string_end
+string_begin	stringID=1803674	string=[$s1, that's the treasureвЂ¦ It's our lucky day! ]	string_end
 string_begin	stringID=1803675	string=[Those guys with $s1 got lucky!]	string_end
-string_begin	stringID=1803676	string=[If only you knew how much effort it took us to find this treasure… Thank you.]	string_end
+string_begin	stringID=1803676	string=[If only you knew how much effort it took us to find this treasureвЂ¦ Thank you.]	string_end
 string_begin	stringID=1803677	string=[The countdown is on! The last raid has begun!]	string_end
 string_begin	stringID=1803678	string=[All raids are finished for now. We will prepare new arena raids for you. Please come back soon!]	string_end
 string_begin	stringID=1803679	string=[The chest is empty!]	string_end
-string_begin	stringID=1803680	string=[Don't think that treasure hunting is going to be easy…]	string_end
+string_begin	stringID=1803680	string=[Don't think that treasure hunting is going to be easyвЂ¦]	string_end
 string_begin	stringID=1803681	string=[Oh! This is a treasure chest!]	string_end
 string_begin	stringID=1803682	string=[I see a chest full of treasures!]	string_end
 string_begin	stringID=1803683	string=[Antharas is trying to escape. ]	string_end
@@ -11220,7 +11220,7 @@ string_begin	stringID=1120348	string=[Now I will show the true power of earth an
 string_begin	stringID=1120349	string=[My blade will become a nightmare for my enemies!]	string_end
 string_begin	stringID=1120350	string=[Long-range attacks are useless against me.]	string_end
 string_begin	stringID=1120351	string=[All your weapons are nothing but useless junk!]	string_end
-string_begin	stringID=1120352	string=[Oh-ho… So easy to break.]	string_end
+string_begin	stringID=1120352	string=[Oh-hoвЂ¦ So easy to break.]	string_end
 string_begin	stringID=1120353	string=[Something must have gone wrong if you see me!]	string_end
 string_begin	stringID=1120354	string=[Don't expect any help, all my magic is gone to contain the flames.]	string_end
 string_begin	stringID=1803692	string=[Now I will show the real might of the Silenos!]	string_end
@@ -11263,7 +11263,7 @@ string_begin	stringID=90815	string=[Will you dance with me?]	string_end
 string_begin	stringID=90816	string=[I like cheerful songs!]	string_end
 string_begin	stringID=90817	string=[Hey, did you hear the ghost's voice?]	string_end
 string_begin	stringID=90818	string=[A pumpkin ghost?]	string_end
-string_begin	stringID=90819	string=[I'm disappearing… I'll turn into a ghost!]	string_end
+string_begin	stringID=90819	string=[I'm disappearingвЂ¦ I'll turn into a ghost!]	string_end
 string_begin	stringID=90820	string=[Not my fault if it comes out all in pieces!]	string_end
 string_begin	stringID=90821	string=[I'm not a ghost! Don't hit me!]	string_end
 string_begin	stringID=90822	string=[Hey! It's not fun even if you hit with that!]	string_end
@@ -11272,7 +11272,7 @@ string_begin	stringID=90824	string=[I'll give you candy! Use the chrono instrume
 string_begin	stringID=90825	string=[Hitting with that won't get you cookies! Hit with the instrument!]	string_end
 string_begin	stringID=90826	string=[If you don't give me within 30 seconds, I'll turn into a ghost!]	string_end
 string_begin	stringID=90827	string=[20 seconds left! Hurry!]	string_end
-string_begin	stringID=90828	string=[10 seconds left! 9…8…7…]	string_end
+string_begin	stringID=90828	string=[10 seconds left! 9вЂ¦8вЂ¦7вЂ¦]	string_end
 string_begin	stringID=90829	string=[If you don't give me Monster Energy, I'll go back in 2 minutes!]	string_end
 string_begin	stringID=90830	string=[If you don't give me Monster Energy, I'll go back in 1 minute!]	string_end
 string_begin	stringID=90831	string=[Bye bye! Happy Halloween!]	string_end
@@ -11338,7 +11338,7 @@ string_begin	stringID=1803706	string=[I will consume your life force!]	string_en
 string_begin	stringID=1803707	string=[I will kill you!]	string_end
 string_begin	stringID=1803708	string=[Look your death in the eye!]	string_end
 string_begin	stringID=1803709	string=[I will sacrifice you for the sake of Shillien's return!]	string_end
-string_begin	stringID=1803710	string=[So, here are the ones who have woken me up… Prepare to die!]	string_end
+string_begin	stringID=1803710	string=[So, here are the ones who have woken me upвЂ¦ Prepare to die!]	string_end
 string_begin	stringID=1803711	string=[I will show you the power of Einhasad's envoy!]	string_end
 string_begin	stringID=1803712	string=[You're so dead!]	string_end
 string_begin	stringID=1803713	string=[Prepare yourself for the fight with the fire spirit!]	string_end
@@ -11350,9 +11350,9 @@ string_begin	stringID=1803718	string=[You think you can withstand the rage of st
 string_begin	stringID=1803719	string=[Procella, king of wind spirits, will be your last opponent!]	string_end
 string_begin	stringID=1803720	string=[No way!]	string_end
 string_begin	stringID=1803721	string=[You are strong, aren't you?]	string_end
-string_begin	stringID=1803722	string=[Ugh, is it possible…]	string_end
+string_begin	stringID=1803722	string=[Ugh, is it possibleвЂ¦]	string_end
 string_begin	stringID=1803723	string=[No! I will not perish!]	string_end
-string_begin	stringID=1803724	string=[Oh, no… I am really… sorry…]	string_end
+string_begin	stringID=1803724	string=[Oh, noвЂ¦ I am reallyвЂ¦ sorryвЂ¦]	string_end
 string_begin	stringID=1803293	string=[$s1 wins! Come back tomorrow!]	string_end
 string_begin	stringID=1803725	string=[It wasn't easy to get there.]	string_end
 string_begin	stringID=1803726	string=[I see that you would like to listen my speech, but I don't have many chances to survive.]	string_end
@@ -11788,15 +11788,15 @@ string_begin	stringID=92112	string=[Plains of Glory, War-Torn Plains, Silent Val
 string_begin	stringID=1803974	string=[Goddard Holy Artifact has appeared.]	string_end
 string_begin	stringID=1803975	string=[The po-si-tion is ta-ken up.]	string_end
 string_begin	stringID=1803976	string=[Level: $s1]	string_end
-string_begin	stringID=1803977	string=[It’s the first time for a long while when I’m leaving mountains and coming down... oh, my poor bones, oh, my poor muscles. My back hurts... So, kids, are you really not interested to find out who I am?]	string_end
+string_begin	stringID=1803977	string=[ItвЂ™s the first time for a long while when IвЂ™m leaving mountains and coming down... oh, my poor bones, oh, my poor muscles. My back hurts... So, kids, are you really not interested to find out who I am?]	string_end
 string_begin	stringID=1803978	string=[Now you are full of energy and all is going perfect, am I right? Well, come closer then.]	string_end
-string_begin	stringID=1803979	string=[That’s what I’m going to tell you. Look at yourself! You can do everything! Go ahead, do not afraid hardships and troubles, you can deal with them because you are so young and strong! All challenges you encounter are going to be for your good.]	string_end
+string_begin	stringID=1803979	string=[ThatвЂ™s what IвЂ™m going to tell you. Look at yourself! You can do everything! Go ahead, do not afraid hardships and troubles, you can deal with them because you are so young and strong! All challenges you encounter are going to be for your good.]	string_end
 string_begin	stringID=1803980	string=[Use the energy I gave you to enhance your equipment. All is going to be good if you are lucky enough.]	string_end
-string_begin	stringID=1803981	string=[I’m sorry... I don’t know how this energy works. I could use it after I had a prophetic dream.]	string_end
-string_begin	stringID=1803982	string=[Now, don’t be shy, use the energy on your equipment. Believe me, you can enhance your equipment only if you use my energy.]	string_end
+string_begin	stringID=1803981	string=[IвЂ™m sorry... I donвЂ™t know how this energy works. I could use it after I had a prophetic dream.]	string_end
+string_begin	stringID=1803982	string=[Now, donвЂ™t be shy, use the energy on your equipment. Believe me, you can enhance your equipment only if you use my energy.]	string_end
 string_begin	stringID=1803983	string=[Eh? What? Hey, you have a talking equipment! What a magic! It cries aloud begging for enhancement... Or maybe not...]	string_end
 string_begin	stringID=1803984	string=[You cannot teleport outside of the Arena.]	string_end
-string_begin	stringID=1803985	string=[Press Ctrl+T to change the next target to ‘Any target’.]	string_end
+string_begin	stringID=1803985	string=[Press Ctrl+T to change the next target to вЂAny targetвЂ™.]	string_end
 string_begin	stringID=1803986	string=[Participants, come here to get a blessing.]	string_end
 string_begin	stringID=595701	string=[|Lv. 1-2| The Life of a Death Knight]	string_end
 string_begin	stringID=595702	string=[|Lv. 1-2| The Life of a Death Knight (In progress)]	string_end
@@ -11921,18 +11921,18 @@ string_begin	stringID=94613	string=[<font color="LEVEL">Turek Orc Barracks</font
 string_begin	stringID=94614	string=[5000]	string_end
 string_begin	stringID=1803997	string=[Golden Pig has disappeared from the Forest of the Ancients.]	string_end
 string_begin	stringID=1803998	string=[You have no time. Run!]	string_end
-string_begin	stringID=1803999	string=[If you run, I’ll spare your life!]	string_end
+string_begin	stringID=1803999	string=[If you run, IвЂ™ll spare your life!]	string_end
 string_begin	stringID=1804000	string=[If you want to lead a dog's life, just say it. ]	string_end
-string_begin	stringID=1804001	string=[Soon Aden will fall under the heel of orcs. If you don’t capitulate now, you’ll be enslaved!]	string_end
-string_begin	stringID=1804002	string=[Surrender now and I’ll grant you a swift death!]	string_end
-string_begin	stringID=1804003	string=[There’s no shame to bend the knee to the strongest orc. On your knees!]	string_end
-string_begin	stringID=1804004	string=[Can’t you see the mighty army of orcs? You are weak and helpless.]	string_end
+string_begin	stringID=1804001	string=[Soon Aden will fall under the heel of orcs. If you donвЂ™t capitulate now, youвЂ™ll be enslaved!]	string_end
+string_begin	stringID=1804002	string=[Surrender now and IвЂ™ll grant you a swift death!]	string_end
+string_begin	stringID=1804003	string=[ThereвЂ™s no shame to bend the knee to the strongest orc. On your knees!]	string_end
+string_begin	stringID=1804004	string=[CanвЂ™t you see the mighty army of orcs? You are weak and helpless.]	string_end
 string_begin	stringID=1804005	string=[Go away. Soon this place will be filled with blood.]	string_end
 string_begin	stringID=1804006	string=[You cannot win! Go fight puppies if you want to achieve a victory!]	string_end
 string_begin	stringID=1804007	string=[How annoying to deal with idiots!]	string_end
 string_begin	stringID=1804008	string=[Retreat! Or you will have to flee!]	string_end
 string_begin	stringID=1804009	string=[Death Knight]	string_end
-string_begin	stringID=1804010	string=[You shouldn’t say it! All forces, attack!]	string_end
+string_begin	stringID=1804010	string=[You shouldnвЂ™t say it! All forces, attack!]	string_end
 string_begin	stringID=1804011	string=[Flag Sentry Greg has appeared!]	string_end
 string_begin	stringID=1804012	string=[Death Messenger]	string_end
 string_begin	stringID=1804013	string=[Death Knight]	string_end
@@ -11953,9 +11953,9 @@ string_begin	stringID=1804027	string=[The Shining Treasure Chest has been destro
 string_begin	stringID=1804028	string=[These crops will be great to corrupt and make my slaves. It makes my mouth water.]	string_end
 string_begin	stringID=1804029	string=[Show me the way to the vegetable patch! May be, I will spare your life then.]	string_end
 string_begin	stringID=1804030	string=[Do not underestimate Pumpkin King and my army.]	string_end
-string_begin	stringID=1804031	string=[It’s time to take revenge on the wretches who have been intimidating me for so long. Charge, my soldiers!]	string_end
-string_begin	stringID=1804032	string=[It’s time to show ourselves! Stay strong, my soldiers!]	string_end
-string_begin	stringID=1804033	string=[Oh, no... I can’t use my powers anymore. I will prepare my army.]	string_end
+string_begin	stringID=1804031	string=[ItвЂ™s time to take revenge on the wretches who have been intimidating me for so long. Charge, my soldiers!]	string_end
+string_begin	stringID=1804032	string=[ItвЂ™s time to show ourselves! Stay strong, my soldiers!]	string_end
+string_begin	stringID=1804033	string=[Oh, no... I canвЂ™t use my powers anymore. I will prepare my army.]	string_end
 string_begin	stringID=1804034	string=[The Clan Stronghold Device can be captured. ]	string_end
 string_begin	stringID=1804035	string=[At-tack sig-nal de-tec-ted $s1]	string_end
 string_begin	stringID=1804036	string=[Antharas' Adept Karim has appeared.]	string_end
@@ -11995,22 +11995,22 @@ string_begin	stringID=1804039	string=[The time of hunting ground use is over, re
 string_begin	stringID=1804040	string=[Sindy is waiting for you in the center of the Tower of Insolence. Speak with her.]	string_end
 string_begin	stringID=1804041	string=[Baium is away to prepare for the festival.]	string_end
 string_begin	stringID=1804042	string=[$s1! I will not forgive your attempt to disrupt the Festival of Baium!]	string_end
-string_begin	stringID=1804043	string=[$s1! I can’t believe you have defeated Baium... The festival is ruined for today.]	string_end
+string_begin	stringID=1804043	string=[$s1! I canвЂ™t believe you have defeated Baium... The festival is ruined for today.]	string_end
 string_begin	stringID=597801	string=[|Lv. 76+| Missing Pets]	string_end
 string_begin	stringID=597802	string=[|Lv. 76+| Missing Pets (In progress)]	string_end
 string_begin	stringID=597803	string=[|Lv. 76+| Missing Pets (Completed)]	string_end
 string_begin	stringID=597804	string=[|Lv. 76+| Missing Pets]	string_end
 string_begin	stringID=597810	string=[Talk to the Pet Manager Cooper]	string_end
 string_begin	stringID=1804044	string=[Ownerless pet]	string_end
-string_begin	stringID=1804045	string=[It’s time for the secret weapon. Wolf, I choose you!]	string_end
-string_begin	stringID=1804046	string=[It’s time for the secret weapon. Buffalo, I choose you!]	string_end
-string_begin	stringID=1804047	string=[It’s time for the secret weapon. Tiger, I choose you!]	string_end
-string_begin	stringID=1804048	string=[It’s time for the secret weapon. Kookaburra, I choose you!]	string_end
-string_begin	stringID=1804049	string=[It’s time for the secret weapon. Strider, I choose you!]	string_end
-string_begin	stringID=1804050	string=[It’s time for the secret weapon. Hawk, I choose you!]	string_end
-string_begin	stringID=1804051	string=[It’s pathetic! No need to summon an elite pet. Sin Eater, come out!]	string_end
+string_begin	stringID=1804045	string=[ItвЂ™s time for the secret weapon. Wolf, I choose you!]	string_end
+string_begin	stringID=1804046	string=[ItвЂ™s time for the secret weapon. Buffalo, I choose you!]	string_end
+string_begin	stringID=1804047	string=[ItвЂ™s time for the secret weapon. Tiger, I choose you!]	string_end
+string_begin	stringID=1804048	string=[ItвЂ™s time for the secret weapon. Kookaburra, I choose you!]	string_end
+string_begin	stringID=1804049	string=[ItвЂ™s time for the secret weapon. Strider, I choose you!]	string_end
+string_begin	stringID=1804050	string=[ItвЂ™s time for the secret weapon. Hawk, I choose you!]	string_end
+string_begin	stringID=1804051	string=[ItвЂ™s pathetic! No need to summon an elite pet. Sin Eater, come out!]	string_end
 string_begin	stringID=1804052	string=[Festival of Baium has been successfully disrupted.\nYou collect your reward from Karia on each floor.]	string_end
-string_begin	stringID=1804053	string=[You don’t have the right to be at the festival! Go back to the 1st floor!]	string_end
+string_begin	stringID=1804053	string=[You donвЂ™t have the right to be at the festival! Go back to the 1st floor!]	string_end
 string_begin	stringID=1804054	string=[Congratulations, $s1! Not bad, not bad al all, squeak! ]	string_end
 string_begin	stringID=1804055	string=[Who do you think you are? Squeak! I won't turn a blind eye to that! Charge, squeak! ]	string_end
 string_begin	stringID=1804056	string=[Help, squeak! It hurts, squeak! ]	string_end
@@ -12035,7 +12035,7 @@ string_begin	stringID=1804074	string=[Dimensional Door to the Spirit of Wind is 
 string_begin	stringID=1804075	string=[Dimensional Door to the Spirit of Earth is open.]	string_end
 string_begin	stringID=1804076	string=[You have been successful in purging the Dwelling of Spirits.\nGo back to the Dwelling of Spirits and receive your reward.]	string_end
 string_begin	stringID=1804077	string=[Seal Stone disappears after resonating with the statue.]	string_end
-string_begin	stringID=1804078	string=[So, here are the ones who have woken me up… Prepare to die!]	string_end
+string_begin	stringID=1804078	string=[So, here are the ones who have woken me upвЂ¦ Prepare to die!]	string_end
 string_begin	stringID=1804079	string=[Baium has left.]	string_end
 string_begin	stringID=1804080	string=[$s1! You challenge Baium, you will be shown no mercy!]	string_end
 string_begin	stringID=1804081	string=[The Celestial Tower portal has been created!]	string_end
@@ -12321,13 +12321,13 @@ string_begin	stringID=1804208	string=[Enchant Scroll]	string_end
 string_begin	stringID=1804209	string=[The warp gate to Hellbound is under maintenance at the moment and cannot be used.]	string_end
 string_begin	stringID=1804210	string=[Queen Freya is here!]	string_end
 string_begin	stringID=1804211	string=[Ice Freya is here!]	string_end
-string_begin	stringID=1804212	string=[Dragon weapons]	string_end
-string_begin	stringID=1804213	string=[Weapon of Immortality]	string_end
-string_begin	stringID=1804214	string=[Materials of Immortality]	string_end
-string_begin	stringID=1804215	string=[Armor]	string_end
+string_begin	stringID=1804212	string=[Weapons]	string_end
+string_begin	stringID=1804213	string=[Dragon weapons]	string_end
+string_begin	stringID=1804214	string=[Weapon of Immortality]	string_end
+string_begin	stringID=1804215	string=[Purge Weapon]	string_end
 string_begin	stringID=1804216	string=[Time-limited_weapon]	string_end
-string_begin	stringID=1804217	string=[Frost Lord's Weapon]	string_end
-string_begin	stringID=1804218	string=[Purge Weapon]	string_end
+string_begin	stringID=1804217	string=[Armor]	string_end
+string_begin	stringID=1804218	string=[Crafting Materials]	string_end
 string_begin	stringID=1804219	string=[Time-limited_weapon]	string_end
 string_begin	stringID=1804220	string=[Dragon weapon type]	string_end
 string_begin	stringID=1804221	string=[Time-limited_armor]	string_end
@@ -12345,7 +12345,7 @@ string_begin	stringID=1804232	string=[Time-limited_spellbook]	string_end
 string_begin	stringID=1804233	string=[Time-limited_spellbook]	string_end
 string_begin	stringID=1804234	string=[Time-limited_spellbook]	string_end
 string_begin	stringID=1804235	string=[Craft Spellbooks]	string_end
-string_begin	stringID=1804236	string=[Guardian books]	string_end
+string_begin	stringID=1804236	string=[Hardin's Notes]	string_end
 string_begin	stringID=1804237	string=[Hardin's Notes]	string_end
 string_begin	stringID=1804238	string=[Legendary Spellbooks]	string_end
 string_begin	stringID=1804239	string=[Skill Coupons]	string_end
@@ -12363,12 +12363,12 @@ string_begin	stringID=1804250	string=[Time-limited_accessory]	string_end
 string_begin	stringID=1804251	string=[Time-limited_misc.]	string_end
 string_begin	stringID=1804252	string=[Starlight Festival]	string_end
 string_begin	stringID=1804253	string=[Enhancement]	string_end
-string_begin	stringID=1804254	string=[Soul crystals]	string_end
+string_begin	stringID=1804254	string=[Modification Scrolls]	string_end
 string_begin	stringID=1804255	string=[Attributes]	string_end
-string_begin	stringID=1804256	string=[Augmentation]	string_end
-string_begin	stringID=1804257	string=[Upgrade]	string_end
+string_begin	stringID=1804256	string=[Upgrade]	string_end
+string_begin	stringID=1804257	string=[Hell Island]	string_end
 string_begin	stringID=1804258	string=[Rewards]	string_end
-string_begin	stringID=1804259	string=[Misc.]	string_end
+string_begin	stringID=1804259	string=[Item Exchange]	string_end
 string_begin	stringID=1804260	string=[Time-limited_misc.]	string_end
 string_begin	stringID=1804261	string=[Limited craft]	string_end
 string_begin	stringID=1804262	string=[Special Craft]	string_end
@@ -12527,7 +12527,7 @@ string_begin	stringID=1804394	string=[You are not pets, but you still want me to
 string_begin	stringID=1804395	string=[The Cave Control Device is deactivated.]	string_end
 string_begin	stringID=1804396	string=[At-tack sig-nal from con-trol de-vice $s1 de-tec-ted]	string_end
 string_begin	stringID=1804397	string=[Master Gustav took my horsie.]	string_end
-string_begin	stringID=1804398	string=[The horsie is in the manor. I will open the doors and we’ll go in and play.]	string_end
+string_begin	stringID=1804398	string=[The horsie is in the manor. I will open the doors and weвЂ™ll go in and play.]	string_end
 string_begin	stringID=1804399	string=[Dream Watcher's Death (1/4)]	string_end
 string_begin	stringID=1804400	string=[Dream Watcher's Death (2/4)]	string_end
 string_begin	stringID=1804401	string=[Dream Watcher's Death (3/4)]	string_end
@@ -12543,13 +12543,13 @@ string_begin	stringID=1804410	string=[Go to the last room... The Holy Grail is i
 string_begin	stringID=1804411	string=[Are you brave enough to cross this broken bridge?]	string_end
 string_begin	stringID=1804412	string=[How dare you, human! Gabrielle will kill you for that!]	string_end
 string_begin	stringID=1804413	string=[Gabrielle is not needed. I'll deal with it myself.]	string_end
-string_begin	stringID=1804414	string=[Hehehe... Gabrielle... Isn’t this stupid... But where is the Holy Grail?]	string_end
+string_begin	stringID=1804414	string=[Hehehe... Gabrielle... IsnвЂ™t this stupid... But where is the Holy Grail?]	string_end
 string_begin	stringID=1804415	string=[I hate that cursed arrogant Ventus! You go ahead and get to the Temple of Ventus.]	string_end
 string_begin	stringID=1804416	string=[Dream Watcher's Death (1/4)]	string_end
 string_begin	stringID=1804417	string=[Dream Watcher's Death (2/4)]	string_end
 string_begin	stringID=1804418	string=[Dream Watcher's Death (3/4)]	string_end
 string_begin	stringID=1804419	string=[First deal with those enslaved by Ventus.]	string_end
-string_begin	stringID=1804420	string=[This scoundrel is going to subjugate the others’ will using dark magic tricks.]	string_end
+string_begin	stringID=1804420	string=[This scoundrel is going to subjugate the othersвЂ™ will using dark magic tricks.]	string_end
 string_begin	stringID=1804421	string=[Use the ballista to destroy Ventus' statue.]	string_end
 string_begin	stringID=1804422	string=[I've been having such a nice dream, but someone has interrupted it... Do you know what price you'll have to pay for waking me up?]	string_end
 string_begin	stringID=1804423	string=[Master Ventus, don't you worry! I'll deal with it myself.]	string_end
@@ -12558,29 +12558,29 @@ string_begin	stringID=1804425	string=[I can teleport you to Aden. Tell me when y
 string_begin	stringID=1804426	string=[The tomb operation is just an excuse! Scared, huh?]	string_end
 string_begin	stringID=1804427	string=[No time to explain! We have to fight Pirate Captain Krateth!]	string_end
 string_begin	stringID=1804428	string=[Where am I...? Eternal loaylty to pirates... How foolish!]	string_end
-string_begin	stringID=1804429	string=[He-he! You wouldn’t be scared by a devil, it seems, since you dare to set your foot in here. He-he!]	string_end
+string_begin	stringID=1804429	string=[He-he! You wouldnвЂ™t be scared by a devil, it seems, since you dare to set your foot in here. He-he!]	string_end
 string_begin	stringID=1804430	string=[Dream Watcher's Death (1/4)]	string_end
 string_begin	stringID=1804431	string=[Dream Watcher's Death (2/4)]	string_end
 string_begin	stringID=1804432	string=[Dream Watcher's Death (3/4)]	string_end
 string_begin	stringID=1804433	string=[Oh mighty Tiat, our enemies are weakened, it's time to defeat them once and for all!]	string_end
 string_begin	stringID=1804434	string=[Will you turn back? Or move further? He-he!]	string_end
-string_begin	stringID=1804435	string=[Well, I was bored before, but now the things have taken a completely different turn. Please, come in, don’t be shy.]	string_end
+string_begin	stringID=1804435	string=[Well, I was bored before, but now the things have taken a completely different turn. Please, come in, donвЂ™t be shy.]	string_end
 string_begin	stringID=1804436	string=[Oh, those? Powerless Aden warriors? Let's finish them now and move on the Aden Castle!]	string_end
 string_begin	stringID=1804437	string=[I'm going to Aden. Commander Assistant, follow me!]	string_end
-string_begin	stringID=1804438	string=[He-he! Excellent! But are you sure you’ve won? Maybe, all of this is nothing but a dream.]	string_end
+string_begin	stringID=1804438	string=[He-he! Excellent! But are you sure youвЂ™ve won? Maybe, all of this is nothing but a dream.]	string_end
 string_begin	stringID=1804439	string=[The Cat Guild's king is in trouble. Please help him.]	string_end
 string_begin	stringID=1804440	string=[Dream Watcher's Death (1/4)]	string_end
 string_begin	stringID=1804441	string=[Dream Watcher's Death (2/4)]	string_end
 string_begin	stringID=1804442	string=[Dream Watcher's Death (3/4)]	string_end
 string_begin	stringID=1804443	string=[What's the fuss? Those willing to address the king, come to me!]	string_end
-string_begin	stringID=1804444	string=[What? You are going to give advices to our King? He’ll be so mad!]	string_end
+string_begin	stringID=1804444	string=[What? You are going to give advices to our King? HeвЂ™ll be so mad!]	string_end
 string_begin	stringID=1804445	string=[Is something wrong with me? Then advise me!]	string_end
 string_begin	stringID=1804446	string=[Do you really think you can talk to the king?]	string_end
 string_begin	stringID=1804447	string=[Whew, as I thought, the fall has stopped...]	string_end
 string_begin	stringID=1804448	string=[Dream Watcher]	string_end
 string_begin	stringID=1804449	string=[I don't know if it's bravery or imprudence. I'll just leave you to it.]	string_end
 string_begin	stringID=1804450	string=[You cannot leave the Dreamland.]	string_end
-string_begin	stringID=1804451	string=[Help our guild, please! I will tell you what’s going on.]	string_end
+string_begin	stringID=1804451	string=[Help our guild, please! I will tell you whatвЂ™s going on.]	string_end
 string_begin	stringID=1804452	string=[Do not forget about basics!]	string_end
 string_begin	stringID=1804453	string=[Basics are crucial for all further progress!]	string_end
 string_begin	stringID=1804454	string=[Someone is coughing!]	string_end
@@ -12611,18 +12611,18 @@ string_begin	stringID=530903	string=[|Lv. 76+| Dreamland's Mysteries (Completed)
 string_begin	stringID=530904	string=[|Lv. 76+| Dreamland's Mysteries]	string_end
 string_begin	stringID=530910	string=[Defeat boss monsters in Dreamland]	string_end
 string_begin	stringID=530911	string=[Aden, Dream Priestess]	string_end
-string_begin	stringID=1804463	string=[So sweet! You’ll love this taste!]	string_end
+string_begin	stringID=1804463	string=[So sweet! YouвЂ™ll love this taste!]	string_end
 string_begin	stringID=1804464	string=[Refreshing, huh? It's like the first time you cut a ripe watermelon, and it cracks!]	string_end
 string_begin	stringID=1804465	string=[You think, it will crack like this?]	string_end
-string_begin	stringID=1804466	string=[Just hit it! Don’t think!]	string_end
-string_begin	stringID=1804467	string=[Wow! That’s a good blow.]	string_end
-string_begin	stringID=1804468	string=[Rat-tat, so, is the sound clear? Nah, it’s too dull!]	string_end
-string_begin	stringID=1804469	string=[Rat-tat! Looks like it isn’t ripe yet.]	string_end
+string_begin	stringID=1804466	string=[Just hit it! DonвЂ™t think!]	string_end
+string_begin	stringID=1804467	string=[Wow! ThatвЂ™s a good blow.]	string_end
+string_begin	stringID=1804468	string=[Rat-tat, so, is the sound clear? Nah, itвЂ™s too dull!]	string_end
+string_begin	stringID=1804469	string=[Rat-tat! Looks like it isnвЂ™t ripe yet.]	string_end
 string_begin	stringID=1804470	string=[Rat-tat! Oh! It cracked!]	string_end
-string_begin	stringID=1804471	string=[You’ll have more fun if you have a watermelon.]	string_end
-string_begin	stringID=1804472	string=[Oh, that’s a true watermelon taste!]	string_end
+string_begin	stringID=1804471	string=[YouвЂ™ll have more fun if you have a watermelon.]	string_end
+string_begin	stringID=1804472	string=[Oh, thatвЂ™s a true watermelon taste!]	string_end
 string_begin	stringID=1804473	string=[Rat-tat! So ripe! So delicious!]	string_end
-string_begin	stringID=1804474	string=[The watermelon cracked? Well, that’s the point, isn’t it?]	string_end
+string_begin	stringID=1804474	string=[The watermelon cracked? Well, thatвЂ™s the point, isnвЂ™t it?]	string_end
 string_begin	stringID=1804475	string=[Watermelons are green on outside and red inside!]	string_end
 string_begin	stringID=1804476	string=[Ah, watermelon on a hot summer day... Have you had a lot?]	string_end
 string_begin	stringID=1804477	string=[Royal Watermelon! Snow Pumpkin! Here they are! You're in luck today!]	string_end
@@ -12638,7 +12638,7 @@ string_begin	stringID=1804481	string=[How do you dare to oppose me?]	string_end
 string_begin	stringID=1804482	string=[If you want to get me, you have to deal with my servants first!]	string_end
 string_begin	stringID=1804483	string=[Tremble in fear in the face of my servants, who have my power!]	string_end
 string_begin	stringID=1804484	string=[Wake up! My servants! Show the true power of roaring flame!]	string_end
-string_begin	stringID=1804485	string=[It’s my order! Let terror be entrenched in you before roaring flame!]	string_end
+string_begin	stringID=1804485	string=[ItвЂ™s my order! Let terror be entrenched in you before roaring flame!]	string_end
 string_begin	stringID=1804486	string=[Let out enemies to feel incredible depths of pain!]	string_end
 string_begin	stringID=1804487	string=[Giant's Cave Guardian has appeared!]	string_end
 string_begin	stringID=1804488	string=[ $s1, you are a real star! Congratulations!]	string_end
@@ -12709,8 +12709,8 @@ string_begin	stringID=595312	string=[You've finished the tutorial.\nTake your 1s
 string_begin	stringID=1804514	string=[How dare you to come here, malicious beings?]	string_end
 string_begin	stringID=1804515	string=[How did you get in here?]	string_end
 string_begin	stringID=1804516	string=[So, am I a good match, huh?]	string_end
-string_begin	stringID=1804517	string=[Master! It’s time to attack!]	string_end
-string_begin	stringID=1804518	string=[He’s going to start with a concentrated attack!]	string_end
+string_begin	stringID=1804517	string=[Master! ItвЂ™s time to attack!]	string_end
+string_begin	stringID=1804518	string=[HeвЂ™s going to start with a concentrated attack!]	string_end
 string_begin	stringID=1804519	string=[I will kill each and every one of you!]	string_end
 string_begin	stringID=1804520	string=[Get out!]	string_end
 string_begin	stringID=1804521	string=[Black Box to celebrate Lineage 2 Birthday! Feel like a real star! Round 1]	string_end
@@ -12794,7 +12794,7 @@ string_begin	stringID=1804545	string=[$s1 collected 12 stars.]	string_end
 string_begin	stringID=1804546	string=[$s1 collected 13 stars.]	string_end
 string_begin	stringID=1804547	string=[$s1 collected 14 stars.]	string_end
 string_begin	stringID=1804548	string=[$s1 collected 15 stars.]	string_end
-string_begin	stringID=1804549	string=[All Lucky Boxes have appeared. Don’t miss your chance!]	string_end
+string_begin	stringID=1804549	string=[All Lucky Boxes have appeared. DonвЂ™t miss your chance!]	string_end
 string_begin	stringID=1804550	string=[$s1]	string_end
 string_begin	stringID=1804551	string=[Over here! Please, help me!]	string_end
 string_begin	stringID=1804552	string=[Who you are? How dare you invade the temple of the great Valakas!]	string_end
@@ -12906,6 +12906,8 @@ string_begin	stringID=1804658	string=[100 Marks of Repentance collected! Talk to
 string_begin	stringID=1804659	string=[Talisman]	string_end
 string_begin	stringID=1804660	string=[Head accessories]	string_end
 string_begin	stringID=1804661	string=[Dragon Belt]	string_end
+string_begin	stringID=1814800	string=[Enchant Stones]	string_end
+string_begin	stringID=1814801	string=[Soul Crystals]	string_end
 string_begin	stringID=1804662	string=[Talisman of Speed]	string_end
 string_begin	stringID=1804663	string=[Talisman of Eva]	string_end
 string_begin	stringID=1804664	string=[Special Craft_Aden's_Blessing_Temporary Category 6]	string_end
@@ -13992,8 +13994,8 @@ string_begin	stringID=1805448	string=[$s1 has obtained a Snowflake!]	string_end
 string_begin	stringID=1805449	string=[Oof, this pumpkin is so cold!]	string_end
 string_begin	stringID=1805450	string=[Refreshing, huh? It's like the first time you cut an ice pumpkin, and it cracks!]	string_end
 string_begin	stringID=1805451	string=[You think, it will crack like this?]	string_end
-string_begin	stringID=1805452	string=[Just hit it! Don’t think!]	string_end
-string_begin	stringID=1805453	string=[Wow! That’s a good blow.]	string_end
+string_begin	stringID=1805452	string=[Just hit it! DonвЂ™t think!]	string_end
+string_begin	stringID=1805453	string=[Wow! ThatвЂ™s a good blow.]	string_end
 string_begin	stringID=1805454	string=[Knock knock! Oh, this pumpkin is ready to burst!]	string_end
 string_begin	stringID=1805455	string=[Knock knock! This pumpkin is frozen through!]	string_end
 string_begin	stringID=1805456	string=[The Water of Life... Come to me, my attendants from the oasis!]	string_end
@@ -14554,11 +14556,11 @@ string_begin	stringID=1806007	string=[Trouble in the Wild Beast Reserve! If you'
 string_begin	stringID=1806008	string=[$s1 takes place $s2 for their contribution to the victory against Fafurion and earns a reward!]	string_end
 string_begin	stringID=1806009	string=[Powerful air currents are shaking the ground. Baium is about to appear!]	string_end
 string_begin	stringID=1806010	string=[Time till the battle with Sultriness]	string_end
-string_begin	stringID=1806011	string=[Spirit of Cold 20ºC: A cool wind is blowing.]	string_end
-string_begin	stringID=1806012	string=[Spirit of Cold 15ºC: The heat is yielding!]	string_end
-string_begin	stringID=1806013	string=[Spirit of Cold 10ºC: You feel the touch of cold!]	string_end
-string_begin	stringID=1806014	string=[Spirit of Cold 5ºC: The air is quivering with cold!]	string_end
-string_begin	stringID=1806015	string=[Spirit of Cold 0ºC: It is freezing here!]	string_end
+string_begin	stringID=1806011	string=[Spirit of Cold 20ВєC: A cool wind is blowing.]	string_end
+string_begin	stringID=1806012	string=[Spirit of Cold 15ВєC: The heat is yielding!]	string_end
+string_begin	stringID=1806013	string=[Spirit of Cold 10ВєC: You feel the touch of cold!]	string_end
+string_begin	stringID=1806014	string=[Spirit of Cold 5ВєC: The air is quivering with cold!]	string_end
+string_begin	stringID=1806015	string=[Spirit of Cold 0ВєC: It is freezing here!]	string_end
 string_begin	stringID=1806016	string=[Gather cooled Droplets to summon Spirit of Cold!]	string_end
 string_begin	stringID=1806017	string=[Protect Droplets from Heat so that they could join the Magic Water Pillar!]	string_end
 string_begin	stringID=1806018	string=[Sultriness is defeated! Cold is coming!]	string_end

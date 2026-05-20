@@ -12321,13 +12321,13 @@ string_begin	stringID=1804208	string=[Свиток Модификации]	strin
 string_begin	stringID=1804209	string=[Портал на Остров Ада временно не функционирует, идет ремонт. Попасть на Остров Ада в данный момент нельзя.]	string_end
 string_begin	stringID=1804210	string=[Появляется Снежная Королева Фрея.]	string_end
 string_begin	stringID=1804211	string=[Появляется Снежная Королева Ледяная Фрея.]	string_end
-string_begin	stringID=1804212	string=[Оружие Дракона]	string_end
-string_begin	stringID=1804213	string=[Оружие Бессмертия]	string_end
-string_begin	stringID=1804214	string=[Материалы Бессмертия]	string_end
-string_begin	stringID=1804215	string=[Доспехи]	string_end
+string_begin	stringID=1804212	string=[Оружие]	string_end
+string_begin	stringID=1804213	string=[Оружие Дракона]	string_end
+string_begin	stringID=1804214	string=[Оружие Бессмертия]	string_end
+string_begin	stringID=1804215	string=[Оружие Зачистки]	string_end
 string_begin	stringID=1804216	string=[Временное_оружие]	string_end
-string_begin	stringID=1804217	string=[Оружие Монарха Льда]	string_end
-string_begin	stringID=1804218	string=[Оружие Зачистки]	string_end
+string_begin	stringID=1804217	string=[Доспехи]	string_end
+string_begin	stringID=1804218	string=[Материалы для создания]	string_end
 string_begin	stringID=1804219	string=[Временное_оружие]	string_end
 string_begin	stringID=1804220	string=[Вид Оружия Дракона]	string_end
 string_begin	stringID=1804221	string=[Временные_доспехи]	string_end
@@ -12345,7 +12345,7 @@ string_begin	stringID=1804232	string=[Временная_Книга Заклин
 string_begin	stringID=1804233	string=[Временная_Книга Заклинаний]	string_end
 string_begin	stringID=1804234	string=[Временная_Книга Заклинаний]	string_end
 string_begin	stringID=1804235	string=[Создание Книг]	string_end
-string_begin	stringID=1804236	string=[Учебники стражей]	string_end
+string_begin	stringID=1804236	string=[Записи Хардина]	string_end
 string_begin	stringID=1804237	string=[Записи Хардина]	string_end
 string_begin	stringID=1804238	string=[Легендарные Книги]	string_end
 string_begin	stringID=1804239	string=[Купоны Умений]	string_end
@@ -12363,12 +12363,12 @@ string_begin	stringID=1804250	string=[Временное_украшение]	str
 string_begin	stringID=1804251	string=[Временное_прочее]	string_end
 string_begin	stringID=1804252	string=[Фестиваль Звездного Света]	string_end
 string_begin	stringID=1804253	string=[Усиление]	string_end
-string_begin	stringID=1804254	string=[Кристаллы Души]	string_end
+string_begin	stringID=1804254	string=[Свитки Модификаций]	string_end
 string_begin	stringID=1804255	string=[Стихии]	string_end
-string_begin	stringID=1804256	string=[Зачарование]	string_end
-string_begin	stringID=1804257	string=[Развитие]	string_end
+string_begin	stringID=1804256	string=[Развитие]	string_end
+string_begin	stringID=1804257	string=[Остров Ада]	string_end
 string_begin	stringID=1804258	string=[Награды]	string_end
-string_begin	stringID=1804259	string=[Другое]	string_end
+string_begin	stringID=1804259	string=[Обмен Предметов]	string_end
 string_begin	stringID=1804260	string=[Временное_прочее]	string_end
 string_begin	stringID=1804261	string=[Лимит. создание]	string_end
 string_begin	stringID=1804262	string=[Особое создание]	string_end
@@ -12906,6 +12906,8 @@ string_begin	stringID=1804658	string=[100 Знаков Раскаяния соб
 string_begin	stringID=1804659	string=[Талисман]	string_end
 string_begin	stringID=1804660	string=[Головные уборы]	string_end
 string_begin	stringID=1804661	string=[Пояс Дракона]	string_end
+string_begin	stringID=1814800	string=[Камень Зачарования]	string_end
+string_begin	stringID=1814801	string=[Кристаллы Души]	string_end
 string_begin	stringID=1804662	string=[Талисман Скорости]	string_end
 string_begin	stringID=1804663	string=[Талисман Евы]	string_end
 string_begin	stringID=1804664	string=[Особое создание_Благословение_Адена_Временно Категория 6]	string_end

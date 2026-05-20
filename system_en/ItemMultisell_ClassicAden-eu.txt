@@ -685,7 +685,6 @@ itemMultisell_begin	itemClassID=104970	multisell_id_list={1994}	multisell_name={
 itemMultisell_begin	itemClassID=104971	multisell_id_list={1995}	multisell_name={[Sealed Dyes Lv. 30]}	unk={114}	itemMultisell_end
 itemMultisell_begin	itemClassID=104972	multisell_id_list={1996}	multisell_name={[Dyes Lv. 20]}	unk={10}	itemMultisell_end
 itemMultisell_begin	itemClassID=104973	multisell_id_list={1997}	multisell_name={[Dyes Lv. 30]}	unk={10}	itemMultisell_end
-itemMultisell_begin	itemClassID=104978	multisell_id_list={1998}	multisell_name={[Rare Accessory Scrolls]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104979	multisell_id_list={1999}	multisell_name={[Rare Accessories]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104980	multisell_id_list={2000}	multisell_name={[+7 ~ +8 Head Accessories]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104993	multisell_id_list={2001}	multisell_name={[Talismans]}	unk={}	itemMultisell_end

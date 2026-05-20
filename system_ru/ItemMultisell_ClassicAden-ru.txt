@@ -685,7 +685,6 @@ itemMultisell_begin	itemClassID=104970	multisell_id_list={1994}	multisell_name={
 itemMultisell_begin	itemClassID=104971	multisell_id_list={1995}	multisell_name={[Запечатанные Краски Ур. 30]}	unk={114}	itemMultisell_end
 itemMultisell_begin	itemClassID=104972	multisell_id_list={1996}	multisell_name={[Краски Ур. 20]}	unk={10}	itemMultisell_end
 itemMultisell_begin	itemClassID=104973	multisell_id_list={1997}	multisell_name={[Краски Ур. 30]}	unk={10}	itemMultisell_end
-itemMultisell_begin	itemClassID=104978	multisell_id_list={1998}	multisell_name={[Свитки Редких Аксессуаров]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104979	multisell_id_list={1999}	multisell_name={[Редкие Аксессуары]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104980	multisell_id_list={2000}	multisell_name={[Головные Уборы от +7 до +8]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104993	multisell_id_list={2001}	multisell_name={[Талисманы]}	unk={}	itemMultisell_end

@@ -183,6 +183,9 @@ product_begin	product_id=187	category=2	mark_type=none	buy_items={{8620;1;[[Spel
 product_begin	product_id=188	category=2	mark_type=none	buy_items={{8621;1;[[Spellbook: Divine Inspiration Lv. 4]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=189	category=2	mark_type=none	buy_items={{92007;1;[[High-grade Inventory Expansion Coupon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=190	category=2	mark_type=none	buy_items={{49756;1;[[Cloth Piece]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=214	category=2	mark_type=none	buy_items={{92004;1;[[Inventory Expansion Coupon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=215	category=2	mark_type=none	buy_items={{98085;1;[[Private Warehouse Coupon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=216	category=2	mark_type=none	buy_items={{98086;1;[[World Trade Coupon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=191	category=3	mark_type=none	buy_items={{94119;1;[[Talisman of Baium]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=192	category=3	mark_type=none	buy_items={{97449;1;[[Scroll: Enchant Talisman of Baium]];{1;999}}}	product_type=0	buy_limit={1;one_week;20}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=193	category=3	mark_type=none	buy_items={{97860;1;[[Stable Scroll: Enchant Rare Accessories]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end

@@ -3172,7 +3172,7 @@ npc_begin	id=18419	name=[Гигантский Гриб]	nick=[]	nickcolor=9CE8A9
 npc_begin	id=18420	name=[Могильный Хищник]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=18421	name=[Слуга Судьбы]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=18422	name=[Разведчик Фавнов Ванор]	nick=[]	nickcolor=9CE8A9FF	npc_end
-npc_begin	id=18423	name=[Вождь Фавнов Ванор]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=18423	name=[Manager]	nick=[Big War]	nickcolor=0000FFFF	npc_end
 npc_begin	id=18424	name=[Фалибати]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=18425	name=[Змей Кочевник]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=18426	name=[Гниющий Медведь Зомби]	nick=[]	nickcolor=9CE8A9FF	npc_end

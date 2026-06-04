@@ -353,3 +353,4 @@ Hunt_begin	id=623	type=11	rc_level={0;0}	loc={148694.0;211889.0;-2043.0}	desc=[]
 Hunt_begin	id=624	type=11	rc_level={0;0}	loc={148920.0;212207.0;-2128.0}	desc=[]	search_zoneid=179	name=[Специалист по Стражам Деревни Ворона]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
 Hunt_begin	id=625	type=11	rc_level={0;0}	loc={146664.0;214072.0;-2152.0}	desc=[]	search_zoneid=179	name=[Особый Игровой Помощник Деревни Ворона]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
 Hunt_begin	id=626	type=11	rc_level={0;0}	loc={82624.0;146851.0;-3464.0}	desc=[]	search_zoneid=179	name=[Особый Игровой Помощник Гирана]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end
+Hunt_begin	id=627	type=11	rc_level={0;0}	loc={104793.0;80780.0;-2616.0}	desc=[]	search_zoneid=97	name=[Катакомбы]	regionid=0	npc_id=0	quest_id={}	instantzone_id=0	Hunt_end

@@ -14210,7 +14210,7 @@ string_begin	stringID=1805664	string=[Появился Королевский А
 string_begin	stringID=1805665	string=[Появилась Тыква.]	string_end
 string_begin	stringID=1805666	string=[Катакомбы]	string_end
 string_begin	stringID=1805667	string=[Катакомбы]	string_end
-string_begin	stringID=1805668	string=[С 22:00 до 00:00 в Катакомбах появляются монстры.\nВоспользуйтесь телепортом (Особый Контент > Катакомбы).]	string_end
+string_begin	stringID=1805668	string=[С 12:00 до 14:00 и с 20:00 до 22:00 в Катакомбах появляются монстры.\nВоспользуйтесь телепортом (Особый Контент > Катакомбы).]	string_end
 string_begin	stringID=1805669	string=[$s1 получает награду ивента "Королевский Арбуз"!]	string_end
 string_begin	stringID=1805670	string=[$s1 наносит последний удар по Королевскому Арбузу!]	string_end
 string_begin	stringID=1805671	string=[Зыбкий Мираж]	string_end

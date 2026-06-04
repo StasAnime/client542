@@ -14210,7 +14210,7 @@ string_begin	stringID=1805664	string=[Royal Watermelon appears.]	string_end
 string_begin	stringID=1805665	string=[Pumpkin appears.]	string_end
 string_begin	stringID=1805666	string=[Catacombs]	string_end
 string_begin	stringID=1805667	string=[Catacombs]	string_end
-string_begin	stringID=1805668	string=[Monsters appear in the Catacombs from 22:00 till 00:00.\nUse the Teleport UI (Special Content > Catacombs).]	string_end
+string_begin	stringID=1805668	string=[Monsters appear in the Catacombs from 12:00 to 14:00 and from 20:00 to 22:00.\nUse the Teleport UI (Special Content > Catacombs).]	string_end
 string_begin	stringID=1805669	string=[$s1 has won the Royal Watermelon event reward!]	string_end
 string_begin	stringID=1805670	string=[$s1 deals the finishing blow to Royal Watermelon!]	string_end
 string_begin	stringID=1805671	string=[Shifting Mirage]	string_end

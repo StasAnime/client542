@@ -169,13 +169,13 @@ itemMultisell_begin	itemClassID=92477	multisell_id_list={1169}	multisell_name={[
 itemMultisell_begin	itemClassID=100315	multisell_id_list={1375}	multisell_name={[+7 Frost Lord's Weapons]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100316	multisell_id_list={1376}	multisell_name={[+6 Frost Lord's Weapons (Sealed)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100343	multisell_id_list={1377}	multisell_name={[+8 Frost Lord's Weapons]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=100396	multisell_id_list={1156;1157}	multisell_name={[Frost Lord's Weapons];[Frost Lord's Weapons (Sealed)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100396	multisell_id_list={20005}	multisell_name={[Frost Lord's Weapons (Sealed)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100396	multisell_id_list={1555;1556}	multisell_name={[Frost Lord's Weapons];[Frost Lord's Weapons (Sealed)]}	unk={114}	itemMultisell_end
-itemMultisell_begin	itemClassID=100397	multisell_id_list={1158;1159}	multisell_name={[High-grade Armor];[High-grade Armor (Sealed)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100397	multisell_id_list={20006}	multisell_name={[Armor of Protection (Sealed)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100397	multisell_id_list={1557;1558}	multisell_name={[High-grade Armor];[High-grade Armor (Sealed)]}	unk={114}	itemMultisell_end
-itemMultisell_begin	itemClassID=100398	multisell_id_list={1160;1161}	multisell_name={[Boss Weapons];[Boss Weapons (Sealed)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100398	multisell_id_list={20003}	multisell_name={[Boss Weapons (Sealed)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100398	multisell_id_list={1467;1468;1469;1470;1471;1472}	multisell_name={[Cloth];[Leather];[Metallograph];[Varnish];[Wood];[Metal Ingot]}	unk={114}	itemMultisell_end
-itemMultisell_begin	itemClassID=100399	multisell_id_list={1162;1163}	multisell_name={[Special Armor];[Special Armor (Sealed)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100399	multisell_id_list={20004}	multisell_name={[Special Armor (Sealed)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100399	multisell_id_list={1473;1474;1475;1476;1477;1478}	multisell_name={[Cloth];[Leather];[Metallograph];[Varnish];[Wood];[Metal Ingot]}	unk={114}	itemMultisell_end
 itemMultisell_begin	itemClassID=100412	multisell_id_list={1378}	multisell_name={[Boss Weapon]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100413	multisell_id_list={1379}	multisell_name={[Frost Lord's Weapon]}	unk={}	itemMultisell_end
@@ -332,8 +332,8 @@ itemMultisell_begin	itemClassID=98446	multisell_id_list={1578}	multisell_name={[
 itemMultisell_begin	itemClassID=95514	multisell_id_list={1579}	multisell_name={[Summoner's Rare Spellbooks (Sealed)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=97197	multisell_id_list={1580}	multisell_name={[Summoner's Rare Spellbooks (Sealed)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=98447	multisell_id_list={1581}	multisell_name={[Summoner's Rare Spellbooks (Sealed)]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=102514	multisell_id_list={1582;1583;1584;1585}	multisell_name={[Frozen Weapon];[Sealed Frozen Weapon];[Boss Weapon];[Sealed Boss Weapon]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=102515	multisell_id_list={1586;1587;1588;1589;1852;1853}	multisell_name={[Armor of Protection];[Sealed Armor of Protection];[Special Armor];[Sealed Special Armor];[Hunter's Armor];[Hunter's Sealed Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102514	multisell_id_list={20001}	multisell_name={[A-grade Weapon (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102515	multisell_id_list={20002}	multisell_name={[A-grade Armor (Sealed)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102516	multisell_id_list={1590;1591;1592;1593}	multisell_name={[Rare Spellbooks];[Sealed Rare Spellbooks];[Heroic Spellbooks];[Sealed Heroic Spellbooks]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102517	multisell_id_list={1594}	multisell_name={[Class Change Support]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102521	multisell_id_list={1595}	multisell_name={[+5 Frost Lord's Weapons (Sealed)]}	unk={}	itemMultisell_end
@@ -831,3 +831,4 @@ itemMultisell_begin	itemClassID=72574	multisell_id_list={70008;70010;70012;70014
 itemMultisell_begin	itemClassID=72565	multisell_id_list={70018}	multisell_name={['I want to be a Ruler of Darkness!' Agathions]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=72579	multisell_id_list={70020}	multisell_name={[Supply Exchange]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=700013	multisell_id_list={20000}	multisell_name={[Item Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=45584	multisell_id_list={45584}	multisell_name={[Mark of Battle]}	unk={}	itemMultisell_end

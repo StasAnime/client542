@@ -169,13 +169,13 @@ itemMultisell_begin	itemClassID=92477	multisell_id_list={1169}	multisell_name={[
 itemMultisell_begin	itemClassID=100315	multisell_id_list={1375}	multisell_name={[Оружие Монарха Льда +7]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100316	multisell_id_list={1376}	multisell_name={[Оружие Монарха Льда +6 (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100343	multisell_id_list={1377}	multisell_name={[Оружие Монарха Льда +8]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=100396	multisell_id_list={1156;1157}	multisell_name={[Оружие Монарха Льда];[Оружие Монарха Льда (Запечатано)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100396	multisell_id_list={20005}	multisell_name={[Оружие Монарха Льда (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100396	multisell_id_list={1555;1556}	multisell_name={[Оружие Монарха Льда];[Оружие Монарха Льда (Запечатано)]}	unk={114}	itemMultisell_end
-itemMultisell_begin	itemClassID=100397	multisell_id_list={1158;1159}	multisell_name={[Доспехи Высокого Качества];[Доспехи Высокого Качества (Запечатано)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100397	multisell_id_list={20006}	multisell_name={[Доспехи Защиты (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100397	multisell_id_list={1557;1558}	multisell_name={[Доспехи Высокого Качества];[Доспехи Высокого Качества (Запечатано)]}	unk={114}	itemMultisell_end
-itemMultisell_begin	itemClassID=100398	multisell_id_list={1160;1161}	multisell_name={[Оружие Босса];[Оружие Босса (Запечатано)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100398	multisell_id_list={20003}	multisell_name={[Оружие Босса (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100398	multisell_id_list={1467;1468;1469;1470;1471;1472}	multisell_name={[Ткань];[Кожа];[Металлограф];[Лак];[Древесина];[Слиток Металла]}	unk={114}	itemMultisell_end
-itemMultisell_begin	itemClassID=100399	multisell_id_list={1162;1163}	multisell_name={[Особые Доспехи];[Особые Доспехи (Запечатано)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100399	multisell_id_list={20004}	multisell_name={[Особые Доспехи (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100399	multisell_id_list={1473;1474;1475;1476;1477;1478}	multisell_name={[Ткань];[Кожа];[Металлограф];[Лак];[Древесина];[Слиток Металла]}	unk={114}	itemMultisell_end
 itemMultisell_begin	itemClassID=100412	multisell_id_list={1378}	multisell_name={[Оружие Босса]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=100413	multisell_id_list={1379}	multisell_name={[Оружие Монарха Льда]}	unk={}	itemMultisell_end
@@ -332,8 +332,8 @@ itemMultisell_begin	itemClassID=98446	multisell_id_list={1578}	multisell_name={[
 itemMultisell_begin	itemClassID=95514	multisell_id_list={1579}	multisell_name={[Редкие Книги Заклинаний Призывателя (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=97197	multisell_id_list={1580}	multisell_name={[Редкие Книги Заклинаний Призывателя (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=98447	multisell_id_list={1581}	multisell_name={[Редкие Книги Заклинаний Призывателя (Запечатано)]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=102514	multisell_id_list={1582;1583;1584;1585}	multisell_name={[Ледяное Оружие];[Запечатанное Ледяное Оружие];[Оружие Босса];[Запечатанное Оружие Босса]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=102515	multisell_id_list={1586;1587;1588;1589;1852;1853}	multisell_name={[Доспехи Защиты];[Запечатанные Доспехи Защиты];[Особые Доспехи];[Запечатанные Особые Доспехи];[Доспехи Охотника];[Запечатанные Доспехи Охотника]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102514	multisell_id_list={20001}	multisell_name={[Оружие Ранга А (Запечатано)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102515	multisell_id_list={20002}	multisell_name={[Доспехи Ранга А (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102516	multisell_id_list={1590;1591;1592;1593}	multisell_name={[Редкие Книги Заклинаний];[Запечатанные Редкие Книги Заклинаний];[Героические Книги Заклинаний];[Запечатанные Героические Книги Заклинаний]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102517	multisell_id_list={1594}	multisell_name={[Поддержка смены класса]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102521	multisell_id_list={1595}	multisell_name={[Оружие Монарха Льда +5 (Запечатано)]}	unk={}	itemMultisell_end
@@ -831,3 +831,4 @@ itemMultisell_begin	itemClassID=72574	multisell_id_list={70008;70010;70012;70014
 itemMultisell_begin	itemClassID=72565	multisell_id_list={70018}	multisell_name={[Агатионы "Я Хочу Стать Повелителем Тьмы!"]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=72579	multisell_id_list={70020}	multisell_name={[Обмен припасов]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=700013	multisell_id_list={20000}	multisell_name={[Обмен предметов]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=45584	multisell_id_list={45584}	multisell_name={[Знак Битвы]}	unk={}	itemMultisell_end

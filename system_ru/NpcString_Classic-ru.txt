@@ -13721,8 +13721,8 @@ string_begin	stringID=1805176	string=[Прицельтесь в крота и и
 string_begin	stringID=1805177	string=[Рыцарь Смерти (Человек)]	string_end
 string_begin	stringID=1805178	string=[Рыцарь Смерти (Эльф)]	string_end
 string_begin	stringID=1805179	string=[Рыцарь Смерти (Темный Эльф)]	string_end
-string_begin	stringID=1805180	string=[Через 5 минут в подземелье Семи Печатей появятся монстры. Они пробудут там 30 минут.]	string_end
-string_begin	stringID=1805181	string=[Используйте телепорт, чтобы переместиться в подземелье Семи Печатей.]	string_end
+string_begin	stringID=1805180	string=[Скоро в Катакомбах появятся монстры. Телепорт → Особый Контент → Катакомбы.]	string_end
+string_begin	stringID=1805181	string=[Используйте телепорт → Особый Контент → Катакомбы, чтобы попасть в подземелье.]	string_end
 string_begin	stringID=1805182	string=[Чудовище собирается вернуться к Антарасу.]	string_end
 string_begin	stringID=1805183	string=[Совершенное Чудовище собирается вернуться к Антарасу.]	string_end
 string_begin	stringID=1805184	string=[Усиленный Энергией Огня]	string_end

@@ -13721,8 +13721,8 @@ string_begin	stringID=1805176	string=[Target a mole and use Tricker's Rope!]	str
 string_begin	stringID=1805177	string=[Death Knight (Human)]	string_end
 string_begin	stringID=1805178	string=[Death Knight (Elf)]	string_end
 string_begin	stringID=1805179	string=[Death Knight (Dark Elf)]	string_end
-string_begin	stringID=1805180	string=[In 5 minutes monsters will appear in a Seven Signs dungeon. You have 30 minutes to kill them.]	string_end
-string_begin	stringID=1805181	string=[Use teleport to go to a Seven Signs dungeon.]	string_end
+string_begin	stringID=1805180	string=[Monsters will soon appear in the Catacombs. Teleport → Special Content → Catacombs.]	string_end
+string_begin	stringID=1805181	string=[Use Teleport → Special Content → Catacombs to enter the dungeon.]	string_end
 string_begin	stringID=1805182	string=[Soon Behemoth will return to Antharas.]	string_end
 string_begin	stringID=1805183	string=[Soon Ultimate Behemoth will return to Antharas.]	string_end
 string_begin	stringID=1805184	string=[Enhanced with Fire Energy]	string_end

@@ -4030,9 +4030,9 @@ string_begin	stringID=5008	string=[На удачу]	string_end
 string_begin	stringID=5009	string=[Прочее]	string_end
 string_begin	stringID=5010	string=[Товары]	string_end
 string_begin	stringID=5011	string=[Описание товара]	string_end
-string_begin	stringID=5012	string=[P]	string_end
+string_begin	stringID=5012	string=[Баланс]	string_end
 string_begin	stringID=5013	string=[Цена]	string_end
-string_begin	stringID=5014	string=[Баланс]	string_end
+string_begin	stringID=5014	string=[]	string_end
 string_begin	stringID=5015	string=[Пополнить]	string_end
 string_begin	stringID=5016	string=[Купить]	string_end
 string_begin	stringID=5017	string=[Остаток]	string_end
@@ -4194,7 +4194,7 @@ string_begin	stringID=5175	string=[Выберите 1 из 2 способов у
 string_begin	stringID=5176	string=[Перемещение с помощью ЛКМ]	string_end
 string_begin	stringID=5177	string=[Перемещение с помощью WASD]	string_end
 string_begin	stringID=5178	string=[Путь к пробуждению]	string_end
-string_begin	stringID=5179	string=[Свободная монета]	string_end
+string_begin	stringID=5179	string=[Очки Активности]	string_end
 string_begin	stringID=5180	string=[Имеющиеся монеты]	string_end
 string_begin	stringID=5181	string=[Список полученных предметов]	string_end
 string_begin	stringID=5182	string=[и ниже]	string_end

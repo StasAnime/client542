@@ -3995,9 +3995,9 @@ string_begin	stringID=5008	string=[Specials]	string_end
 string_begin	stringID=5009	string=[Misc.]	string_end
 string_begin	stringID=5010	string=[Product List]	string_end
 string_begin	stringID=5011	string=[Product Details]	string_end
-string_begin	stringID=5012	string=[P]	string_end
+string_begin	stringID=5012	string=[Balance]	string_end
 string_begin	stringID=5013	string=[Price]	string_end
-string_begin	stringID=5014	string=[Remaining Euro]	string_end
+string_begin	stringID=5014	string=[]	string_end
 string_begin	stringID=5015	string=[Add]	string_end
 string_begin	stringID=5016	string=[Buy]	string_end
 string_begin	stringID=5017	string=[Balance After Purchase]	string_end
@@ -4159,7 +4159,7 @@ string_begin	stringID=5175	string=[Select 1 of the 2 movement methods.\n(You can
 string_begin	stringID=5176	string=[Move through left-click]	string_end
 string_begin	stringID=5177	string=[Move through WASD keys]	string_end
 string_begin	stringID=5178	string=[Path to Awakening]	string_end
-string_begin	stringID=5179	string=[Hero Coin]	string_end
+string_begin	stringID=5179	string=[Activity Points]	string_end
 string_begin	stringID=5180	string=[Coins Owned]	string_end
 string_begin	stringID=5181	string=[Obtained Items]	string_end
 string_begin	stringID=5182	string=[and below]	string_end

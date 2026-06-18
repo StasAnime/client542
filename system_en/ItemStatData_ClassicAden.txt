@@ -14398,6 +14398,7 @@ item_begin	object_id=95799	pDefense=0	mDefense=0	pAttack=0	mAttack=0	pAttackSpee
 item_begin	object_id=95800	pDefense=0	mDefense=0	pAttack=0	mAttack=0	pAttackSpeed=0	pHit=0.0	mHit=0.0	pCritical=0.0	mCritical=0.0	speed=0	ShieldDefense=0	ShieldDefenseRate=0	pavoid=0.0	mavoid=0.0	item_end
 item_begin	object_id=95801	pDefense=0	mDefense=0	pAttack=0	mAttack=0	pAttackSpeed=0	pHit=0.0	mHit=0.0	pCritical=0.0	mCritical=0.0	speed=0	ShieldDefense=0	ShieldDefenseRate=0	pavoid=0.0	mavoid=0.0	item_end
 item_begin	object_id=95802	pDefense=0	mDefense=0	pAttack=0	mAttack=0	pAttackSpeed=0	pHit=0.0	mHit=0.0	pCritical=0.0	mCritical=0.0	speed=0	ShieldDefense=0	ShieldDefenseRate=0	pavoid=0.0	mavoid=0.0	item_end
+item_begin	object_id=105987	pDefense=0	mDefense=0	pAttack=0	mAttack=0	pAttackSpeed=0	pHit=0.0	mHit=0.0	pCritical=0.0	mCritical=0.0	speed=0	ShieldDefense=0	ShieldDefenseRate=0	pavoid=0.0	mavoid=0.0	item_end
 item_begin	object_id=1095783	pDefense=0	mDefense=0	pAttack=0	mAttack=0	pAttackSpeed=0	pHit=0.0	mHit=0.0	pCritical=0.0	mCritical=0.0	speed=0	ShieldDefense=0	ShieldDefenseRate=0	pavoid=0.0	mavoid=0.0	item_end
 item_begin	object_id=1095784	pDefense=0	mDefense=0	pAttack=0	mAttack=0	pAttackSpeed=0	pHit=0.0	mHit=0.0	pCritical=0.0	mCritical=0.0	speed=0	ShieldDefense=0	ShieldDefenseRate=0	pavoid=0.0	mavoid=0.0	item_end
 item_begin	object_id=1095785	pDefense=0	mDefense=0	pAttack=0	mAttack=0	pAttackSpeed=0	pHit=0.0	mHit=0.0	pCritical=0.0	mCritical=0.0	speed=0	ShieldDefense=0	ShieldDefenseRate=0	pavoid=0.0	mavoid=0.0	item_end

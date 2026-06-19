@@ -99,11 +99,14 @@ product_begin	product_id=104	category=4	mark_type=none	buy_items={{93685;1;[[Enc
 product_begin	product_id=105	category=4	mark_type=none	buy_items={{35741;1;[[Scroll: PK]];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=106	category=4	mark_type=none	buy_items={{98314;1;[[Sealed Collection Book]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=107	category=4	mark_type=none	buy_items={{98315;1;[[Scroll: Enchant Sealed Collection Book]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=108	category=5	mark_type=none	buy_items={{94871;1;[[Heavenly Ticket (Time-limited)]];{1;999}}}	product_type=1	buy_limit={1;one_day;200}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=109	category=5	mark_type=none	buy_items={{94871;1;[[Heavenly Ticket (Time-limited)]];{1;999}}}	product_type=1	buy_limit={1;one_day;200}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=108	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=109	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=110	category=5	mark_type=none	buy_items={{93740;1;[[Giran Seal Pack]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=212	category=5	mark_type=none	buy_items={{100567;1;[[Stable Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=213	category=5	mark_type=none	buy_items={{100568;1;[[Stable Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=221	category=5	mark_type=none	buy_items={{72544;1;[[Doll Summon Ticket - 1-time]];{1;999}}}	product_type=0	buy_limit={1;one_day;20}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=222	category=5	mark_type=none	buy_items={{72545;1;[[Doll Summon Ticket - 11-time]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=223	category=5	mark_type=none	buy_items={{96796;1;[[Growth Support Rune]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=111	category=0	mark_type=none	buy_items={{100589;1;[[Enchant Kit: Phantom Mask]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=112	category=0	mark_type=none	buy_items={{93685;1;[[Enchant Kit: Talisman of Speed]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=113	category=0	mark_type=none	buy_items={{92468;1;[[Venir's Talisman Pack Lv. 1]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
@@ -126,6 +129,10 @@ product_begin	product_id=129	category=1	mark_type=none	buy_items={{94559;1;[[Say
 product_begin	product_id=130	category=1	mark_type=none	buy_items={{94559;1;[[Sayha's Blessing Scroll (Time-limited)]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=131	category=1	mark_type=none	buy_items={{91757;1;[[Magic Lamp Charging Potion]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=132	category=1	mark_type=none	buy_items={{91757;1;[[Magic Lamp Charging Potion]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=217	category=1	mark_type=none	buy_items={{71031;1;[[Regular Dish]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=218	category=1	mark_type=none	buy_items={{71031;1;[[Regular Dish]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=219	category=1	mark_type=none	buy_items={{71032;1;[[Very Delicious Dish]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=220	category=1	mark_type=none	buy_items={{71032;1;[[Very Delicious Dish]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=133	category=1	mark_type=none	buy_items={{93073;1;[[Sayha's Storm (Time-limited)]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=134	category=1	mark_type=none	buy_items={{93073;1;[[Sayha's Storm (Time-limited)]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=135	category=1	mark_type=none	buy_items={{90520;1;[[Fire Dragon's Blessing Scroll]];{1;999}}}	product_type=0	buy_limit={1;one_day;15}	product_desc=[]	product_htm=[]	product_end
@@ -177,12 +184,10 @@ product_begin	product_id=181	category=4	mark_type=none	buy_items={{296901;1;[[Ad
 product_begin	product_id=182	category=4	mark_type=none	buy_items={{1538;1;[[Improved Scroll of Escape]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=183	category=4	mark_type=none	buy_items={{93080;1;[[Charging Stone of Common Craft - 1 Charge]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=184	category=4	mark_type=none	buy_items={{95638;1;[[Scroll: Enchant Clan Equipment]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=185	category=4	mark_type=none	buy_items={{94719;1;[[Scroll: Enchant Hellbound Ring]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=186	category=4	mark_type=none	buy_items={{94041;1;[[Scroll: Restore Equipment]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=187	category=2	mark_type=none	buy_items={{8620;1;[[Spellbook: Divine Inspiration Lv. 3]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=188	category=2	mark_type=none	buy_items={{8621;1;[[Spellbook: Divine Inspiration Lv. 4]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=189	category=2	mark_type=none	buy_items={{92007;1;[[High-grade Inventory Expansion Coupon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=190	category=2	mark_type=none	buy_items={{49756;1;[[Cloth Piece]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=214	category=2	mark_type=none	buy_items={{92004;1;[[Inventory Expansion Coupon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=215	category=2	mark_type=none	buy_items={{98085;1;[[Private Warehouse Coupon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=216	category=2	mark_type=none	buy_items={{98086;1;[[World Trade Coupon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end

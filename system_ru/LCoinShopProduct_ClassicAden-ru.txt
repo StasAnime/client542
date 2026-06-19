@@ -99,11 +99,14 @@ product_begin	product_id=104	category=4	mark_type=none	buy_items={{93685;1;[[Н�
 product_begin	product_id=105	category=4	mark_type=none	buy_items={{35741;1;[[Свиток Возобновления]];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=106	category=4	mark_type=none	buy_items={{98314;1;[[Запечатанная Книга Коллекции]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=107	category=4	mark_type=none	buy_items={{98315;1;[[Свиток: Модифицировать Запечатанную Книгу Коллекции]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=108	category=5	mark_type=none	buy_items={{94871;1;[[Билет Секретной Лавки]];{1;999}}}	product_type=1	buy_limit={1;one_day;200}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=109	category=5	mark_type=none	buy_items={{94871;1;[[Билет Секретной Лавки]];{1;999}}}	product_type=1	buy_limit={1;one_day;200}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=108	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=109	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=110	category=5	mark_type=none	buy_items={{93740;1;[[Сундук с Печатями Гирана]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=212	category=5	mark_type=none	buy_items={{100567;1;[[Стабильный Свиток: Модифицировать Оружие Ранга A]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=213	category=5	mark_type=none	buy_items={{100568;1;[[Стабильный Свиток: Модифицировать Доспех Ранга A]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=221	category=5	mark_type=none	buy_items={{72544;1;[[Билет Призыва Куклы - 1 Раз]];{1;999}}}	product_type=0	buy_limit={1;one_day;20}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=222	category=5	mark_type=none	buy_items={{72545;1;[[Билет Призыва Куклы - 11 Раз]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=223	category=5	mark_type=none	buy_items={{96796;1;[[Руна Поддержки Развития]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=111	category=0	mark_type=none	buy_items={{100589;1;[[Набор Модификации: Маска Фантома]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=112	category=0	mark_type=none	buy_items={{93685;1;[[Набор Модификации: Талисман Скорости]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=113	category=0	mark_type=none	buy_items={{92468;1;[[Сундук с Талисманом Бенира Ур.1]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
@@ -126,6 +129,10 @@ product_begin	product_id=129	category=1	mark_type=none	buy_items={{94559;1;[[С�
 product_begin	product_id=130	category=1	mark_type=none	buy_items={{94559;1;[[Свиток Благословения Сайхи (Временно)]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=131	category=1	mark_type=none	buy_items={{91757;1;[[Зелье Пополнения Волшебной Лампы]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=132	category=1	mark_type=none	buy_items={{91757;1;[[Зелье Пополнения Волшебной Лампы]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=217	category=1	mark_type=none	buy_items={{71031;1;[[Обычное Блюдо]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=218	category=1	mark_type=none	buy_items={{71031;1;[[Обычное Блюдо]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=219	category=1	mark_type=none	buy_items={{71032;1;[[Роскошное Блюдо]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=220	category=1	mark_type=none	buy_items={{71032;1;[[Роскошное Блюдо]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=133	category=1	mark_type=none	buy_items={{93073;1;[[Шторм Сайхи (Временно)]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=134	category=1	mark_type=none	buy_items={{93073;1;[[Шторм Сайхи (Временно)]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=135	category=1	mark_type=none	buy_items={{90520;1;[[Свиток Благословения Дракона Огня]];{1;999}}}	product_type=0	buy_limit={1;one_day;15}	product_desc=[]	product_htm=[]	product_end
@@ -177,12 +184,10 @@ product_begin	product_id=181	category=4	mark_type=none	buy_items={{296901;1;[[К
 product_begin	product_id=182	category=4	mark_type=none	buy_items={{1538;1;[[Улучшенный Свиток Телепорта]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=183	category=4	mark_type=none	buy_items={{93080;1;[[Камень Подзарядки Обычного Создания - 1 Заряд]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=184	category=4	mark_type=none	buy_items={{95638;1;[[Свиток: Модифицировать Снаряжение Клана]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=185	category=4	mark_type=none	buy_items={{94719;1;[[Свиток: Модифицировать Кольцо Острова Ада]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=186	category=4	mark_type=none	buy_items={{94041;1;[[Свиток Восстановления Облика Снаряжения]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=187	category=2	mark_type=none	buy_items={{8620;1;[[Книга Заклинаний - Божественное Вдохновение Ур. 3]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=188	category=2	mark_type=none	buy_items={{8621;1;[[Книга Заклинаний - Божественное Вдохновение Ур. 4]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=189	category=2	mark_type=none	buy_items={{92007;1;[[Купон Расширения Инвентаря Высокого Качества]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=190	category=2	mark_type=none	buy_items={{49756;1;[[Лоскут Ткани]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=214	category=2	mark_type=none	buy_items={{92004;1;[[Купон Расширения Инвентаря]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=215	category=2	mark_type=none	buy_items={{98085;1;[[Купон Личного Хранилища]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=216	category=2	mark_type=none	buy_items={{98086;1;[[Купон Всемирной Торговли]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end

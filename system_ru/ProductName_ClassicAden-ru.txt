@@ -1,33 +1,51 @@
-product_name_begin	id=3080021	outer_name=[Кристалл Крови]	description=[]	icon=[icon.etc_fire_crystal_1_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080017	outer_name=[Монеты L (8000 шт.)]	description=[]	icon=[icon.bm_lcoin_box_i03]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080018	outer_name=[Монеты L (8000 шт.)]	description=[]	icon=[icon.bm_lcoin_box_i03]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080019	outer_name=[Монеты L (40 000 шт.)]	description=[]	icon=[icon.bm_lcoin_box_i04]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080039	outer_name=[Премиум Аккаунт 3 Дня]	description=[]	icon=[icon.ev_prestige_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080040	outer_name=[Премиум Аккаунт 7 Дней]	description=[]	icon=[icon.ev_prestige_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080041	outer_name=[Премиум Аккаунт 14 Дней]	description=[]	icon=[icon.ev_prestige_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080003	outer_name=[Билет Секретной Лавки]	description=[]	icon=[icon.bm_masterpiece_silver_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080001	outer_name=[Коробка с Предметом Коллекции]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080002	outer_name=[Купон Создания Куклы (Временно)]	description=[]	icon=[icon.bm_boss_doll_ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080004	outer_name=[Золотой Ключ (Временно)]	description=[]	icon=[icon.bm_dragon_key]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080005	outer_name=[Руна Заботливой Богини]	description=[]	icon=[BranchIcon.icon.bm_eva_pc_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080010	outer_name=[Start Kit (Top)]	description=[]	icon=[icon.bm_dragon_present]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080008	outer_name=[Start Kit (Mid)]	description=[]	icon=[icon.bm_dragon_shinning_present]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080006	outer_name=[Start Kit (Low)]	description=[]	icon=[icon.bm_dragon_present_3]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080007	outer_name=[Руна Прироста Опыта - 50%]	description=[]	icon=[br_cashtex.item.br_cash_rune_of_exp_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080009	outer_name=[Охотничий Пропуск - Билет Дополнительных Наград]	description=[]	icon=[BranchIcon.icon.g_pass_hunting_premium_ticket_00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080011	outer_name=[Купон Смены Класса]	description=[]	icon=[icon.bm_payback_ticket_01]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080012	outer_name=[Кольцо Орков (7 Дней)]	description=[]	icon=[icon.accessary_cerberuss_ring_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080015	outer_name=[Камень Продления Времени Небесной Башни]	description=[]	icon=[icon.tm_garden_of_power]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080023	outer_name=[Камень Продления Времени Крепости Кельбима]	description=[]	icon=[icon.citadel_of_kelbim]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080027	outer_name=[Камень Продления Времени Башни Дерзости]	description=[]	icon=[Icon.tower_of_insolence]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080028	outer_name=[Камень Продления Времени Языческого Храма]	description=[]	icon=[icon.temple_of_heresy]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080029	outer_name=[Камень Продления Времени Башни Эльморадена]	description=[]	icon=[icon.timezone_refill_new_i04]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080030	outer_name=[Камень Продления Времени Древних Руин]	description=[]	icon=[Icon.timezone_refill_new_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080031	outer_name=[Особый Цветной Титул]	description=[]	icon=[icon.lv_benefit_nick]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080032	outer_name=[Камень Обработки Светового Оружия]	description=[]	icon=[icon.shape_shifting_dagger_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080033	outer_name=[Очищенная Сфера Бессмертия]	description=[]	icon=[icon.immortal_orb_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080034	outer_name=[Купон Смены Оружия Монарха Льда (Временно)]	description=[]	icon=[icon.wepon_trade_ticket_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080035	outer_name=[Купон Смены Доспехов Защиты (Временно)]	description=[]	icon=[icon.armor_trade_ticket_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080036	outer_name=[Купон Смены Оружия Босса (Временно)]	description=[]	icon=[icon.wepon_trade_ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080037	outer_name=[Купон Смены Особых Доспехов (Временно)]	description=[]	icon=[icon.armor_trade_ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080038	outer_name=[Купон Смены Краски (Временно)]	description=[]	icon=[icon.dye_trade_ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090051	outer_name=[Премиум Аккаунт 3 Дня (1 шт.)]	description=[]	icon=[icon.ev_prestige_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090053	outer_name=[Премиум Аккаунт 7 Дней (1 шт.)]	description=[]	icon=[icon.ev_prestige_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090055	outer_name=[Премиум Аккаунт 14 Дней (1 шт.)]	description=[]	icon=[icon.ev_prestige_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080055	outer_name=[Коробка с Предметом Коллекции (10 шт.)]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090052	outer_name=[Охотничий Пропуск - Билет Дополнительных Наград (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_pass_hunting_premium_ticket_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090054	outer_name=[Купон Смены Класса (1 шт.)]	description=[]	icon=[icon.bm_payback_ticket_01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090042	outer_name=[Купон Смены Оружия Монарха Льда (1 шт.)]	description=[]	icon=[icon.wepon_trade_ticket_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090043	outer_name=[Купон Смены Доспехов Защиты (1 шт.)]	description=[]	icon=[icon.armor_trade_ticket_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090044	outer_name=[Купон Смены Оружия Босса (1 шт.)]	description=[]	icon=[icon.wepon_trade_ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090045	outer_name=[Купон Смены Особых Доспехов (1 шт.)]	description=[]	icon=[icon.armor_trade_ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080050	outer_name=[Премиум Аккаунт 14 Дней (1 шт.)]	description=[]	icon=[icon.ev_prestige_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080049	outer_name=[Купон Смены Класса (1 шт.)]	description=[]	icon=[icon.bm_payback_ticket_01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080048	outer_name=[Премиум Аккаунт 7 Дней (1 шт.)]	description=[]	icon=[icon.ev_prestige_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080047	outer_name=[Охотничий Пропуск - Билет Дополнительных Наград (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_pass_hunting_premium_ticket_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080046	outer_name=[Премиум Аккаунт 3 Дня (1 шт.)]	description=[]	icon=[icon.ev_prestige_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080052	outer_name=[Ежедневный Набор Поддержки (1 шт.)]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080051	outer_name=[Еженедельный Набор Поддержки (1 шт.)]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080045	outer_name=[Season Pass Stage 1 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080044	outer_name=[Improved Starter Support Chest (100 шт.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080043	outer_name=[Купон Закрытия Заданий (1 шт.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080042	outer_name=[Купон Закрытия Заданий (100 шт.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080041	outer_name=[Монеты L (20 000 шт.)]	description=[]	icon=[icon.bm_lcoin_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080040	outer_name=[Монеты L (40 000 шт.)]	description=[]	icon=[icon.bm_lcoin_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080039	outer_name=[Руна Поддержки Развития (1 шт.)]	description=[]	icon=[icon.bm_freya_bloody_rune]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080038	outer_name=[Руна Изобилия (1 шт.)]	description=[]	icon=[BranchIcon.icon.bm_eva_pc_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080037	outer_name=[Руна Настроения (1 шт.)]	description=[]	icon=[BranchIcon.Icon.bm_unique_gacha_potion_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080036	outer_name=[Купон Смены Особых Доспехов (1 шт.)]	description=[]	icon=[icon.armor_trade_ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080035	outer_name=[Купон Смены Оружия Босса (1 шт.)]	description=[]	icon=[icon.wepon_trade_ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080034	outer_name=[Купон Смены Доспехов Защиты (1 шт.)]	description=[]	icon=[icon.armor_trade_ticket_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080033	outer_name=[Купон Смены Оружия Монарха Льда (1 шт.)]	description=[]	icon=[icon.wepon_trade_ticket_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080054	outer_name=[Купон Смены Доспехов Ранга А (1 шт.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080053	outer_name=[Купон Смены Оружия Ранга А (1 шт.)]	description=[]	icon=[icon.ev_weapon_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090057	outer_name=[Купон Смены Доспехов Ранга А (1 шт.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090056	outer_name=[Купон Смены Оружия Ранга А (1 шт.)]	description=[]	icon=[icon.ev_weapon_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080056	outer_name=[Коробка с Предметом Коллекции (1 шт.)]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080032	outer_name=[Билет Призыва Куклы - 1 Раз (1 шт.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080031	outer_name=[Билет Призыва Куклы - 1 Раз (10 шт.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080030	outer_name=[Билет Призыва Куклы - 11 Раз (1 шт.)]	description=[]	icon=[icon.doll_summon_11_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080029	outer_name=[Билет Призыва Куклы - 11 Раз (10 шт.)]	description=[]	icon=[icon.doll_summon_11_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080068	outer_name=[Универсальный Эффект Убийства (1 шт.)]	description=[]	icon=[icon.trigger_kill_effect_immortal]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080066	outer_name=[Облик Оружия - Скорбный Меч (1 шт.)]	description=[]	icon=[icon.aegis_cutter]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080065	outer_name=[Облик Оружия - Кровожадный Кровавый Меч (1 шт.)]	description=[]	icon=[icon.aka_manaf_cutter_2]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080064	outer_name=[Облик Оружия - Кровавый Меч (1 шт.)]	description=[]	icon=[icon.aka_manaf_cutter_1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080063	outer_name=[Облик Оружия - Окровавленный Демонический Меч (1 шт.)]	description=[]	icon=[icon.zariche_cutter_2]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080062	outer_name=[Облик Оружия - Демонический Меч (1 шт.)]	description=[]	icon=[icon.zariche_cutter_1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080061	outer_name=[Облик Оружия - Забытое Оружие (1 шт.)]	description=[]	icon=[icon.weapon_forgotten_blade_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080060	outer_name=[Облик Оружия - Оружие Ассасина (1 шт.)]	description=[]	icon=[icon.assassin_sword_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080059	outer_name=[Облик Оружия - Световое Оружие (1 шт.)]	description=[]	icon=[BranchSys3.Icon.g_beam_sword]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080058	outer_name=[Облик Оружия - Белый День (1 шт.)]	description=[]	icon=[icon.white_day_sword_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080057	outer_name=[Облик Оружия - Венера (1 шт.)]	description=[]	icon=[icon.weapon_vesper_cutter_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080067	outer_name=[Универсальный Облик - Костюм (1 шт.)]	description=[]	icon=[BranchSys3.icon1.Br_schoollook]	icon_panel=[None]	mainsubject=[]	product_name_end

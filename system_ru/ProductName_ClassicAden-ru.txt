@@ -49,3 +49,32 @@ product_name_begin	id=3080059	outer_name=[Облик Оружия - Светов
 product_name_begin	id=3080058	outer_name=[Облик Оружия - Белый День (1 шт.)]	description=[]	icon=[icon.white_day_sword_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080057	outer_name=[Облик Оружия - Венера (1 шт.)]	description=[]	icon=[icon.weapon_vesper_cutter_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080067	outer_name=[Универсальный Облик - Костюм (1 шт.)]	description=[]	icon=[BranchSys3.icon1.Br_schoollook]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090099	outer_name=[Универсальный Эффект Убийства (1 шт.)]	description=[]	icon=[icon.trigger_kill_effect_immortal]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090098	outer_name=[Универсальный Облик - Костюм (1 шт.)]	description=[]	icon=[BranchSys3.icon1.Br_schoollook]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090097	outer_name=[Облик Оружия - Скорбный Меч (1 шт.)]	description=[]	icon=[icon.aegis_cutter]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090096	outer_name=[Облик Оружия - Кровожадный Кровавый Меч (1 шт.)]	description=[]	icon=[icon.aka_manaf_cutter_2]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090095	outer_name=[Облик Оружия - Кровавый Меч (1 шт.)]	description=[]	icon=[icon.aka_manaf_cutter_1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090094	outer_name=[Облик Оружия - Окровавленный Демонический Меч (1 шт.)]	description=[]	icon=[icon.zariche_cutter_2]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090093	outer_name=[Облик Оружия - Демонический Меч (1 шт.)]	description=[]	icon=[icon.zariche_cutter_1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090092	outer_name=[Облик Оружия - Забытое Оружие (1 шт.)]	description=[]	icon=[icon.weapon_forgotten_blade_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090091	outer_name=[Облик Оружия - Оружие Ассасина (1 шт.)]	description=[]	icon=[icon.assassin_sword_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090090	outer_name=[Облик Оружия - Световое Оружие (1 шт.)]	description=[]	icon=[BranchSys3.Icon.g_beam_sword]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090089	outer_name=[Облик Оружия - Белый День (1 шт.)]	description=[]	icon=[icon.white_day_sword_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090088	outer_name=[Облик Оружия - Венера (1 шт.)]	description=[]	icon=[icon.weapon_vesper_cutter_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090087	outer_name=[Ежедневный Набор Поддержки (1 шт.)]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090086	outer_name=[Еженедельный Набор Поддержки (1 шт.)]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090085	outer_name=[Season Pass Stage 1 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090084	outer_name=[Improved Starter Support Chest (100 шт.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090083	outer_name=[Купон Закрытия Заданий (1 шт.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090082	outer_name=[Купон Закрытия Заданий (100 шт.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090081	outer_name=[Монеты L (20 000 шт.)]	description=[]	icon=[icon.bm_lcoin_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090080	outer_name=[Монеты L (40 000 шт.)]	description=[]	icon=[icon.bm_lcoin_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090079	outer_name=[Коробка с Предметом Коллекции (1 шт.)]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090078	outer_name=[Коробка с Предметом Коллекции (10 шт.)]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090077	outer_name=[Билет Призыва Куклы - 1 Раз (1 шт.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090076	outer_name=[Билет Призыва Куклы - 1 Раз (10 шт.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090075	outer_name=[Билет Призыва Куклы - 11 Раз (1 шт.)]	description=[]	icon=[icon.doll_summon_11_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090074	outer_name=[Билет Призыва Куклы - 11 Раз (10 шт.)]	description=[]	icon=[icon.doll_summon_11_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090050	outer_name=[Руна Поддержки Развития (1 шт.)]	description=[]	icon=[icon.bm_freya_bloody_rune]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090049	outer_name=[Руна Изобилия (1 шт.)]	description=[]	icon=[BranchIcon.icon.bm_eva_pc_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090048	outer_name=[Руна Настроения (1 шт.)]	description=[]	icon=[BranchIcon.Icon.bm_unique_gacha_potion_i00]	icon_panel=[None]	mainsubject=[]	product_name_end

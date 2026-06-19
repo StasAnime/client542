@@ -49,3 +49,32 @@ product_name_begin	id=3080059	outer_name=[Weapon Appearance - Emerald Weapon (1 
 product_name_begin	id=3080058	outer_name=[Weapon Appearance - White Day (1 pc.)]	description=[]	icon=[icon.white_day_sword_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080057	outer_name=[Weapon Appearance - Vesper (1 pc.)]	description=[]	icon=[icon.weapon_vesper_cutter_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080067	outer_name=[Universal Costume Appearance (1 pc.)]	description=[]	icon=[BranchSys3.icon1.Br_schoollook]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090099	outer_name=[Universal Kill Effect (1 pc.)]	description=[]	icon=[icon.trigger_kill_effect_immortal]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090098	outer_name=[Universal Costume Appearance (1 pc.)]	description=[]	icon=[BranchSys3.icon1.Br_schoollook]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090097	outer_name=[Weapon Appearance - Woeful Sword (1 pc.)]	description=[]	icon=[icon.aegis_cutter]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090096	outer_name=[Weapon Appearance - Bloodthirsty Blood Sword (1 pc.)]	description=[]	icon=[icon.aka_manaf_cutter_2]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090095	outer_name=[Weapon Appearance - Blood Sword (1 pc.)]	description=[]	icon=[icon.aka_manaf_cutter_1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090094	outer_name=[Weapon Appearance - Bloodstained Demonic Sword (1 pc.)]	description=[]	icon=[icon.zariche_cutter_2]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090093	outer_name=[Weapon Appearance - Demonic Sword (1 pc.)]	description=[]	icon=[icon.zariche_cutter_1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090092	outer_name=[Weapon Appearance - Forgotten Weapon (1 pc.)]	description=[]	icon=[icon.weapon_forgotten_blade_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090091	outer_name=[Weapon Appearance - Assassin's Weapon (1 pc.)]	description=[]	icon=[icon.assassin_sword_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090090	outer_name=[Weapon Appearance - Emerald Weapon (1 pc.)]	description=[]	icon=[BranchSys3.Icon.g_beam_sword]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090089	outer_name=[Weapon Appearance - White Day (1 pc.)]	description=[]	icon=[icon.white_day_sword_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090088	outer_name=[Weapon Appearance - Vesper (1 pc.)]	description=[]	icon=[icon.weapon_vesper_cutter_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090087	outer_name=[Daily Support Set (1 pc.)]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090086	outer_name=[Weekly Support Set (1 pc.)]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090085	outer_name=[Season Pass Stage 1 (1 pc.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090084	outer_name=[Improved Starter Support Chest (100 pcs.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090083	outer_name=[Quest Closing Coupon (1 pc.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090082	outer_name=[Quest Closing Coupon (100 pcs.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090081	outer_name=[L-Coins (20,000 pcs.)]	description=[]	icon=[icon.bm_lcoin_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090080	outer_name=[L-Coins (40,000 pcs.)]	description=[]	icon=[icon.bm_lcoin_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090079	outer_name=[Box with Collectible Item (1 pc.)]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090078	outer_name=[Box with Collectible Item (10 pcs.)]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090077	outer_name=[Doll Summon Ticket - 1-time (1 pc.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090076	outer_name=[Doll Summon Ticket - 1-time (10 pcs.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090075	outer_name=[Doll Summon Ticket - 11-time (1 pc.)]	description=[]	icon=[icon.doll_summon_11_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090074	outer_name=[Doll Summon Ticket - 11-time (10 pcs.)]	description=[]	icon=[icon.doll_summon_11_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090050	outer_name=[Growth Support Rune (1 pc.)]	description=[]	icon=[icon.bm_freya_bloody_rune]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090049	outer_name=[Rune of Abundance (1 pc.)]	description=[]	icon=[BranchIcon.icon.bm_eva_pc_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090048	outer_name=[Mood Rune (1 pc.)]	description=[]	icon=[BranchIcon.Icon.bm_unique_gacha_potion_i00]	icon_panel=[None]	mainsubject=[]	product_name_end

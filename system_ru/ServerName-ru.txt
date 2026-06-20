@@ -1,5 +1,5 @@
-server_name_begin	id=0	color=9F860100	name={{[Essence Test];[Test]}}	visible_id=0	group_id=0	server_name_end
-server_name_begin	id=1	color=9F860100	name={{[Essence Test];[Test]}}	visible_id=0	group_id=0	server_name_end
+server_name_begin	id=0	color=9F860100	name={{[Sacura x3];[Test]}}	visible_id=0	group_id=0	server_name_end
+server_name_begin	id=1	color=9F860100	name={{[Sacura x3];[Test]}}	visible_id=0	group_id=0	server_name_end
 server_name_begin	id=2	color=9F860100	name={{[EVA Test];[]}}	visible_id=0	group_id=0	server_name_end
 server_name_begin	id=3	color=9F860100	name={{[Essence 3x (MAIN)];[]}}	visible_id=0	group_id=0	server_name_end
 server_name_begin	id=4	color=9F860100	name={{[Essence 3x (USA)];[]}}	visible_id=0	group_id=0	server_name_end

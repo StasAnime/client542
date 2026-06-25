@@ -16,6 +16,7 @@ InstantZoneData_begin	id=190	name=[Зал Элии]	InstantZoneData_end
 InstantZoneData_begin	id=191	name=[Зал Лорел]	InstantZoneData_end
 InstantZoneData_begin	id=192	name=[Арена Монстров]	InstantZoneData_end
 InstantZoneData_begin	id=193	name=[Элитная Арена Монстров]	InstantZoneData_end
+InstantZoneData_begin	id=1	name=[Арена клана]	InstantZoneData_end
 InstantZoneData_begin	id=194	name=[Арена клана]	InstantZoneData_end
 InstantZoneData_begin	id=195	name=[Логово Короля Игниса]	InstantZoneData_end
 InstantZoneData_begin	id=196	name=[Логово Королевы Небулы]	InstantZoneData_end
@@ -43,7 +44,8 @@ InstantZoneData_begin	id=217	name=[Логово Королевы Муравье�
 InstantZoneData_begin	id=218	name=[Логово Орфен]	InstantZoneData_end
 InstantZoneData_begin	id=219	name=[Центральная Комната Управления Башни Крумы]	InstantZoneData_end
 InstantZoneData_begin	id=220	name=[Логово Баюма]	InstantZoneData_end
-InstantZoneData_begin	id=221	name=[Особняк Густава]	InstantZoneData_end
+InstantZoneData_begin	id=221	name=[Подземелье Грёз]	InstantZoneData_end
+InstantZoneData_begin	id=136	name=[Фринтеза]	InstantZoneData_end
 InstantZoneData_begin	id=222	name=[Монастырь Бенедикта]	InstantZoneData_end
 InstantZoneData_begin	id=223	name=[Храм Гладиатора]	InstantZoneData_end
 InstantZoneData_begin	id=224	name=[Крепость Красного Драконида]	InstantZoneData_end

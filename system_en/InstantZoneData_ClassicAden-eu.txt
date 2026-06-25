@@ -16,6 +16,7 @@ InstantZoneData_begin	id=190	name=[Ellia Hall]	InstantZoneData_end
 InstantZoneData_begin	id=191	name=[Laurell Hall]	InstantZoneData_end
 InstantZoneData_begin	id=192	name=[Monster Arena]	InstantZoneData_end
 InstantZoneData_begin	id=193	name=[Elite Monster Arena]	InstantZoneData_end
+InstantZoneData_begin	id=1	name=[Clan Arena]	InstantZoneData_end
 InstantZoneData_begin	id=194	name=[Clan Arena]	InstantZoneData_end
 InstantZoneData_begin	id=195	name=[Residence of King Ignis]	InstantZoneData_end
 InstantZoneData_begin	id=196	name=[Residence of Queen Nebula]	InstantZoneData_end
@@ -43,7 +44,8 @@ InstantZoneData_begin	id=217	name=[Queen Ant's Lair]	InstantZoneData_end
 InstantZoneData_begin	id=218	name=[Orfen's Lair]	InstantZoneData_end
 InstantZoneData_begin	id=219	name=[Cruma's Central Control Room]	InstantZoneData_end
 InstantZoneData_begin	id=220	name=[Baium's Lair]	InstantZoneData_end
-InstantZoneData_begin	id=221	name=[Gustav's Manor]	InstantZoneData_end
+InstantZoneData_begin	id=221	name=[Dream Dungeon]	InstantZoneData_end
+InstantZoneData_begin	id=136	name=[Frintezza]	InstantZoneData_end
 InstantZoneData_begin	id=222	name=[Benedict's Monastery]	InstantZoneData_end
 InstantZoneData_begin	id=223	name=[Gladiator's Temple]	InstantZoneData_end
 InstantZoneData_begin	id=224	name=[Red Draconid Fortress]	InstantZoneData_end

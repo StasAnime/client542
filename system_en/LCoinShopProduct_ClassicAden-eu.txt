@@ -102,10 +102,10 @@ product_begin	product_id=107	category=4	mark_type=none	buy_items={{98315;1;[[Scr
 product_begin	product_id=108	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=109	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=110	category=5	mark_type=none	buy_items={{93740;1;[[Giran Seal Pack]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=212	category=5	mark_type=none	buy_items={{100567;1;[[Stable Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=213	category=5	mark_type=none	buy_items={{100568;1;[[Stable Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=221	category=5	mark_type=none	buy_items={{72544;1;[[Doll Summon Ticket - 1-time]];{1;999}}}	product_type=0	buy_limit={1;one_day;20}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=222	category=5	mark_type=none	buy_items={{72545;1;[[Doll Summon Ticket - 11-time]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=212	category=5	mark_type=none	buy_items={{100567;1;[[Stable Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=2	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=213	category=5	mark_type=none	buy_items={{100568;1;[[Stable Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=2	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=221	category=5	mark_type=none	buy_items={{72544;1;[[Doll Summon Ticket - 1-time]];{1;999}}}	product_type=2	buy_limit={1;one_day;20}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=222	category=5	mark_type=none	buy_items={{72545;1;[[Doll Summon Ticket - 11-time]];{1;999}}}	product_type=2	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=223	category=5	mark_type=none	buy_items={{96796;1;[[Growth Support Rune]];{1;999}}}	product_type=0	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=111	category=0	mark_type=none	buy_items={{100589;1;[[Enchant Kit: Phantom Mask]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=112	category=0	mark_type=none	buy_items={{93685;1;[[Enchant Kit: Talisman of Speed]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
@@ -170,15 +170,15 @@ product_begin	product_id=166	category=4	mark_type=none	buy_items={{101786;1;[[Pa
 product_begin	product_id=167	category=4	mark_type=none	buy_items={{101787;1;[[Package: Sayha's Ring (Atk. Spd.)]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=168	category=4	mark_type=none	buy_items={{101788;1;[[Package: Pa'agrio's Ring (P./ M. Atk.)]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=169	category=4	mark_type=none	buy_items={{101789;1;[[Package: Einhasad's Necklace (Cooldown)]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=170	category=5	mark_type=none	buy_items={{100072;1;[[Golden Key (Time-limited)]];{1;999}}}	product_type=2	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=171	category=5	mark_type=none	buy_items={{100072;1;[[Golden Key (Time-limited)]];{1;999}}}	product_type=2	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=170	category=5	mark_type=none	buy_items={{100072;1;[[Golden Key (Time-limited)]];{1;999}}}	product_type=0	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=171	category=5	mark_type=none	buy_items={{100072;1;[[Golden Key (Time-limited)]];{1;999}}}	product_type=0	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=172	category=5	mark_type=limited	buy_items={{94736;1;[[Settling Kit: Jewel]];{1;999}}}	product_type=0	buy_limit={1;always;3}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=173	category=5	mark_type=limited	buy_items={{94737;1;[[Settling Kit: Agathion]];{1;999}}}	product_type=0	buy_limit={1;always;3}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=174	category=5	mark_type=limited	buy_items={{94738;1;[[Settling Kit: Upgrading]];{1;999}}}	product_type=0	buy_limit={1;always;3}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=175	category=5	mark_type=none	buy_items={{101210;1;[[Doll Summon Coupon (Common) - 1 time]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=176	category=5	mark_type=none	buy_items={{101210;1;[[Doll Summon Coupon (Common) - 1 time]];{1;999}}}	product_type=2	buy_limit={1;one_week;50}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=176	category=5	mark_type=none	buy_items={{101210;1;[[Doll Summon Coupon (Common) - 1 time]];{1;999}}}	product_type=0	buy_limit={1;one_week;50}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=177	category=5	mark_type=none	buy_items={{101210;1;[[Doll Summon Coupon (Common) - 1 time]];{1;999}}}	product_type=0	buy_limit={1;one_day;5}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=178	category=5	mark_type=none	buy_items={{101210;1;[[Doll Summon Coupon (Common) - 1 time]];{1;999}}}	product_type=2	buy_limit={1;one_week;50}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=178	category=5	mark_type=none	buy_items={{101210;1;[[Doll Summon Coupon (Common) - 1 time]];{1;999}}}	product_type=0	buy_limit={1;one_week;50}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=179	category=4	mark_type=none	buy_items={{295783;1;[[Aden's Soul Crystal Lv. 1 - Weapon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=181	category=4	mark_type=none	buy_items={{296901;1;[[Aden's Soul Crystal Lv. 1 - Armor]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=182	category=4	mark_type=none	buy_items={{1538;1;[[Improved Scroll of Escape]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end

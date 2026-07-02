@@ -78,3 +78,7 @@ product_name_begin	id=3090074	outer_name=[Doll Summon Ticket - 11-time (10 pcs.)
 product_name_begin	id=3090050	outer_name=[Growth Support Rune (1 pc.)]	description=[]	icon=[icon.bm_freya_bloody_rune]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090049	outer_name=[Rune of Abundance (1 pc.)]	description=[]	icon=[BranchIcon.icon.bm_eva_pc_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090048	outer_name=[Mood Rune (1 pc.)]	description=[]	icon=[BranchIcon.Icon.bm_unique_gacha_potion_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080028	outer_name=[Extra Pass: Dwelling of Spirits (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080027	outer_name=[Extra Pass: Dream Dungeon (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080026	outer_name=[Extra Pass: Frintezza's Dungeon (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080025	outer_name=[Extra Pass: Valakas Temple (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end

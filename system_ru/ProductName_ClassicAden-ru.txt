@@ -78,3 +78,7 @@ product_name_begin	id=3090074	outer_name=[Билет Призыва Куклы -
 product_name_begin	id=3090050	outer_name=[Руна Поддержки Развития (1 шт.)]	description=[]	icon=[icon.bm_freya_bloody_rune]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090049	outer_name=[Руна Изобилия (1 шт.)]	description=[]	icon=[BranchIcon.icon.bm_eva_pc_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090048	outer_name=[Руна Настроения (1 шт.)]	description=[]	icon=[BranchIcon.Icon.bm_unique_gacha_potion_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080028	outer_name=[Билет в Обитель Духов (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080027	outer_name=[Билет в Подземелье Грёз (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080026	outer_name=[Билет в Подземелье Фринтезы (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080025	outer_name=[Билет в Храм Валакаса (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end

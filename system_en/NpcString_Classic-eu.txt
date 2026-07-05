@@ -14817,3 +14817,4 @@ string_begin	stringID=4000018	string=[Trick or treat!]	string_end
 string_begin	stringID=4000019	string=[Scared? No? Well, I'll get to you next time!]	string_end
 string_begin	stringID=4000020	string=[See me? Ha ha ha! Catch me if you can!]	string_end
 string_begin	stringID=9999999	string=[Balthus Knight]	string_end
+string_begin	stringID=1806250	string=[Try Your Luck]	string_end

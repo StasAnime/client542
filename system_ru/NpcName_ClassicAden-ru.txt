@@ -1450,7 +1450,7 @@ npc_begin	id=24081	name=[Маленький Сундук Сокровищ Уда
 npc_begin	id=24082	name=[Маленький Сундук Сокровищ Надежды]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=24083	name=[Маленький Сундук Сокровищ Судьбы]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=24084	name=[Хранитель Сокровищ Скелета]	nick=[]	nickcolor=9CE8A9FF	npc_end
-npc_begin	id=24085	name=[Кукла Сайроны]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=24085	name=[Падшая Кукла]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=24086	name=[Кукла Сайроны]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=21661	name=[Алый Рабочий Стакато]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=21662	name=[Алый Воин Стакато]	nick=[]	nickcolor=9CE8A9FF	npc_end

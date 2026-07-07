@@ -212,3 +212,4 @@ product_begin	product_id=208	category=3	mark_type=none	buy_items={{105276;1;[[У
 product_begin	product_id=209	category=3	mark_type=none	buy_items={{105280;1;[[Исключительная Книга Заклинаний]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=210	category=3	mark_type=none	buy_items={{105284;1;[[Редкая Книга Заклинаний]];{1;999}}}	product_type=0	buy_limit={1;one_week;3}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=211	category=3	mark_type=none	buy_items={{97178;1;[[Героическая Книга Заклинаний]];{1;999}}}	product_type=0	buy_limit={1;one_week;1}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=224	category=5	mark_type=none	buy_items={{100289;1;[[Фрагмент Разлома]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end

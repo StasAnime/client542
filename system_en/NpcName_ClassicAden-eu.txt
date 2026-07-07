@@ -1450,7 +1450,7 @@ npc_begin	id=24081	name=[Small Treasure Chest of Luck]	nick=[]	nickcolor=9CE8A9F
 npc_begin	id=24082	name=[Small Treasure Chest of Hope]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=24083	name=[Small Treasure Chest of Fate]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=24084	name=[Keeper of Skeleton's Treasure]	nick=[]	nickcolor=9CE8A9FF	npc_end
-npc_begin	id=24085	name=[Sairon's Doll]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=24085	name=[Fallen Doll]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=24086	name=[Sairon's Doll]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=21661	name=[Scarlet Worker]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=21662	name=[Scarlet Soldier]	nick=[]	nickcolor=9CE8A9FF	npc_end

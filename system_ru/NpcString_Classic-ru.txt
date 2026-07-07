@@ -14818,3 +14818,4 @@ string_begin	stringID=4000019	string=[Испугались? Нет? Ну, в с�
 string_begin	stringID=4000020	string=[Видите меня? А-ха-ха! Попробуйте меня поймать!]	string_end
 string_begin	stringID=9999999	string=[Рыцарь Балтуса]	string_end
 string_begin	stringID=1806250	string=[Испытай Удачу]	string_end
+string_begin	stringID=1806260	string=[Кукла Ангела]	string_end

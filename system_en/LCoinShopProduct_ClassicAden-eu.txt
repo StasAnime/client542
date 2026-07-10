@@ -99,8 +99,8 @@ product_begin	product_id=104	category=4	mark_type=none	buy_items={{93685;1;[[Enc
 product_begin	product_id=105	category=4	mark_type=none	buy_items={{35741;1;[[Scroll: PK]];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=106	category=4	mark_type=none	buy_items={{98314;1;[[Sealed Collection Book]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=107	category=4	mark_type=none	buy_items={{98315;1;[[Scroll: Enchant Sealed Collection Book]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=108	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=109	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=108	category=5	mark_type=none	buy_items={{700002;1;[[Support Chest – Stage II]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=109	category=5	mark_type=none	buy_items={{700002;1;[[Support Chest – Stage II]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=110	category=5	mark_type=none	buy_items={{93740;1;[[Giran Seal Pack]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=212	category=5	mark_type=none	buy_items={{100567;1;[[Stable Scroll: Enchant A-grade Weapon]];{1;999}}}	product_type=2	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=213	category=5	mark_type=none	buy_items={{100568;1;[[Stable Scroll: Enchant A-grade Armor]];{1;999}}}	product_type=2	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end

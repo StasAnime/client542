@@ -193,6 +193,8 @@ product_begin	product_id=215	category=2	mark_type=none	buy_items={{98085;1;[[Pri
 product_begin	product_id=216	category=2	mark_type=none	buy_items={{98086;1;[[World Trade Coupon]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=191	category=3	mark_type=none	buy_items={{94119;1;[[Talisman of Baium]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=192	category=3	mark_type=none	buy_items={{97449;1;[[Scroll: Enchant Talisman of Baium]];{1;999}}}	product_type=0	buy_limit={1;one_week;20}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=227	category=3	mark_type=none	buy_items={{103804;1;[[Spellbook: HP Recovery]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=228	category=3	mark_type=none	buy_items={{103805;1;[[Spellbook: MP Recovery]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=193	category=3	mark_type=none	buy_items={{97860;1;[[Stable Scroll: Enchant Rare Accessories]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=194	category=1	mark_type=none	buy_items={{93274;1;[[Sayha's Cookie]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=195	category=2	mark_type=none	buy_items={{98946;1;[[Special Zone's Time Stone Coupon (Time-limited)]];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end

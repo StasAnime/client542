@@ -832,3 +832,4 @@ itemMultisell_begin	itemClassID=72565	multisell_id_list={70018}	multisell_name={
 itemMultisell_begin	itemClassID=72579	multisell_id_list={70020}	multisell_name={[Обмен припасов]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=700013	multisell_id_list={20000}	multisell_name={[Обмен предметов]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=45584	multisell_id_list={45584}	multisell_name={[Знак Битвы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=72544	multisell_id_list={70021}	multisell_name={[Обмен Билетов Призыва Куклы]}	unk={}	itemMultisell_end

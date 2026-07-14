@@ -84,3 +84,4 @@ product_name_begin	id=3080026	outer_name=[Билет в Подземелье Ф�
 product_name_begin	id=3080025	outer_name=[Билет в Храм Валакаса (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080076	outer_name=[Season Pass Stage 2 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080074	outer_name=[Improved Support Chest – Stage II (100 шт.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080024	outer_name=[Купон на Камень Продления Времени Особой Зоны Охоты (1 шт.)]	description=[]	icon=[icon.etc_level_bustup_ticket_i02]	icon_panel=[None]	mainsubject=[]	product_name_end

@@ -84,3 +84,4 @@ product_name_begin	id=3080026	outer_name=[Extra Pass: Frintezza's Dungeon (1 pc.
 product_name_begin	id=3080025	outer_name=[Extra Pass: Valakas Temple (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080076	outer_name=[Season Pass Stage 2 (1 pc.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080074	outer_name=[Improved Support Chest – Stage II (100 pcs.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080024	outer_name=[Special Zone's Time Stone Coupon (1 pc.)]	description=[]	icon=[icon.etc_level_bustup_ticket_i02]	icon_panel=[None]	mainsubject=[]	product_name_end

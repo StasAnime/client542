@@ -30923,9 +30923,9 @@ skill_begin	skill_id=45172	skill_level=7	skill_sublevel=0	name=[Sharp Aiming]	de
 skill_begin	skill_id=45172	skill_level=8	skill_sublevel=0	name=[Sharp Aiming]	desc=[]	desc_param=[+8;+220;+40;+10%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=45172	skill_level=9	skill_sublevel=0	name=[Sharp Aiming]	desc=[]	desc_param=[+10;+250;+50;+15%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=45172	skill_level=10	skill_sublevel=0	name=[Sharp Aiming]	desc=[]	desc_param=[+10;+300;+50;+15%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
-skill_begin	skill_id=45173	skill_level=1	skill_sublevel=0	name=[Aim Guidance]	desc=[Bow Resistance -$s1.]	desc_param=[10%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
-skill_begin	skill_id=45173	skill_level=2	skill_sublevel=0	name=[Aim Guidance]	desc=[]	desc_param=[15%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
-skill_begin	skill_id=45173	skill_level=3	skill_sublevel=0	name=[Aim Guidance]	desc=[]	desc_param=[20%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=45173	skill_level=1	skill_sublevel=0	name=[Aim Guidance]	desc=[Bow Resistance -$s1.]	desc_param=[30%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=45173	skill_level=2	skill_sublevel=0	name=[Aim Guidance]	desc=[]	desc_param=[33%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=45173	skill_level=3	skill_sublevel=0	name=[Aim Guidance]	desc=[]	desc_param=[40%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=45174	skill_level=1	skill_sublevel=0	name=[Light Soul]	desc=[Collects $s1 Light Soul(s).]	desc_param=[1]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=45174	skill_level=2	skill_sublevel=0	name=[Light Soul]	desc=[]	desc_param=[2]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=45174	skill_level=3	skill_sublevel=0	name=[Light Soul]	desc=[]	desc_param=[3]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end

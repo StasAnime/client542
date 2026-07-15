@@ -1,0 +1,1 @@
+dyepotential_fee_begin	enchant_fee_step=1	daily_count=50	enchant_exp={{1;0;17008};{2;0;16824};{3;0;16688};{4;0;16512};{5;0;16384}}	unk2=1	upgrade_item_id=97147	items_count=1	commission=10000	unk3=258	unk4=512	servers={}	dyepotential_fee_end

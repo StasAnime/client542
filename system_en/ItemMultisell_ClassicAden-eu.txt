@@ -555,7 +555,7 @@ itemMultisell_begin	itemClassID=104099	multisell_id_list={1846}	multisell_name={
 itemMultisell_begin	itemClassID=104101	multisell_id_list={1847}	multisell_name={[+5 Boss Weapons]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104102	multisell_id_list={1848}	multisell_name={[+5 Special Armor]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104141	multisell_id_list={1849}	multisell_name={[+6 Boss Weapons/ +6 Special Armor]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=104180	multisell_id_list={1850;1851}	multisell_name={[Hunter's Armor];[Hunter's Sealed Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=104180	multisell_id_list={1851}	multisell_name={[Hunter's Sealed Armor]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104181	multisell_id_list={1854}	multisell_name={[Scroll Exchange]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=94777	multisell_id_list={1855}	multisell_name={[Berserker's Scroll Fragments]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=101921	multisell_id_list={1856}	multisell_name={[Berserker's Scroll Fragments]}	unk={}	itemMultisell_end

@@ -574,7 +574,7 @@ itemMultisell_begin	itemClassID=104225	multisell_id_list={1871;1872}	multisell_n
 itemMultisell_begin	itemClassID=104224	multisell_id_list={1873;1874}	multisell_name={[Доспехи Высокого Качества];[Доспехи Высокого Качества (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104226	multisell_id_list={1875;1876}	multisell_name={[Особые Доспехи];[Особые Доспехи (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104227	multisell_id_list={1877;1878}	multisell_name={[Редкие Книги Заклинаний];[Редкие Книги Заклинаний (Запечатано)]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=104228	multisell_id_list={1879;1880}	multisell_name={[Героические Книги Заклинаний];[Героические Книги Заклинаний (Запечатано)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=104228	multisell_id_list={1879}	multisell_name={[Героические Книги Заклинаний]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104229	multisell_id_list={1881;1882}	multisell_name={[Доспехи Охотника];[Доспехи Охотника (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104150	multisell_id_list={1883}	multisell_name={[Доспехи Охотника +5 (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=104151	multisell_id_list={1884}	multisell_name={[Доспехи Охотника +6 (Запечатано)]}	unk={}	itemMultisell_end
@@ -833,3 +833,4 @@ itemMultisell_begin	itemClassID=72579	multisell_id_list={70020}	multisell_name={
 itemMultisell_begin	itemClassID=700013	multisell_id_list={20000}	multisell_name={[Обмен предметов]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=45584	multisell_id_list={45584}	multisell_name={[Знак Битвы]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=72544	multisell_id_list={70021}	multisell_name={[Обмен Билетов Призыва Куклы]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=106140	multisell_id_list={70022}	multisell_name={[Легендарные Книги Заклинаний]}	unk={}	itemMultisell_end

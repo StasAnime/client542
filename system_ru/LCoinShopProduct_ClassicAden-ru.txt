@@ -195,6 +195,7 @@ product_begin	product_id=191	category=3	mark_type=none	buy_items={{94119;1;[[Т�
 product_begin	product_id=192	category=3	mark_type=none	buy_items={{97449;1;[[Свиток: Модифицировать Талисман Баюма]];{1;999}}}	product_type=0	buy_limit={1;one_week;20}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=227	category=3	mark_type=none	buy_items={{103804;1;[[Книга Заклинаний - Восстановление HP]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=228	category=3	mark_type=none	buy_items={{103805;1;[[Книга Заклинаний - Восстановление MP]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=229	category=3	mark_type=none	buy_items={{103960;1;[[Купон на Оружие Монарха Льда]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=193	category=3	mark_type=none	buy_items={{97860;1;[[Стабильный Свиток: Модифицировать Редкие Аксессуары]];{1;999}}}	product_type=0	buy_limit={1;one_week;5}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=194	category=1	mark_type=none	buy_items={{93274;1;[[Печенье Покровительства]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=195	category=2	mark_type=none	buy_items={{98946;1;[[Купон на Камень Продления Времени Особой Зоны Охоты]];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end

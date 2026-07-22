@@ -368,7 +368,7 @@ itemMultisell_begin	itemClassID=102559	multisell_id_list={1623}	multisell_name={
 itemMultisell_begin	itemClassID=102563	multisell_id_list={1624}	multisell_name={[Оружие Монарха Льда +6 (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102562	multisell_id_list={1625}	multisell_name={[Доспехи Защиты +6 (Запечатано)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102634	multisell_id_list={1627}	multisell_name={[Обмен припасов]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=102638	multisell_id_list={1628;1629;1630;1861}	multisell_name={[Огненный Меч Рыцаря Смерти];[Одноручное Оружие Бессмертия];[Двуручное Оружие Бессмертия];[Оружие Дракона]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102638	multisell_id_list={70023;70024}	multisell_name={[Оружие Бессмертия];[Оружие Дракона]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102652	multisell_id_list={1631}	multisell_name={[Обмен особых монет августовского пропуска]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102654	multisell_id_list={1632}	multisell_name={[Агатионы Духа +9]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102655	multisell_id_list={1633}	multisell_name={[Свитки Модификации]}	unk={}	itemMultisell_end

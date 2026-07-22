@@ -368,7 +368,7 @@ itemMultisell_begin	itemClassID=102559	multisell_id_list={1623}	multisell_name={
 itemMultisell_begin	itemClassID=102563	multisell_id_list={1624}	multisell_name={[+6 Frost Lord's Weapons (Sealed)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102562	multisell_id_list={1625}	multisell_name={[+6 Armor of Protection (Sealed)]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102634	multisell_id_list={1627}	multisell_name={[Supply Exchange]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=102638	multisell_id_list={1628;1629;1630;1861}	multisell_name={[Death Knight's Flame Sword];[One-handed Weapons of Immortality];[Two-handed Weapons of Immortality];[Dragon Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102638	multisell_id_list={70023;70024}	multisell_name={[Weapons of Immortality];[Dragon Weapons]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102652	multisell_id_list={1631}	multisell_name={[August Pass' Special Coin Exchange]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102654	multisell_id_list={1632}	multisell_name={[+9 Spirit Agathions]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=102655	multisell_id_list={1633}	multisell_name={[Enchant Scrolls]}	unk={}	itemMultisell_end

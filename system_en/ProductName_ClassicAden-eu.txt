@@ -65,7 +65,7 @@ product_name_begin	id=3090087	outer_name=[Daily Support Set (1 pc.)]	description
 product_name_begin	id=3090086	outer_name=[Weekly Support Set (1 pc.)]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090085	outer_name=[Season Pass Stage 1 (1 pc.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090084	outer_name=[Improved Starter Support Chest (100 pcs.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3090071	outer_name=[Quest Closing Coupon (1 pc.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090068	outer_name=[Quest Closing Coupon (1 pc.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090082	outer_name=[Quest Closing Coupon (100 pcs.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090081	outer_name=[L-Coins (20,000 pcs.)]	description=[]	icon=[icon.bm_lcoin_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090080	outer_name=[L-Coins (40,000 pcs.)]	description=[]	icon=[icon.bm_lcoin_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
@@ -78,10 +78,10 @@ product_name_begin	id=3090074	outer_name=[Doll Summon Ticket - 11-time (10 pcs.)
 product_name_begin	id=3090050	outer_name=[Growth Support Rune (1 pc.)]	description=[]	icon=[icon.bm_freya_bloody_rune]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090049	outer_name=[Rune of Abundance (1 pc.)]	description=[]	icon=[BranchIcon.icon.bm_eva_pc_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090048	outer_name=[Mood Rune (1 pc.)]	description=[]	icon=[BranchIcon.Icon.bm_unique_gacha_potion_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080028	outer_name=[Extra Pass: Dwelling of Spirits (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080027	outer_name=[Extra Pass: Dream Dungeon (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080026	outer_name=[Extra Pass: Frintezza's Dungeon (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080025	outer_name=[Extra Pass: Valakas Temple (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080027	outer_name=[Extra Pass: Dwelling of Spirits (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080026	outer_name=[Extra Pass: Dream Dungeon (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080025	outer_name=[Extra Pass: Frintezza's Dungeon (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080021	outer_name=[Extra Pass: Valakas Temple (1 pc.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080075	outer_name=[Season Pass Stage 2 (1 pc.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080074	outer_name=[Improved Support Chest – Stage II (100 pcs.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080024	outer_name=[Special Zone's Time Stone Coupon (1 pc.)]	description=[]	icon=[icon.etc_level_bustup_ticket_i02]	icon_panel=[None]	mainsubject=[]	product_name_end
@@ -90,3 +90,8 @@ product_name_begin	id=3080045	outer_name=[Season Pass Stage 3 (1 pc.)]	descripti
 product_name_begin	id=3080044	outer_name=[Improved Support Chest – Stage III (100 pcs.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090073	outer_name=[Season Pass Stage 2 (1 pc.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090072	outer_name=[Season Pass Stage 3 (1 pc.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080028	outer_name=[Purified Sphere of Immortality (1 pc.)]	description=[]	icon=[icon.immortal_orb_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090041	outer_name=[Purified Sphere of Immortality (1 pc.)]	description=[]	icon=[icon.immortal_orb_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080016	outer_name=[Season Pass Stage 4 (1 pc.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090069	outer_name=[Season Pass Stage 4 (1 pc.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080014	outer_name=[Improved Support Chest – Stage IV (100 pcs.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end

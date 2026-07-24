@@ -65,7 +65,7 @@ product_name_begin	id=3090087	outer_name=[Ежедневный Набор Под
 product_name_begin	id=3090086	outer_name=[Еженедельный Набор Поддержки (1 шт.)]	description=[]	icon=[icon.freya_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090085	outer_name=[Season Pass Stage 1 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090084	outer_name=[Improved Starter Support Chest (100 шт.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3090071	outer_name=[Купон Закрытия Заданий (1 шт.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090068	outer_name=[Купон Закрытия Заданий (1 шт.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090082	outer_name=[Купон Закрытия Заданий (100 шт.)]	description=[]	icon=[icon.etc_royal_membership_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090081	outer_name=[Монеты L (20 000 шт.)]	description=[]	icon=[icon.bm_lcoin_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090080	outer_name=[Монеты L (40 000 шт.)]	description=[]	icon=[icon.bm_lcoin_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
@@ -78,10 +78,10 @@ product_name_begin	id=3090074	outer_name=[Билет Призыва Куклы -
 product_name_begin	id=3090050	outer_name=[Руна Поддержки Развития (1 шт.)]	description=[]	icon=[icon.bm_freya_bloody_rune]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090049	outer_name=[Руна Изобилия (1 шт.)]	description=[]	icon=[BranchIcon.icon.bm_eva_pc_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090048	outer_name=[Руна Настроения (1 шт.)]	description=[]	icon=[BranchIcon.Icon.bm_unique_gacha_potion_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080028	outer_name=[Билет в Обитель Духов (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080027	outer_name=[Билет в Подземелье Грёз (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080026	outer_name=[Билет в Подземелье Фринтезы (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080025	outer_name=[Билет в Храм Валакаса (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080027	outer_name=[Билет в Обитель Духов (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080026	outer_name=[Билет в Подземелье Грёз (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080025	outer_name=[Билет в Подземелье Фринтезы (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080021	outer_name=[Билет в Храм Валакаса (1 шт.)]	description=[]	icon=[icon.ticket_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080075	outer_name=[Season Pass Stage 2 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080074	outer_name=[Improved Support Chest – Stage II (100 шт.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080024	outer_name=[Купон на Камень Продления Времени Особой Зоны Охоты (1 шт.)]	description=[]	icon=[icon.etc_level_bustup_ticket_i02]	icon_panel=[None]	mainsubject=[]	product_name_end
@@ -90,3 +90,8 @@ product_name_begin	id=3080045	outer_name=[Season Pass Stage 3 (1 шт.)]	descrip
 product_name_begin	id=3080044	outer_name=[Improved Support Chest – Stage III (100 шт.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090073	outer_name=[Season Pass Stage 2 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090072	outer_name=[Season Pass Stage 3 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080028	outer_name=[Очищенная Сфера Бессмертия (1 шт.)]	description=[]	icon=[icon.immortal_orb_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090041	outer_name=[Очищенная Сфера Бессмертия (1 шт.)]	description=[]	icon=[icon.immortal_orb_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080016	outer_name=[Season Pass Stage 4 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090069	outer_name=[Season Pass Stage 4 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080014	outer_name=[Improved Support Chest – Stage IV (100 шт.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end

@@ -1,163 +1,486 @@
 blessoption_begin
-	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=sword
-	effect={}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=sword	unk_2=0
+	base_effect={{50392;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=12900353	grade=none	unk_1=1	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=buster	unk_2=0
+	base_effect={{50393;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=wpn_common	grade=none	unk_1=0	bodypart=rear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=rapier	unk_2=0
+	base_effect={{50394;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=1040187904	grade=b	unk_1=0	bodypart=rear	wpn_type=-39
-	effect={}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=twohandsword	unk_2=0
+	base_effect={{50395;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=256	grade=none	unk_1=1	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=ancientsword	unk_2=0
+	base_effect={{50396;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=65536	grade=none	unk_1=0	bodypart=lear	wpn_type=fist
-	effect={{-637468656;16777412;16777216;0};{256;1040187904;-620691454;16777412};{16777216;0;256;1040187904};{-603914222;16777412;16777216;0};{256;1040187904;-587137020;16777412};{16777216;0;256;1040187904};{-570359802;16777412;16777216;0};{256;1040187904;-553582587;16777412};{16777216;0;256;1040187904};{-536805369;16777412;16777216;0};{256;1040187904;-520028149;16777412};{16777216;0;256;1040187904};{-503250936;16777412;16777216;0};{256;1040187904;-486473715;16777412};{16777216;0;256;1040187904};{-469696498;16777412;16777216;0};{256;1040187904;-452919287;16777412};{16777216;0;256;1040188160};{-671023103;16777412;16777216;0};{256;1040188160;-654245885;16777412};{16777216;0;256;1040188160};{-637468656;16777412;16777216;0};{256;1040188160;-620691454;16777412};{16777216;0;256;1040188160};{-603914222;16777412;16777216;0};{256;1040188160;-587137020;16777412};{16777216;0;256;1040188160};{-570359802;16777412;16777216;0};{256;1040188160;-553582587;16777412};{16777216;0;256;1040188160};{-536805369;16777412;16777216;0};{256;1040188160;-520028149;16777412};{16777216;0;256;1040188160};{-503250936;16777412;16777216;0};{256;1040188160;-486473715;16777412};{16777216;0;256;1040188160};{-469696498;16777412;16777216;0};{256;1040188160;-452919287;16777412};{16777216;0;512;1040188416};{-671023103;16777412;16777216;50331648};{50421;1;16;50422};{enchant_effect;20;50423;1};{25;512;1040188416;-654245885};{16777412;16777216;50331648;50421};{enchant_effect;16;50422;1};{20;50423;1;25};{512;1040188416;-637468656;16777412};{16777216;50331648;50421;1};{16;50422;1;20};{50423;1;25;512};{1040188416;-620691454;16777412;16777216};{50331648;50421;1;16};{50422;1;20;50423};{enchant_effect;25;512;1040188416};{-603914222;16777412;16777216;50331648};{50421;1;16;50422};{enchant_effect;20;50423;1};{25;512;1040188416;-587137020};{16777412;16777216;50331648;50421};{enchant_effect;16;50422;1};{20;50423;1;25};{512;1040188416;-570359802;16777412}}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=blunt	unk_2=0
+	base_effect={{50397;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=16777216	grade=none	unk_1=0	bodypart=underwear	wpn_type=buster
-	effect={}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=staff	unk_2=0
+	base_effect={{50398;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=256	grade=none	unk_1=16	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=twohandblunt	unk_2=0
+	base_effect={{50399;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=50422	grade=d	unk_1=0	bodypart=underwear	wpn_type=fist
-	effect={{-150994944;16777412;419430400;0};{2;87949316;-992018176;65536};{65536;-184352768;16777412;268435456};{-167772160;16777412;335544320;-150994944};{16777412;419430400;0;2};{121503748;-991952640;65536;65536};{-184352768;16777412;268435456;-167772160};{16777412;335544320;-150994944;16777412};{419430400;0;2;188612612};{-991887104;65536;65536;-184352768};{16777412;268435456;-167772160;16777412};{335544320;-150994944;16777412;419430400};{base_effect;2;138280964;-991821568};{65536;65536;-184352768;16777412};{268435456;-167772160;16777412;335544320};{-150994944;16777412;419430400;0};{2;222167044;-991756032;65536};{65536;-184352768;16777412;268435456};{-167772160;16777412;335544320;-150994944};{16777412;419430400;0;2}}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=twohandstaff	unk_2=0
+	base_effect={{50400;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=238944260	grade=none	unk_1=1	bodypart=-28	wpn_type=-60
-	effect={}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=bow	unk_2=0
+	base_effect={{50401;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=256	grade=none	unk_1=1	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=dagger	unk_2=0
+	base_effect={{50402;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=12907779	grade=none	unk_1=1	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=dual	unk_2=0
+	base_effect={{50403;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=16	grade=-10	unk_1=-60	bodypart=underwear	wpn_type=fist
-	effect={{335544320;-150994944;16777412;419430400}}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=fist2	unk_2=0
+	base_effect={{50404;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=0	grade=c	unk_1=0	bodypart=underwear	wpn_type=fist
-	effect={{605696;12903681;256;256};{-990575872;65536;1048576;-990511104};{65536;1310720;-990445568;65536};{1638400;50331648;83886080;81408}}
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=rhand	wpn_type=pole	unk_2=0
+	base_effect={{50405;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=12900353	grade=none	unk_1=1	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=sword	unk_2=0
+	base_effect={{50392;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=wpn_common	grade=b	unk_1=-8	bodypart=-60	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=buster	unk_2=0
+	base_effect={{50393;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=wpn_common	grade=16	unk_1=0	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=rapier	unk_2=0
+	base_effect={{50394;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=256	grade=none	unk_1=20	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=twohandsword	unk_2=0
+	base_effect={{50395;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=50426	grade=d	unk_1=0	bodypart=underwear	wpn_type=fist
-	effect={{base_effect;3;54394885;-992411392};{65536;65536;-134021120;16777412};{268435456;-117440512;16777412;335544320};{-100663296;16777412;419430400;0};{3;272498693;-992345856;65536};{65536;-134021120;16777412;268435456};{-117440512;16777412;335544320;-100663296};{16777412;419430400;0;3};{37617669;-992280320;65536;65536};{-134021120;16777412;268435456;-117440512};{16777412;335544320;-100663296;16777412};{419430400;0;3;306053125};{-992214784;65536;65536;-134021120};{16777412;268435456;-117440512;16777412};{335544320;-100663296;16777412;419430400};{base_effect;3;71172101;-992149248};{65536;65536;-134021120;16777412};{268435456;-117440512;16777412;335544320};{-100663296;16777412;419430400;0};{3;104726533;-992083712;65536};{65536;-134021120;16777412;268435456};{-117440512;16777412;335544320;-100663296};{16777412;419430400;0;3};{87949317;-992018176;65536;65536};{-134021120;16777412;268435456;-117440512}}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=ancientsword	unk_2=0
+	base_effect={{50396;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=16777412	grade=none	unk_1=0	bodypart=underwear	wpn_type=dualdagger
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=blunt	unk_2=0
+	base_effect={{50397;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=-990248960	grade=none	unk_1=0	bodypart=rear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=staff	unk_2=0
+	base_effect={{50398;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=6400	grade=none	unk_1=0	bodypart=neck	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=twohandblunt	unk_2=0
+	base_effect={{50399;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=1040188672	grade=s84	unk_1=0	bodypart=rear	wpn_type=-32
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=twohandstaff	unk_2=0
+	base_effect={{50400;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=256	grade=none	unk_1=1	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=bow	unk_2=0
+	base_effect={{50401;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=12908547	grade=none	unk_1=1	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=dagger	unk_2=0
+	base_effect={{50402;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=16	grade=-7	unk_1=-60	bodypart=underwear	wpn_type=fist
-	effect={{335544320;-100663296;16777412;419430400}}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=dual	unk_2=0
+	base_effect={{50403;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=0	grade=b	unk_1=0	bodypart=underwear	wpn_type=fist
-	effect={{736768;12902657;256;256};{-990379264;65536;1048576;-990314496};{65536;1310720;-990248960;65536};{1638400;50331648;83886080;540160};{12902913;256;256;-990379264}}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=fist2	unk_2=0
+	base_effect={{50404;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=65536	grade=none	unk_1=0	bodypart=deco4	wpn_type=fist
-	effect={}
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=rhand	wpn_type=pole	unk_2=0
+	base_effect={{50405;1;1}}
+	ench_effect={}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=12908800	grade=none	unk_1=1	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=sword	unk_2=0
+	base_effect={{50392;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=20	grade=-6	unk_1=-60	bodypart=underwear	wpn_type=fist
-	effect={{419430400;0;3;222167045}}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=buster	unk_2=0
+	base_effect={{50393;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=-991756032	grade=none	unk_1=0	bodypart=rear	wpn_type=fist
-	effect={}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=rapier	unk_2=0
+	base_effect={{50394;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=256	grade=none	unk_1=3	bodypart=-8	wpn_type=-60
-	effect={}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=twohandsword	unk_2=0
+	base_effect={{50395;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=256	grade=none	unk_1=16	bodypart=underwear	wpn_type=fist
-	effect={}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=ancientsword	unk_2=0
+	base_effect={{50396;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=50425	grade=d	unk_1=0	bodypart=underwear	wpn_type=fist
-	effect={{-100663296;16777412;419430400;0};{3;238944261;-991690496;65536};{65536;-134021120;16777412;268435456};{-117440512;16777412;335544320;-100663296};{16777412;419430400;0;3};{155058181;-991624960;65536;65536};{-134021120;16777412;268435456;-117440512};{16777412;335544320;-100663296;16777412};{419430400;0;6;393221};{1155072256;65537;65536;-1560084480};{16777540;184549376;-1543503872;16777540};{218103808;-1526726656;16777540;251658240};{base_effect;7;393221;1155072256};{131073;65536;-1509752832;16777540};{184549376;-1493172224;16777540;218103808};{-1476395008;16777540;251658240;0};{20;393221;1155072256;131073};{65536;2013462528;16816599;184549376};{2030043136;16816599;218103808;2046820352};{16816599;251658240;0;6}}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=blunt	unk_2=0
+	base_effect={{50397;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=3604485	grade=none	unk_1=1	bodypart=-38	wpn_type=68
-	effect={{256;256;1151927040;65537}}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=staff	unk_2=0
+	base_effect={{50398;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=720896	grade=none	unk_1=0	bodypart=-86	wpn_type=68
-	effect={{256;3328;21277440;256}}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=twohandblunt	unk_2=0
+	base_effect={{50399;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=3840	grade=none	unk_1=0	bodypart=lrhand	wpn_type=fist
-	effect={}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=twohandstaff	unk_2=0
+	base_effect={{50400;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=922748160	grade=none	unk_1=0	bodypart=rear	wpn_type=-38
-	effect={{512;256;1152123648;65537};{720896;1152188416;65537;851968};{1152253952;65537;983040;150994944};{83886080;14080;21289729;256};{256;1152516864;65537;720896};{1152581632;65537;851968;1152647168};{65537;983040;100663296;83886080};{14336;21289985;256;256};{1152713472;65537;720896;1152778240};{65537;851968;1152843776;65537};{983040;117440512;83886080;14336};{21289985;512;256;1152910080};{65537;720896;1152974848;65537};{851968;1153040384;65537;983040};{150994944;83886080;14336;21290241};{256;256;1153303296;65537};{720896;1153368064;65537;851968};{1153433600;65537;983040;100663296};{83886080;2048;21290497;256};{256;1153499904;65537;720896};{1153564672;65537;851968;1153630208};{65537;983040;134217728;83886080};{2048;21290753;256;256};{1153893120;65537;720896;1153957888};{65537;851968;1154023424;65537};{983040;100663296;83886080;13824};{21291009;256;256;1154286336};{65537;720896;1154351104;65537};{851968;1154416640;65537;983040};{117440512;83886080;13824;21291009};{512;256;1154482944;65537};{720896;1154547712;65537;851968};{1154613248;65537;983040;335544320};{83886080;13824;21291009;512};{256;-679738624;65689;720896};{-679673856;65689;851968;-679608320};{65689;983040;100663296;83886080};{14592;21291265;256;256};{1154679552;65537;720896;1154744320};{65537;851968;1154809856;65537};{983040;117440512;83886080;14592};{21291265;512;256;1154876160};{65537;720896;1154940928;65537};{851968;1155006464;65537;983040};{335544320;83886080;14592;21291265};{768;256;-421854464;65689};{720896;-421789696;65689;851968};{-421724160;65689;983040;268435456};{83886080;16128;21036801;256};{256;1090716928;65537;720896};{1090781184;65537;851968;1090846720};{65537;983040;1090912256;65537};{1179648;1090977792;65537;1310720};{268435456;83886080;16132;21036801};{256;256;1090716928;65537};{720896;1090781184;65537;851968};{1090846720;65537;983040;1090912256};{65537;1179648;1090977792;65537};{1310720;285212672;83886080;16128};{21037057;256;256;1091044608};{65537;720896;1091108864;65537};{851968;1091174400;65537;983040};{1091239936;65537;1179648;1091305472};{65537;1310720;285212672;83886080};{16132;21037057;256;256};{1091044608;65537;720896;1091108864};{65537;851968;1091174400;65537};{983040;1091239936;65537;1179648}}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=bow	unk_2=0
+	base_effect={{50401;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=1091305472	grade=d	unk_1=0	bodypart=rear	wpn_type=fist
-	effect={}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=dagger	unk_2=0
+	base_effect={{50402;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=5120	grade=none	unk_1=0	bodypart=deco6	wpn_type=fist
-	effect={}
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=dual	unk_2=0
+	base_effect={{50403;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
 blessoption_end
 blessoption_begin
-	item_type=1056965888	grade=none	unk_1=0	bodypart=rear	wpn_type=sword
-	effect={{256;256;1091372288;65537};{720896;1091436544;65537;851968};{1091502080;65537;983040;1091567616};{65537;1179648;1091633152;65537};{1310720;301989888;83886080;16132};{21037313;256;256;1091372288};{65537;720896;1091436544;65537};{851968;1091502080;65537;983040};{1091567616;65537;1179648;1091633152};{65537;1310720;318767104;83886080};{16128;21037569;256;256};{1091699968;65537;720896;1091764224};{65537;851968;1091829760;65537};{983040;1091895296;65537;1179648};{1091960832;65537;1310720;318767104};{83886080;16132;21037569;256};{256;1091699968;65537;720896};{1091764224;65537;851968;1091829760};{65537;983040;1091895296;65537};{1179648;1091960832;65537;1310720};{201326592;1701208403;1801675088;6645601};{};	blessoption_end
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=fist2	unk_2=0
+	base_effect={{50404;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=rhand	wpn_type=pole	unk_2=0
+	base_effect={{50405;1;1}}
+	ench_effect={{50421;1;16};{50422;1;20};{50423;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=sword	unk_2=0
+	base_effect={{50392;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=buster	unk_2=0
+	base_effect={{50393;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=rapier	unk_2=0
+	base_effect={{50394;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=twohandsword	unk_2=0
+	base_effect={{50395;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=ancientsword	unk_2=0
+	base_effect={{50396;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=blunt	unk_2=0
+	base_effect={{50397;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=staff	unk_2=0
+	base_effect={{50398;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=twohandblunt	unk_2=0
+	base_effect={{50399;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=twohandstaff	unk_2=0
+	base_effect={{50400;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=bow	unk_2=0
+	base_effect={{50401;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=dagger	unk_2=0
+	base_effect={{50402;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=dual	unk_2=0
+	base_effect={{50403;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=fist2	unk_2=0
+	base_effect={{50404;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=rhand	wpn_type=pole	unk_2=0
+	base_effect={{50405;1;1}}
+	ench_effect={{50424;1;16};{50425;1;20};{50426;1;25}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=head	wpn_type=fist	unk_2=0
+	base_effect={{83161;1;1}}
+	ench_effect={{83107;1;11};{83108;1;13};{83109;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_high	grade=s	unk_1=0	bodypart=head	wpn_type=fist	unk_2=0
+	base_effect={{83161;2;1}}
+	ench_effect={{83110;1;11};{83111;1;13};{83112;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=20	grade=s	unk_1=0	bodypart=head	wpn_type=fist	unk_2=0
+	base_effect={{83161;2;1}}
+	ench_effect={{10082168;1;11};{10082169;1;13};{10082170;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=chest	wpn_type=fist	unk_2=0
+	base_effect={{83162;1;1}}
+	ench_effect={{83113;1;11};{83114;1;13};{83115;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_high	grade=s	unk_1=0	bodypart=chest	wpn_type=fist	unk_2=0
+	base_effect={{83162;2;1}}
+	ench_effect={{83116;1;11};{83117;1;13};{83118;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_prot	grade=s	unk_1=0	bodypart=chest	wpn_type=fist	unk_2=0
+	base_effect={{83163;1;1}}
+	ench_effect={{83122;1;11};{83123;1;13};{83124;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=legs	wpn_type=fist	unk_2=0
+	base_effect={{83164;1;1}}
+	ench_effect={{83125;1;11};{83126;1;13};{83127;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_high	grade=s	unk_1=0	bodypart=legs	wpn_type=fist	unk_2=0
+	base_effect={{83164;2;1}}
+	ench_effect={{83128;1;11};{83129;1;13};{83130;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_prot	grade=s	unk_1=0	bodypart=legs	wpn_type=fist	unk_2=0
+	base_effect={{83165;1;1}}
+	ench_effect={{83134;1;11};{83135;1;13};{83136;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=onepiece	wpn_type=fist	unk_2=0
+	base_effect={{83166;1;1}}
+	ench_effect={{83137;1;11};{83138;1;13};{83139;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_special	grade=s	unk_1=0	bodypart=onepiece	wpn_type=fist	unk_2=0
+	base_effect={{83167;1;1}}
+	ench_effect={{83143;1;11};{83144;1;13};{83145;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=gloves	wpn_type=fist	unk_2=0
+	base_effect={{83168;1;1}}
+	ench_effect={{83149;1;11};{83150;1;13};{83151;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_high	grade=s	unk_1=0	bodypart=gloves	wpn_type=fist	unk_2=0
+	base_effect={{83168;2;1}}
+	ench_effect={{83152;1;11};{83153;1;13};{83154;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=20	grade=s	unk_1=0	bodypart=gloves	wpn_type=fist	unk_2=0
+	base_effect={{83168;2;1}}
+	ench_effect={{10082172;1;11};{10082173;1;13};{10082174;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=feet	wpn_type=fist	unk_2=0
+	base_effect={{83169;1;1}}
+	ench_effect={{83155;1;11};{83156;1;13};{83157;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=armor_high	grade=s	unk_1=0	bodypart=feet	wpn_type=fist	unk_2=0
+	base_effect={{83169;2;1}}
+	ench_effect={{83158;1;11};{83159;1;13};{83160;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=20	grade=s	unk_1=0	bodypart=feet	wpn_type=fist	unk_2=0
+	base_effect={{83169;3;1}}
+	ench_effect={{10086107;1;11};{10086108;1;13};{10086109;1;15}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=16	grade=s	unk_1=0	bodypart=lhand	wpn_type=fist	unk_2=0
+	base_effect={{82175;1;1}}
+	ench_effect={{82179;1;11};{82180;1;13};{82181;1;15};{82182;1;18};{82183;1;20}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=16	grade=s	unk_1=4	bodypart=lhand	wpn_type=fist	unk_2=0
+	base_effect={{82175;1;1}}
+	ench_effect={{82179;1;11};{82180;1;13};{82181;1;15};{82182;1;18};{82183;1;20}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=17	grade=s	unk_1=0	bodypart=lhand	wpn_type=fist	unk_2=0
+	base_effect={{82176;1;1}}
+	ench_effect={{82184;1;11};{82185;1;13};{82186;1;15};{82187;1;18};{82188;1;20}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=17	grade=s	unk_1=4	bodypart=lhand	wpn_type=fist	unk_2=0
+	base_effect={{82176;1;1}}
+	ench_effect={{82184;1;11};{82185;1;13};{82186;1;15};{82187;1;18};{82188;1;20}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=18	grade=s	unk_1=0	bodypart=lhand	wpn_type=fist	unk_2=0
+	base_effect={{82177;1;1}}
+	ench_effect={{82189;1;11};{82190;1;13};{82191;1;15};{82192;1;18};{82193;1;20}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=18	grade=s	unk_1=4	bodypart=lhand	wpn_type=fist	unk_2=0
+	base_effect={{82177;1;1}}
+	ench_effect={{82189;1;11};{82190;1;13};{82191;1;15};{82192;1;18};{82193;1;20}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=19	grade=s	unk_1=0	bodypart=lhand	wpn_type=fist	unk_2=0
+	base_effect={{82178;1;1}}
+	ench_effect={{82194;1;11};{82195;1;13};{82196;1;15};{82197;1;18};{82198;1;20}}
+	item_list={}
+blessoption_end
+blessoption_begin
+	item_type=19	grade=s	unk_1=4	bodypart=lhand	wpn_type=fist	unk_2=0
+	base_effect={{82178;1;1}}
+	ench_effect={{82194;1;11};{82195;1;13};{82196;1;15};{82197;1;18};{82198;1;20}}
+	item_list={}
+blessoption_end

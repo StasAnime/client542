@@ -346,5 +346,15 @@ ItemProperty_begin	item_id=103850	enchant_add={{patk;134};{matk;186}}	ItemProper
 ItemProperty_begin	item_id=105342	enchant_add={{patk;134};{matk;186}}	ItemProperty_end
 ItemProperty_begin	item_id=103852	enchant_add={{patk;135};{matk;187}}	ItemProperty_end
 ItemProperty_begin	item_id=105344	enchant_add={{patk;135};{matk;187}}	ItemProperty_end
-ItemProperty_begin	item_id=103857	enchant_add={{patk;136};{matk;188}}	ItemProperty_end
+ItemProperty_begin	item_id=103857	enchant_add={{patk;136}}	ItemProperty_end
 ItemProperty_begin	item_id=105349	enchant_add={{patk;136};{matk;188}}	ItemProperty_end
+ItemProperty_begin	item_id=106383	enchant_add={{pdef;188}}	ItemProperty_end
+ItemProperty_begin	item_id=106384	enchant_add={{pdef;188}}	ItemProperty_end
+ItemProperty_begin	item_id=106385	enchant_add={{pdef;188}}	ItemProperty_end
+ItemProperty_begin	item_id=106386	enchant_add={{pdef;188}}	ItemProperty_end
+ItemProperty_begin	item_id=106387	enchant_add={{pdef;188}}	ItemProperty_end
+ItemProperty_begin	item_id=106388	enchant_add={{pdef;188}}	ItemProperty_end
+ItemProperty_begin	item_id=106389	enchant_add={{pdef;188}}	ItemProperty_end
+ItemProperty_begin	item_id=106390	enchant_add={{pdef;188}}	ItemProperty_end
+ItemProperty_begin	item_id=106391	enchant_add={{pdef;188}}	ItemProperty_end
+ItemProperty_begin	item_id=106392	enchant_add={{pdef;188}}	ItemProperty_end

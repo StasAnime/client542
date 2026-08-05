@@ -179,3 +179,15 @@ relics_main_begin	relics_id=172	item_id=105402	grade=3	skill_id={{50971;3;2}}	ma
 relics_main_begin	relics_id=173	item_id=105402	grade=4	skill_id={{50971;4;5}}	max_enchant=1	enchanted={}	npc_id=1017061	level=4	sort_order=1	relics_main_end
 relics_main_begin	relics_id=174	item_id=105402	grade=5	skill_id={{50971;5;10}}	max_enchant=1	enchanted={}	npc_id=1017061	level=5	sort_order=1	relics_main_end
 relics_main_begin	relics_id=175	item_id=105402	grade=6	skill_id={{50971;6;32}}	max_enchant=1	enchanted={}	npc_id=1017061	level=6	sort_order=1	relics_main_end
+relics_main_begin	relics_id=206	item_id=106199	grade=1	skill_id={{50966;1;0}}	max_enchant=1	enchanted={}	npc_id=1019688	level=1	sort_order=2	relics_main_end
+relics_main_begin	relics_id=207	item_id=106199	grade=2	skill_id={{50966;2;1}}	max_enchant=1	enchanted={}	npc_id=1019688	level=2	sort_order=2	relics_main_end
+relics_main_begin	relics_id=208	item_id=106199	grade=3	skill_id={{50966;3;2}}	max_enchant=1	enchanted={}	npc_id=1019688	level=3	sort_order=2	relics_main_end
+relics_main_begin	relics_id=209	item_id=106199	grade=4	skill_id={{50966;4;5}}	max_enchant=1	enchanted={}	npc_id=1019688	level=4	sort_order=2	relics_main_end
+relics_main_begin	relics_id=210	item_id=106199	grade=5	skill_id={{50966;5;10}}	max_enchant=1	enchanted={}	npc_id=1019688	level=5	sort_order=2	relics_main_end
+relics_main_begin	relics_id=211	item_id=106199	grade=6	skill_id={{50966;6;32}}	max_enchant=1	enchanted={}	npc_id=1019688	level=6	sort_order=2	relics_main_end
+relics_main_begin	relics_id=176	item_id=106669	grade=2	skill_id={{51507;1;0}}	max_enchant=1	enchanted={}	npc_id=1029332	level=1	sort_order=55	relics_main_end
+relics_main_begin	relics_id=177	item_id=106669	grade=3	skill_id={{51507;2;0}}	max_enchant=1	enchanted={}	npc_id=1029332	level=2	sort_order=55	relics_main_end
+relics_main_begin	relics_id=178	item_id=106669	grade=4	skill_id={{51507;3;0}}	max_enchant=1	enchanted={}	npc_id=1029332	level=3	sort_order=55	relics_main_end
+relics_main_begin	relics_id=179	item_id=106669	grade=5	skill_id={{51507;4;0}}	max_enchant=1	enchanted={}	npc_id=1029332	level=4	sort_order=55	relics_main_end
+relics_main_begin	relics_id=180	item_id=106669	grade=6	skill_id={{51507;5;0}}	max_enchant=1	enchanted={}	npc_id=1029332	level=5	sort_order=55	relics_main_end
+relics_main_begin	relics_id=181	item_id=106669	grade=7	skill_id={{51507;6;0};{51507;7;0};{51507;8;0};{51507;9;0}}	max_enchant=3	enchanted={770}	npc_id=1029332	level=6	sort_order=55	relics_main_end

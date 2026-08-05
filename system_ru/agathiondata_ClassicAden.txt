@@ -449,6 +449,12 @@ agathiondata_begin	item_id=104419	enchant=2	main_skill_id={}	sub_skill_id={{5032
 agathiondata_begin	item_id=104419	enchant=3	main_skill_id={}	sub_skill_id={{50324;15}}	agathiondata_end
 agathiondata_begin	item_id=104419	enchant=4	main_skill_id={}	sub_skill_id={{50324;16}}	agathiondata_end
 agathiondata_begin	item_id=104419	enchant=5	main_skill_id={}	sub_skill_id={{50324;17}}	agathiondata_end
+agathiondata_begin	item_id=104420	enchant=0	main_skill_id={}	sub_skill_id={{50325;12}}	agathiondata_end
+agathiondata_begin	item_id=104420	enchant=1	main_skill_id={}	sub_skill_id={{50325;13}}	agathiondata_end
+agathiondata_begin	item_id=104420	enchant=2	main_skill_id={}	sub_skill_id={{50325;14}}	agathiondata_end
+agathiondata_begin	item_id=104420	enchant=3	main_skill_id={}	sub_skill_id={{50325;15}}	agathiondata_end
+agathiondata_begin	item_id=104420	enchant=4	main_skill_id={}	sub_skill_id={{50325;16}}	agathiondata_end
+agathiondata_begin	item_id=104420	enchant=5	main_skill_id={}	sub_skill_id={{50325;17}}	agathiondata_end
 agathiondata_begin	item_id=72557	enchant=0	main_skill_id={}	sub_skill_id={{59904;1}}	agathiondata_end
 agathiondata_begin	item_id=72557	enchant=1	main_skill_id={}	sub_skill_id={{59904;2}}	agathiondata_end
 agathiondata_begin	item_id=72557	enchant=2	main_skill_id={}	sub_skill_id={{59904;3}}	agathiondata_end

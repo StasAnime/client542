@@ -7201,3 +7201,5 @@ string_begin	stringID=15072	string=[Leave alliance]	string_end
 string_begin	stringID=15073	string=[Consumption with a certain chance]	string_end
 string_begin	stringID=15074	string=[Create]	string_end
 string_begin	stringID=15075	string=[Purchase the item?]	string_end
+string_begin	stringID=19970	string=[Heritage]	string_end
+string_begin	stringID=19971	string=[TOP 50]	string_end

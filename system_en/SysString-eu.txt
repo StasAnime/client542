@@ -7090,3 +7090,4 @@ string_begin	stringID=15071	string=[Dismiss from alliance]	string_end
 string_begin	stringID=15072	string=[Leave alliance]	string_end
 string_begin	stringID=15073	string=[Consumption with a certain chance]	string_end
 string_begin	stringID=15074	string=[Create]	string_end
+string_begin	stringID=19971	string=[TOP 50]	string_end

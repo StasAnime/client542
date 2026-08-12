@@ -8,7 +8,7 @@ server_name_begin	id=6	color=9F860100	name={{[Essence 3x (RESERV)];[]}}	visible_
 server_name_begin	id=7	color=9F860100	name={{[EVA 3x (MAIN)];[]}}	visible_id=0	group_id=0	server_name_end
 server_name_begin	id=8	color=9F860100	name={{[EVA 3x (USA)];[]}}	visible_id=0	group_id=0	server_name_end
 server_name_begin	id=9	color=9F860100	name={{[EVA 3x (DE)];[]}}	visible_id=0	group_id=0	server_name_end
-server_name_begin	id=10	color=9F860100	name={{[EVA 3x (RESERV)];[]}}	visible_id=0	group_id=0	server_name_end
+server_name_begin	id=10	color=9F860100	name={{[Fuji x4];[]}}	visible_id=0	group_id=0	server_name_end
 server_name_begin	id=11	color=9F860100	name={{[Essence 520kr Test];[]}}	visible_id=0	group_id=0	server_name_end
 server_name_begin	id=12	color=9F860100	name={{[irin + Eric];[]}}	visible_id=0	group_id=0	server_name_end
 server_name_begin	id=13	color=9F860100	name={{[TS2_1];[]}}	visible_id=0	group_id=0	server_name_end

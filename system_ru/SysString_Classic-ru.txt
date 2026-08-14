@@ -7236,3 +7236,5 @@ string_begin	stringID=15072	string=[Выйти из альянса]	string_end
 string_begin	stringID=15073	string=[Расход с определенной вероятностью]	string_end
 string_begin	stringID=15074	string=[Создать]	string_end
 string_begin	stringID=15075	string=[Купить предмет?]	string_end
+string_begin	stringID=19970	string=[Наследие]	string_end
+string_begin	stringID=19971	string=[ТОП 50]	string_end

@@ -834,5 +834,5 @@ itemMultisell_begin	itemClassID=700013	multisell_id_list={20000}	multisell_name=
 itemMultisell_begin	itemClassID=45584	multisell_id_list={45584}	multisell_name={[Знак Битвы]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=72544	multisell_id_list={70021}	multisell_name={[Обмен Билетов Призыва Куклы]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=106140	multisell_id_list={70022}	multisell_name={[Легендарные Книги Заклинаний]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=106490	multisell_id_list={2282}	multisell_name={[Небесные Доспехи]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=106490	multisell_id_list={2282}	multisell_name={[Небесные Доспехи]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=106558	multisell_id_list={2283}	multisell_name={[Доспехи Защиты +10]}	unk={}	itemMultisell_end

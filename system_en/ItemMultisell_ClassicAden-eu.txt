@@ -834,5 +834,5 @@ itemMultisell_begin	itemClassID=700013	multisell_id_list={20000}	multisell_name=
 itemMultisell_begin	itemClassID=45584	multisell_id_list={45584}	multisell_name={[Mark of Battle]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=72544	multisell_id_list={70021}	multisell_name={[Doll Summon Ticket Exchange]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=106140	multisell_id_list={70022}	multisell_name={[Legendary Spellbooks]}	unk={}	itemMultisell_end
-itemMultisell_begin	itemClassID=106490	multisell_id_list={2282}	multisell_name={[Celestial Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=106490	multisell_id_list={2282}	multisell_name={[Celestial Armor]}	unk={}	itemMultisell_end
 itemMultisell_begin	itemClassID=106558	multisell_id_list={2283}	multisell_name={[+10 Armor of Protection]}	unk={}	itemMultisell_end

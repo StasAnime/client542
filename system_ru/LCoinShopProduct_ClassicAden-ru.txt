@@ -99,8 +99,8 @@ product_begin	product_id=104	category=4	mark_type=none	buy_items={{93685;1;[[Н�
 product_begin	product_id=105	category=4	mark_type=none	buy_items={{35741;1;[[Свиток Возобновления]];{1;999}}}	product_type=0	buy_limit={1;one_day;10}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=106	category=4	mark_type=none	buy_items={{98314;1;[[Запечатанная Книга Коллекции]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=107	category=4	mark_type=none	buy_items={{98315;1;[[Свиток: Модифицировать Запечатанную Книгу Коллекции]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=108	category=5	mark_type=none	buy_items={{700004;1;[[Support Chest – Stage III]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
-product_begin	product_id=109	category=5	mark_type=none	buy_items={{700004;1;[[Support Chest – Stage III]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=108	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;250}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=109	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;250}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=231	category=5	mark_type=none	buy_items={{700006;1;[[Support Chest – Stage IV]];{1;999}}}	product_type=1	buy_limit={1;one_day;1000}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=232	category=5	mark_type=none	buy_items={{700006;1;[[Support Chest – Stage IV]];{1;999}}}	product_type=1	buy_limit={1;one_day;1000}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=110	category=5	mark_type=none	buy_items={{93740;1;[[Сундук с Печатями Гирана]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end

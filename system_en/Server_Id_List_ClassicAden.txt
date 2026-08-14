@@ -1,0 +1,4 @@
+server_list_begin	GroupId=1	isQa=0	applycountry={-1}	Server_list={0;1;2;3;4;5;6;10;11}	server_list_end
+server_list_begin	GroupId=10	isQa=0	applycountry={-1}	Server_list={0;1;2;3;4;5;6;10;11}	server_list_end
+server_list_begin	GroupId=1001	isQa=0	applycountry={-1}	Server_list={7;8;9}	server_list_end
+server_list_begin	GroupId=111	isQa=0	applycountry={-1}	Server_list={7;8;9}	server_list_end

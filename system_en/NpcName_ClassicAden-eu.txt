@@ -3045,6 +3045,12 @@ npc_begin	id=23266	name=[Aviaran's Watchful Eye]	nick=[]	nickcolor=9CE8A9FF	npc_
 npc_begin	id=23267	name=[Aviaran's Steel Wing]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23268	name=[Aviaran's Blade]	nick=[Invaders' Leader]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23269	name=[Aviar's Shadow]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23311	name=[Elite Sel Mahum Elder]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23312	name=[Elite Sel Mahum Knight]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23313	name=[Elite Sel Mahum Shooter]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23314	name=[Elite Sel Mahum Fighter]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23315	name=[Troop Knight]	nick=[Sel Mahum High Commander]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23316	name=[Troop Bowman]	nick=[Sel Mahum High Commander]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23270	name=[Aviar's Stormer]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23271	name=[Aviar's Watchful Eye]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23272	name=[Aviar's Steel Wing]	nick=[]	nickcolor=9CE8A9FF	npc_end

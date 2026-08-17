@@ -3045,6 +3045,12 @@ npc_begin	id=23266	name=[Зоркий Глаз Авиаран]	nick=[]	nickcolor
 npc_begin	id=23267	name=[Стальное Крыло Авиаран]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23268	name=[Клинок Авиаран]	nick=[Глава Захватчиков]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23269	name=[Тень Авиар]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23311	name=[Элитный Старейшина Ракшасов]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23312	name=[Элитный Рыцарь Ракшасов]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23313	name=[Элитный Стрелок Ракшасов]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23314	name=[Элитный Воитель Ракшасов]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23315	name=[Рыцарь Гвардии]	nick=[Верховный Командир Ракшасов]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23316	name=[Стрелец Гвардии]	nick=[Верховный Командир Ракшасов]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23270	name=[Буревестник Авиар]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23271	name=[Зоркий Глаз Авиар]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23272	name=[Стальное Крыло Авиар]	nick=[]	nickcolor=9CE8A9FF	npc_end

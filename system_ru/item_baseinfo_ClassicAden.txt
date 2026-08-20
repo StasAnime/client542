@@ -11678,7 +11678,7 @@ item_baseinfo_begin	id=93076	default_price=0	grind_point=0	grind_commission=0	is
 item_baseinfo_begin	id=93077	default_price=0	grind_point=0	grind_commission=0	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
 item_baseinfo_begin	id=93078	default_price=0	grind_point=0	grind_commission=0	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
 item_baseinfo_begin	id=93079	default_price=0	grind_point=0	grind_commission=0	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
-item_baseinfo_begin	id=93080	default_price=2000000	grind_point=10000000	grind_commission=50000	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
+item_baseinfo_begin	id=93080	default_price=2000000	grind_point=10000000	grind_commission=1000000	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
 item_baseinfo_begin	id=93081	default_price=0	grind_point=0	grind_commission=0	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
 item_baseinfo_begin	id=93082	default_price=2000000	grind_point=0	grind_commission=200	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
 item_baseinfo_begin	id=93083	default_price=19350	grind_point=0	grind_commission=39	is_locked=1	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
@@ -12299,7 +12299,7 @@ item_baseinfo_begin	id=93697	default_price=0	grind_point=0	grind_commission=0	is
 item_baseinfo_begin	id=93698	default_price=0	grind_point=0	grind_commission=0	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
 item_baseinfo_begin	id=93699	default_price=0	grind_point=0	grind_commission=0	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
 item_baseinfo_begin	id=93700	default_price=0	grind_point=0	grind_commission=0	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
-item_baseinfo_begin	id=93701	default_price=2000000	grind_point=0	grind_commission=50000	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
+item_baseinfo_begin	id=93701	default_price=2000000	grind_point=10000000	grind_commission=1000000	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
 item_baseinfo_begin	id=93702	default_price=0	grind_point=0	grind_commission=0	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
 item_baseinfo_begin	id=93703	default_price=0	grind_point=0	grind_commission=0	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end
 item_baseinfo_begin	id=93704	default_price=0	grind_point=0	grind_commission=0	is_locked=0	enchant_enable=0	enchant_group_id=0	challenge_point_group_id=0	hero_book_points=0	item_baseinfo_end

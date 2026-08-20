@@ -2,9 +2,9 @@ Game_play_data_begin
 	raid_teleport_cost=10
 	raid_teleport_max_free_count=1
 	random_craft_item_lock_costs={{91663;100};{91663;100};{91663;100}}
-	random_craft_item_making_costs={{57;300000};{10;57}}
+	random_craft_item_making_costs={{57;1000000};{10;57}}
 	random_craft_making_gauge=1000000	random_craft_making_point=114
-	random_craft_reset_costs={{57;100000};{10;57}}
+	random_craft_reset_costs={{57;10000};{10;57}}
 	random_craft_reset_gauge=10000	random_craft_reset_point=114
 	random_craft_reward_items={}
 	random_craft_max_gauge_value=10000000

@@ -30,8 +30,10 @@ product_name_begin	id=3080034	outer_name=[Купон Смены Доспехов
 product_name_begin	id=3080033	outer_name=[Купон Смены Оружия Монарха Льда (1 шт.)]	description=[]	icon=[icon.wepon_trade_ticket_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080054	outer_name=[Купон Смены Доспехов Ранга А (1 шт.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080053	outer_name=[Купон Смены Оружия Ранга А (1 шт.)]	description=[]	icon=[icon.ev_weapon_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080052	outer_name=[Купон Смены Доспехов Охотника (1 шт.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090057	outer_name=[Купон Смены Доспехов Ранга А (1 шт.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090056	outer_name=[Купон Смены Оружия Ранга А (1 шт.)]	description=[]	icon=[icon.ev_weapon_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090058	outer_name=[Купон Смены Доспехов Охотника (1 шт.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080056	outer_name=[Коробка с Предметом Коллекции (1 шт.)]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080032	outer_name=[Билет Призыва Куклы - 1 Раз (1 шт.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080031	outer_name=[Билет Призыва Куклы - 1 Раз (10 шт.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end

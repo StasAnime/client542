@@ -30,8 +30,10 @@ product_name_begin	id=3080034	outer_name=[Armor of Protection Change Coupon (1 p
 product_name_begin	id=3080033	outer_name=[Frost Lord's Weapon Change Coupon (1 pc.)]	description=[]	icon=[icon.wepon_trade_ticket_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080054	outer_name=[A-grade Armor Change Coupon (1 pc.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080053	outer_name=[A-grade Weapon Change Coupon (1 pc.)]	description=[]	icon=[icon.ev_weapon_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080052	outer_name=[Hunter's Armor Change Coupon (1 pc.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090057	outer_name=[A-grade Armor Change Coupon (1 pc.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090056	outer_name=[A-grade Weapon Change Coupon (1 pc.)]	description=[]	icon=[icon.ev_weapon_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090058	outer_name=[Hunter's Armor Change Coupon (1 pc.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080056	outer_name=[Box with Collectible Item (1 pc.)]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080032	outer_name=[Doll Summon Ticket - 1-time (1 pc.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080031	outer_name=[Doll Summon Ticket - 1-time (10 pcs.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end

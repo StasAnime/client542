@@ -34,6 +34,8 @@ product_name_begin	id=3080052	outer_name=[Hunter's Armor Change Coupon (1 pc.)]	
 product_name_begin	id=3090057	outer_name=[A-grade Armor Change Coupon (1 pc.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090056	outer_name=[A-grade Weapon Change Coupon (1 pc.)]	description=[]	icon=[icon.ev_weapon_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090058	outer_name=[Hunter's Armor Change Coupon (1 pc.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080081	outer_name=[Secret Shop Ticket (10 pcs.)]	description=[]	icon=[icon.bm_masterpiece_silver_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080080	outer_name=[Secret Shop Ticket (100 pcs.)]	description=[]	icon=[icon.bm_masterpiece_silver_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080056	outer_name=[Box with Collectible Item (1 pc.)]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080032	outer_name=[Doll Summon Ticket - 1-time (1 pc.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080031	outer_name=[Doll Summon Ticket - 1-time (10 pcs.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end

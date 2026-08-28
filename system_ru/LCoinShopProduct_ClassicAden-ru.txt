@@ -102,6 +102,8 @@ product_begin	product_id=107	category=4	mark_type=none	buy_items={{98315;1;[[С�
 product_begin	product_id=234	category=5	mark_type=none	buy_items={{94871;1;[[Билет Секретной Лавки]];{1;999}}}	product_type=0	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=108	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;250}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=109	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;250}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=235	category=5	mark_type=none	buy_items={{700002;1;[[Support Chest – Stage II]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=236	category=5	mark_type=none	buy_items={{700002;1;[[Support Chest – Stage II]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=231	category=5	mark_type=none	buy_items={{700006;1;[[Support Chest – Stage IV]];{1;999}}}	product_type=1	buy_limit={1;one_day;1000}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=232	category=5	mark_type=none	buy_items={{700006;1;[[Support Chest – Stage IV]];{1;999}}}	product_type=1	buy_limit={1;one_day;1000}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=110	category=5	mark_type=none	buy_items={{93740;1;[[Сундук с Печатями Гирана]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
@@ -223,3 +225,4 @@ product_begin	product_id=211	category=3	mark_type=none	buy_items={{97178;1;[[Г�
 product_begin	product_id=224	category=5	mark_type=none	buy_items={{100289;1;[[Фрагмент Разлома]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=225	category=5	mark_type=none	buy_items={{100274;1;[[Кукла Ангел Ур. 1]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=226	category=5	mark_type=none	buy_items={{101909;1;[[Кристалл Крови]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=237	category=5	mark_type=none	buy_items={{91982;1;[[Предметы Бонус Старта]];{1;999}}}	product_type=1	buy_limit={1;always;1}	product_desc=[]	product_htm=[]	product_end

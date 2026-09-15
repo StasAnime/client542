@@ -1,4 +1,4 @@
-show_server_begin	collection_ID=20006	group_ID=10	show_server_end
+show_server_begin	collection_ID=20006	group_ID=114	show_server_end
 show_server_begin	collection_ID=36	group_ID=10	show_server_end
 show_server_begin	collection_ID=46	group_ID=10	show_server_end
 show_server_begin	collection_ID=55	group_ID=10	show_server_end
@@ -147,10 +147,10 @@ show_server_begin	collection_ID=137	group_ID=10	show_server_end
 show_server_begin	collection_ID=138	group_ID=10	show_server_end
 show_server_begin	collection_ID=139	group_ID=10	show_server_end
 show_server_begin	collection_ID=140	group_ID=10	show_server_end
-show_server_begin	collection_ID=141	group_ID=10	show_server_end
-show_server_begin	collection_ID=142	group_ID=10	show_server_end
-show_server_begin	collection_ID=143	group_ID=10	show_server_end
-show_server_begin	collection_ID=144	group_ID=10	show_server_end
+show_server_begin	collection_ID=141	group_ID=114	show_server_end
+show_server_begin	collection_ID=142	group_ID=114	show_server_end
+show_server_begin	collection_ID=143	group_ID=114	show_server_end
+show_server_begin	collection_ID=144	group_ID=114	show_server_end
 show_server_begin	collection_ID=145	group_ID=10	show_server_end
 show_server_begin	collection_ID=146	group_ID=10	show_server_end
 show_server_begin	collection_ID=147	group_ID=10	show_server_end
@@ -461,7 +461,7 @@ show_server_begin	collection_ID=428	group_ID=10	show_server_end
 show_server_begin	collection_ID=429	group_ID=10	show_server_end
 show_server_begin	collection_ID=430	group_ID=10	show_server_end
 show_server_begin	collection_ID=431	group_ID=10	show_server_end
-show_server_begin	collection_ID=432	group_ID=10	show_server_end
+show_server_begin	collection_ID=432	group_ID=114	show_server_end
 show_server_begin	collection_ID=2032	group_ID=10	show_server_end
 show_server_begin	collection_ID=2033	group_ID=10	show_server_end
 show_server_begin	collection_ID=2034	group_ID=10	show_server_end
@@ -526,7 +526,7 @@ show_server_begin	collection_ID=468	group_ID=10	show_server_end
 show_server_begin	collection_ID=469	group_ID=10	show_server_end
 show_server_begin	collection_ID=470	group_ID=10	show_server_end
 show_server_begin	collection_ID=471	group_ID=10	show_server_end
-show_server_begin	collection_ID=474	group_ID=10	show_server_end
+show_server_begin	collection_ID=474	group_ID=114	show_server_end
 show_server_begin	collection_ID=475	group_ID=10	show_server_end
 show_server_begin	collection_ID=476	group_ID=10	show_server_end
 show_server_begin	collection_ID=10093	group_ID=114	show_server_end
@@ -677,7 +677,7 @@ show_server_begin	collection_ID=10463	group_ID=114	show_server_end
 show_server_begin	collection_ID=10465	group_ID=114	show_server_end
 show_server_begin	collection_ID=10466	group_ID=114	show_server_end
 show_server_begin	collection_ID=10474	group_ID=114	show_server_end
-show_server_begin	collection_ID=11001	group_ID=114	show_server_end
+show_server_begin	collection_ID=11001	group_ID=10	show_server_end
 show_server_begin	collection_ID=11002	group_ID=114	show_server_end
 
 unk_64b_begin	unk_b=0	unk_64b_end
@@ -745,8 +745,8 @@ unk_64b_begin	unk_b=0	unk_64b_end
 unk_64b_begin	unk_b=0	unk_64b_end
 unk_64b_begin	unk_b=0	unk_64b_end
 
-groups_begin	group_ID=10	id=0	id=83	id=178	id=102	id=48	id=16	id=31	id=59	id=0	id=300	id=667	id=417	id=206	id=52	id=117	id=95	groups_end
-groups_begin	group_ID=114	id=0	id=45	id=43	id=23	id=13	id=7	id=18	id=1	id=0	id=167	id=180	id=93	id=54	id=25	id=72	id=1	groups_end
+groups_begin	group_ID=10	cnt0=0	cnt1=83	cnt2=178	cnt3=102	cnt4=49	cnt5=16	cnt6=31	cnt7=66	slot0=0	slot1=300	slot2=667	slot3=417	slot4=211	slot5=52	slot6=117	slot7=109	groups_end
+groups_begin	group_ID=114	cnt0=0	cnt1=45	cnt2=43	cnt3=23	cnt4=12	cnt5=7	cnt6=18	cnt7=1	slot0=0	slot1=167	slot2=180	slot3=93	slot4=52	slot5=25	slot6=72	slot7=1	groups_end
 
 
 collection_begin	collection_ID=20006	collection_name=[Готовая Кукла Наны]	main_category=7	period_in_seconds=1209600	option_id=81302	collectionoption_filter={{[Сила Крит. Атк. всех умений];0;3.0};{[Бонус опыта и SP];0;3.0};{[Бонус восстановления HP/ MP];1;3.0}}	Slot_item={{72454;72454;1;0;0;1;0}}	RewardItems={{72448;500}}	RewardSkills={}	EventType=1	DateTime={[2023-12-06T06:30:00];[2024-01-03T06:30:00]}	show_server=0	collection_end

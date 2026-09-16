@@ -73648,6 +73648,10 @@ skill_begin	skill_id=1145090	skill_level=3	skill_sublevel=0	name=[Soul Rift]	des
 skill_begin	skill_id=1145090	skill_level=4	skill_sublevel=0	name=[Soul Rift]	desc=[]	desc_param=[-16%;-8%;-4%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=1145090	skill_level=5	skill_sublevel=0	name=[Soul Rift]	desc=[]	desc_param=[-20%;-10%;-5%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=1145090	skill_level=6	skill_sublevel=0	name=[Soul Rift]	desc=[]	desc_param=[-24%;-12%;-6%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=1145096	skill_level=1	skill_sublevel=0	name=[Carpet Bombing - Mediator 1]	desc=[]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=1145096	skill_level=2	skill_sublevel=0	name=[Carpet Bombing - Mediator 1]	desc=[]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=1145097	skill_level=1	skill_sublevel=0	name=[Carpet Bombing - Mediator 2]	desc=[]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=1145097	skill_level=2	skill_sublevel=0	name=[Carpet Bombing - Mediator 2]	desc=[]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=1145098	skill_level=1	skill_sublevel=0	name=[Carpet Bombing]	desc=[Bow Resistance -15%%]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=1145098	skill_level=2	skill_sublevel=0	name=[Carpet Bombing]	desc=[Bow Resistance -30%%]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=2145019	skill_level=1	skill_sublevel=0	name=[Cunning Method]	desc=[]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end

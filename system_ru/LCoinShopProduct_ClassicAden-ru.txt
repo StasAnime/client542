@@ -108,6 +108,10 @@ product_begin	product_id=238	category=5	mark_type=none	buy_items={{700004;1;[[Su
 product_begin	product_id=239	category=5	mark_type=none	buy_items={{700004;1;[[Support Chest – Stage III]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=231	category=5	mark_type=none	buy_items={{700006;1;[[Support Chest – Stage IV]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=232	category=5	mark_type=none	buy_items={{700006;1;[[Support Chest – Stage IV]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=240	category=5	mark_type=none	buy_items={{700030;1;[[Support Chest – Stage V]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=241	category=5	mark_type=none	buy_items={{700030;1;[[Support Chest – Stage V]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=242	category=5	mark_type=none	buy_items={{700032;1;[[Support Chest – Stage VI]];{1;999}}}	product_type=1	buy_limit={1;one_day;1000}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=243	category=5	mark_type=none	buy_items={{700032;1;[[Support Chest – Stage VI]];{1;999}}}	product_type=1	buy_limit={1;one_day;1000}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=110	category=5	mark_type=none	buy_items={{93740;1;[[Сундук с Печатями Гирана]];{1;999}}}	product_type=0	buy_limit={0;always;0}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=212	category=5	mark_type=none	buy_items={{100567;1;[[Стабильный Свиток: Модифицировать Оружие Ранга A]];{1;999}}}	product_type=2	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=213	category=5	mark_type=none	buy_items={{100568;1;[[Стабильный Свиток: Модифицировать Доспех Ранга A]];{1;999}}}	product_type=2	buy_limit={1;one_day;2}	product_desc=[]	product_htm=[]	product_end

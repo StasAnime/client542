@@ -97,5 +97,11 @@ product_name_begin	id=3090072	outer_name=[Season Pass Stage 3 (1 шт.)]	descrip
 product_name_begin	id=3080028	outer_name=[Очищенная Сфера Бессмертия (1 шт.)]	description=[]	icon=[icon.immortal_orb_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090041	outer_name=[Очищенная Сфера Бессмертия (1 шт.)]	description=[]	icon=[icon.immortal_orb_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080016	outer_name=[Season Pass Stage 4 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3079997	outer_name=[Season Pass Stage 6 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3079999	outer_name=[Season Pass Stage 5 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090069	outer_name=[Season Pass Stage 4 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090066	outer_name=[Season Pass Stage 6 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090067	outer_name=[Season Pass Stage 5 (1 шт.)]	description=[]	icon=[BranchIcon.icon.g_ev_l2m_blessing_ncw_00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080014	outer_name=[Improved Support Chest – Stage IV (100 шт.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3079996	outer_name=[Improved Support Chest – Stage VI (100 шт.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3079998	outer_name=[Improved Support Chest – Stage V (100 шт.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end

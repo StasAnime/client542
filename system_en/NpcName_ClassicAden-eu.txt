@@ -4385,6 +4385,8 @@ npc_begin	id=29319	name=[Blazing Knight]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=29320	name=[Blazing Fighter]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=29321	name=[Blazing Scout]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=29322	name=[Blazing Wizard]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=29331	name=[Tempest]	nick=[Storm Executioner]	nickcolor=3114EFFF	npc_end
+npc_begin	id=29332	name=[Tempest]	nick=[Storm Judge]	nickcolor=3114EFFF	npc_end
 npc_begin	id=18001	name=[]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=18002	name=[Dummy]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=18003	name=[Bomb]	nick=[]	nickcolor=9CE8A9FF	npc_end
@@ -9905,3 +9907,13 @@ npc_begin	id=9180	name=[Epsilon]	nick=[Ruler of Darkness]	nickcolor=9CE8A9FF	npc
 npc_begin	id=9181	name=[Zeta]	nick=[Ruler of Darkness]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=9182	name=[Eta]	nick=[Ruler of Darkness]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=9183	name=[Wolf Moon]	nick=[Warg]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=17088	name=[Ruins Teleport Device]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23332	name=[Storm Knight]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23333	name=[Storm Warrior]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23334	name=[Storm Archer]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23335	name=[Storm Sentinel]	nick=[Area Watcher]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23336	name=[Royal Storm Knight]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23337	name=[Royal Storm Warrior]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23338	name=[Royal Storm Archer]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23339	name=[Royal Storm Sentinel]	nick=[Area Watcher]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=34696	name=[Explorer]	nick=[Ruins' Guide]	nickcolor=9CE8A9FF	npc_end

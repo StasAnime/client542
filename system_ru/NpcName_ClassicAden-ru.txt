@@ -4385,6 +4385,8 @@ npc_begin	id=29319	name=[Пылающий Рыцарь]	nick=[]	nickcolor=9CE8A9
 npc_begin	id=29320	name=[Пылающий Воитель]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=29321	name=[Пылающий Разведчик]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=29322	name=[Пылающий Чародей]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=29331	name=[Буря]	nick=[Штормовой Палач]	nickcolor=3114EFFF	npc_end
+npc_begin	id=29332	name=[Буря]	nick=[Штормовой Судья]	nickcolor=3114EFFF	npc_end
 npc_begin	id=18001	name=[]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=18002	name=[Чучело]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=18003	name=[Бомба]	nick=[]	nickcolor=9CE8A9FF	npc_end
@@ -9905,3 +9907,13 @@ npc_begin	id=9180	name=[Эпсилон]	nick=[Повелитель Тьмы]	nic
 npc_begin	id=9181	name=[Дзета]	nick=[Повелитель Тьмы]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=9182	name=[Эта]	nick=[Повелитель Тьмы]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=9183	name=[Волчья Луна]	nick=[Варг]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=17088	name=[Телепорт Руин]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23332	name=[Штормовой Рыцарь]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23333	name=[Штормовой Воин]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23334	name=[Штормовой Лучник]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23335	name=[Штормовой Часовой]	nick=[Смотритель Области]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23336	name=[Королевский Штормовой Рыцарь]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23337	name=[Королевский Штормовой Воин]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23338	name=[Королевский Штормовой Лучник]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23339	name=[Королевский Штормовой Часовой]	nick=[Смотритель Области]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=34696	name=[Член Гильдии Исследователей]	nick=[Гид Руин]	nickcolor=9CE8A9FF	npc_end

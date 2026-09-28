@@ -105,3 +105,13 @@ product_name_begin	id=3090067	outer_name=[Season Pass Stage 5 (1 pc.)]	descripti
 product_name_begin	id=3080014	outer_name=[Improved Support Chest – Stage IV (100 pcs.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3079996	outer_name=[Improved Support Chest – Stage VI (100 pcs.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3079998	outer_name=[Improved Support Chest – Stage V (100 pcs.)]	description=[]	icon=[icon.bm_gold_lure_box]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080090	outer_name=[Ежедневный Подарок - VIP1 (1 шт.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080091	outer_name=[Ежедневный Подарок - VIP2 (1 шт.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080092	outer_name=[Ежедневный Подарок - VIP3 (1 шт.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i02]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080093	outer_name=[Ежедневный Подарок - VIP4 (1 шт.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i03]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080094	outer_name=[Ежедневный Подарок - VIP5 (1 шт.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i04]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080095	outer_name=[Ежедневный Подарок - VIP6 (1 шт.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i05]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080096	outer_name=[Ежедневный Подарок - VIP7 (1 шт.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i06]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080097	outer_name=[Ежедневный Подарок - VIP8 (1 шт.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i08]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080098	outer_name=[Ежедневный Подарок - VIP9 (1 шт.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i09]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080099	outer_name=[Ежедневный Подарок - VIP10 (1 шт.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i10]	icon_panel=[None]	mainsubject=[]	product_name_end

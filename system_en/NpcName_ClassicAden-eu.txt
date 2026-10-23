@@ -1,3 +1,4 @@
+npc_begin	id=17100	name=[Hell Panther]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=20001	name=[Gremlin]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=20002	name=[Rabbit]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=20003	name=[Goblin]	nick=[]	nickcolor=9CE8A9FF	npc_end
@@ -9908,6 +9909,7 @@ npc_begin	id=9181	name=[Zeta]	nick=[Ruler of Darkness]	nickcolor=9CE8A9FF	npc_en
 npc_begin	id=9182	name=[Eta]	nick=[Ruler of Darkness]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=9183	name=[Wolf Moon]	nick=[Warg]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=17088	name=[Ruins Teleport Device]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=17094	name=[Summon Totem]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23332	name=[Storm Knight]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23333	name=[Storm Warrior]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23334	name=[Storm Archer]	nick=[]	nickcolor=9CE8A9FF	npc_end
@@ -9916,4 +9918,47 @@ npc_begin	id=23336	name=[Royal Storm Knight]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23337	name=[Royal Storm Warrior]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23338	name=[Royal Storm Archer]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23339	name=[Royal Storm Sentinel]	nick=[Area Watcher]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23340	name=[Baths Rampike]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23341	name=[Baths Lacerator]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23342	name=[Baths Centaur Archer]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23343	name=[Baths Nepenthes]	nick=[Hot Springs Searcher]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23344	name=[Baths Dwarf Commander]	nick=[Hot Springs Keeper]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23345	name=[Baths Dwarf Fighter]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23360	name=[Baths Dwarf Ranger]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23361	name=[Black Hammer Artisan]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23362	name=[Black Hammer Collector]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23363	name=[Black Hammer Defender]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23364	name=[Black Hammer Mystic]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23365	name=[Black Hammer Ringleader]	nick=[Mine Defender]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23366	name=[Black Hammer Archer]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23367	name=[Scope Golem]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23368	name=[Steam Golem]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23369	name=[Armored Golem]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23370	name=[Destructive Golem]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23371	name=[Biting Golem]	nick=[Mine Defender]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23395	name=[Spectral Silva]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23396	name=[Spectral Ales]	nick=[Embraced by Shadows]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23397	name=[Spectral Saura]	nick=[Embraced by Shadows]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23398	name=[Spectral Cliss]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23399	name=[Golden King]	nick=[Rare Mineral Scavenger]	nickcolor=0080FFFF	npc_end
+npc_begin	id=23400	name=[Mining Golem]	nick=[Mineral Scavenger]	nickcolor=0080FFFF	npc_end
+npc_begin	id=23420	name=[Elite Turek Orc Warrior]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23421	name=[Elite Turek Orc Protector]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23422	name=[Elite Turek Orc Thrower]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23423	name=[Elite Turek Orc Bandit]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23424	name=[Elite Turek Orc Overlord]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23431	name=[Animated Golem]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23432	name=[Handmade Giant]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23433	name=[Gigantic Experiment]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23434	name=[Magic Shooter]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23435	name=[Coloss]	nick=[Experimental Weapon]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23436	name=[Temple Bowman]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23437	name=[Gigantic Creature]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23438	name=[Gigantic Keeper]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23439	name=[Recovery Summoner]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23440	name=[Brute]	nick=[Gigantic Temple Keeper]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23441	name=[Recovery Keeper]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=34696	name=[Explorer]	nick=[Ruins' Guide]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=34706	name=[Bronn]	nick=[Coal Mines' Researcher]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=34709	name=[Garbak]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=34710	name=[Sloot]	nick=[Ivory Tower Wizard]	nickcolor=9CE8A9FF	npc_end

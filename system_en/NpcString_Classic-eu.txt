@@ -13951,7 +13951,7 @@ string_begin	stringID=1805406	string=[Advanced upgrade]	string_end
 string_begin	stringID=1805407	string=[Dyes]	string_end
 string_begin	stringID=1805408	string=[Character's growth]	string_end
 string_begin	stringID=1805409	string=[Tower of Insolence]	string_end
-string_begin	stringID=1805410	string=[Time-limited_growth]	string_end
+string_begin	stringID=1805410	string=[Recipes]	string_end
 string_begin	stringID=1805411	string=[Time-limited_growth]	string_end
 string_begin	stringID=1805412	string=[Rewards]	string_end
 string_begin	stringID=1805413	string=[Time-limited_growth]	string_end

@@ -336,6 +336,7 @@ combo_begin	name=[CALS21]	anim0=[CASTmid_HAnimname]	anim1=[MagicShot_HAnimname]	
 combo_begin	name=[CALS22]	anim0=[CASTmid_IAnimname]	anim1=[MagicNotarget_IAnimname]	anim2=[none]	loop=-1	combo_end
 combo_begin	name=[CALS23]	anim0=[CASTmid_IAnimname]	anim1=[MagicThrow_IAnimname]	anim2=[none]	loop=-1	combo_end
 combo_begin	name=[CALS24]	anim0=[CASTmid_IAnimname]	anim1=[MagicShot_IAnimname]	anim2=[none]	loop=-1	combo_end
+combo_begin	name=[Loop]	anim0=[CASTmid_BAnimname]	anim1=[MagicNotarget_BAnimName]	anim2=[none]	loop=1	combo_end
 combo_begin	name=[CACT01]	anim0=[SpAtk_shot01AnimName]	anim1=[none]	anim2=[none]	loop=-1	combo_end
 combo_begin	name=[CACT02]	anim0=[SpAtk_shot02AnimName]	anim1=[none]	anim2=[none]	loop=-1	combo_end
 combo_begin	name=[CACT03]	anim0=[MagicNotarget_BAnimName]	anim1=[none]	anim2=[none]	loop=-1	combo_end
@@ -426,3 +427,4 @@ combo_begin	name=[MP09]	anim0=[SpAtk09AnimName]	anim1=[none]	anim2=[none]	loop=-
 combo_begin	name=[MP10]	anim0=[SpAtk10AnimName]	anim1=[none]	anim2=[none]	loop=-1	combo_end
 combo_begin	name=[MWAIT]	anim0=[WaitAnimName]	anim1=[none]	anim2=[none]	loop=-1	combo_end
 combo_begin	name=[MDD]	anim0=[none]	anim1=[DashAnimName]	anim2=[none]	loop=-1	combo_end
+combo_begin	name=[MDD2]	anim0=[DashWaitAnimName]	anim1=[DashAnimName]	anim2=[none]	loop=-1	combo_end

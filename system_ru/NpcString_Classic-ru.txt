@@ -13951,7 +13951,7 @@ string_begin	stringID=1805406	string=[Продвинутое усиление]	s
 string_begin	stringID=1805407	string=[Краски]	string_end
 string_begin	stringID=1805408	string=[Развитие персонажа]	string_end
 string_begin	stringID=1805409	string=[Башня Дерзости]	string_end
-string_begin	stringID=1805410	string=[Временное_развитие]	string_end
+string_begin	stringID=1805410	string=[Рецепты]	string_end
 string_begin	stringID=1805411	string=[Временное_развитие]	string_end
 string_begin	stringID=1805412	string=[Награды]	string_end
 string_begin	stringID=1805413	string=[Временное_развитие]	string_end

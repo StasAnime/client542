@@ -172,3 +172,4 @@ enchant_scroll_set_begin	scroll_set_id=100	failure_base=1	failure_decrease=0	fai
 enchant_scroll_set_begin	scroll_set_id=100	failure_base=1	failure_decrease=0	failure_maintain=0	failure_crush=1	inc_base=255	enchant_range=255	great_success_effect=9	enchant_group_id={{0;9;1}}	id=29	enchant_scroll_set_end
 enchant_scroll_set_begin	scroll_set_id=100	failure_base=1	failure_decrease=0	failure_maintain=0	failure_crush=1	inc_base=255	enchant_range=255	great_success_effect=9	enchant_group_id={{0;9;1}}	id=43	enchant_scroll_set_end
 enchant_scroll_set_begin	scroll_set_id=100	failure_base=0	failure_decrease=0	failure_maintain=0	failure_crush=1	inc_base=255	enchant_range=255	great_success_effect=10	enchant_group_id={{0;9;1}}	id=59	enchant_scroll_set_end
+enchant_scroll_set_begin	scroll_set_id=100	failure_base=0	failure_decrease=0	failure_maintain=0	failure_crush=1	inc_base=255	enchant_range=255	great_success_effect=1	enchant_group_id={{0;4;1}}	id=172	enchant_scroll_set_end

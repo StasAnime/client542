@@ -206,6 +206,7 @@ teleport_list_begin	huntingzone_id=605	town_id=605	priority=255	price={{57;20000
 teleport_list_begin	huntingzone_id=607	town_id=607	priority=255	price={{57;0}}	unk1=0	unk2=0	unk3=0	unk4=0	unk5=0	unk6=0	unk7=0	teleport_list_end
 teleport_list_begin	huntingzone_id=610	town_id=609	priority=6	price={{57;200}}	unk1=0	unk2=0	unk3=0	unk4=0	unk5=0	unk6=0	unk7=0	teleport_list_end
 teleport_list_begin	huntingzone_id=611	town_id=609	priority=6	price={{57;48000}}	unk1=0	unk2=0	unk3=0	unk4=0	unk5=0	unk6=0	unk7=1280	teleport_list_end
+teleport_list_begin	huntingzone_id=635	town_id=609	priority=6	price={{57;48000}}	unk1=0	unk2=0	unk3=0	unk4=0	unk5=0	unk6=0	unk7=1280	teleport_list_end
 teleport_list_begin	huntingzone_id=633	town_id=609	priority=6	price={{57;48000}}	unk1=0	unk2=0	unk3=0	unk4=0	unk5=0	unk6=0	unk7=1280	teleport_list_end
 teleport_list_begin	huntingzone_id=612	town_id=612	priority=255	price={{57;0}}	unk1=0	unk2=0	unk3=0	unk4=0	unk5=0	unk6=0	unk7=0	teleport_list_end
 teleport_list_begin	huntingzone_id=613	town_id=613	priority=255	price={{57;0}}	unk1=0	unk2=0	unk3=0	unk4=0	unk5=0	unk6=0	unk7=0	teleport_list_end

@@ -1,3 +1,4 @@
+npc_begin	id=17100	name=[Адская Пантера]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=20001	name=[Гремлин]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=20002	name=[Кролик]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=20003	name=[Гоблин]	nick=[]	nickcolor=9CE8A9FF	npc_end
@@ -9908,6 +9909,7 @@ npc_begin	id=9181	name=[Дзета]	nick=[Повелитель Тьмы]	nickcol
 npc_begin	id=9182	name=[Эта]	nick=[Повелитель Тьмы]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=9183	name=[Волчья Луна]	nick=[Варг]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=17088	name=[Телепорт Руин]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=17094	name=[Тотем Вызова]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23332	name=[Штормовой Рыцарь]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23333	name=[Штормовой Воин]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23334	name=[Штормовой Лучник]	nick=[]	nickcolor=9CE8A9FF	npc_end
@@ -9916,4 +9918,47 @@ npc_begin	id=23336	name=[Королевский Штормовой Рыцарь]
 npc_begin	id=23337	name=[Королевский Штормовой Воин]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23338	name=[Королевский Штормовой Лучник]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23339	name=[Королевский Штормовой Часовой]	nick=[Смотритель Области]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23340	name=[Древун Купален]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23341	name=[Протыкатель Купален]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23342	name=[Кентавр Лучник Купален]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23343	name=[Непентис Купален]	nick=[Искатель Горячих Источников]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23344	name=[Командир Гномов Купален]	nick=[Хранитель Горячих Источников]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23345	name=[Воитель Гномов Купален]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23360	name=[Рейнджер Гномов Купален]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23361	name=[Ремесленник Черного Молота]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23362	name=[Собиратель Черного Молота]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23363	name=[Защитник Черного Молота]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23364	name=[Мистик Черного Молота]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23365	name=[Лидер Черного Молота]	nick=[Защитник Рудника]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23366	name=[Лучник Черного Молота]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23367	name=[Голем с Прицелом]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23368	name=[Паровой Голем]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23369	name=[Бронированный Голем]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23370	name=[Разрушающий Голем]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23371	name=[Кусачий Голем]	nick=[Защитник Рудника]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23395	name=[Призрачная Сильва]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23396	name=[Призрачная Аллес]	nick=[Объятая Тенью]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23397	name=[Призрачная Саура]	nick=[Объятая Тенью]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23398	name=[Призрачная Клис]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23399	name=[Золотой Король]	nick=[Собиратель Редких Минералов]	nickcolor=0080FFFF	npc_end
+npc_begin	id=23400	name=[Копающий Голем]	nick=[Собиратель Минералов]	nickcolor=0080FFFF	npc_end
+npc_begin	id=23420	name=[Элитный Воин Орков Турек]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23421	name=[Элитный Охранник Орков Турек]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23422	name=[Элитный Метатель Орков Турек]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23423	name=[Элитный Бандит Орков Турек]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23424	name=[Элитный Владыка Орков Турек]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23431	name=[Оживший Голем]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23432	name=[Рукотворный Гигант]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23433	name=[Гигантский Эксперимент]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23434	name=[Магический Стрелок]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23435	name=[Колосс]	nick=[Экспериментальное Оружие]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23436	name=[Стрелец Храма]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23437	name=[Гигантское Существо]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23438	name=[Гигантский Хранитель]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23439	name=[Призыватель Восстановления]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23440	name=[Брут]	nick=[Гигантский Хранитель Храма]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=23441	name=[Хранитель Восстановления]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=34696	name=[Член Гильдии Исследователей]	nick=[Гид Руин]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=34706	name=[Брон]	nick=[Исследователь Угольного Рудника]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=34709	name=[Гарбак]	nick=[]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=34710	name=[Слут]	nick=[Маг Башни Слоновой Кости]	nickcolor=9CE8A9FF	npc_end

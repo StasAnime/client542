@@ -75939,3 +75939,7 @@ skill_begin	skill_id=87819	skill_level=1	skill_sublevel=0	name=[Кара Све�
 skill_begin	skill_id=87819	skill_level=2	skill_sublevel=0	name=[Кара Света]	desc=[]	desc_param=[30%;12000;10%]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=87820	skill_level=1	skill_sublevel=0	name=[Кара Света]	desc=[]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
 skill_begin	skill_id=87820	skill_level=2	skill_sublevel=0	name=[Кара Света]	desc=[]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=1050949	skill_level=1	skill_sublevel=0	name=[Пламенное Клеймо]	desc=[Цель опрокинута.]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=1050951	skill_level=1	skill_sublevel=0	name=[Водный Шквал]	desc=[Цель опрокинута.]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=1050952	skill_level=1	skill_sublevel=0	name=[Воздушный Поток]	desc=[Цель опрокинута.]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end
+skill_begin	skill_id=1050953	skill_level=1	skill_sublevel=0	name=[Крушитель]	desc=[Цель опрокинута.]	desc_param=[]	enchant_name=[]	enchant_name_param=[]	enchant_desc=[]	enchant_desc_param=[]	skill_end

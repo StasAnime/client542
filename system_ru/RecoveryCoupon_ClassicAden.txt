@@ -1,0 +1,3 @@
+recovery_coupon_begin	coupon_id=98022	tab_list={{9;3963};{10;3189}}	title=14233	exchange_multisell=1048	unk=0	unk_str=[]	recovery_coupon_end
+recovery_coupon_begin	coupon_id=94852	tab_list={{4;14491}}	title=14848	exchange_multisell=1057	unk=0	unk_str=[]	recovery_coupon_end
+recovery_coupon_begin	coupon_id=105429	tab_list={{1;2520};{2;2532};{3;2537};{4;5258}}	title=14233	exchange_multisell=2089	unk=0	unk_str=[]	recovery_coupon_end

@@ -1,1 +1,2 @@
 abnormal_agathion_begin	id=301	npc_id=16098	offset_position={-20.0;-20.0;20.0}	abnormal_agathion_end
+abnormal_agathion_begin	id=10188	npc_id=9193	offset_position={0.0;0.0;0.0}	abnormal_agathion_end

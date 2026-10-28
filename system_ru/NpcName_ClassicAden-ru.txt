@@ -9908,6 +9908,7 @@ npc_begin	id=9180	name=[Эпсилон]	nick=[Повелитель Тьмы]	nic
 npc_begin	id=9181	name=[Дзета]	nick=[Повелитель Тьмы]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=9182	name=[Эта]	nick=[Повелитель Тьмы]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=9183	name=[Волчья Луна]	nick=[Варг]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=9193	name=[Клинок Духовной Силы]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=17088	name=[Телепорт Руин]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=17094	name=[Тотем Вызова]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23332	name=[Штормовой Рыцарь]	nick=[]	nickcolor=9CE8A9FF	npc_end

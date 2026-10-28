@@ -9908,6 +9908,7 @@ npc_begin	id=9180	name=[Epsilon]	nick=[Ruler of Darkness]	nickcolor=9CE8A9FF	npc
 npc_begin	id=9181	name=[Zeta]	nick=[Ruler of Darkness]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=9182	name=[Eta]	nick=[Ruler of Darkness]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=9183	name=[Wolf Moon]	nick=[Warg]	nickcolor=9CE8A9FF	npc_end
+npc_begin	id=9193	name=[Spirit Blade]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=17088	name=[Ruins Teleport Device]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=17094	name=[Summon Totem]	nick=[]	nickcolor=9CE8A9FF	npc_end
 npc_begin	id=23332	name=[Storm Knight]	nick=[]	nickcolor=9CE8A9FF	npc_end

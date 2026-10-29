@@ -41,7 +41,7 @@ product_name_begin	id=3080032	outer_name=[Doll Summon Ticket - 1-time (1 pc.)]	d
 product_name_begin	id=3080031	outer_name=[Doll Summon Ticket - 1-time (10 pcs.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080030	outer_name=[Doll Summon Ticket - 11-time (1 pc.)]	description=[]	icon=[icon.doll_summon_11_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080029	outer_name=[Doll Summon Ticket - 11-time (10 pcs.)]	description=[]	icon=[icon.doll_summon_11_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080068	outer_name=[Universal Kill Effect (1 pc.)]	description=[]	icon=[icon.trigger_kill_effect_immortal]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080089	outer_name=[Universal Kill Effect (1 pc.)]	description=[]	icon=[icon.trigger_kill_effect_immortal]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080066	outer_name=[Weapon Appearance - Woeful Sword (1 pc.)]	description=[]	icon=[icon.aegis_cutter]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080065	outer_name=[Weapon Appearance - Bloodthirsty Blood Sword (1 pc.)]	description=[]	icon=[icon.aka_manaf_cutter_2]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080064	outer_name=[Weapon Appearance - Blood Sword (1 pc.)]	description=[]	icon=[icon.aka_manaf_cutter_1]	icon_panel=[None]	mainsubject=[]	product_name_end
@@ -52,7 +52,7 @@ product_name_begin	id=3080060	outer_name=[Weapon Appearance - Assassin's Weapon 
 product_name_begin	id=3080059	outer_name=[Weapon Appearance - Emerald Weapon (1 pc.)]	description=[]	icon=[BranchSys3.Icon.g_beam_sword]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080058	outer_name=[Weapon Appearance - White Day (1 pc.)]	description=[]	icon=[icon.white_day_sword_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080057	outer_name=[Weapon Appearance - Vesper (1 pc.)]	description=[]	icon=[icon.weapon_vesper_cutter_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
-product_name_begin	id=3080067	outer_name=[Universal Costume Appearance (1 pc.)]	description=[]	icon=[BranchSys3.icon1.Br_schoollook]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080088	outer_name=[Universal Costume Appearance (1 pc.)]	description=[]	icon=[BranchSys3.icon1.Br_schoollook]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090099	outer_name=[Universal Kill Effect (1 pc.)]	description=[]	icon=[icon.trigger_kill_effect_immortal]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090098	outer_name=[Universal Costume Appearance (1 pc.)]	description=[]	icon=[BranchSys3.icon1.Br_schoollook]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090097	outer_name=[Weapon Appearance - Woeful Sword (1 pc.)]	description=[]	icon=[icon.aegis_cutter]	icon_panel=[None]	mainsubject=[]	product_name_end
@@ -115,3 +115,12 @@ product_name_begin	id=3080096	outer_name=[Daily Present - VIP 7 (1 pc.)]	descrip
 product_name_begin	id=3080097	outer_name=[Daily Present - VIP 8 (1 pc.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i08]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080098	outer_name=[Daily Present - VIP 9 (1 pc.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i09]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080099	outer_name=[Daily Present - VIP 10 (1 pc.)]	description=[]	icon=[BranchIcon.Icon.etc_vip_present_i10]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080085	outer_name=[Elmore Codex Ticket (1 pc.)]	description=[]	icon=[BranchIcon.Icon.g_bm_l2pass_ticket_plus]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080087	outer_name=[Universal Head Accessory Appearance (1 pc.)]	description=[]	icon=[icon.accessory_angel_ring_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080086	outer_name=[Name Background - Snowfall (1 pc.)]	description=[]	icon=[icon.special_chat_background]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080084	outer_name=[Title Color Coupon (1 pc.)]	description=[]	icon=[icon.color_name_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080083	outer_name=[Name Color Coupon (1 pc.)]	description=[]	icon=[icon.lv_benefit_nick]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080082	outer_name=[Name Change Coupon (1 pc.)]	description=[]	icon=[icon.etc_exchange_ticket_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090065	outer_name=[Title Color Coupon (1 pc.)]	description=[]	icon=[icon.color_name_i00]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090064	outer_name=[Name Color Coupon (1 pc.)]	description=[]	icon=[icon.lv_benefit_nick]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3090063	outer_name=[Name Change Coupon (1 pc.)]	description=[]	icon=[icon.etc_exchange_ticket_i01]	icon_panel=[None]	mainsubject=[]	product_name_end

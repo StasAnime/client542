@@ -103,6 +103,8 @@ product_begin	product_id=244	category=5	mark_type=none	buy_items={{101567;1;[[Д
 product_begin	product_id=234	category=5	mark_type=none	buy_items={{94871;1;[[Билет Секретной Лавки]];{1;999}}}	product_type=0	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=108	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;250}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=109	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;250}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=245	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
+product_begin	product_id=246	category=5	mark_type=none	buy_items={{700000;1;[[Starter Support Chest]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=235	category=5	mark_type=none	buy_items={{700002;1;[[Support Chest – Stage II]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=236	category=5	mark_type=none	buy_items={{700002;1;[[Support Chest – Stage II]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end
 product_begin	product_id=238	category=5	mark_type=none	buy_items={{700004;1;[[Support Chest – Stage III]];{1;999}}}	product_type=1	buy_limit={1;one_day;500}	product_desc=[]	product_htm=[]	product_end

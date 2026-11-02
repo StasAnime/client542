@@ -35,6 +35,8 @@ product_name_begin	id=3090057	outer_name=[Купон Смены Доспехов
 product_name_begin	id=3090056	outer_name=[Купон Смены Оружия Ранга А (1 шт.)]	description=[]	icon=[icon.ev_weapon_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3090058	outer_name=[Купон Смены Доспехов Охотника (1 шт.)]	description=[]	icon=[icon.ev_armor_type_trade_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080081	outer_name=[Билет Секретной Лавки (10 шт.)]	description=[]	icon=[icon.bm_masterpiece_silver_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080101	outer_name=[Купон Создания Игры Бероа (2 шт.)]	description=[]	icon=[icon.ench_challnege_point_tallisman_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
+product_name_begin	id=3080100	outer_name=[Купон Создания Игры Бероа (50 шт.)]	description=[]	icon=[icon.ench_challnege_point_tallisman_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080080	outer_name=[Билет Секретной Лавки (100 шт.)]	description=[]	icon=[icon.bm_masterpiece_silver_ticket]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080056	outer_name=[Коробка с Предметом Коллекции (1 шт.)]	description=[]	icon=[icon.festival_question_box_i01]	icon_panel=[None]	mainsubject=[]	product_name_end
 product_name_begin	id=3080032	outer_name=[Билет Призыва Куклы - 1 Раз (1 шт.)]	description=[]	icon=[icon.doll_summon_1_ticket_lv1]	icon_panel=[None]	mainsubject=[]	product_name_end
